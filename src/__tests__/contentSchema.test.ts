@@ -1,6 +1,6 @@
 import { catalog } from "../content/catalog";
 import type { GameCatalog } from "../content/schema";
-import { validateCatalog } from "../content/schema";
+import { requiredLogLocaleKeys, validateCatalog } from "../content/schema";
 
 describe("content catalog", () => {
   function cloneCatalog(): GameCatalog {
@@ -31,6 +31,17 @@ describe("content catalog", () => {
         expect(zh[choice.labelKey]).toBeTruthy();
       }
     }
+  });
+
+  it("tracks generated log labels required by the domain", () => {
+    expect(requiredLogLocaleKeys).toEqual(["log.birth", "log.age_up", "log.choice_resolved"]);
+  });
+
+  it.each(requiredLogLocaleKeys)("rejects missing generated log label %s", (messageKey) => {
+    const invalid = cloneCatalog();
+    delete invalid.locales["zh-CN"][messageKey];
+
+    expect(() => validateCatalog(invalid)).toThrow(`Missing zh-CN locale keys: ${messageKey}`);
   });
 
   it("rejects duplicate top-level content IDs", () => {

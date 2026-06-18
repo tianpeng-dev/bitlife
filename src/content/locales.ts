@@ -8,6 +8,8 @@ export const locales = {
     "country.jp": "日本",
     "country.br": "巴西",
     "log.birth": "你出生了。",
+    "log.age_up": "你又长大了一岁。",
+    "log.choice_resolved": "你做出了选择。",
     "activity.study": "努力学习",
     "activity.exercise": "去锻炼",
     "activity.doctor": "看医生",

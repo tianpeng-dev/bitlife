@@ -94,6 +94,8 @@ export type EffectConfig = z.infer<typeof effectSchema>;
 export type EventConfig = z.infer<typeof eventSchema>;
 export type ActivityConfig = z.infer<typeof activitySchema>;
 
+export const requiredLogLocaleKeys = ["log.birth", "log.age_up", "log.choice_resolved"] as const;
+
 function assertUniqueIds(items: Array<{ id: string }>, label: string): void {
   const seen = new Set<string>();
   for (const item of items) {
@@ -136,6 +138,7 @@ export function validateCatalog(catalog: unknown): GameCatalog {
   }
 
   const requiredZhKeys = [
+    ...requiredLogLocaleKeys,
     ...parsed.activities.map((item) => item.labelKey),
     ...parsed.events.flatMap((event) => [event.promptKey, ...event.choices.map((choice) => choice.labelKey)]),
     ...parsed.careers.map((item) => item.titleKey),
