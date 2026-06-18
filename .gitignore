@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+.netlify/
+.env
+.env.*
+!.env.example
+src/**/*.log
+tools/__pycache__/
+*.tsbuildinfo

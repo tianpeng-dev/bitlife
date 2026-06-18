@@ -1,0 +1,24 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/api/tombstones/:id"
+  to = "/.netlify/functions/tombstone?id=:id"
+  status = 200
+
+[[redirects]]
+  from = "/api/tombstones"
+  to = "/.netlify/functions/tombstones"
+  status = 200
+
+[[redirects]]
+  from = "/api/leaderboard"
+  to = "/.netlify/functions/tombstones"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
