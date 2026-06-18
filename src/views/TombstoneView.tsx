@@ -1,3 +1,6 @@
+import { useState } from "react";
+
+import { submitTombstone } from "../api/tombstonesClient";
 import { catalog } from "../content/catalog";
 import type { LifeState } from "../domain/types";
 
@@ -12,6 +15,10 @@ function formatTombstoneTag(tag: string) {
 }
 
 export function TombstoneView({ life, onStart }: { life?: LifeState; onStart(): void }) {
+  const [shareId, setShareId] = useState<string>();
+  const [error, setError] = useState<string>();
+  const [isSubmitting, setIsSubmitting] = useState(false);
+
   if (!life?.death) {
     return (
       <section className="panel empty-state tombstone">
@@ -22,6 +29,36 @@ export function TombstoneView({ life, onStart }: { life?: LifeState; onStart(): 
         </button>
       </section>
     );
+  }
+
+  async function handleSubmit() {
+    if (!life?.death) {
+      return;
+    }
+
+    setError(undefined);
+    setIsSubmitting(true);
+    try {
+      const result = await submitTombstone({
+        seed: life.seed,
+        ageAtDeath: life.death.ageAtDeath,
+        causeOfDeath: life.death.causeOfDeath,
+        summary: catalog.locales["zh-CN"][life.death.summaryKey] ?? life.death.summaryKey,
+        tags: life.death.tags,
+        score: life.death.score,
+        stats: life.stats,
+        netWorth: life.death.netWorth,
+        careerTitle: life.career.title,
+        highestEducation: life.education.stage,
+        displayName: life.name
+      });
+      setShareId(result.shareId);
+    } catch {
+      setError("提交失败，请稍后重试。");
+      alert("提交失败，请稍后重试。");
+    } finally {
+      setIsSubmitting(false);
+    }
   }
 
   return (
@@ -48,9 +85,11 @@ export function TombstoneView({ life, onStart }: { life?: LifeState; onStart(): 
           <span key={tag}>{formatTombstoneTag(tag)}</span>
         ))}
       </div>
+      {shareId ? <p>分享编号：{shareId}</p> : null}
+      {error ? <p role="alert">{error}</p> : null}
       <div className="button-row">
-        <button type="button" disabled>
-          匿名提交
+        <button type="button" disabled={isSubmitting || Boolean(shareId)} onClick={handleSubmit}>
+          {isSubmitting ? "提交中..." : "匿名提交"}
         </button>
         <button className="primary-button" type="button" onClick={onStart}>
           开始新人生
