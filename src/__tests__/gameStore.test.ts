@@ -6,7 +6,9 @@ import { useGameStore } from "../store/gameStore";
 
 const storageMocks = vi.hoisted(() => ({
   saveActiveLife: vi.fn(),
+  saveCompletedLife: vi.fn(),
   loadActiveLife: vi.fn(),
+  listCompletedLives: vi.fn(),
   clearActiveLife: vi.fn()
 }));
 
@@ -23,8 +25,12 @@ describe("gameStore", () => {
   beforeEach(() => {
     storageMocks.saveActiveLife.mockReset();
     storageMocks.saveActiveLife.mockResolvedValue(undefined);
+    storageMocks.saveCompletedLife.mockReset();
+    storageMocks.saveCompletedLife.mockResolvedValue(undefined);
     storageMocks.loadActiveLife.mockReset();
     storageMocks.loadActiveLife.mockResolvedValue(undefined);
+    storageMocks.listCompletedLives.mockReset();
+    storageMocks.listCompletedLives.mockResolvedValue([]);
     storageMocks.clearActiveLife.mockReset();
     useGameStore.getState().resetForTest();
   });
@@ -138,12 +144,16 @@ describe("gameStore", () => {
 
   it("hydrates an active life from persistence", async () => {
     const life = lifeWith({ seed: "persisted-life" });
+    const pastLife = lifeWith({ id: "past-life", seed: "past-life" });
     storageMocks.loadActiveLife.mockResolvedValue(life);
+    storageMocks.listCompletedLives.mockResolvedValue([pastLife]);
 
     await useGameStore.getState().hydrateActiveLife();
 
     expect(storageMocks.loadActiveLife).toHaveBeenCalledOnce();
+    expect(storageMocks.listCompletedLives).toHaveBeenCalledOnce();
     expect(useGameStore.getState().life).toBe(life);
+    expect(useGameStore.getState().pastLives).toEqual([pastLife]);
     expect(useGameStore.getState().selectedView).toBe("life");
     expect(useGameStore.getState().error).toBeUndefined();
   });
@@ -170,14 +180,42 @@ describe("gameStore", () => {
   });
 
   it("leaves state unchanged when hydration finds no active life", async () => {
+    const pastLife = lifeWith({ id: "stored-tombstone", seed: "stored-tombstone" });
     useGameStore.getState().setView("career");
     storageMocks.loadActiveLife.mockResolvedValue(undefined);
+    storageMocks.listCompletedLives.mockResolvedValue([pastLife]);
 
     await useGameStore.getState().hydrateActiveLife();
 
     expect(useGameStore.getState().life).toBeUndefined();
+    expect(useGameStore.getState().pastLives).toEqual([pastLife]);
     expect(useGameStore.getState().selectedView).toBe("career");
     expect(useGameStore.getState().error).toBeUndefined();
+  });
+
+  it("stores completed lives locally when death occurs", () => {
+    const life = lifeWith({
+      age: 88,
+      stats: { happiness: 20, health: 1, smarts: 40, looks: 20 },
+      pendingEventId: "family_picnic"
+    });
+    useGameStore.setState({ life });
+
+    useGameStore.getState().advanceYear();
+
+    const completedLife = useGameStore.getState().life;
+    expect(completedLife?.death?.causeOfDeath).toBe("low_health");
+    expect(useGameStore.getState().pastLives).toEqual([completedLife]);
+    expect(storageMocks.saveCompletedLife).toHaveBeenCalledWith(completedLife);
+  });
+
+  it("surfaces persistence failures", async () => {
+    storageMocks.saveActiveLife.mockRejectedValueOnce(new Error("IndexedDB unavailable"));
+
+    useGameStore.getState().startNewLife("save-error");
+    await new Promise((resolve) => setTimeout(resolve, 0));
+
+    expect(useGameStore.getState().error).toBe("IndexedDB unavailable");
   });
 
   it("clears life, selected view, and error for tests", () => {
@@ -186,6 +224,7 @@ describe("gameStore", () => {
     useGameStore.getState().resetForTest();
 
     expect(useGameStore.getState().life).toBeUndefined();
+    expect(useGameStore.getState().pastLives).toEqual([]);
     expect(useGameStore.getState().selectedView).toBe("life");
     expect(useGameStore.getState().error).toBeUndefined();
   });

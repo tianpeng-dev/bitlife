@@ -22,6 +22,18 @@ export async function saveActiveLife(life: LifeState): Promise<void> {
   await database.put("saves", life, "active");
 }
 
+export async function saveCompletedLife(life: LifeState): Promise<void> {
+  if (!life.death) return;
+
+  const database = await db();
+  await database.put("tombstones", life);
+}
+
+export async function listCompletedLives(): Promise<LifeState[]> {
+  const database = await db();
+  return database.getAll("tombstones");
+}
+
 export async function loadActiveLife(): Promise<LifeState | undefined> {
   const database = await db();
   return database.get("saves", "active");

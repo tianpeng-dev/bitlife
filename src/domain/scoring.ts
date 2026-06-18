@@ -1,12 +1,25 @@
 import type { GameCatalog } from "../content/schema";
-import type { DeathSummary, LifeState } from "./types";
+import type { DeathSummary, LifeState, Stats } from "./types";
+
+export function calculatePublicScore({
+  ageAtDeath,
+  stats,
+  netWorth
+}: {
+  ageAtDeath: number;
+  stats: Stats;
+  netWorth: number;
+}): number {
+  const averageStats = (stats.happiness + stats.health + stats.smarts + stats.looks) / 4;
+  const ageScore = ageAtDeath * 10;
+  const statsScore = averageStats * 8;
+  const netWorthScore = Math.min(2000, Math.max(0, netWorth) / 625);
+
+  return Math.round(ageScore + statsScore + netWorthScore);
+}
 
 export function calculateScore(life: LifeState): number {
-  const averageStats = (life.stats.happiness + life.stats.health + life.stats.smarts + life.stats.looks) / 4;
-  const relationshipScore =
-    life.relationships.reduce((sum, person) => sum + person.relationship, 0) / Math.max(1, life.relationships.length);
-  const cashScore = Math.max(0, Math.min(100, life.cash / 1000));
-  return Math.round(life.age * 10 + averageStats * 4 + relationshipScore * 2 + cashScore);
+  return calculatePublicScore({ ageAtDeath: life.age, stats: life.stats, netWorth: life.cash });
 }
 
 export function selectTombstoneTags(life: LifeState): string[] {

@@ -1,4 +1,5 @@
 import { computeTombstoneScore } from "../../netlify/functions/lib/tombstoneSchema";
+import { calculatePublicScore } from "../domain/scoring";
 
 describe("computeTombstoneScore", () => {
   it("uses public outcome fields instead of the submitted score", () => {
@@ -16,5 +17,8 @@ describe("computeTombstoneScore", () => {
     });
 
     expect(score).toBe(1720);
+    expect(calculatePublicScore({ ageAtDeath: 80, stats: { happiness: 80, health: 70, smarts: 60, looks: 50 }, netWorth: 250000 })).toBe(
+      score
+    );
   });
 });

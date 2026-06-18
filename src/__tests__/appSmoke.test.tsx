@@ -9,7 +9,9 @@ import { useGameStore } from "../store/gameStore";
 
 const storageMocks = vi.hoisted(() => ({
   saveActiveLife: vi.fn(),
+  saveCompletedLife: vi.fn(),
   loadActiveLife: vi.fn(),
+  listCompletedLives: vi.fn(),
   clearActiveLife: vi.fn()
 }));
 
@@ -26,8 +28,12 @@ describe("App", () => {
   beforeEach(() => {
     storageMocks.saveActiveLife.mockReset();
     storageMocks.saveActiveLife.mockResolvedValue(undefined);
+    storageMocks.saveCompletedLife.mockReset();
+    storageMocks.saveCompletedLife.mockResolvedValue(undefined);
     storageMocks.loadActiveLife.mockReset();
     storageMocks.loadActiveLife.mockResolvedValue(undefined);
+    storageMocks.listCompletedLives.mockReset();
+    storageMocks.listCompletedLives.mockResolvedValue([]);
     storageMocks.clearActiveLife.mockReset();
     useGameStore.getState().resetForTest();
   });

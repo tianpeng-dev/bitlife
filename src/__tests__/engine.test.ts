@@ -1,7 +1,7 @@
 import { catalog } from "../content/catalog";
 import type { GameCatalog } from "../content/schema";
 import { applyEffect } from "../domain/effects";
-import { advanceYear, resolveEventChoice } from "../domain/engine";
+import { advanceYear, performActivity, resolveEventChoice } from "../domain/engine";
 import { generateLife } from "../domain/lifeGenerator";
 
 describe("engine", () => {
@@ -25,6 +25,21 @@ describe("engine", () => {
 
     expect(result.life.pendingEventId).toBeUndefined();
     expect(result.logs.some((entry) => entry.messageKey === "log.choice_resolved")).toBe(true);
+  });
+
+  it("settles death immediately when an event choice depletes health", () => {
+    const life = {
+      ...generateLife({ seed: "choice-death", catalog }),
+      age: 18,
+      stats: { happiness: 50, health: 1, smarts: 50, looks: 50 },
+      pendingEventId: "burnout_warning"
+    };
+
+    const result = resolveEventChoice({ life, catalog, choiceId: "push" });
+
+    expect(result.life.alive).toBe(false);
+    expect(result.life.pendingEventId).toBeUndefined();
+    expect(result.life.death?.causeOfDeath).toBe("low_health");
   });
 
   it("applies effects with bounded stats, cash, relationships, diseases, and flags", () => {
@@ -85,6 +100,45 @@ describe("engine", () => {
 
     expect(result.life.age).toBe(1);
     expect(result.life.pendingEventId).toBe("family_picnic");
+  });
+
+  it("progresses education and career during age-up", () => {
+    let life = { ...generateLife({ seed: "career-progress", catalog }), age: 17, stats: { happiness: 80, health: 80, smarts: 95, looks: 70 } };
+
+    const adult = advanceYear({ life, catalog }).life;
+
+    expect(adult.education.stage).toBe("university");
+    expect(adult.career.careerId).toBeDefined();
+    expect(adult.career.salary).toBeGreaterThan(0);
+
+    life = { ...adult, pendingEventId: undefined };
+    const nextYear = advanceYear({ life, catalog }).life;
+
+    expect(nextYear.career.years).toBe(adult.career.years + 1);
+  });
+
+  it("progresses diseases and lets care activities treat them", () => {
+    const life = {
+      ...generateLife({ seed: "disease-progress", catalog }),
+      age: 20,
+      pendingEventId: undefined,
+      stats: { happiness: 50, health: 60, smarts: 50, looks: 50 },
+      diseases: [{ id: "flu", severity: 10, diagnosed: false, yearsActive: 0 }]
+    };
+
+    const aged = advanceYear({ life, catalog }).life;
+
+    expect(aged.diseases[0].diagnosed).toBe(true);
+    expect(aged.diseases[0].yearsActive).toBe(1);
+    expect(aged.diseases[0].severity).toBeGreaterThan(10);
+    expect(aged.stats.health).toBeLessThanOrEqual(60);
+
+    const treated = performActivity({ life: { ...aged, pendingEventId: undefined }, catalog, activityId: "doctor" }).life;
+
+    expect(treated.diseases.length).toBeLessThanOrEqual(aged.diseases.length);
+    if (treated.diseases[0]) {
+      expect(treated.diseases[0].severity).toBeLessThan(aged.diseases[0].severity);
+    }
   });
 
   it("does not mutate original life when resolving an event choice", () => {

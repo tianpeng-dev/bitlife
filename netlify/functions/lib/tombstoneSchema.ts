@@ -22,8 +22,7 @@ export const tombstoneInputSchema = z.object({
 export type TombstoneInput = z.infer<typeof tombstoneInputSchema>;
 
 export function computeTombstoneScore(input: TombstoneInput): number {
-  const averageStats =
-    (input.stats.happiness + input.stats.health + input.stats.smarts + input.stats.looks) / 4;
+  const averageStats = (input.stats.happiness + input.stats.health + input.stats.smarts + input.stats.looks) / 4;
   const ageScore = input.ageAtDeath * 10;
   const statsScore = averageStats * 8;
   const netWorthScore = Math.min(2000, Math.max(0, input.netWorth) / 625);

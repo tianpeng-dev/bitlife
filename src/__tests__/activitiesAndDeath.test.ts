@@ -75,6 +75,20 @@ describe("activities and death", () => {
     expect(result.life).not.toEqual(original);
   });
 
+  it("sets low-health death details when an activity depletes health", () => {
+    const life = {
+      ...generateLife({ seed: "activity-death", catalog }),
+      age: 18,
+      pendingEventId: undefined,
+      stats: { happiness: 50, health: 1, smarts: 50, looks: 50 }
+    };
+
+    const result = performActivity({ life, catalog, activityId: "night_out" });
+
+    expect(result.life.alive).toBe(false);
+    expect(result.life.death?.causeOfDeath).toBe("low_health");
+  });
+
   it("creates a deterministic death summary", () => {
     const life = lifeForDeathSummary();
     const summary = buildDeathSummary({ life, catalog, causeOfDeath: "low_health" });
