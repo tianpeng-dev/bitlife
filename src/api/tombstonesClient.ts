@@ -43,3 +43,77 @@ export async function submitTombstone(payload: TombstoneSubmitPayload): Promise<
 
   return { shareId: body.shareId.trim() };
 }
+
+export interface LeaderboardRow {
+  id: string;
+  displayName?: string;
+  ageAtDeath: number;
+  score: number;
+  tags: string[];
+  causeOfDeath: string;
+}
+
+function isRecord(value: unknown): value is Record<string, unknown> {
+  return typeof value === "object" && value !== null;
+}
+
+function parseLeaderboardRow(value: unknown): LeaderboardRow | undefined {
+  if (!isRecord(value)) {
+    return undefined;
+  }
+
+  const { id, displayName, ageAtDeath, score, causeOfDeath, tags } = value;
+
+  if (
+    typeof id !== "string" ||
+    id.trim().length === 0 ||
+    typeof ageAtDeath !== "number" ||
+    !Number.isFinite(ageAtDeath) ||
+    typeof score !== "number" ||
+    !Number.isFinite(score) ||
+    typeof causeOfDeath !== "string" ||
+    !Array.isArray(tags) ||
+    !tags.every((tag) => typeof tag === "string") ||
+    (displayName !== undefined && typeof displayName !== "string")
+  ) {
+    return undefined;
+  }
+
+  return {
+    id,
+    displayName,
+    ageAtDeath,
+    score,
+    causeOfDeath,
+    tags
+  };
+}
+
+export async function fetchLeaderboard(): Promise<LeaderboardRow[]> {
+  const response = await fetch("/api/leaderboard");
+  if (!response.ok) {
+    throw new Error(`Leaderboard fetch failed: ${response.status}`);
+  }
+
+  let data: unknown;
+  try {
+    data = await response.json();
+  } catch {
+    throw new Error("Invalid leaderboard response");
+  }
+
+  if (!isRecord(data) || !Array.isArray(data.rows)) {
+    throw new Error("Invalid leaderboard response");
+  }
+
+  const rows: LeaderboardRow[] = [];
+  for (const item of data.rows) {
+    const row = parseLeaderboardRow(item);
+    if (row === undefined) {
+      throw new Error("Invalid leaderboard response");
+    }
+    rows.push(row);
+  }
+
+  return rows;
+}
