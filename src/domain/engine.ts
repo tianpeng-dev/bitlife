@@ -3,6 +3,7 @@ import { clampRelationship, clampStat } from "./clamp";
 import { applyEffect } from "./effects";
 import { stageForAge } from "./lifeGenerator";
 import { createRng } from "./rng";
+import { buildDeathSummary } from "./scoring";
 import type { LifeLogEntry, LifeState } from "./types";
 
 interface EngineResult {
@@ -48,6 +49,45 @@ export function advanceYear({ life, catalog }: { life: LifeState; catalog: GameC
   }
 
   const log = createLog(next, "log.age_up", { age: next.age });
+  next.log = [...next.log, log];
+
+  if (next.stats.health <= 0 || (next.age >= 90 && rng.int(1, 100) <= next.age - 85)) {
+    next.alive = false;
+    next.pendingEventId = undefined;
+    next.death = buildDeathSummary({
+      life: next,
+      catalog,
+      causeOfDeath: next.stats.health <= 0 ? "low_health" : "old_age"
+    });
+  }
+
+  return { life: next, logs: [log] };
+}
+
+export function performActivity({
+  life,
+  catalog,
+  activityId
+}: {
+  life: LifeState;
+  catalog: GameCatalog;
+  activityId: string;
+}): EngineResult {
+  if (!life.alive) throw new Error("Cannot perform activities after death");
+  if (life.pendingEventId) throw new Error("Resolve pending event before activities");
+
+  const activity = catalog.activities.find((item) => item.id === activityId);
+  if (!activity) throw new Error(`Missing activity ${activityId}`);
+  const underMax = activity.maxAge === undefined || life.age <= activity.maxAge;
+  if (life.age < activity.minAge || !underMax) {
+    throw new Error(`Activity ${activityId} is not available`);
+  }
+
+  let next = structuredClone(life);
+  for (const effect of activity.effects) {
+    next = applyEffect(next, effect);
+  }
+  const log = createLog(next, "log.activity", { activityId });
   next.log = [...next.log, log];
   return { life: next, logs: [log] };
 }

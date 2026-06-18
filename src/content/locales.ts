@@ -10,6 +10,8 @@ export const locales = {
     "log.birth": "你出生了。",
     "log.age_up": "你又长大了一岁。",
     "log.choice_resolved": "你做出了选择。",
+    "log.activity": "你进行了一项活动。",
+    "death.summary": "你的人生落下帷幕。",
     "activity.study": "努力学习",
     "activity.exercise": "去锻炼",
     "activity.doctor": "看医生",
