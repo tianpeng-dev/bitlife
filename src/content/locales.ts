@@ -7,6 +7,7 @@ export const locales = {
     "country.uk": "英国",
     "country.jp": "日本",
     "country.br": "巴西",
+    "log.birth": "你出生了。",
     "activity.study": "努力学习",
     "activity.exercise": "去锻炼",
     "activity.doctor": "看医生",
