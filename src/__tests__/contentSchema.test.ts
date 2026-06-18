@@ -13,11 +13,11 @@ describe("content catalog", () => {
 
   it("ships minimum starter content for the vertical slice", () => {
     expect(catalog.countries.length).toBeGreaterThanOrEqual(5);
-    expect(catalog.activities.length).toBeGreaterThanOrEqual(8);
-    expect(catalog.events.length).toBeGreaterThanOrEqual(12);
-    expect(catalog.careers.length).toBeGreaterThanOrEqual(6);
-    expect(catalog.diseases.length).toBeGreaterThanOrEqual(4);
-    expect(catalog.achievements.length).toBeGreaterThanOrEqual(6);
+    expect(catalog.activities.length).toBeGreaterThanOrEqual(25);
+    expect(catalog.events.length).toBeGreaterThanOrEqual(70);
+    expect(catalog.careers.length).toBeGreaterThanOrEqual(15);
+    expect(catalog.diseases.length).toBeGreaterThanOrEqual(12);
+    expect(catalog.achievements.length).toBeGreaterThanOrEqual(20);
   });
 
   it("has zh-CN strings for all starter content labels", () => {
@@ -29,6 +29,56 @@ describe("content catalog", () => {
       expect(zh[event.promptKey]).toBeTruthy();
       for (const choice of event.choices) {
         expect(zh[choice.labelKey]).toBeTruthy();
+      }
+    }
+  });
+
+  it("has balanced event domains for replayability", () => {
+    const counts = catalog.events.reduce<Record<string, number>>((acc, event) => {
+      acc[event.domain] = (acc[event.domain] ?? 0) + 1;
+      return acc;
+    }, {});
+
+    expect(counts.family).toBeGreaterThanOrEqual(12);
+    expect(counts.school).toBeGreaterThanOrEqual(10);
+    expect(counts.career).toBeGreaterThanOrEqual(10);
+    expect(counts.health).toBeGreaterThanOrEqual(12);
+    expect(counts.relationship).toBeGreaterThanOrEqual(12);
+    expect(counts.misc).toBeGreaterThanOrEqual(14);
+  });
+
+  it("keeps adult career content plausible without an existing employer", () => {
+    const zh = catalog.locales["zh-CN"];
+    const employerOnlyTerms = [
+      "老板",
+      "主管",
+      "经理",
+      "升职",
+      "晋升",
+      "客户",
+      "加班",
+      "同事",
+      "茶水间",
+      "工作",
+      "报酬",
+      "履历",
+      "面试官"
+    ];
+    const visibleCareerTexts = catalog.events
+      .filter((event) => event.domain === "career")
+      .map((event) => [event.id, zh[event.promptKey]] as const)
+      .concat(
+        catalog.activities
+          .filter(
+            (activity) =>
+              activity.group === "education_career" && activity.minAge <= 18 && (activity.maxAge ?? Number.POSITIVE_INFINITY) >= 18
+          )
+          .map((activity) => [activity.id, zh[activity.labelKey]] as const)
+      );
+
+    for (const [contentId, text] of visibleCareerTexts) {
+      for (const term of employerOnlyTerms) {
+        expect(text, `${contentId} should not assume an existing employer via "${term}"`).not.toContain(term);
       }
     }
   });
