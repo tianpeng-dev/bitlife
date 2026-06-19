@@ -39,11 +39,11 @@ export function ActivitiesView({
       {error ? <p className="error-text">{error}</p> : null}
       <div className="activity-list">
         {catalog.activities.map((activity) => {
-          const ageLocked =
-            life.age < activity.minAge || (activity.maxAge !== undefined && life.age > activity.maxAge);
+          const tooYoung = life.age < activity.minAge;
+          const tooOld = activity.maxAge !== undefined && life.age > activity.maxAge;
           const isFreeActivity = activity.cost === undefined || activity.cost <= 0;
           const doneThisYear = isFreeActivity && (life.freeActivitiesCompletedThisYear ?? []).includes(activity.id);
-          const disabled = !life.alive || ageLocked || doneThisYear;
+          const disabled = !life.alive || tooYoung || tooOld || doneThisYear;
           const costLabel = activity.cost ? ui(locale, "cost", { amount: activity.cost }) : ui(locale, "free");
 
           return (
@@ -57,8 +57,10 @@ export function ActivitiesView({
               <span>{ui(locale, groupLabelKeys[activity.group])}</span>
               <strong>{contentLabel(locale, activity.labelKey)}</strong>
               <small>
-                {ageLocked
+                {tooYoung
                   ? ui(locale, "availableAt", { age: activity.minAge })
+                  : tooOld
+                    ? ui(locale, "availableUntil", { age: activity.maxAge ?? activity.minAge })
                   : doneThisYear
                     ? ui(locale, "activityDoneThisYear")
                     : costLabel}

@@ -119,6 +119,23 @@ describe("App", () => {
     expect(within(studyButton).getByText("今年已完成")).toBeInTheDocument();
   });
 
+  it("keeps skip school available at age nineteen", async () => {
+    storageMocks.loadActiveLife.mockResolvedValue(
+      lifeWith({
+        age: 19,
+        pendingEventId: undefined,
+        freeActivitiesCompletedThisYear: []
+      })
+    );
+
+    render(<App />);
+
+    await userEvent.click(await screen.findByRole("button", { name: "活动" }));
+    const skipSchoolButton = screen.getByRole("button", { name: /逃一次课/ });
+    expect(skipSchoolButton).toBeEnabled();
+    expect(within(skipSchoolButton).getByText("免费")).toBeInTheDocument();
+  });
+
   it("hydrates on mount and lets dead lives navigate to read-only tabs", async () => {
     const deadLife = lifeWith({
       age: 82,

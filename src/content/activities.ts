@@ -24,6 +24,6 @@ export const activities = [
   { id: "social_media", labelKey: "activity.social_media", group: "leisure", minAge: 13, effects: [{ stats: { happiness: 1, smarts: -1 }, relationship: 1, logKey: "activity.social_media" }] },
   { id: "night_out", labelKey: "activity.night_out", group: "risk", minAge: 18, cost: 120, effects: [{ stats: { happiness: 4, health: -2 }, cash: -120, logKey: "activity.night_out" }] },
   { id: "gamble_small", labelKey: "activity.gamble_small", group: "risk", minAge: 18, cost: 100, effects: [{ stats: { happiness: 1 }, cash: -100, addFlag: "gambled_small", logKey: "activity.gamble_small" }] },
-  { id: "skip_school", labelKey: "activity.skip_school", group: "risk", minAge: 10, maxAge: 18, effects: [{ stats: { happiness: 2, smarts: -3 }, addFlag: "skipped_school", logKey: "activity.skip_school" }] },
+  { id: "skip_school", labelKey: "activity.skip_school", group: "risk", minAge: 10, maxAge: 22, effects: [{ stats: { happiness: 2, smarts: -3 }, addFlag: "skipped_school", logKey: "activity.skip_school" }] },
   { id: "pitch_idea", labelKey: "activity.pitch_idea", group: "education_career", minAge: 18, effects: [{ stats: { happiness: 1 }, cash: 250, logKey: "activity.pitch_idea" }] }
 ] satisfies GameCatalog["activities"];

@@ -60,6 +60,15 @@ describe("activities and death", () => {
     expect(firstResult.life.freeActivitiesCompletedThisYear).toEqual([]);
   });
 
+  it("allows skipping school during university age", () => {
+    const life = { ...generateLife({ seed: "university-skip", catalog }), age: 19, pendingEventId: undefined };
+
+    const result = performActivity({ life, catalog, activityId: "skip_school" });
+
+    expect(result.life.flags).toContain("skipped_school");
+    expect(result.life.freeActivitiesCompletedThisYear).toContain("skip_school");
+  });
+
   it("throws a useful error for a missing activity", () => {
     const life = { ...generateLife({ seed: "missing-activity", catalog }), age: 10 };
 
