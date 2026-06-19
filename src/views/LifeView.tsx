@@ -1,13 +1,18 @@
 import { catalog } from "../content/catalog";
 import type { LifeLogEntry, LifeState, Locale } from "../domain/types";
-import { contentLabel, formatNumber, ui } from "../i18n";
+import { contentLabel, formatNumber, signed, ui } from "../i18n";
+import type { ActionFeedback, FeedbackEntry } from "../store/gameStore";
 
-const stageLabelKeys: Record<LifeState["stage"], Parameters<typeof ui>[1]> = {
-  early_childhood: "stageEarlyChildhood",
-  childhood: "stageChildhood",
-  teen: "stageTeen",
-  adult: "stageAdult",
-  elder: "stageElder"
+const statLabelKeys: Record<keyof LifeState["stats"], Parameters<typeof ui>[1]> = {
+  happiness: "statHappiness",
+  health: "statHealth",
+  smarts: "statSmarts",
+  looks: "statLooks"
+};
+
+const deathCauseKeys: Record<string, Parameters<typeof ui>[1]> = {
+  old_age: "causeOldAge",
+  low_health: "causeLowHealth"
 };
 
 function formatLog(entry: LifeLogEntry, locale: Locale): string {
@@ -26,18 +31,39 @@ function formatLog(entry: LifeLogEntry, locale: Locale): string {
   return base;
 }
 
+function feedbackText(locale: Locale, entry: FeedbackEntry): string {
+  if (entry.type === "stat") {
+    return `${ui(locale, statLabelKeys[entry.stat])} ${signed(entry.delta)}`;
+  }
+  if (entry.type === "cash") {
+    return ui(locale, "effectCash", { delta: signed(entry.delta) });
+  }
+  if (entry.type === "relationship") {
+    return ui(locale, "effectRelationship", { delta: signed(entry.delta) });
+  }
+  if (entry.type === "disease") {
+    const disease = catalog.diseases.find((item) => item.id === entry.diseaseId);
+    return ui(locale, "effectDisease", { name: disease ? contentLabel(locale, disease.nameKey) : entry.diseaseId });
+  }
+  return ui(locale, "effectDeath", {
+    cause: deathCauseKeys[entry.causeOfDeath] ? ui(locale, deathCauseKeys[entry.causeOfDeath]) : entry.causeOfDeath
+  });
+}
+
 export function LifeView({
   life,
   error,
   locale,
   onStart,
-  onAgeUp
+  onAgeUp,
+  feedback
 }: {
   life?: LifeState;
   error?: string;
   locale: Locale;
   onStart(): void;
   onAgeUp(): void;
+  feedback?: ActionFeedback;
 }) {
   if (!life) {
     return (
@@ -80,6 +106,23 @@ export function LifeView({
           <span>{life.log.length}</span>
         </div>
         <ol className="log-list">
+          {feedback ? (
+            <li className="log-feedback-entry" aria-live="polite">
+              <span>{ui(locale, "ageStatus", { age: life.age })}</span>
+              <p>
+                <strong>{ui(locale, feedback.source === "choice" ? "choiceFeedbackTitle" : "activityFeedbackTitle")}</strong>
+              </p>
+              <div className="log-effect-list">
+                {feedback.entries.length > 0 ? (
+                  feedback.entries.map((entry, index) => (
+                    <small key={`${entry.type}-${index}`}>{feedbackText(locale, entry)}</small>
+                  ))
+                ) : (
+                  <small>{ui(locale, "noVisibleChange")}</small>
+                )}
+              </div>
+            </li>
+          ) : null}
           {recentLogs.map((entry) => (
             <li key={entry.id}>
               <span>{ui(locale, "ageStatus", { age: entry.age })}</span>

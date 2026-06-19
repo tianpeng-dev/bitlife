@@ -79,7 +79,7 @@ describe("App", () => {
     expect(screen.getByRole("button", { name: "开始新人生" })).toBeInTheDocument();
   });
 
-  it("shows pending choices and feedback as modals", async () => {
+  it("shows pending choices as a modal and records feedback in the life log", async () => {
     storageMocks.loadActiveLife.mockResolvedValue(
       lifeWith({
         age: 8,
@@ -93,11 +93,12 @@ describe("App", () => {
     expect(choiceDialog).toBeInTheDocument();
     await userEvent.click(within(choiceDialog).getByRole("button", { name: "认真准备" }));
 
-    const feedbackDialog = await screen.findByRole("dialog", { name: "选择影响" });
-    expect(feedbackDialog).toBeInTheDocument();
     expect(screen.queryByRole("dialog", { name: "学校" })).not.toBeInTheDocument();
-
-    await userEvent.click(feedbackDialog);
+    const lifeLog = screen.getByRole("heading", { name: "人生记录" }).closest("section");
+    expect(lifeLog).not.toBeNull();
+    expect(within(lifeLog as HTMLElement).getByText("选择影响")).toBeInTheDocument();
+    expect(within(lifeLog as HTMLElement).getByText("智力 +4")).toBeInTheDocument();
+    expect(within(lifeLog as HTMLElement).getByText("快乐 -1")).toBeInTheDocument();
     expect(screen.queryByRole("dialog", { name: "选择影响" })).not.toBeInTheDocument();
   });
 
