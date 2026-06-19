@@ -22,11 +22,12 @@ export function CareerView({ life, locale }: { life?: LifeState; locale: Locale 
 
   const career = catalog.careers.find((item) => item.id === life.career.careerId);
   const careerTitle = life.career.title ?? (career ? contentLabel(locale, career.titleKey) : ui(locale, "noCareer"));
+  const titleKey = life.career.careerId || life.career.salary || life.career.years ? "careerTitle" : "navSchool";
 
   return (
     <section className="stack">
       <div className="view-heading">
-        <h1>{ui(locale, "careerTitle")}</h1>
+        <h1>{ui(locale, titleKey)}</h1>
         <p>{ui(locale, "careerHint")}</p>
       </div>
       <section className="panel career-grid">

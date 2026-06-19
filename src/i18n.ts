@@ -20,6 +20,7 @@ export type UiKey =
   | "navLife"
   | "navActivities"
   | "navRelationships"
+  | "navSchool"
   | "navCareer"
   | "navLeaderboard"
   | "navTombstone"
@@ -139,6 +140,7 @@ const uiText: Record<Locale, Record<UiKey, string>> = {
     navLife: "人生",
     navActivities: "活动",
     navRelationships: "关系",
+    navSchool: "学校",
     navCareer: "职业",
     navLeaderboard: "排行",
     navTombstone: "墓碑",
@@ -257,6 +259,7 @@ const uiText: Record<Locale, Record<UiKey, string>> = {
     navLife: "Life",
     navActivities: "Activities",
     navRelationships: "Relations",
+    navSchool: "School",
     navCareer: "Career",
     navLeaderboard: "Rank",
     navTombstone: "Tomb",

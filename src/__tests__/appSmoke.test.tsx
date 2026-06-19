@@ -119,6 +119,41 @@ describe("App", () => {
     expect(within(studyButton).getByText("今年已完成")).toBeInTheDocument();
   });
 
+  it("labels the career tab as school before a formal job starts", async () => {
+    storageMocks.loadActiveLife.mockResolvedValue(
+      lifeWith({
+        age: 10,
+        pendingEventId: undefined
+      })
+    );
+
+    render(<App />);
+
+    const schoolTab = await screen.findByRole("button", { name: "学校" });
+    expect(schoolTab).toBeInTheDocument();
+
+    await userEvent.click(schoolTab);
+    expect(screen.getByRole("heading", { name: "学校" })).toBeInTheDocument();
+  });
+
+  it("labels the career tab as career after work starts", async () => {
+    storageMocks.loadActiveLife.mockResolvedValue(
+      lifeWith({
+        age: 20,
+        pendingEventId: undefined,
+        career: { careerId: "cashier", salary: 24000, performance: 50, years: 1 }
+      })
+    );
+
+    render(<App />);
+
+    const careerTab = await screen.findByRole("button", { name: "职业" });
+    expect(careerTab).toBeInTheDocument();
+
+    await userEvent.click(careerTab);
+    expect(screen.getByRole("heading", { name: "职业" })).toBeInTheDocument();
+  });
+
   it("keeps skip school available at age nineteen", async () => {
     storageMocks.loadActiveLife.mockResolvedValue(
       lifeWith({

@@ -25,6 +25,20 @@ const statLabelKeys: Record<StatKey, Parameters<typeof ui>[1]> = {
   looks: "statLooks"
 };
 
+function hasCareer(life?: LifeState) {
+  return Boolean(life?.career.careerId || life?.career.salary || life?.career.years);
+}
+
+function navLabelKey(item: (typeof navItems)[number], life?: LifeState): Parameters<typeof ui>[1] {
+  if (life?.death && item.view === "life") {
+    return "navTombstone";
+  }
+  if (life && item.view === "career" && !hasCareer(life)) {
+    return "navSchool";
+  }
+  return item.labelKey;
+}
+
 function StatusDock({ life, locale }: { life?: LifeState; locale: Locale }) {
   if (!life) return null;
 
@@ -186,7 +200,7 @@ export function App() {
                 aria-current={isCurrent ? "page" : undefined}
               >
                 <span aria-hidden="true">{item.icon}</span>
-                <small>{life?.death && item.view === "life" ? ui(locale, "navTombstone") : ui(locale, item.labelKey)}</small>
+                <small>{ui(locale, navLabelKey(item, life))}</small>
               </button>
             );
           })}
@@ -213,7 +227,7 @@ export function App() {
                 aria-current={isCurrent ? "page" : undefined}
               >
                 <span aria-hidden="true">{item.icon}</span>
-                <small>{life?.death && item.view === "life" ? ui(locale, "navTombstone") : ui(locale, item.labelKey)}</small>
+                <small>{ui(locale, navLabelKey(item, life))}</small>
               </button>
             );
           })}
