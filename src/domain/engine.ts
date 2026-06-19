@@ -48,7 +48,7 @@ function settleDeath(life: LifeState, catalog: GameCatalog, causeOfDeath: string
 }
 
 function choiceLooksRisky(choiceId: string, effects: GameCatalog["events"][number]["choices"][number]["effects"]): boolean {
-  const riskyChoiceIds = new Set(["argue", "push", "ignore", "keep", "fight", "hide", "accuse", "buy", "scroll"]);
+  const riskyChoiceIds = new Set(["argue", "push", "ignore", "keep", "fight", "hide", "accuse", "scroll"]);
   return (
     riskyChoiceIds.has(choiceId) ||
     effects.some((effect) => (effect.stats?.health ?? 0) <= -3 || Boolean(effect.addDiseaseId))
@@ -64,7 +64,7 @@ function outcomeWeights(risky: boolean, life: LifeState): Array<{ value: Consequ
     { value: "regret", weight: risky ? 22 : 10 },
     { value: "health_scare", weight: risky || fragileHealth ? 18 : 6 },
     { value: "relationship_echo", weight: 14 },
-    { value: "fatal_accident", weight: risky ? 2 : 0.35 }
+    { value: "fatal_accident", weight: risky ? 1 : 0.175 }
   ];
 }
 

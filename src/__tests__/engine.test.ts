@@ -43,6 +43,19 @@ describe("engine", () => {
     expect(result.logs.some((entry) => entry.messageKey === "log.lottery_jackpot")).toBe(false);
   });
 
+  it("does not treat buying a lottery ticket as a risky choice", () => {
+    const life = {
+      ...generateLife({ seed: "lottery-risk-check", catalog }),
+      age: 18,
+      cash: 100,
+      pendingEventId: "lottery_ad"
+    };
+
+    const result = resolveEventChoice({ life, catalog, choiceId: "buy" });
+
+    expect(result.life.pendingConsequences ?? []).toHaveLength(0);
+  });
+
   it("can win the lottery at extremely low deterministic odds", () => {
     const life = {
       ...generateLife({ seed: "lottery-winner-15743", catalog }),
