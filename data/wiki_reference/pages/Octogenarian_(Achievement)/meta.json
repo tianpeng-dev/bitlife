@@ -1,0 +1,21 @@
+{
+  "title": "Octogenarian (Achievement)",
+  "pageid": 2646,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Octogenarian_(Achievement)",
+  "categories": [
+    "BitLife",
+    "Life_Achievements"
+  ],
+  "links": [
+    "Achievements",
+    "Ribbon",
+    "Stats"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Octogenarian_(Achievement)/content.html",
+    "wikitext": "pages/Octogenarian_(Achievement)/content.wikitext",
+    "text": "pages/Octogenarian_(Achievement)/content.txt"
+  }
+}

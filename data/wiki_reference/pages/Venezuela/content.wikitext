@@ -1,0 +1,216 @@
+{{Infobox country
+|title1=Venezuela
+|image1=[[File:Venezuela.png]]
+|caption1=Venezuela's flag.
+|country_name=Venezuela
+|number_of_default_cities=1
+|when_was_it_added_to_ios=September 2018 (default)
+}}
+'''Venezuela''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are only the capital, Caracas.
+
+== Information ==
+Venezuela, along with [[Afghanistan]], [[Angola]], [[Belize]], [[El Salvador]], [[Guatemala]], [[Guyana]], [[Haiti]], [[Iraq]], [[Pakistan]], [[Papua New Guinea]] and [[Syria]], are the 12 countries in the game where [[Death|deaths]] are influenced by the country a character is from, in this case, characters can die from unexpected terrorist or battlefield attacks. Being killed by an attack under the age of 30 will give your character the ''Unlucky'' ribbon, making it easier to obtain (though there is a chance that they may end up getting a different ribbon besides ''Unlucky''). [[Family]] members can also die from these as well and it is likely that a parent or parents will die while your character is still very young.
+
+== Name List ==
+=== Male First Names ===
+* Alejandro 
+*
+* Angel
+* Andres
+* Antonio
+* Armando
+* Arturo 
+* Benjamin 
+* Bruno
+* Carlos
+* Carmelo
+* Cesar
+* Damian
+* David
+* Daniel
+* Deo
+* Diego
+* Diego Alejandro
+* Eduardo
+* Edwin
+* Erick
+* Emmanuel 
+* Esteban
+* Ezequiel
+* Fernando
+* Felix
+* Gabriel 
+* Gerardo
+* Gonzalo
+* Hugo
+* Ignacio
+* Isaac
+* Iker
+* Ian
+* Jacobo
+* Jorge
+* Jose
+* Juan
+*
+* Juan David
+* Julian
+* Luciano
+* Luis
+* Marco
+* Marcos
+* Manuel 
+* Moises
+* Oscar
+* Omar
+* Pablo
+* Pedro
+* Ramon
+* Ricardo
+* Rodrigo
+* Rolando
+* Ruben
+* Samuel 
+* Salvador
+* Santino
+* Simon
+* Sebastian 
+* Thiago 
+* Tomas
+* Victor 
+* Valentino 
+* Xavier
+* Yaz
+* Zacarias
+
+=== Female First Names ===
+* Adriana
+* Alejandra
+* Aitana
+* Alexa
+* Alina
+* Alma
+* Ana 
+* Ana Paula
+* Ana Sofia
+* Aurora
+* Astrid
+* Bianca
+* Catarina
+* Cristina
+* Delfina
+* Daniela
+* Eduarda
+* Elisabet
+* Emilia
+* Emma
+* Gabriela
+* Gaby
+* Genesis
+* Gloria
+* Jazmin
+* Juanita
+* Julia
+* Julieta
+* Laura
+* Linda
+* Luciana
+* Luisa
+* Magdalena
+* Mara
+* Maria
+* Marcia
+* Michelle 
+* Marisa
+* Marisol
+* Mia
+* Miranda
+* Paula
+* Paz
+* Pilar
+* Priscila
+* Renata
+* Rosa
+* Shakira 
+* Sara
+* Sarah
+* Serena
+* Sofia
+* Sophie
+* Teresa
+* Viviana
+* Zarina
+
+=== Surnames ===
+* Abasto
+* Acosta 
+* Aguayo
+* Alvarado
+* Alvarez
+* Amengual
+* Andrade
+* Aparicio
+* Arias
+* Arrabal
+* Bacca
+* Barrios
+* Barrueco
+* Berrocal
+* Bolivar
+* Cabal
+* Carballo
+* Carita
+* Carrillo
+* Carvallo
+* Chavez
+* Cortes
+* Del Rio
+* Del Pozo
+* Dengra
+* Encarnacion
+* Espino
+* Garza
+* Gomez
+* Garcia
+* Gonzalez
+* Guzman
+* Indiano
+* Lopez
+* Mancebo
+* Martin
+* Martinez 
+* Miralles
+* Moya
+* Nores
+* Ortiz
+* Perez
+* Palacio
+* Palau
+* Pardo
+* Pareja
+* Pliego
+* Pousa
+* Ramirez 
+* Ramos
+* Rouco
+* Rivera 
+* Rodriguez
+* Romero 
+* Ruiz 
+* Salazar 
+* Sanchez 
+* Saavedra
+* Secada
+* Tamayo
+* Torres 
+* Vergara
+* Villa
+* Villalobos
+* Yepes
+* Zambrano
+
+== Gallery ==
+<gallery>
+File:Venezuela baby.jpeg|A baby born in Venezuela.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

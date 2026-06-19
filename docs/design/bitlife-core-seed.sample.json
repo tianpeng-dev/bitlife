@@ -1,0 +1,279 @@
+{
+  "version": "v0.1.0",
+  "config": {
+    "startingRanges": {
+      "happiness": {
+        "min": 50,
+        "max": 100
+      },
+      "health": {
+        "min": 80,
+        "max": 100
+      },
+      "smarts": {
+        "min": 0,
+        "max": 100
+      },
+      "looks": {
+        "min": 0,
+        "max": 100
+      }
+    },
+    "yearlyDrift": {
+      "happiness": {
+        "baseMin": -4,
+        "baseMax": 2,
+        "modifiers": [
+          {
+            "when": "flag:incarcerated",
+            "deltaMin": -6,
+            "deltaMax": -2
+          },
+          {
+            "when": "relationship_average>70",
+            "deltaMin": 1,
+            "deltaMax": 4
+          }
+        ]
+      },
+      "health": {
+        "baseMin": -3,
+        "baseMax": 1,
+        "modifiers": [
+          {
+            "when": "disease_active=true",
+            "deltaMin": -8,
+            "deltaMax": -2
+          }
+        ]
+      },
+      "smarts": {
+        "baseMin": -1,
+        "baseMax": 1
+      },
+      "looks": {
+        "baseMin": -2,
+        "baseMax": 1
+      }
+    },
+    "lawsByCountry": {
+      "US": {
+        "drivingAge": 16,
+        "gamblingLegal": true,
+        "sameSexMarriageLegal": true,
+        "deathPenalty": true
+      },
+      "CA": {
+        "drivingAge": 16,
+        "gamblingLegal": true,
+        "sameSexMarriageLegal": true,
+        "deathPenalty": false
+      }
+    },
+    "actions": [
+      {
+        "id": "study_harder",
+        "name": "Study Harder",
+        "group": "education_work",
+        "minAge": 6,
+        "effects": [
+          {
+            "stats": {
+              "smarts": 4,
+              "happiness": -1
+            }
+          }
+        ]
+      },
+      {
+        "id": "go_to_gym",
+        "name": "Go to Gym",
+        "group": "mind_body",
+        "minAge": 12,
+        "effects": [
+          {
+            "stats": {
+              "health": 3,
+              "looks": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "shoplift",
+        "name": "Shoplift",
+        "group": "crime",
+        "minAge": 8,
+        "effects": [
+          {
+            "cashDelta": 50,
+            "stats": {
+              "happiness": 1
+            }
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "id": "childhood_vaccination",
+        "domain": "childhood",
+        "title": "Vaccination Day",
+        "prompt": "Your parent takes you for vaccination. What do you do?",
+        "weight": 1.0,
+        "minAge": 1,
+        "maxAge": 8,
+        "choices": [
+          {
+            "id": "stay_calm",
+            "text": "Try to stay calm",
+            "effects": [
+              {
+                "stats": {
+                  "happiness": -1,
+                  "smarts": 1
+                }
+              }
+            ]
+          },
+          {
+            "id": "tantrum",
+            "text": "Throw a tantrum",
+            "effects": [
+              {
+                "stats": {
+                  "happiness": -8
+                },
+                "relationshipDelta": {
+                  "parent": -5
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "crime_witness",
+        "domain": "crime",
+        "title": "Witnessed a Crime",
+        "prompt": "You saw a stranger commit a crime. What do you do?",
+        "weight": 0.7,
+        "minAge": 12,
+        "choices": [
+          {
+            "id": "call_police",
+            "text": "Call police",
+            "effects": [
+              {
+                "stats": {
+                  "happiness": 1
+                }
+              }
+            ]
+          },
+          {
+            "id": "ignore",
+            "text": "Ignore it",
+            "effects": [
+              {
+                "stats": {
+                  "happiness": 0
+                }
+              }
+            ]
+          },
+          {
+            "id": "join_crime",
+            "text": "Join in",
+            "effects": [
+              {
+                "cashDelta": 200,
+                "setFlag": {
+                  "criminalRecord": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ribbonRules": [
+      {
+        "id": "ribbon_family_guy",
+        "name": "Family Guy",
+        "priority": 100,
+        "conditionExpr": "children_count>=2 && relationship_average>=75 && murders==0"
+      },
+      {
+        "id": "ribbon_unlucky",
+        "name": "Unlucky",
+        "priority": 10,
+        "conditionExpr": "age_at_death<30 && cause_of_death in [deadly_disease,accident]"
+      }
+    ]
+  },
+  "state": {
+    "character": {
+      "id": "c_001",
+      "name": "Alex",
+      "country": "US",
+      "city": "Austin",
+      "gender": "unknown",
+      "age": 0,
+      "alive": true,
+      "stats": {
+        "happiness": 78,
+        "health": 92,
+        "smarts": 36,
+        "looks": 44
+      },
+      "flags": {
+        "famous": false,
+        "royalty": false,
+        "criminalRecord": false
+      },
+      "diseases": [],
+      "career": {
+        "yearsInRole": 0
+      },
+      "legal": {
+        "criminalRecord": false,
+        "incarcerated": false,
+        "securityLevel": "none",
+        "sentenceYearsRemaining": 0,
+        "convictions": []
+      }
+    },
+    "run": {
+      "turn": 0,
+      "yearSeed": 123456,
+      "rngState": "seed:123456"
+    },
+    "relations": [
+      {
+        "id": "r_mother",
+        "name": "Jamie",
+        "kind": "parent",
+        "closeness": 75,
+        "trust": 80,
+        "conflict": 5,
+        "alive": true
+      },
+      {
+        "id": "r_father",
+        "name": "Morgan",
+        "kind": "parent",
+        "closeness": 70,
+        "trust": 72,
+        "conflict": 8,
+        "alive": true
+      }
+    ],
+    "inventory": {
+      "cash": 0,
+      "netWorth": 0,
+      "assets": []
+    },
+    "history": []
+  }
+}

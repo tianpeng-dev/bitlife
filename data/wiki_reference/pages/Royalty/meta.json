@@ -1,0 +1,39 @@
+{
+  "title": "Royalty",
+  "pageid": 3477,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Royalty",
+  "categories": [
+    "BitLife"
+  ],
+  "links": [
+    "Achievements",
+    "Belgium",
+    "Dating App",
+    "Denmark",
+    "God Mode",
+    "Japan",
+    "Jordan",
+    "Kuwait",
+    "Malaysia",
+    "Monaco",
+    "Morocco",
+    "Netherlands",
+    "Norway",
+    "Qatar",
+    "Saudi Arabia",
+    "Spain",
+    "Stats/Fame",
+    "Sweden",
+    "Thailand",
+    "United Arab Emirates",
+    "United Kingdom",
+    "Updates"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Royalty/content.html",
+    "wikitext": "pages/Royalty/content.wikitext",
+    "text": "pages/Royalty/content.txt"
+  }
+}

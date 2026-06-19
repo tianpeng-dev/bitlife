@@ -1,0 +1,20 @@
+{| class="article-table"
+{| class="article-table"
+{| class="article-table"
+{| class="article-table"
+{| class="article-table"
+{| class="article-table"
+{| class="article-table"
+{| class="article-table"
+|+ Caption
+! Header cell !! Header cell
+|-
+| Content cell || Content cell
+|}
+|}
+|}
+|}
+|}
+|}
+|}
+|}

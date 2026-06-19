@@ -1,0 +1,2174 @@
+'''Taglines''' appear on the top of [[BitLife]] scenarios after the player has made a choice, showing how the character feels about it. These are often realistic to how they would feel about a situation, or they can be more humerous and have references to popular culture.
+
+{| class="sortable wikitable" width="100%"
+|-
+!Tagline
+!Trigger
+!Notes
+!Image
+|-
+|''Companionless''
+| rowspan="5" |From failing to befriend someone.
+|
+|
+|-
+|''Dirty denial''
+|
+|
+|-
+|''Friendly reject''
+|
+|
+|-
+|''I'm not salty''
+|
+|
+|-
+|''No new friends''
+|
+|
+|-
+|''Let's talk''
+| rowspan="1" |From having a conversation with someone.
+|
+|
+|-
+|''So it's like that''
+| rowspan="1" |From being refused to have a conversation with someone.
+|
+|
+|-
+|''Good times''
+| rowspan="2" |From spending time with someone.
+|
+|
+|-
+|''Time well spent''
+|
+|
+|-
+|''Big fan''
+| rowspan="3" |From complimenting someone.
+|
+|
+|-
+|''So sweet''
+|
+|
+|-
+|''That's nice''
+|
+|
+|-
+|''It's mutual''
+| rowspan="1" |From being complimented back after complimenting someone.
+|
+|
+|-
+|''Dang I wish I could''
+| rowspan="1" |From making an excuse to not spend time with someone.
+|
+|
+|-
+|''Busy buddy''
+| rowspan="4" |From a friend refusing to spend time with you.
+|
+|
+|-
+|''Next time...''
+|
+|
+|-
+|''Preoccupied pal''
+|
+|
+|-
+|''With friends like these...''
+|
+|
+|-
+|''Sneak into another?''
+| rowspan="4" |From going to see a movie in the neighborhood as a child.
+|
+|
+|-
+|''The main character was hot''
+|
+|
+|-
+|''The soundtrack though''
+|
+|
+|-
+|''Yea that was cool, I guess''
+|
+|
+|-
+|''5 stars''
+| rowspan="2" |From going to the movie theatre, either by themself or with someone.
+|
+|
+|-
+|''Bravo''
+|
+|
+|-
+|''Bonding together''
+| rowspan="1" |From a friend partying with you.
+|
+|
+|-
+|''C'mon, it'll be fun!''
+| rowspan="4" |From a friend refusing to party with you.
+|
+|
+|-
+|''Don't be boring''
+|
+|
+|-
+|''First round's on me?''
+|
+|
+|-
+|''Party pooper''
+|
+|
+|-
+|''Did someone record that?''
+| rowspan="5" |From pranking a friend.
+|
+|
+|-
+|''Get wrecked lol''
+|"Get wrecked" is a common gamer term.
+|
+|-
+|''Gottem!''
+|
+|
+|-
+|''Shoulda seen your face!''
+|
+|
+|-
+|''The prank legend''
+|
+|
+|-
+|''Chill!''
+| rowspan="3" |From being insulted after pranking a friend.
+|
+|
+|-
+|''It was a joke...''
+|
+|
+|-
+|''It wasn't personal''
+|
+|
+|-
+|''In good faith''
+| rowspan="5" |From spreading a rumor to a friend.
+|
+|
+|-
+|''No bad publicity''
+|
+|
+|-
+|''Spread the word''
+|
+|
+|-
+|''This is hilarious''
+|
+|
+|-
+|''We joke, we joke''
+|
+|
+|-
+|''Fair play''
+| rowspan="1" |From a friend spreading a rumor back to you.
+|
+|
+|-
+|''Stay classy''
+| rowspan="4" |From disrespecting (school teacher) or insulting someone.
+|
+|
+|-
+|''Take that''
+|
+|
+|-
+|''That's right''
+|
+|
+|-
+|''You heard me''
+|
+|
+|-
+|''Not taking that''
+| rowspan="1" |From being insulted by someone.
+|
+|
+|-
+|''Be that way''
+| rowspan="4" |From becoming best friends with someone being rejected.
+|
+|
+|-
+|''I just thought...''
+|
+|
+|-
+|''Not there yet huh?''
+|
+|
+|-
+|''Only FF's''
+|
+|
+|-
+|''Frenemies''
+| rowspan="5" |From becoming enemies with a friend.
+|A frenemy is someone who is friendly to you, but they are also in a rivalry.
+|
+|-
+|''Friend Status: NONE''
+|
+|
+|-
+|''Keep enemies closer''
+|"Keep your friends close; keep your enemies closer." was said by Sun-Tzu, in his writing 'The Art of War'.
+|
+|-
+|''No love for fakes''
+|
+|
+|-
+|''So it's come to this''
+|
+|
+|-
+|''More where that came from''
+| rowspan="3" |From attacking someone.
+|
+|
+|-
+|''Ouch''
+|
+|
+|-
+|''Try me again''
+|
+|
+|-
+|''Assault''
+| rowspan="5" |From being attacked.
+|
+|
+|-
+|''I'm in pain''
+|
+|
+|-
+|''Oh no you didn't''
+|
+|
+|-
+|''Somebody help!''
+|
+|
+|-
+|''Yikes!''
+|
+|
+|-
+|''Aggravated Assault''
+| rowspan="3" |From being attacked fatally.
+|
+|
+|-
+|''Holy s*@&!''
+|Due to the second word being a swearing word, it has been censored.
+|
+|-
+|''WTF''
+|An acronym for "What the ****". The phrase has been shortened due to the third word being a swearing word.
+|
+|-
+|''Begone''
+| rowspan="5" |From unfriending someone.
+|
+|
+|-
+|''Left on read''
+|In internet slang, a person is left on read when a recipient has read, but not responded to, a sender's message. The expression is often used to express feeling ignored.
+|
+|-
+|''See ya''
+|
+|
+|-
+|''They're too toxic''
+|People being toxic is often expressed in friendships and online relationships.
+|
+|-
+|''Weeding 'em out''
+|
+|
+|-
+|''Forgiven''
+| rowspan="3" |From successfully salvaging a friendship.
+|
+|
+|-
+|''This isn't Facebook''
+|
+|
+|-
+|''Under the bridge''
+|
+|
+|-
+|''Bye then''
+| rowspan="3" |From failing to salvage a friendship.
+|
+|
+|-
+|''It's not me it's you''
+|
+|
+|-
+|''Not happening''
+|
+|
+|-
+|''Stale mate''
+|
+|
+|-
+|''Done for good''
+| rowspan="4" |From insulting a friend right after they unfriend you.
+|
+|
+|-
+|''Irreparable''
+|
+|
+|-
+|''Nail in the coffin''
+|
+|
+|-
+|''No going back''
+|
+|
+|-
+|''Forever alone''
+| rowspan="4" |From being rejected to start dating with someone.
+|
+|
+|-
+|''I'm super busy anyways''
+|
+|
+|-
+|''Ouch''
+|
+|
+|-
+|''Request: Denied''
+|
+|
+|-
+|''Going steady''
+| rowspan="4" |From accepting/being accepted to start dating with someone.
+|
+|
+|-
+|''Let's give it a try''
+|
+|
+|-
+|''My 1 out of 7.422 billion''
+|
+|
+|-
+|''True love''
+|
+|
+|-
+|''Afternoon delight''
+| rowspan="4" |From making love to someone.
+|
+|
+|-
+|''Good work all around''
+|
+|
+|-
+|''Rinse, lather, repeat?''
+|
+|
+|-
+|''So what's for dinner?''
+|
+|
+|-
+|''Woohoo!''
+| rowspan="1" |From letting your character's lover take their virginity.
+|
+|
+|-
+|''I'm happy, what's the problem''
+| rowspan="2" |From arguing back to your character's parents after being disapproved of their lover.
+|
+|
+|-
+|''Love is love''
+|
+|
+|-
+They said yes''
+| rowspan="1" |From an engagement to a lover being accepted.
+|
+|
+|-
+|''How could I say no?''
+| rowspan="2" |From accepting an engagement from a lover.
+|
+|
+|-
+|''Oh, it is love''
+|
+|
+|-
+|''No looking back''
+| rowspan="2" |From having a wedding.
+|
+|
+|-
+|''Shackled''
+|
+|
+|-
+|''Begone''
+| rowspan="2" |From breaking up/divorcing.
+|
+|
+|-
+|''See ya''
+|
+|
+|-
+|''Just for tonight''
+| rowspan="3" |From hooking up with someone.
+|
+|
+|-
+|''Quickie''
+|
+|
+|-
+|''We all got needs''
+|
+|
+|-
+|''Came to say hello''
+| rowspan="5" |From visiting the school nurse without any symptoms.
+|
+|
+|-
+|''Can I stay until the bell rings?''
+|
+|
+|-
+|''Can't be too sure''
+|
+|
+|-
+|''Check my temperature again''
+|
+|
+|-
+|''Does heartache count?''
+|
+|
+|-
+|''Nurse Not Nice''
+| rowspan="3" |From being reprimanded by the school nurse for wasting her time (visiting too much).
+|
+|
+|-
+|''See you tomorrow''
+|
+|
+|-
+|''Where else would I skip?''
+|
+|
+|-
+|''Beefing up my college application''
+| rowspan="3" |From joining a school activity club.
+|
+|
+|-
+|''Extracuricular''
+|
+|
+|-
+|''Persuing personal interests''
+|
+|
+|-
+|''For my best interest''
+| rowspan="5" |From leaving a school activity club.
+|
+|
+|-
+|''I need personal time''
+|
+|
+|-
+|''My heart's not in it''
+|
+|
+|-
+|''Quitting, but no quitter''
+|
+|
+|-
+|''This isn't fun anymore''
+|
+|
+|-
+|''Academic amateur''
+| rowspan="4" |From being rejected to try out for a sports activity at school due to grades.
+|
+|
+|-
+|''C's get degrees, not activities''
+|
+|
+|-
+|''Fix those grades first''
+|
+|
+|-
+|''Scholastically lacking''
+|
+|
+|-
+|''I'll try until I die''
+| rowspan="4" |From being rejected to try out for a sports activity at school more than once in a year.
+|
+|
+|-
+|''Give me a chance''
+|
+|
+|-
+|''Let me join and I'll stop''
+|
+|
+|-
+|''You'll regret that''
+|
+|
+|-
+|''Didn't make the roster''
+| rowspan="2" |From failing to join a school sport team.
+|
+|
+|-
+|''I came, I saw, I failed''
+|
+|
+|-
+|''Now the hustle begins''
+| rowspan="4" |From succeeding to join a school sport team.
+|
+|
+|-
+|''Of course I made it!''
+|
+|
+|-
+|''Tryouts were a formality''
+|
+|
+|-
+|''When do we start?''
+|
+|
+|-
+|''Ask and you shall receive''
+| rowspan="4" |From being accepted into a school clique.
+|
+|
+|-
+|''I've been chosen''
+|
+|
+|-
+|''One of us. One of us.''
+|
+|
+|-
+|''The in-crowd''
+|
+|
+|-
+|''Access denied''
+| rowspan="4" |From being rejected from a school clique.
+|
+|
+|-
+|''Not a chance''
+|
+|
+|-
+|''Not a right fit''
+|
+|
+|-
+|''You can't sit with us''
+|
+|
+|-
+|''By association''
+| rowspan="3" |From hanging out successfully with a school clique.
+|
+|
+|-
+|''Natural progression''
+|
+|
+|-
+|''You are who you hang out with''
+|
+|
+|-
+|''After all we've been through''
+| rowspan="5" |From being rejected to continue hanging out with a school clique.
+|
+|
+|-
+|''I thought we were friends''
+|
+|
+|-
+|''It's not you, it's our reputation''
+|
+|
+|-
+|''Okay, ouch''
+|
+|
+|-
+|''Wallflower''
+|
+|
+|-
+|''A little brown-nosing never hurt''
+| rowspan="3" |From being invited into a school clique via complimenting their leader.
+|
+|
+|-
+|''Invitation by appreciation''
+|
+|
+|-
+|''Praise goes a long way''
+|
+|
+|-
+|''Compliment ill-received''
+| rowspan="4" |From being ignored by a school clique's leader after complimenting them.
+|
+|
+|-
+|''Deaf ears''
+|
+|
+|-
+|''Notice me senpai''
+|
+|
+|-
+|''Talking to the hand''
+|
+|
+|-
+|''Clique bait''
+| rowspan="4" |From insulting a school clique's leader.
+|
+|
+|-
+|''Loser leader''
+|
+|
+|-
+|''Nobody likes you''
+|
+|
+|-
+|''To you & all yours''
+|
+|
+|-
+|''A fair fight?''
+| rowspan="4" |From being attacked by a school clique after insulting their leader.
+|
+|
+|-
+|''Cowardly clique''
+|
+|
+|-
+|''Jumped''
+|
+|
+|-
+|''Power in numbers''
+|
+|
+|-
+|''Branching out''
+| rowspan="3" |From leaving a school clique.
+|
+|
+|-
+|''New perspectives''
+|
+|
+|-
+|''Picky posse''
+|
+|
+|-
+|''Dream come true''
+| rowspan="2" |From going to the school dance with someone.
+|
+|
+|-
+|''Good times''
+|
+|
+|-
+|''Humiliated''
+| rowspan="5" |From being rejected to go to the school dance with someone.
+|
+|
+|-
+|''I was asking for a friend...''
+|
+|
+|-
+|''Oh, okay, cool''
+|
+|
+|-
+|''They smell anyways''
+|
+|
+|-
+|''Whatever''
+|
+|
+|-
+|''Shy guy''
+| rowspan="2" |From going to the school dance by themself.
+|
+|
+|-
+|''Wallflower''
+|
+|
+|-
+|''AWOL''
+| rowspan="3" |From skipping school.
+|"AWOL" stands for "absent without leave".
+|
+|-
+|''Bueller?...Bueller?...''
+|
+|
+|-
+|''Playing hooky''
+|
+|
+|-
+|''Shoddy skipper''
+| rowspan="2" |From being turned back in after skipping school.
+|
+|
+|-
+|''Up a creek without a hallpass''
+|
+|
+|-
+|''Classmate courtesy''
+| rowspan="1" |From complimenting a classmate.
+|
+|
+|-
+|''Any bites?''
+| rowspan="3" |From flirting to a classmate.
+|
+|
+|-
+|''Hubba hubba''
+|
+|
+|-
+|''Shooting my shot''
+|
+|
+|-
+|''Feeling antsy''
+| rowspan="3" |From messing with a classmate.
+|
+|
+|-
+|''Fresh pickings''
+|
+|
+|-
+|''I couldn't resist''
+|
+|
+|-
+|''It's not that deep''
+| rowspan="1" |From being insulted after flirting or messing with a classmate.
+|
+|
+|-
+|''Charmed, I'm sure''
+| rowspan="3" |From complimenting a teacher at school.
+|
+|
+|-
+|''Looking for that A''
+|
+|
+|-
+|''Teacher's pet''
+|
+|
+|-
+|''Aren't we friends too?''
+| rowspan="3" |From being told it's not appropriate to compliment teachers at school.
+|
+|
+|-
+|''Just say thank you, sheesh''
+|
+|
+|-
+|''Why so stiff?''
+|
+|
+|-
+|''About last night's homework...''
+| rowspan="3" |From sucking up to a teacher at school.
+|
+|
+|-
+|''Pupil praised''
+|
+|
+|-
+|''*The class groans*''
+|
+|
+|-
+|''Actin' a fool''
+| rowspan="4" |From acting up in a school class.
+|
+|
+|-
+|''I have too much energy they say''
+|
+|
+|-
+|''Troublemaker''
+|
+|
+|-
+|''Truly unruly''
+|
+|
+|-
+|''Did I hear something?''
+| rowspan="8" |From being warned at school.
+|
+|
+|-
+|''I do what I want here''
+|
+|
+|-
+|''I don't think I will''
+|
+|
+|-
+|''If I feel like it''
+|
+|
+|-
+|''Ooh, I'm scared now''
+|
+|
+|-
+|''Or what?''
+|
+|
+|-
+|''Shaking in my boots''
+|
+|
+|-
+|''What's gonna happen?''
+|
+|
+|-
+|''Okay, I deserved that''
+| rowspan="1" |From being insulted by a teacher for acting up at school.
+|
+|
+|-
+|''Before or after school?''
+| rowspan="2" |From being given detention at school.
+|
+|
+|-
+|''I'd rather be there than with you''
+|
+|
+|-
+|''Are you kidding me''
+| rowspan="3" |From being snitched to the principal's office by a student at school.
+|
+|
+|-
+|''They won't survive outside of here''
+|
+|
+|-
+|''Witto baby went to the pwincipal?''
+|
+|
+|-
+|''Shut up''
+| rowspan="1" |From arguing with a parent after being sent to the principal's office at school.
+|
+|
+|-
+|''No wonder the school’s a sham''
+| rowspan="3" |From insulting the principal when in their office.
+|
+|
+|-
+|''Waste of my time''
+|
+|
+|-
+|''You're in charge here?''
+|
+|
+|-
+|''A free vacation''
+| rowspan="3" |From being suspended from school.
+|
+|
+|-
+|''Don't gotta tell me twice''
+|
+|
+|-
+|''For how long?''
+|
+|
+|-
+|''Are you done yet?''
+| rowspan="3" |From being verbally abused by the principal at school, leading to being expelled.
+|
+|
+|-
+|''Shaking in my boots''
+|
+|
+|-
+|''Yeah yeah''
+|
+|
+|-
+|''Fresh start''
+| rowspan="3" |From being enrolled in a new school after being expelled.
+|
+|
+|-
+|''Let's try this again''
+|
+|
+|-
+|''My next playground''
+|
+|
+|-
+|''Not yet''
+| rowspan="1" |From being too young to drop out of school.
+|
+|
+|-
+|''Am I smart yet''
+| rowspan="3" |From starting university or another post-school education.
+|
+|
+|-
+|''Fresh meat''
+|
+|
+|-
+|''Scholar''
+|
+|
+|-
+|''Busy bee''
+| rowspan="5" |From having a full schedule, making your character unable to get a new career, new activity, etc.
+|
+|
+|-
+|''Full plate''
+|
+|
+|-
+|''Overbooked''
+|
+|
+|-
+|''Too busy''
+|
+|
+|-
+|''Up to my ears already''
+|
+|
+|-
+|''Disappointing''
+| rowspan="4" |From failing to get a part-time job.
+|
+|
+|-
+|''Thanks for your time''
+|
+|
+|-
+|''Their loss''
+|
+|
+|-
+|''They'll regret this''
+|
+|
+|-
+|''Gotta start somewhere''
+| rowspan="5" |From joining a new career.
+|
+|
+|-
+|''Let's do this''
+|
+|
+|-
+|''The grind begins''
+|
+|
+|-
+|''When do we start?''
+|
+|
+|-
+|''Working class''
+|
+|
+|-
+|''Maybe it's for the better''
+| rowspan="3" |From failing to arrange an interview for a new career.
+|
+|
+|-
+|''Rejected''
+|
+|
+|-
+|''Time for my backup plan''
+|
+|
+|-
+|''All work, no play''
+| rowspan="3" |From working harder in a career.
+|
+|
+|-
+|''Priorities tho''
+|
+|
+|-
+|''Werk. werk. werk.''
+|
+|
+|-
+|''A slave to my craft''
+| rowspan="4" |From accepting to work extra hours, as requested by their supervisor.
+|
+|
+|-
+|''Just because I'm nice''
+|
+|
+|-
+|''Paid with love''
+|
+|
+|-
+|''Whatever it takes''
+|
+|
+|-
+|''Afraid not''
+| rowspan="4" |From explaining your character cannot put in extra hours to their supervisor.
+|
+|
+|-
+|''Maybe next time''
+|
+|
+|-
+|''Nothing in life is free''
+|
+|
+|-
+|''Time = Money''
+|
+|
+|-
+|''Don't ask me again''
+| rowspan="4" |From your character insulting their supervisor after being asked to put in extra hours.
+|
+|
+|-
+|''How dare you ask me that?''
+|
+|
+|-
+|''Should I lick the floors too?''
+|
+|
+|-
+|''Who do you look like?''
+|
+|
+|-
+|''All work, a little pay''
+| rowspan="8" |From accepting to hook up with a co-worker at work.
+|
+|
+|-
+|''Down to business''
+|
+|
+|-
+|''Drama fuel''
+|
+|
+|-
+|''I need lots of supervision''
+|
+|
+|-
+|''If we're on company time''
+|
+|
+|-
+|''Let's shoot for a promotion soon''
+|
+|
+|-
+|''Securing my position here''
+|
+|
+|-
+|''This is between you and me''
+|
+|
+|-
+|''Do I have to report you?''
+| rowspan="2" |From rejecting someone's sexual advance at work.
+|
+|
+|-
+|''Give me a raise then we'll talk''
+|
+|
+|-
+|''Out of my hands now''
+| rowspan="4" |From reporting someone at work to HR, or the principal at school.
+|
+|
+|-
+|''Report: Filed''
+|
+|
+|-
+|''Snitch''
+|
+|
+|-
+|''Someone's getting in trouble''
+|
+|
+|-
+|''Added to the résumé''
+| rowspan="7" |From leaving a career.
+|
+|
+|-
+|''Chasing a different bag''
+|
+|
+|-
+|''Clocked out''
+|
+|
+|-
+|''Now I have...free time?''
+|
+|
+|-
+|''On to bigger & better things''
+|
+|
+|-
+|''Spreading my wings''
+|
+|
+|-
+|''Unshackled''
+|
+|
+|-
+|''Done and done''
+| rowspan="4" |From claiming a driver's license.
+|
+|
+|-
+|''Piece of cake''
+|
+|
+|-
+|''Pull up, skrrt''
+|A common type of parking that's especially used for car racing.
+|
+|-
+|''Too easy''
+|
+|
+|-
+|''Better hitchhike''
+| rowspan="3" |From failing to claim a driver's license.
+|Hitchhiking is where you ask someone to give you a ride in someone else's car, usually a stranger.
+|
+|-
+|''Whatever''
+|
+|
+|-
+|''Who gets it first try?''
+|
+|
+|-
+|''#Blessed''
+| rowspan="4" |From getting a car from your character's parent after claiming a driver's license.
+|
+|
+|-
+|''I got the keys keys keys''
+|This is a lyric said in DJ Khaled's song, "I Got The Keys".
+|
+|-
+|''I'm free''
+|
+|
+|-
+|''Should I name it?''
+|
+|
+|-
+|''Mmm, that repaired car smell''
+| rowspan="3" |From repairing a car.
+|
+|
+|-
+|''Need a little more elbow grease''
+|
+|
+|-
+|''Nicely detailed''
+|
+|
+|-
+|''Gotta need a Lyft''
+| rowspan="4" |From not repairing a car.
+|
+|
+|-
+|''Learn the bus routes''
+|
+|
+|-
+|''Out of order''
+|
+|
+|-
+|''Parked until further notice''
+|
+|
+|-
+|''Car for parts''
+| rowspan="3" |From scrapping a car.
+|
+|
+|-
+|''Good riddance''
+|
+|
+|-
+|''I need it gone''
+|
+|
+|-
+|''High hopes''
+| rowspan="3" |From a doctor treatment being administered to your character.
+|
+|
+|-
+|''Idk if I feel anything''
+|
+|
+|-
+|''Thank you''
+|
+|
+|-
+|''Ill-advised''
+| rowspan="3" |From a doctor treatment ending unsuccessful.
+|
+|
+|-
+|''On to the witch doctor...''
+|
+|
+|-
+|''*Status: still sick''
+|
+|
+|-
+|''Part of the system''
+| rowspan="2" |From joining Facebook.
+|
+|
+|-
+|''*thumbs up*''
+|
+|
+|-
+|''Do it for the Gram''
+| rowspan="2" |From joining Instagram.
+|Gram is often a shortened version of Instagram.
+|
+|-
+|''Start with a selfie!''
+|A selfie is often the first picture new Instagram users do on their page.
+|
+|-
+|''I gave in...''
+| rowspan="2" |From joining TikTok.
+|
+|
+|-
+|''Searching #fyp''
+|FYP stands for the “For You” page on the massively popular short video app, TikTok. FYP acts like an individual landing page for users which showcases curated videos that TikTok thinks they might watch or like.
+|
+|-
+|''Get tweeting''
+| rowspan="2" |From joining Twitter.
+|
+|
+|-
+|''The best news platform''
+|Twitter is well-known for showing various news for users, besides chatting with people.
+|
+|-
+|''Building a community''
+| rowspan="4" |From joining YouTube.
+|
+|
+|-
+|''Check my channel!''
+|
+|
+|-
+|''How to get subscribers now...''
+|
+|
+|-
+|''The start of something you''
+|
+|
+|-
+|''A treat for my followers''
+| rowspan="1" |From uploading an Instagram post.
+|
+|
+|-
+|''...aaaand, uploaded!''
+| rowspan="1" |From uploading a YouTube video.
+|
+|
+|-
+|''Never heard of you''
+| rowspan="3" |From an application to be verified on a social media platform rejected.
+|
+|
+|-
+|''Um, no''
+|
+|
+|-
+|''Who are you?''
+|
+|
+|-
+|''Calm down''
+| rowspan="2" |From an application to be verified on a social media platform rejected more than one time.
+|
+|
+|-
+|''Try later''
+|
+|
+|-
+|''Look at me''
+| rowspan="1" |From an application to be verified on a social media platform accepted.
+|
+|
+|-
+|''Almost big enough...''
+| rowspan="5" |From an application to monetize videos on YouTube being rejected.
+|
+|
+|-
+|''Gotta get more views!''
+|
+|
+|-
+|''Just keep filming''
+|
+|
+|-
+|''Need more subs''
+|
+|
+|-
+|''Not in the money, yet''
+|
+|
+|-
+|''I got a meme for this''
+| rowspan="5" |From trolling someone on social media.
+|
+|
+|-
+|''I hope I'm not reported''
+|
+|
+|-
+|''Lolololol''
+|
+|
+|-
+|''Such noobs''
+|
+|
+|-
+|''They mad lol''
+|
+|
+|-
+|''For how long?!''
+| rowspan="1" |From a social media account being suspended.
+|
+|
+|-
+|''Appeal: Denied''
+| rowspan="4" |From a social media account continuing to be suspended.
+|
+|
+|-
+|''Are you serious?!''
+|
+|
+|-
+|''Can't believe this''
+|
+|
+|-
+|''No so appealing''
+|
+|
+|-
+|''I demand justice''
+| rowspan="4" |From choosing to act confused to appeal a social media suspension.
+|
+|
+|-
+|''Mysterious charges''
+|
+|
+|-
+|''Unfairly suspended''
+|
+|
+|-
+|''What was so bad?''
+|
+|
+|-
+|''I sincerely apologize''
+| rowspan="5" |From choosing to apologize to appeal a social media suspension.
+|
+|
+|-
+|''I take full responsibility''
+|
+|
+|-
+|''It was all my fault''
+|
+|
+|-
+|''My bad''
+|
+|
+|-
+|''Very deeply sorry''
+|
+|
+|-
+|''Classic mixup''
+| rowspan="4" |From choosing to claim a misunderstanding to appeal a social media suspension.
+|
+|
+|-
+|''Easy misunderstanding''
+|
+|
+|-
+|''It was out of context''
+|
+|
+|-
+|''Let me see this straight''
+|
+|
+|-
+|''I will find you''
+| rowspan="4" |From choosing to threaten them to appeal a social media suspension.
+|
+|
+|-
+|''I've got somethin for ya''
+|
+|
+|-
+|''If I'm not unsuspended rn...''
+|
+|
+|-
+|''Who reported me?!''
+|
+|
+|-
+|''Baby can't handle the heat''
+| rowspan="4" |From choosing to write an angry email to appeal a social media suspension.
+|
+|
+|-
+|''Get a life!''
+|
+|
+|-
+|''What a clown''
+|
+|
+|-
+|''You're a disgrace to the app''
+|
+|
+|-
+|''Done seeking validation''
+| rowspan="3" |From deleting a social media account.
+|
+|
+|-
+|''Going offline''
+|
+|
+|-
+|''Time to say goodbye''
+|
+|
+|-
+|''20/20''
+| rowspan="4" |From succeeding in an optometrist test.
+|
+|
+|-
+|''A blessing''
+|
+|
+|-
+|''Clear eyes''
+|
+|
+|-
+|''Good genes''
+|
+|
+|-
+|''0/20''
+| rowspan="4" |From failing an optometrist test.
+|
+|
+|-
+|''Did we start?''
+|
+|
+|-
+|''Eye can't see''
+|A pun on the phrase "I can't see".
+|
+|-
+|''I don't see any letters...''
+|
+|
+|-
+|''Should I get transitions?''
+| rowspan="1" |From choosing a new set of glasses.
+|Transition lenses, or photochromic lenses, are the lenses that darken in the sunlight and lighten in softer light or the dark.
+|
+|-
+|''Absolutely not''
+| rowspan="5" |From being rejected to start taking instrument or voice lessons.
+|
+|
+|-
+|''"Choose a hobby that makes money"''
+|
+|
+|-
+|''I'll be tone deaf!''
+|
+|
+|-
+|''Money > Music they always say''
+|
+|
+|-
+|''Music's too expensive''
+|Music is an expensive thing to pay for, especially for a child.
+|
+|-
+|''But it's my passion...''
+| rowspan="3" |From being rejected to start taking instrument or voice lessons more than once.
+|
+|
+|-
+|''C'mon, please?!''
+|
+|
+|-
+|''"Doctors don't play music"''
+|
+|
+|-
+|''Get in line''
+| rowspan="4" |From failing to arrange an interview to become a musician or sports player.
+|
+|
+|-
+|''In your dreams''
+|
+|
+|-
+|''Nope, next!''
+|
+|
+|-
+|''Whenever you're free...''
+|
+|
+|-
+|''Curse this uncreative town!''
+| rowspan="6" |From failing to find a band to become a musician.
+|To make the game more friendly for all ages, the word 'curse' is used instead of a swearing word.
+|
+|-
+|''Error: None found''
+|
+|
+|-
+|''Gotta think better''
+|
+|
+|-
+|''Is my sound too niche?''
+|
+|
+|-
+|''Nobody?''
+|
+|
+|-
+|''Not a single one?!''
+|
+|
+|-
+|''Gave it my all''
+| rowspan="2" |From auditioning to become a musician.
+|
+|
+|-
+|''Oh, the suspense''
+|
+|
+|-
+|''Don't lose hope!''
+| rowspan="2" |From failing to get a musician contract after auditioning.
+|
+|
+|-
+|''They weren't listening well''
+|
+|
+|-
+|''Let's see if it sticks''
+| rowspan="3" |From your character changing their stage name.
+|
+|
+|-
+|''Rolls off the tongue''
+|
+|
+|-
+|''They will refer to me as...''
+|
+|
+|-
+|''Crank those songs out!''
+| rowspan="4" |From signing a new contract to continue making music.
+|
+|
+|-
+|''Doin' good on my own!''
+|
+|
+|-
+|''Sign here. And here.''
+|
+|
+|-
+|''There goes my masters''
+|
+|
+|-
+|''A label that gets it''
+| rowspan="5" |From a new single or album being approved.
+|
+|
+|-
+|''It's going to be great''
+|
+|
+|-
+|''My blood, sweat and tears''
+|
+|
+|-
+|''They appreciate the vision''
+|
+|
+|-
+|''This'll change the world''
+|
+|
+|-
+|''Even better live''
+| rowspan="5" |From performing at a concert as a musician.
+|
+|
+|-
+|''Great crowd''
+|
+|
+|-
+|''Great show everybody!''
+|
+|
+|-
+|''Mic check, 1, 2''
+|
+|
+|-
+|''Put your hands up!''
+|
+|
+|-
+|''An experience of a lifetime''
+| rowspan="3" |From going on a world tour as a musician.
+|
+|
+|-
+|''Beyond grateful''
+|
+|
+|-
+|''*Sings the continent song*''
+|
+|
+|-
+|''Damn, that's a nice pen''
+| rowspan="5" |From accepting a new contract to stay on a sports team.
+|
+|
+|-
+|''Here to stay''
+|
+|
+|-
+|''Making more memories''
+|
+|
+|-
+|''Sticking with the city''
+|
+|
+|-
+|''True to this''
+|
+|
+|-
+|''Phew''
+| rowspan="1" |From not having any injuries at a physical therapy appointment in a sports league.
+|
+|
+|-
+|''Do I look bigger yet?''
+| rowspan="4" |From taking a round of performance-enhancing drugs in a sports league.
+|
+|
+|-
+|''Juiced up''
+|
+|
+|-
+|''Strength: +3''
+|
+|
+|-
+|''Whatever it takes''
+|
+|
+|-
+|''Can't stand the heat?''
+| rowspan="5" |From trash-talking back to someone who did it to you in a sports league.
+|The term "If you can't stand the heat, get out of the kitchen." was popularized by U. S. President Harry Truman, who was in office from 1945-1953.
+|
+|-
+|''I KNOW you're not talkin'''
+|
+|
+|-
+|''Say it to my face''
+|
+|
+|-
+|''Speak up, I can't hear you''
+|
+|
+|-
+|''We can do this''
+|
+|
+|-
+|''Not on my watch''
+| rowspan="3" |From reporting a gambling tycoon from another team to the authorities in a sports league.
+|
+|
+|-
+|''People like him ruin the sport''
+|
+|
+|-
+|''The AUDACITY''
+|
+|
+|-
+|''Highlight reel baby!''
+| rowspan="2" |From winning a sports match in a pivotal moment.
+|
+|
+|-
+|''Put the team on my back''
+|
+|
+|-
+|''Better luck next time''
+| rowspan="3" |From losing a sports match in a pivotal moment.
+|
+|
+|-
+|''Boo! Boooo!''
+|
+|
+|-
+|''I had it...''
+|
+|
+|-
+|''Don't forget me!''
+| rowspan="1" |From no longer being famous.
+|
+|
+|-
+|''Let's go''
+| rowspan="2" |From successfully stealing a car.
+|
+|
+|-
+|''That was easy''
+|
+|
+|-
+|''Uh oh''
+| rowspan="2" |From being caught while stealing a car.
+|
+|
+|-
+|''Yikes''
+|
+|
+|-
+|''Alone time''
+| rowspan="4" |From successfully causing mischief as a solo act.
+|
+|
+|-
+|''Lone ranger''
+|
+|
+|-
+|''Me, myself, and crime''
+|
+|
+|-
+|''Solo dolo delinquent''
+|
+|
+|-
+|''In deep together''
+| rowspan="3" |From successfully causing mischief as a solo act.
+|
+|
+|-
+|''Mischief makers''
+|
+|
+|-
+|''Our dirty secret''
+|
+|
+|-
+|''Mystery box''
+| rowspan="5" |From successfully stealing mail from a house's porch.
+|
+|
+|-
+|''No camera in sight''
+|
+|
+|-
+|''Porch pirate''
+|
+|
+|-
+|''Show me something good!''
+|
+|
+|-
+|''The box is heavy!''
+|
+|
+|-
+|''Don't mind me''
+| rowspan="10" |From failing to steal mail from a house's porch.
+|
+|
+|-
+|''I was gonna wrap it''
+|
+|
+|-
+|''Keep it walking will ya''
+|
+|
+|-
+|''Mind your business!''
+|
+|
+|-
+|''Nosey people around here!''
+|
+|
+|-
+|''Please sign here...''
+|
+|
+|-
+|''...RUN''
+|
+|
+|-
+|''Thought it was mine''
+|
+|
+|-
+|''We can split the loot!''
+|
+|
+|-
+|''You saw nothing ya hear''
+|
+|
+|-
+|''Five finger discount''
+| rowspan="5" |From successfully shoplifting an item.
+|
+|
+|-
+|''I'll be taking that''
+|
+|
+|-
+|''Outta here''
+|
+|
+|-
+|''Stuck it to the Man''
+|
+|
+|-
+|''What's yours is mine''
+|
+|
+|-
+|''Filthy pig!''
+| rowspan="5" |From insulting the police while under arrest.
+|
+|
+|-
+|''Freedom of speech''
+|
+|
+|-
+|''Insult to injury''
+|
+|
+|-
+|''I'll use my words''
+|
+|
+|-
+|''They didn't like that''
+|
+|
+|-
+|''Add that to the charges''
+| rowspan="4" |From failing to run away from the police while under arrest.
+|
+|
+|-
+|''Almost got away with it too''
+|
+|
+|-
+|''Man, they're quick''
+|
+|
+|-
+|''Not my best performance''
+|
+|
+|-
+|''Not today, coppers''
+| rowspan="3" |From succeeding to run away from the police while under arrest.
+|
+|
+|-
+|''Put the jukes on 'em''
+|
+|
+|-
+|''Smooth criminal''
+|
+|
+|-
+|''What, you want more?''
+| rowspan="1" |From failing to bribe the police while under arrest.
+|
+|
+|-
+|''Double whammy''
+| rowspan="2" |From successfully bribing the police while under arrest, but got arrested anyway.
+|
+|
+|-
+|''My money & dignity, gone''
+|
+|
+|-
+|''I'm in the will''
+| rowspan="2" |From inheriting money from a late family member after they died.
+|
+|
+|-
+|''To help the healing''
+|
+|
+|-
+|''Be strong''
+| rowspan="1" |From mourning someone's death.
+|
+|
+|-
+|}
+
+[[Category:BitLife]]

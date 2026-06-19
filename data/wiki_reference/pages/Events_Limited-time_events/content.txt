@@ -1,0 +1,2015 @@
+This page is under construction.
+This page is currently undergoing a major renovation or cleanup.
+To-do: Unspecified
+Limited-Time Events
+Launched on iOS:
+September 2018 (default)
+Launched on Android:
+February 2019 (default)
+Limited-time events
+are scenarios that happen for a set period of time, depending on the day, holiday and what's in the news. These do not have an effect on the character's life.
+Contents
+1
+List of events
+1.1
+Current Events
+1.2
+Christmas Events
+1.3
+Halloween Events
+1.4
+Holiday Events
+List of events
+[
+]
+Current Events
+[
+]
+These are real-life events that happen in the news, and are shortly available in BitLife for a period of time. The player can choose how their character responds to it.
+List of Current events
+Emoji
+Event Name
+Duration
+Description
+Options/Results
+Image(s)
+Notes
+☕
+I'll Be There For Who?
+May 18, 2021
+It's official! The 'Friends' reunion will finally air on May 27th, and your best friend, [Name], is beyond excited to watch it, especially now that special celebrity guests have been announced. They want to know which celebrity guest you're most excited to see. Who will you say?
+BTS
+Lady Gaga
+Justin Timberlake
+Who cares
+💒
+Hitchin' Up Positions
+May 19, 2021
+While scrolling through Twitter, you discover that Ariana Grande just secretly married her boyfriend, Dalton Gomez, in a private wedding at her house. The news makes you wonder who else might get married in secret. Who could be next?
+Jennifer Lopez and Ben Affleck
+Brad Pitt and Jennifer Aniston
+Shawn Mendes and Camila Cabello
+Chris Evans and Lizzo
+Christmas Events
+[
+]
+Those events are only from December 14 through December 28.
+List of Christmas events
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Image(s)
+Notes
+📸
+Photo Op
+Your family is gathering around the Christmas tree to take a family photo. What will you do?
+Run and hide
+Journal: I ran and hid to avoid looking stupid in our family Christmas photo.
+Smile gleefully
+Journal: I gleefully smiled for our family Christmas photo.
+Covertly flash a gang sign
+Journal: I covertly flashed a gang sign when taking a Christmas photo with my kinfolk.
+Make a funny face
+Journal: I made a silly face when taking a Christmas photo with my kinfolk.
+N/A
+Choosing "Covertly flash a gang sign" decreases both smarts and looks by 4%
+🧦
+Simple Gifts
+You're unwrapping the last gift, on an already disappointing Christmas morning, when you realize your parents gave you a pack of plain white socks.
+How will you react?
+Be grateful
+Journal: I thanked my parents for a wonderful Christmas after opening many gifts, including a pack of plain white socks.
+Laugh it off
+Journal: I made a lighthearted joke about the pack of plain white socks my parents gave me for Christmas and declared that they were "just what I wanted".
+Lose it
+Journal: I peppered my parents with a bevy of profanities after unwrapping a pack of plain white socks they "gifted" me for Christmas
+Choosing to lose it drops happiness by 30%
+🍪
+Yummy Cookies
+A plate full of colorful Christmas cookies sits before you. Your father says that you get to pick one to eat all by yourself.
+Which cookie will you choose?
+The candy cane
+Journal: I ate a yummy cookie that looked like a big candy cane.
+The Christmas tree
+Journal: I ate a yummy cookie that looked like a Christmas tree.
+The holiday wreath
+Journal: I ate a yummy cookie that looked like a holiday wreath.
+The Reindeer
+Journal: I ate a yummy cookie that looked like Rudolf the Red-Nosed Reindeer.
+🎅
+Stinky Santa
+You are unpacking your Christmas stocking to discover that Santa has left you a bag of farts.
+How will you react?
+Proclaim a vow of vengeance
+Journal: I vowed to avenge the rage bestowed upon me when Santa left a bag of farts in my stocking.
+Share it
+Journal: In the spirit of Christmas, I cheerfully shared Santa's gift bag of farts with my parents.
+Cry the blues
+Journal: I cried like a baby when Santa Claus trolled me by leaving a bag of farts in my stocking.
+Save it for a rainy day
+Journal: I added Santa's bag of farts to my prank toolbox for future use.
+😟
+Forgot Mom
+It's late Christmas Eve, and the stores have all closed when you suddenly realize you didn't buy a gift for your mom.
+What will you do?
+Regift her a gift
+Journal: I randomly pulled a gift from under our tree and gave it to my mom for Christmas.
+Amazon to the rescue
+Journal: I paid more than double for my mom's Christmas gift to be delivered on Christmas day.
+Make a special card
+Journal: I handcrafted a Christmas card for my mom, expressing how special she is to me.
+Do nothing
+Choosing Option 2 lowers your smarts by 4%
+🙌
+Most Wanted
+Your parents are asking what gift you most want for Christmas this year.
+What will you choose?
+EZ Bake Oven
+Journal: I asked for an EZ Bake Oven for Christmas because I might want to be a chef someday.
+KidiZoom Camera
+Journal: I asked for a KidiZoom camera for Christmas because I might want to be a photographer someday.
+RC Robot Toy
+Journal: I asked for a programmable robot toy for Christmas because I might want to be a developer someday.
+Legos
+Journal: I asked for Legos for Christmas because I might want to be an engineer someday.
+💋
+Mistletoe Moment
+You're celebrating a festive Christmas Eve with extended family when both you and your hot cousin simultaneously realize that you're standing under the mistletoe.
+What will you do?
+Make a joke
+Journal: I told my cousin to kiss my butt when I realized we were both standing under the mistletoe together.
+Walk away awkwardly
+Journal: I quickly scurried off after making awkward eye contact with my cousin under the mistletoe.
+Peck on the lips
+Selecting the option and deciding against it: For a brief moment I considered kissing my my hot cousin underneath the mistletoe.
+Selecting the option multiple times:
+You tried to kiss your hot cousin under the mistletoe but ended up getting smacked in the mouth!
+Journal: I got smacked in the mouth when I tried kissing my cousin under the mistletoe.
+Kiss on the cheek
+Journal: I gave my hot cousin a little peck on the cheek after discovering we were both standing under mistletoe.
+Option 3: Hearing jingle bells, Oop- my bad, Awkward, Holy s%@&
+Option 3 decreases your smarts by 50% and relationships to 0%
+💋
+Under the Mistletoe
+While gleefully singing carols at a Christmas party, you suddenly notice a beautiful married woman, who is very drunk, holding a mistletoe above your head.
+What will you do?
+Pucker up
+Journal: I kissed a married woman at a Christmas party.
+Reprimand her
+Journal: When a drunk woman tried kissing me at a Christmas party, I sternly reminded her that she was married.
+Walk away
+Journal: I walked away when a drunk married woman tried to kiss me at a Christmas party.
+Pretend you don't notice
+Journal: I pretended not to notice a drunk married woman who tried to kiss me at a Christmas party.
+🌟
+Deck the Halls
+With Christmas drawing near, you're questioning how extensive you want to go with your decorations this season.
+What will you do?
+Nothing
+Journal: I decided I didn't want to waste any time, money, or energy on decorating for Christmas this year.
+Just the basics
+Journal: I put up a Christmas tree and hung a single string of Christmas lights outside my house.
+Go all out
+Journal: I went all out with my Christmas decorations this year, both inside and outside.
+💌
+Season's Greetings
+It's the holiday season, and you're deciding whether you want to send holiday cards to loved ones this year.
+What will you do?
+Send to all
+Journal: I mailed cute, festive holiday cards to everyone I know.
+Maybe next year
+Journal: I decided not to send holiday cards.
+Just a few
+Journal: To not look like a scrooge, I mailed a few simple holiday cards to just my loved ones.
+🎄
+Tis the Season
+With Christmas just around the corner, you need to decide which type of Christmas tree you want this year.
+What will you get?
+A palm tree
+Journal: I went tropical for Christmas this year by installing a palm tree inside my home.
+A small pine
+Journal: I installed a small Pinus ponderosa in my home for Christmas.
+A massive pine
+Journal: I installed a massive California redwood pine tree in my home for Christmas.
+Nothing
+Journal: I decided not to get a Christmas tree this year.
+🎼
+Christmas Carolers
+A group of joyous Christmas carolers just showed up on your front porch and are asking you to choose a favorite song for them to sing.
+Which song will you choose?
+Jingle Bells
+Journal: A joyous group of Christmas carolers sang "Jingle Bells" to me.
+Last Christmas
+Journal: A joyous group of Christmas carolers sang "Last Christmas" to me.
+Joy to the World
+Journal: A joyous group of Christmas carolers sang "Joy to the World" to me.
+Please don't sing
+Journal: I was embarrassed when a group of Christmas carolers wanted to sing for me and so I asked them not to.
+🎅
+Santa Claus
+While volunteering at an orphanage during the holidays, a young child asks you if Santa Claus is real.
+What will you say?
+Santa is real
+Journal: I reaffirmed a young child at the orphanage that Santa Claus is, in fact, real.
+He's my friend
+Journal: I informed a young orphan that Santa is my friend and he'll be bringing gifts very soon. I anonymously brought a gift from "Santa" the next day.
+Santa isn't real
+Journal: I shattered a young orphan's Christmas by revealing the truth that Santa Claus is not real.
+🎅
+Santa Claus
+A young child asks you if Santa Claus is real.
+What will you say?
+Lie and say he is real
+Journal: I reaffirmed a young child that Santa Claus is in fact real.
+Wait, Santa isn't real?
+Journal: I pondered the existence of Santa Claus.
+Santa isn't real
+Journal: I ruined a young child's Christmas by telling him that Santa Claus isn't real.
+Choosing "Wait, Santa isn't real?" decreases smarts by 50%
+🎁
+Recycled Gifts
+Upon opening a Christmas gift from your friend, you quickly realize you've been regifted the same gift you gave your friend last year.
+What will you do?
+Regift it
+Journal: I decided to keep the fun going by regifting a regift Christmas gift back to my friend next year.
+Be gracious
+Journal: I graciously accepted a regift from my friend and said nothing.
+Retaliate
+Journal: I gave my friend a hard time for regifting me the present I gave her last year for Christmas.
+🍽️
+Gourmet Eats
+Your friends are inviting you to their gourmet pot-luck Christmas dinner party.
+What will you bring?
+Brioche Bread Sticky Pudding
+Journal: I brought brioche bread sticky pudding to a pot-luck Christmas party.
+A Dungeness Crab Cioppino
+Journal: I brought a Dungeness crab Cioppino to a pot-luck Christmas party.
+Truffle-infused French Onion Soup
+Journal: I brought truffle-infused French onion soup to a pot-luck Christmas party.
+Shiitake and Fresh Herb Stuffing
+Journal: I brought shittake mushroom and fresh herb stuffing to a pot-luck Christmas party.
+🎁
+Gift Exchange
+At a holiday gift exchange, you receive a gift that you hate. The person who brought it asks how you like it.
+What will you do?
+Tell her you love it
+Journal: I received a terrible gift at a holiday gift exchange and then pretended I actually liked it.
+Tell her the gift sucks
+Journal: I received a terrible gift at a holiday exchange. I didn't hide my feelings about it.
+Laugh it off
+Journal: I received a terrible gift at a holiday gift exchange but I was able to laugh about it.
+🧦
+Gift Exchange
+At a holiday gift exchange, you receive an ugly pair of socks you'll never, ever wear. The person who gave them to you is asking what you think of the gift.
+What will you say?
+You love it
+Journal: I unabashedly lied about loving a pair of ugly socks given to me at a gift exchange.
+The gift sucks
+Journal: I received an ugly pair of socks at a holiday git exchange. I didn't hide my feelings about it.
+Laugh it off
+Journal:  I received an ugly  pair of socks at a holiday gift exchange but I was able to laugh about it.
+🎥
+Which Grinch
+Your friends are asking which Grinch movie you think is the best.
+Which Grinch will you choose?
+The 1966 original Grinch
+I told my friends I think the original 1966 Grinch movie is the best Grinch movie of all-time.
+The 2000 Jim Carrey Grinch
+Journal: I told my friends I think the 2000 Jim Carrey Grinch movie is the best Grinch movie of all-time.
+The 2018 animated Grinch
+Journal: I told my friends I think the 2018 animated Grinch movie is the best Grinch movie of all-time.
+I don't like the Grinch
+Journal: I told my friends I don't like the Grinch because he stole Christmas.
+🍰
+The Fruitcake
+A friendly neighbor just gifted you a homemade fruitcake.
+What will you do?
+What's a fruitcake?
+Journal: A friendly neighbor gave me a fruitcake, but it didn't taste like fruit or cake. It was so heavy I used it as a doorstop.
+Eat it all
+Journal: A friendly neighbor gave me a delicious homemade fruitcake. I ate the whole thing.
+I hate fruitcake
+Journal: A friendly neighbor gave me a fruitcake, and I threw it into the trash.
+Regift it
+Journal: I regifted a fruitcake that was given to me by a friendly neighbor
+Choosing "What's a fruitcake?" raises smarts by 8%
+😜
+Thank Us Later
+You're opening a gift from your parents on Christmas morning only to discover they just gifted you a very revealing lingerie set.
+How will you react?
+Instagram it
+Journal: I posted saucy Instagram selfies wearing the lingerie set my parents gave me for Christmas.
+Say it's weird
+Journal: I had to explain to my parents why it's inappropriate and awkward for them to give me sexy lingerie
+Try it on for them
+Disguise my horror
+☕
+Holiday Coffees
+You're in line at Starbucks, excited to finally order your favorite Toasted White Chocolate Mocha when two girls, wearing fake antlers, cut in front of you.
+What will you do?
+Steal their antlers
+Journal: I stole fake antlers off some girls who cut in front of me in line at Starbucks.
+Nothing
+Journal: I did nothing when two girls, wearing fake antlers, cut in front of me in line at Starbucks.
+Buy their coffees
+Journal: In the spirit of Christmas, I paid for two girls' coffees at Starbucks and said their fake antlers were cute.
+Push them away
+Journal: I got cut off in line at Starbucks by two girls wearing fake antlers. I pushed them out of my way.
+Choosing "Steal their antlers" drops smarts by 4%
+😈
+Santa Baby
+You're goofing off with friends at the mall and decide it would be fun to get a photo sitting on Santa's lap. When the photographer tells you to say "cheese," Santa whispers in your ear, "[Something inappropriate]"
+What will you do?
+Hit him where it counts
+Journal: I "accidentally" elbowed Santa in the gonads after he inappropriately whispered, "[Something inappropriate]"" In my ear.
+Leave your number
+Journal: I gave Santa my phone number after he whispered, "[Something inappropriate]"" In my ear while I was sitting on his lap.
+Report him
+Journal: I reported Santa to the mall authorities after he whispered, "[Something inappropriate]"" In my ear as I was sitting on his lap.
+Ignore it
+Journal: I ignored Santa when he whispered, "[Something inappropriate]"" In my ear while I was sitting on his lap for a picture.
+👣
+Porch Pirates
+While sipping on some eggnog, looking out the front window, you notice a shadowy figure across the street stealing a package from your neighbor's front porch.
+What will you do?
+Look away
+Journal: I noticed a shadowy figure was stealing my neighbor's package, but I just looked away.
+Call the police
+Journal: I called the cops on a shadowy figure who was stealing my neighbor's package.
+Offer eggnog
+Journal: I offered eggnog to a shadowy figure who had just stolen my neighbor's package.
+Intervene
+Journal: I tackled a shadowy figure who was attempting to steal my neighbor's package.
+Choosing "Look away" and "Offer eggnog" decreases smarts by 4%
+🧥
+Eye of the Beholder
+While proudly donning your favorite sweater at a Christmas party, the host compliments you by saying how much he loves your "ugly sweater".
+How will you react?
+Smile and judge
+Journal: I feigned a grin when the host of a Christmas party insulted my favorite sweater. I then silently judged him for his lack of fashion sense.
+No big deal
+Journal: I didn't let an ignorant comment bother me when the host of a Christmas party said my sweater was ugly.
+Leave an upper decker
+Journal: When the host of a Christmas party called my sweater ugly, I retaliated by leaving an "upper decker" in the master bedroom toilet.
+Compliment his ugly outfit
+Journal: I told the host of a Christmas party that "I love his hideous outfit" after he said my favorite sweater was ugly.
+🌰
+The Nutcracker
+Your friends are so excited to see the Nutcracker again this year and want you to join them, but you loathe thee ballet.
+What will you do?
+Politely decline
+Journal: I declined my friends' offer to join them at the Nutcracker Suite ballet.
+Suggest a movie instead
+Journal: When my friends asked me to join them at the Nutcracker Suite, I suggested we see a movie instead.
+Join them anyway
+Journal: Even though I despise ballet, I accepted my friends' invitation to join them at the Nutcracker Suite.
+That sounds painful
+Journal: I declined my friends' invitation to join them at the ballet because "Nutcracker" sounded too painful to watch.
+🕎
+Dreidel, Dreidel, Dreidel
+You just won all of the chocolate coins in a friendly game of dreidel with the family.
+What will you do with the winnings?
+Give it back
+Journal: I gave back all the candy I won after dominating my family at the dreidel game.
+Eat it all
+Journal: I quickly consumed all the chocolate coins I won from our family dreidel game.
+Share them
+Journal: I shared all the candy I won after dominating my family at the dreidel game.
+Save them
+Journal: I saved all the candy I won from dominating my family at the dreidel game.
+🐴
+Horse Pucky
+Some friends are inviting you to join them on a horse-drawn carriage ride through the park. You want to go, but the potential of witnessing a horse pooping right in front of you is prohibitively nauseating.
+What will you do?
+Tell them you can't go
+Journal: The potentiality of witnessing a horse pooping convinced me to pass on a carriage ride through the park.
+Wear welding goggles
+Journal: I wore welding goggles during a carriage ride through the park to avoid witnessing a horse pooping.
+Slip the horse Imodium
+Journal: Just before a carriage ride through the park with friends, I slipped some Imodium into the horse's oats.
+Covertly diaper the horse
+Journal: When nobody was looking, I quickly diapered a horse before taking a horse-drawn carriage through the park with friends.
+Choosing 'Wear welding goggles' and 'covertly diaper the horse' decreases smarts by 4%
+Choosing 'Slip the horse Imodium' raises smarts by 4%
+❤️
+Charitable Acts
+You are feeling quite fortunate this holiday season and considering ways to give to those in need.
+What will you do?
+Go caroling at a hospital
+Journal: I spread the holiday spirit by Christmas caroling at a hospital.
+Bring food to a homeless shelter
+Journal: I spread the holiday spirit by donating food to a homeless shelter.
+Give gifts to children in need
+Journal: I spread the holiday spirit by giving gifts to children in an orphanage.
+Bring cookies to a nursing home
+Journal: I spread the holiday spirit by taking homemade cookies to a nursing home.
+💢
+Christmas Clash
+While enjoying Christmas dinner with your extended family, a distant relative makes a politically divisive comment, starting a heated debate.
+How will you react?
+Join in
+Journal: I joined a heated debate after someone made a politically divisive comment at our Christmas dinner.
+Take a break
+Enjoy the show
+Journal: I sat back and watched in amusement as all hell broke loose after someone made a racially insensitive comment comment at our Christmas dinner.
+Option 1 lowers smarts by 4%
+Halloween Events
+[
+]
+Those events are only from October 20 through October 31.
+List of Halloween events
+Emoji
+Event Name
+Description!Options/Results
+Taglines
+Image(s)
+Notes
+🏚️
+Haunted Gingerbread House
+You and some friends decide to make a haunted gingerbread house on Halloween, with each person decorating a room based on their favorite spooky character. You're assigned the attic to decorated however you want.
+What will you choose?
+Dracula
+Jigsaw
+The invisible Man
+Pennywise
+🎃
+Smashing Pumpkins
+On Halloween night, your best friend says, "let's go out and bash some jack-o-lanterns!".
+What will you do?
+No thanks
+Bash 'em up
+Observe without participating
+Rat 'em out
+🎃
+Treating Tricksters
+All Hallows Eve is drawing near! Decide now how you will participate in the holiday traditions.
+What will you do?
+One piece of candy each
+Pass out toothbrushes
+Go all out!
+None for you
+🕷️
+Your Worst Nightmare
+You see an advertisement for a haunted house that promises to make you pass out. You excitedly test your friend and the two you meet at the attraction. Outside, he asks what will terrify you the most if you encounter it inside.
+What will you say?
+Tight spaces
+Giant spiders
+Ghosts
+Snakes
+🐈
+One Lucky Cat
+On Halloween, you and your friend are discussing what it would be like to be a real-life witch. Your friend declares that all iconic witches must own an iconic black cat. He asks you what famous black cat you'd own if you are a witch.
+What will you say?
+Thackery Binx
+Luna
+Salem
+Felix the Cat
+🏺
+The Ghastly Grab
+On Halloween, you decide to worn on your pottery at a studio downtown. When you start modeling the clay, you feel a ghostly presence lean into your back, gently take your hand, and help you shape your piece.
+What will you do?
+Lean into it
+Run away
+Ignore it
+Scream
+Holiday Events
+[
+]
+List of Holiday events
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Image(s)
+Notes
+📅
+January 1st
+📅
+January 2nd
+📅
+January 3rd
+📅
+January 4th
+📅
+January 5th
+📅
+January 6th
+📅
+January 7th
+📅
+January 8th
+📅
+January 9th
+📅
+January 10th
+📅
+January 11th
+📅
+January 12th
+📅
+January 13th
+📅
+January 14th
+📅
+January 15th
+📅
+January 16th
+📅
+January 17th
+📅
+January 18th
+📅
+January 19th
+📅
+January 20th
+📅
+January 21st
+📅
+January 22nd
+📅
+January 23rd
+📅
+January 24th
+📅
+January 25th
+📅
+January 26th
+📅
+January 27th
+📅
+January 28th
+📅
+January 29th
+📅
+January 30th
+📅
+January 31st
+📅
+February 1st
+📅
+February 2nd
+📅
+February 3rd
+📅
+February 4th
+📅
+February 5th
+📅
+February 6th
+📅
+February 7th
+📅
+February 8th
+📅
+February 9th
+📅
+February 10th
+📅
+February 11th
+📅
+February 12th
+📅
+February 13th
+📅
+February 14th
+📅
+February 15th
+📅
+February 15th
+📅
+February 16th
+📅
+February 17th
+📅
+February 18th
+📅
+February 19th
+📅
+February 20th
+📅
+February 21th
+📅
+February 22th
+📅
+February 23th
+📅
+February 24th
+📅
+February 25th
+📅
+February 26th
+📅
+February 27th
+📅
+February 28th
+📅
+February 29th
+📅
+March 1st
+📅
+March 2nd
+📅
+March 3rd
+📅
+March 4th
+📅
+March 5th
+📅
+March 6th
+📅
+March 7th
+📅
+March 8th
+📅
+March 9th
+📅
+March 10th
+📅
+March 11th
+📅
+March 12th
+📅
+March 13th
+📅
+March 14th
+📅
+March 15th
+📅
+March 16th
+📅
+March 17th
+📅
+March 18th
+📅
+March 19th
+📅
+March 20th
+📅
+March 21st
+📅
+March 22nd
+📅
+March 23rd
+📅
+March 24th
+📅
+March 25th
+📅
+March 26th
+📅
+March 27th
+📅
+March 28th
+📅
+March 29th
+📅
+March 30th
+📅
+March 31st
+📅
+April 1st
+📅
+April 2nd
+📅
+April 3rd
+📅
+April 4th
+📅
+April 5th
+📅
+April 6th
+📅
+April 7th
+📅
+April 8th
+📅
+April 9th
+📅
+April 10th
+📅
+April 11th
+📅
+April 12th
+📅
+April 13th
+📅
+April 14th
+📅
+April 15th
+📅
+April 16th
+📅
+April 17th
+📅
+April 18th
+📅
+April 19th
+In honor of National Garlic Day, some food-geek friends are inviting you over to help innovate new ways to make unique garlic-flavored foods.
+What will you suggest?
+I'm happy with garlic toast
+Candied garlic cheesecake
+Garlic cloves dipped in chocolate
+Peanut butter and jelly garlic sandwich
+📅
+April 20th
+📅
+April 21st
+📅
+April 22nd
+📅
+April 23rd
+People around the world are celebrating International Nose Picking Day today, and you're in a conundrum on how to best celebrate the festive annual event.
+What will you do?
+Use a tissue to clear 'em out
+Pick my friend's nose
+Go raw with your finger
+No thanks!
+📅
+April 24th
+You're celebrating Pigs-in-a-Blanket Day by munching on some of the aforementioned treats, when you start to ponder the best ways to consume hot dogs.
+How are hot dogs best served?
+Pigs-in-a-blanket
+Hot dog with a bun
+Hot dog in a tortilla
+Frank and beans
+📅
+April 25th
+📅
+April 26th
+📅
+April 27th
+📅
+April 28th
+📅
+April 29th
+📅
+April 30th
+📅
+May 1st
+📅
+May 2nd
+📅
+May 3rd
+📅
+May 4th
+📅
+May 5th
+📅
+May 6th
+You're at a coffeehouse downtown with some friends on National Tourist Appreciation Day when the conversation arises about which characteristic makes it easy to identify a tourist.
+What do you think?
+The luggage
+The unusual fashion
+The camera
+The map
+📅
+May 7th
+📅
+May 8th
+You're at a diner with some friends ordering drinks when the server informs you it's National Have a Coke Day today.
+What will you order?
+Coke, please
+Diet Coke, please
+I'll take a Pepsi instead
+Water
+📅
+May 9th
+You've been waiting all year, and the big day has finally arrived! It's Tear the Tags Off the Mattress Day today, and now it's time to decide how you will best the celebrate this special day.
+What will you do?
+Go to a mattress store and tear away
+Make a tag-tearing social media post
+Start a petition to legalize tag tearing
+Respect the tags!
+📅
+May 10th
+It's National Clean Your Room Day today, and as you sit in your messy bedroom, you begin to question the reason why someone would want to make their bed every day.
+What is the best reason?
+It looks nice
+It starts the day off productively
+It discourages napping
+I got nothin'
+📅
+May 11th
+You just woke up and discover on your news feed that today is the National Eat What You Want Day. Your mind starts racing as you think about the potential meals you could line up for the day. Which will you choose?
+Bacon & eggs, pizza, chicken & waffles
+Pancakes, mac & cheese, and pad Thai
+Donuts, tacos, and steak
+Oatmeal, soup, and a vegan chopped salad
+📅
+May 12th
+It's National Limerick Day, and you've been asked to write a limerick for the poetry event at your school.
+What will you write about?
+Crazy BitLife characters
+BitLife crime
+Bitizenship
+BitLife fame
+📅
+May 13th
+You're just waking up when you suddenly remember that today is National Leprechaun Day. To celebrate, you decide it will be a lot of fun to dress up as a leprechaun day.
+Who will it be?
+Lucky the Boston Celtic
+Journal: "I dressed as Lucky the Boston Celtic in honor of National Leprechaun Day. I got punched in the nose by a Los Angeles Lakers fan while walking down the street, so it turned out to be a rather unlucky day."
+Leprechaun from 'Leprechaun'
+Journal: "I had a blast dressed up as Leprechaun from the 'Leprechaun' movies. I spent the entire day scaring people in honor of National Leprechaun Day."
+Lucky from Lucky Charms
+I'll pass this year
+📅
+May 14th
+It's Chicken Dance Day, and you're super excited to join some friends in a flash-mob style chicken dance, but they're looking to you for suggestions on where will be the best place to perform the foul dance.
+What will you suggest?
+A Chick-fil-A restaurant
+Journal: "On Chicken Dance Day, I joined some friends at a flash-mob style chicken dance at a Chick-fil-A restaurant."
+A farmer's front porch
+Journal: "On Chicken Dance Day, I joined some friends at a flash-mob style chicken dance at a farmer's front porch."
+A local butcher shop
+Journal: "On Chicken Dance Day, I joined some friends at a flash-mob style chicken dance at a local butcher shop."
+A random courthouse wedding
+Journal: "On Chicken Dance Day, I joined some friends at a flash-mob style chicken dance at a random courthouse wedding."
+📅
+May 15th
+Today is International Day of Families, and you can't help but reflect on all of the great families you've watched on TV and in movies over the years. You start to think about which family you would most like to be a part of in an imaginary universe.
+Which will you choose?
+The Kardashians
+The Simpsons
+The Modern Family
+The Grinch family
+📅
+May 16th
+In honor of National Mimosa Day, you join some friends at an all-you-can-eat brunch buffet that includes bottomless mimosas. As you're all gorging on delicious foods and desserts while sipping cocktails, a discussion arises over what is the ideal ratio of orange juice to champagne in a mimosa.
+What will you say?
+50%/50%
+75% orange juice & 25% champagne
+25% orange juice & 75% champagne
+Just the juice, please
+📅
+May 17th
+On National Walnut Day, you discover that your friend doesn't like the crunchy, nutty, goodness of walnuts, so you decide to bake something with walnuts in it, hoping you'll change his mind.
+What will you bake?
+Dark chocolate walnut brownies
+Chocolate chin walnut cookies
+Mocha walnut pie
+Maple walnut fudge
+📅
+May 18th
+It's time to celebrate No Dirty Dishes Day by not dirtying any dishes.
+How will you go about it?
+Eat out every meal
+Use disposable plates and plasticware
+Fast for the day
+Go about things as usual
+📅
+May 19th
+It's National Devil's Food Cake Day today, and you and your boyfriend/girlfriend, [Name], are engaged in an intimate discussion about how this decadent dessert might have earned its name. What do you think?
+The diabolical calorie content
+It's the opposite of angel food cake
+Its addicting nature
+I have no idea
+📅
+May 20th
+Today is Flower Day, which naturally causes you to reflect upon all the wonderful and amazing benefits that flowers provide.
+Which is the best thing about flowers?
+The environments they create
+The flower's sacrificial love
+Their relationships with bees
+Flowers are overrated
+📅
+May 21st
+It's National Waitstaff Day, and you want to pay your respects to those in the service industry by patronizing a favorite restaurant and complimenting your server's most admirable traits.
+Where will you go?
+A French restaurant
+A mom-and-pop restaurant
+A barbecue restaurant
+A Chinese restaurant
+📅
+May 22nd
+International Day for Biological Diversity has arrived, giving humans around the globe an opportunity to reflect on the state of the Earth. Naturally, you begin to think about how you can participate in this important day.
+What will you do?
+Go to an environmental rally
+Participate in an environmental clean-up
+Watch a documentary about the topic
+Maybe next year
+📅
+May 23rd
+You're hanging out with a group of friends when one of them pulls out a sack of candy. She informs you that it is National Taffy Day today and asks which type of taffy you like the most.
+Which will you select?
+Salt water taffy
+Laffy Taffy
+Bit-o-Honey
+Taffy sucks!
+📅
+May 24th
+It's National Brother's Day today, which causes you to reflect upon the many endearing ways that brothers greet each other, and which one you like the most.
+What do you think?
+Bro!
+Bruh
+Brotha’
+Brother
+📅
+May 25th
+Your neighbor is a total wine snob who is always flaunting his geeky knowledge. In honor of National Wine Day today, he offers you mad respect if you can name which red grape makes Burgundy wine. What will you say?
+Cabernet Sauvignon
+Syrah
+Pinot Noir
+I have no idea
+📅
+May 26th
+You're hanging out with some friends on National Paper Airplane Day when a debate erupts over with attribute makes the best paper airplane.
+What will you say?
+Time aloft
+Acrobatics
+The paper
+Distance
+📅
+May 27th
+In honor of National Sunscreen Day, your artist friend wants to recreate a famous work of art on your back using different SPF sunscreens and then have you lie on your stomach in the sun for two hours till it appears.
+Which work of art will you choose?
+Banksy's Balloon Girl
+Van Gogh's Sunflowers
+Picasso's Guernica
+Sounds like a bad idea
+📅
+May 28th
+On National Hamburger Day, you find yourself in a heated debate with some friends over which fast-food burger joint has the best social media account.
+What say you?
+Wendy's. All. Day. Long.
+McDonald's
+Burger King
+I'm not interested in fast food
+Journal: "I told my friends that I have no interest in the social media accounts of fast food chains. If I want to look at fake food, I'll buy some Twinkies."
+📅
+May 29th
+A friendly, eco-conscious neighbor just stopped by to inform you it's Learn About Composting Day today, and he is offering you a free bag of one of his favorite composting materials.
+Which one will you accept?
+A bag of eggshells
+Journal: "A friendly, eco-conscious neighbor gave me a free bag of eggshells on Learn About Composting Day."
+A bag of used coffee grounds
+Journal: "A friendly, eco-conscious neighbor gave me a free bag of used coffee grounds on Learn About Composting Day."
+A bag of organic manure
+Journal: "A friendly, eco-conscious neighbor gave me a free bag of organic manure on Learn About Composting Day."
+Thanks, but no thanks
+📅
+May 30th
+Some friends have invited you over to celebrate National Mint Julep Day today, and they're asking you to contribute one of the four essential ingredients needed to make the classic cocktail.
+Which ingredient will you bring?
+Fresh Mint
+Journal: "On National Mint Julep Day, I brought some fresh mint over to my friend's house, and we partied hard while enjoying the eponymous cocktail."
+Bourbon
+Journal: "On National Mint Julep Day, I brought some bourbons over to my friend's house, and we partied hard while enjoying the eponymous cocktail."
+Water
+Journal: "On National Mint Julep Day, I brought some water over to my friend's house, and we partied hard while enjoying the eponymous cocktail."
+Sugar
+Journal: "On National Mint Julep Day, I brought some sugar over to my friend's house, and we partied hard while enjoying the eponymous cocktail."
+📅
+May 31st
+It's World No Tobacco Day, and there's a chainsmoking co-worker at your workplace who's going through a nic-fit and driving everyone crazy. Your supervisor asks you for suggestions on how to help your co-worker cope with his withdrawal symptoms.
+What will you suggest?
+Electroshock therapy
+Essential oils
+Hypnosis
+Play BitLife
+Journal: "I told my co-worker that his quantum vibrational energies are misaligned due to nicotine withdrawal, and he should play BitLife to help git his life back in balance."
+📅
+June 1st
+Global Day of Parents has finally arrived, and you're considering ways that you can show appreciation for your mother and father
+What will you do?
+Make them an amazing card
+Cook them a fancy dinner
+Build them a shrine of myself
+I don't have time for that
+📅
+June 2nd
+Just before going in for a routine dental cleaning, you realize that today is I Love My Dentist Day. Now you're thinking of ways to appropriately express some love for your dentist.
+What will you do?
+Give him a toothbrush
+Journal: "I gave my dentist a toothbrush as a gift in honor of I Love My Dentist Day. I hope he/she appreciates it!"
+Give him some candy
+Give him a personalized bobblehead
+Nothing
+📅
+June 3rd
+You and your friend are playing around on the internet when you discover that today is National Itch Day. You start discussing annoying itches when he asks where you think is the worst place to have an itch.
+What will you say?
+Back
+Bottom
+Crotch
+Eyeball
+📅
+June 4th
+You realize it's National Hug Your Cat Day today because your coworker, a crazy cat lady, has brought her favorite feline to work, and she's requesting that everyone embrace her cute little kitty.
+What will you do?
+Run to the bathroom
+Embrace the cat
+Politely decline
+Report her
+Journal: "I reported a coworker to HR for bringing her cat to work and trying to get everyone in the office to hug it. She must have misunderstood the meaning of National Hug Your Cat Day!
+📅
+June 5th
+It's Hot Air Balloon Day, and your [Partner/Spouse], [Name] has surprised you with a private ride for just the two of you, and of course, the pilot. While flying high above a farm, you start to think about ways to make the most of the flight.
+What will you do?
+Drop water balloons on the farmers
+Get it on
+Journal: "[Name] and I missed most of the view while on a flight during Hot Air Balloon Day, because we were getting at it the entire ride. It was super hot for everyone, except the pilot, who seemed extremely annoyed and uncomfortable.
+Pilot the balloon
+Just enjoy the view
+📅
+June 6th
+In honor of National Eyewear Day today, your [Partner/Spouse], [Name], wants to take advantage of the blowout sales by getting a new pair of glasses and asks you which style will look best on his/her handsome/beautiful face.
+What will you tell him/her?
+Cool & fashionable
+[Name] came home looking like the ace hipster after she purchased a very stylish pair of shades at a blowout sale on National Eyewear Day. Then she thanked me for encouraging her to do so.
+Nerdy Sexy
+Distinguished and classy
+You're asking the wrong person
+📅
+June 7th
+While hanging out at your friend's house, he tells you that today is National Chocolate Ice Cream Day and he has a freezer full of various types of chocolate ice cream. He asks which one you most want to eat to celebrate this special day.
+Which will you choose?
+Ben & Jerry's Peanut Butter Fudge Core
+Baskin-Robins Rocky Road
+Haagen-Dazs Chocolate
+Vanilla frozen yogurt
+📅
+June 8th
+While sitting in class listening to your teacher about World Oceans Day, a classmate asks, "How many oceans are there in the world?" Your teacher turns to you and asks if you can answer that question.
+What will you say?
+Four
+Five
+One
+Beats me
+📅
+June 9th
+While sitting on park bench enjoying a cup of coffee, a young boy/girl approaches you saying that today is National Donald Duck Day! He/She then smugly asks if you know the name of Donald's third nephew. There's Huey, Louie, and.?
+What's your answer?
+Phooey
+Stewie
+Dewey
+No clue
+📅
+June 10th
+While enjoying a dinner party at your friend's house, someone points out that today is National Herb and Spice Day. The discussion then turns into a thought experiment asking, "If you could only use one herb or spice for the rest of your life, what would it be?"
+Which will you choose?
+Chili powder
+Garlic
+Salt
+Pumpkin spice
+📅
+June 11th
+While enjoying breakfast with your parents, your mother/father informs you that today is National Making Life Beautiful Day, and she wants you to join her in doing some charity work of your choosing.
+What will you choose?
+Volunteer in the community garden
+Get manicures & pedicures
+Volunteer for Habitat for Humanity
+I'd rather stay home
+📅
+June 12th
+While scrolling through your news feed, you discover that today is Magic Day, and you decide to explore YouTube to learn a new magic trick that will impress your friends.
+Which one will you choose?
+Vanishing coin trick
+Rabbit out of a hat trick
+Find a card trick
+Magic is not my thing
+📅
+June 13th
+While relaxing in your backyard, the next-door neighbor shouts at you over the fence, saying, Howdy ho neighbor, it's June 13th! Hope you're enjoying Weed Your Garden Day! Now that you're aware of the holiday, you begin thinking of ways to participate.
+What will you do?
+Pull the weeds by hand
+Use a hoe
+Plant some weed
+Keep relaxing
+📅
+June 14th
+Today is International Bath Day. and as you're doing some research online regarding this unusual holiday, you come upon a Quora forum in which someone has asked, Why don't American men like to bathe?
+How will you respond?
+They think it's dirty
+They think it's feminine
+They don't undersand the benefits
+I'm soaking in bubbles at the moment
+📅
+June 15th
+📅
+June 16th
+While enjoying a nice dinner with your [Relationship], [Name], you hear a commercial on the radio saying it's National Vinegar Day today. He/She/Zie asks you what you think is the most amazing aspect of vinegar.
+What will you say?
+Vinegar is best for cleaning
+Vinegar is best for cooking
+Vinegar is best for killing weeds
+Vinegar is a key douche ingredient
+📅
+June 17th
+In honor of Global Garbage Man Day today, you want to gift something special to your neighborhood sanitation worker to show your sincere appreciation for all the hard work he's been doing.
+What will you give?
+12-pack of beer
+Thank you note
+Deodorant
+Leather gloves
+📅
+June 18th
+📅
+June 19th
+📅
+June 20th
+📅
+June 21st
+In honor of International Yoga Day today, some of your friends are asking you to join them in an extreme yoga pose-off where you choose a public location and hold a pose for 30 minutes.
+Where and what will you choose?
+Down dog in a pet store
+Bridge pose on a bridge
+Chair pose in a furniture store
+No thanks
+📅
+June 22nd
+To commemorate Stupid Guy Thing Day Today, you and your friends want to laugh at your guys doing stupid things, and they're asking for suggestions on what to watch.
+What will you suggest?
+Fail Army
+Journal: In honor of Stupid Guy Thing Day, I watched Fail Army with some friends, and we laughed our heads off watching guys doing stupid things.
+Dumb and Dumber
+Journal: In honor of Stupid Guy Thing Day, I watched Dumb and Dumber with some friends, and we laughed our heads off watching guys doing stupid things.
+A fraternity hazing
+Journal: In honor of Stupid Guy Thing Day, I watched a fraternity hazing with some friends, and we laughed our heads off watching guys doing stupid things.
+Jackass
+Journal: In honor of Stupid Guy Thing Day, I watched Jackass with some friends, and we laughed our heads off watching guys doing stupid things.
+📅
+June 23rd
+📅
+June 24th
+You're relaxing on the couch watching 'Night at the Museum' as a way to celebrate Museum Comes to Life Day. During a commercial break, your mind starts to wander, and you begin thinking about which exhibit you would most like to see come alive.
+Which would you choose?
+A T-Rex exhibit
+A deliciously divine Greek sculpture
+A Harry Styles wax figure
+A giant venus fly trap
+📅
+June 25th
+📅
+June 26th
+📅
+June 27th
+You're hosting a high-stakes bingo game at a local nursing home on National Bingo Day when you accidentally read out the wrong number. Immediately, a sweet old lady, who has never won a game, screams out BINGO!
+What will you do?
+Keep it to myself
+Admit my mistake
+Run!
+📅
+June 28th
+In honor of International Body Piercing Day today, you decide you want to flex on your friends by getting a new piercing in an obscure part of your body.
+Where will it be?
+Uvula
+Nose bridge
+Butt cheeks
+I changed my mind
+📅
+June 29th
+You've decided that the best way to celebrate Hug Holiday Day today is by giving a big bear hug to someone who needs it the most.
+Who will you hug?
+A widowed grandmother
+A sanitation worker
+A school teacher
+An angry old man
+📅
+June 30th
+📅
+July 1st
+📅
+July 2nd
+📅
+July 3rd
+📅
+July 4th
+📅
+July 5th
+📅
+July 6th
+📅
+July 7th
+📅
+July 8th
+📅
+July 9th
+📅
+July 10th
+While frolicking barefoot in your garden, casually scrolling through social media, you see a post that says today is Don't Step on a Bee Day. Suddenly, you feel a sharp pain on the bottom of your foot and look down to discover that you stepped on a bee!
+What will you do?
+Vow to never disturb a bee again
+Create a memorial
+Volunteer at a bee farm
+Nothing
+📅
+July 11th
+📅
+July 12th
+National Simplicity Day has arrived, and as you and your friend are discussing the holiday, he asks you how you think he should simplify his life
+What will you say?
+Slow down
+Get rid of stuff you don't need
+Enjoy the small things
+You already are a basic bitch!
+📅
+July 13th
+📅
+July 14th
+📅
+July 15th
+📅
+July 16th
+📅
+July 17th
+📅
+July 18th
+📅
+July 19th
+📅
+July 20th
+📅
+July 21st
+📅
+July 22nd
+📅
+July 23rd
+While lying in bed, scrolling through Instagram before dozing off, you discover that it was National Gorgeous Grandma Day. You decide to drift off to sleep while dreaming of a gorgeous grandma.
+Who will you dream about?
+Kris Jenner
+Betty White
+Whoopi Goldberg
+I'll pass
+📅
+July 24th
+You discover it's Cousins Day today when your friend's quirky cousin calls you up just to see if you know what a "second cousin, once removed" means.
+What will you say?
+The grandchild of my first cousin
+The child of my second cousin
+The parent of my second cousin
+Don't know, don't care
+📅
+July 25th
+In honor of National Wine and Cheese Day
+today, you decide it will be fun to search online for a classic wine and cheese pairing to serve your friends that will make then think you're a total wine snob.
+What will you choose?
+Pinot noir with gruyere
+Champagne with brie
+Garnacha with manchego
+Grape Juice with Velveeta
+📅
+July 26th
+Your friend just texted you to say its One Voice Day today, and he/she is asking if you want to join him in reciting the 577-word Universal Peace Covenant to bring families, countries, and the world together in a peaceful co-existence
+How will you respond?
+I'm all in!
+Too hippy-dippy for me
+Reply with a shruggie
+Leave it on read
+📅
+July 27th
+Some months ago, you borrowed your friend's bagpipes, and started learning how to play a few songs in preparation for Bagpipe Appreciation Day, which has finally arrived today. Now you're ready to put on a kilt and play a song for all to hear.
+What will the pipes be calling?
+A Celtic punk song
+A Scottish Standard
+A hip hop song
+I can't do it
+📅
+July 28th
+📅
+July 29th
+Your friend is honoring International Tiger Day today by dressing up as a tiger and going to a place where people can pet live tigers. He/She wants you to join him/her, and is asking for a suggestion on where you think would be a fun place to try it.
+What will you say?
+Greater Wynnewood Exotic Animal Park
+Doc Antle's Myrtle Beach Safari
+Carole Baskin's Big Cat Rescue
+I think that's a bad idea
+📅
+July 30th
+It's the International Day Of Friendship today, and you want to find a way to show a friend how much you really appreciate him/her.
+What will you do?
+Give him/her flowers
+Tell him/her how much I appreciate him/her
+Prank him/her
+Maybe next year
+📅
+July 31st
+While dining al fresco with some friends, your server informs the group that today is National Avocado Day, and the chef has prepared some signature dishes in the honor of the fruit. He/She asks if you'd be interested in trying one.
+What will you say?
+Hipster avocado toast
+Southwestern guacamole
+Avocado ice cream
+I don't like avocados
+📅
+August 1st
+You and your friends are browsing a comic book store when the cashier mentions that today is Spider-Man Day. You begin discussing the character when your friend asks you which actor was the best Spider-Man.
+Which will you choose?
+Tobey McGuire
+Tom Holland
+Andrew Garfield
+Don't ask me
+Journal: On Spider-Man Day, I told my friend that I have no idea who the quintessential Spider-Man was.
+📅
+August 2nd
+📅
+August 3rd
+You want to celebrate National Grab Some Nuts Day today by munching on some savory nuts, but before you put anything in your mouth, you feel the need to ensure it's an actual nut you're enjoying and not a legume that's often confused as a nut.
+What will you choose?
+Walnuts
+Almonds
+Peanuts
+Cashews
+📅
+August 4th
+Your friend, who is doing great losing weight on his/her diet, calls you first thing in the morning to say it's national Chocolate Chip Cookie Day today and desperately needs your help because he/she is powerless over the most delicious cookie ever.
+How will you help?
+Take him/her out for a hike
+Duct tape his/her mouth shut
+Tell him/her to give-in for one day
+Give him/her a reassuring pep-talk
+📅
+August 5th
+To celebrate National Underwear Day today, some friends want you to join their flash mob wearing just your undies, and they're looking for suggestions on where will be a good place to reform.
+Where will you suggest?
+A retirement home
+A Sexaholics Anonymous meeting
+A church house
+Count me out
+📅
+August 6th
+📅
+August 7th
+Your friends want to celebrate National Beach Party Day today and are asking for suggestions on what you think is the most quintessential activity that defines a beach party.
+What will you say?
+Beach volleyball
+Music and dancing
+Cold beer!
+I don't like the beach
+📅
+August 8th
+📅
+August 9th
+Your friend just called to say it's Book Lovers Day today and he is challenging you to put down your phone and read a great work of literature.
+What will you do?
+Read Tolstoy's 'Anna Karenina'
+Read Ellison's 'Invisible Man'
+Read Cervantes' 'Don Quixote'
+I need my phone for BitLife
+📅
+August 10th
+You've been waiting all year for National Lazy Day to arrive, and now that it's finally here, you want to get busy getting lazy!
+What will you do?
+Netflix, couch, all day long
+Stay in bed all day
+No chores, pajamas all day
+Scroll memes
+📅
+August 11th
+While riding in the car with some friends, you hear on the radio that today is Presidential Joke Day in the United States. The DJs start discussing memorable Presidential blunders when your friend asks what you think was the funniest Presidential moment in America.
+What will you say?
+Bill Clinton's dirty cigar incident
+JFK's jelly donut moment
+George W. Bush's shoe encounter
+I don't know about all that
+📅
+August 12th
+You and your friend want to celebrate World Elephant Day by watching an elephant-themed movie while munching on roasted peanuts, but you're having trouble deciding which movie to watch.
+What will you choose?
+Dumbo
+Horton Hears a Who!
+Disneynature's Elephant
+The Elephant Man
+📅
+August 13th
+While watching a documentary on International Left-Handers Day about the histories of great lefties, and their political, artistic, and scientific contributions, you begin to contemplate using your non-dominant hand for various activities and decided to try one.
+Which will it be?
+Writing
+Eating
+Playing sports
+Using my phone
+📅
+August 14th
+📅
+August 15th
+It's National Best Friends Day today, which causes you to reflect on some of the best friend duos you remember for childhood, and who was your favorite.
+Who do you think?
+Ernie and Bert
+SpongeBob and Patrick
+ICarly and Sam
+Bart Simpson and Milhouse
+📅
+August 16th
+Just in time for National Roller Coaster Day, a new roller coaster called "The Vomitor" has recently opened for those who are brave enough to stomach it. Your friends dare you to ride it without vomiting.
+What will you do?
+Ride it!
+Ride it and vomit
+Make my friends ride it too
+No way!
+📅
+August 17th
+In honor of Baby Boomers Recognition Day today, you've been asked to find a random boomer and tell them something that expresses your appreciation for their generation.
+What will you say?
+Thank you for inventing the internet!
+Thank you for inventing smartphones!
+Thank you for inventing the Apple II!
+Okay, boomer!
+📅
+August 18th
+📅
+August 19th
+In honor of World Humanitarian Day today, you want to do something nice for the people in need in your own community.
+What will you do?
+Volunteer at a homeless shelter
+Visit a nursing home
+Weed a grandma's garden
+Take a widower to lunch
+📅
+August 20th
+If celebration of National Bacon Lovers Day, you've joined some of your bacon-loving friends at a local restaurant that is offering unique dishes using bacon as the main ingredient.
+What will you have?
+Candied bacon steamed buns
+Bacon-wrapped bacon bites
+Coffee Bacon Milkshake
+I don't eat bacon
+📅
+August 21st
+It's National Senior Citizens Day today, which sparks a fun conversation amongst you and some friends over who you think is the coolest old celebrity.
+Who will you say?
+Morgan Freeman
+Betty White
+Sir Paul McCartney
+Liza Minnelli
+📅
+August 22nd
+On National Eat a Peach Day, you're surprised to discover that your friend has never eaten a peach before but is curious to try it for the first time. He/She then asks you for suggestions now how to get the most enjoyment from the experience.
+What will you suggest?
+Don't eat the fuzz
+Be careful of dripping juices
+Add some cream
+Just enjoy it!
+📅
+August 23rd
+📅
+August 24th
+It's International Strange Music Day and your friend is challenging you to listen to something you consider strange, and listen to it all day long
+What will you choose?
+Wizard Rock
+Glitch Hop
+Hypnagogic Pop
+Kawaii Core
+📅
+August 25th
+It's National Kiss and Make Up Day today, which causes you to consider who in the world could benefit the most from this special day of forgiving and forgetting.
+Who do you think?
+Cats and dogs
+North and South Korea
+Johnny Deep and Amber Heard
+The Montagues and Capulets
+📅
+August 26th
+It's National Women’s Equality Day, which causes you to reflect upon all the amazing women in history who were advocates for women's rights. You begin to consider which one had the most significant impact on society.
+Who do you think?
+Dolores Huerta
+Simone de Beauvior
+Sojourner Truth
+I can't choose just one
+📅
+August 27th
+You're walking downtown with your friend when an older man/woman suddenly approaches saying it's World Rock Paper Scissors Day today. He/She challenges you to play a game against him/her, and the winner will be deemed the most intelligent person in town
+What will you choose?
+Rock
+Paper
+Scissors
+Go away
+📅
+August 28th
+You discover that today is National Bow Tie Day when you come across an online poll asking who you think is the most iconic wearer of a bow tie.
+Who will you vote for?
+James Bond
+Pee-Wee Herman
+Winston Churchill
+The Playboy Bunny
+📅
+August 29th
+It's Lemon Juice Day today, which causes you to reflect on many uses of this beneficial fruit and wonder which one might be the most valuable.
+What will you say?
+Making water taste better
+Removing underarm stains
+Lemon Cookie Bars
+A Whiskey Sour
+📅
+August 30th
+In honor of National Beach Day, a local beach travel agency is giving away a free beach vacation to one lucky winner. To participate, you much choose from one of four exciting locations.
+What will you choose?
+Ibiza, Spain
+Boracay, Philippines
+Ipanema, Rio, Brazil
+Miami Beach, Florida
+📅
+August 31st
+Your friend just called to say he/she wants to celebrate Eat Outside Day with you and is asking for your opinion on where is the best place to dine outdoors.
+What will you say?
+Picnic in the park
+Trail mix on a hiking trail
+Fish n' Chips on the beach
+Ice Cream anywhere
+📅
+September 1st
+📅
+September 2nd
+📅
+September 3rd
+It's National Skyscraper Day, and you're watching a news story comparing the world's most famous high-rises. As you look at the images, you start daydreaming about what you would do if you atop one of the world's tallest towers.
+What will you do?
+Take in the amazing views
+I'd shut my eyes!
+I'd spit down and watch it fall
+I'd probably have a heart attack
+📅
+September 4th
+You and your friend are enjoying a stroll around the zoo on National Wildlife Day, when he/she asks which animal you think would be the most terrifying to encounter in the wild.
+What will you say?
+A king cobra
+A grizzly bear
+A great white shark
+A saltwater crocodiles
+📅
+September 5th
+📅
+September 6th
+📅
+September 7th
+📅
+September 8th
+📅
+September 9th
+📅
+September 10th
+📅
+September 11th
+📅
+September 12th
+National Video Games Day has finally arrived, and now you must decide how you will celebrate this great day.
+What it will be?
+'BitLife'
+'The Legend of Zelda'
+'Call of Duty'
+No time for games
+📅
+September 13th
+It's Poistive Thinking Day today, and you're thinking ways to be positive.
+What will you do?
+Hang out with positive people
+Show gratitude for life
+Forgive past grievances
+Be kind to an angry Karen
+📅
+September 14th
+📅
+September 15th
+Your teacher announces the class that today is International Dot Day and encourages you to be brave enough to
+"make your mark" by creating something unique to your personality.
+What will you create?
+Write a fun story
+Journal: On International Dot Day, I made my mark by writing a fun story that I made up in my head.
+Paint a self-portrait
+Sing a song
+Play BitLife
+📅
+September 16th
+📅
+September 17th
+📅
+September 18th
+📅
+September 19th
+📅
+September 20th
+📅
+September 21st
+📅
+September 22nd
+📅
+September 23rd
+You and your friend want to celebrate National Dogs in Politics Day by watching a documentary about dogs in politics, but you're having difficulty deciding which one to watch.
+What will you choose?
+Obama's Portuguese Water Dogs
+The Queen Mother's Corgis
+Laika, the Soviet space dog
+Snoop Dogg for President
+📅
+September 24th
+It's National Punctuation Day! Or is it? "Yes, it is," your teacher said to the class. "Now, please tell me, what is your favorite punctuation mark?"
+What will you say?
+I appreciate a routine period
+I admire a nice colon
+I enjoy the semicolon
+I need braces!
+📅
+September 25th
+Your teacher says it's World Dream Day today, and "if you can dream it, you can be it!" She then asks, "who do you dream of being?"
+What will you say?
+A talented, famous person
+A good and happy person
+An extremely wealthy person
+All the above
+📅
+September 26th
+It's National Dumpling Day today which
+always causes you torment because
+there are so many varieties of delicious
+dumplings, it's difficult to choose just
+one to celebrate with.
+What will it be this year?
+Apple dumplings
+Wonton dumplings
+Mondu dumplings
+Sweet dumplings
+📅
+September 27th
+Finally, it's Chicken Finger Day! What
+will you dip your chicken fingers in to
+celebrate this delicious day?
+What will you choose?
+Real Ranch Dressing
+Barbecue sauce
+Buffalo sauce
+No sauce needed
+📅
+September 28th
+In honor of National Good Neighbor
+Day, you want to perform an act of
+kindness for one of your neighbors.
+What will you do?
+Mow a hot grandma’s lawn
+Bake pot brownies for an aging hippy
+Seed a single mother’s garden
+Take out a grandpa’s trash
+📅
+September 29th
+Today is International BitLife Day, marking the day BitLife was born, and you're feeling inspired to commemorate it in a way that's equal to the greatness of the game.
+What will you do?
+Leave a 5-star review
+Become a Bitizen
+Share my favorite BitLife Screenshot
+Tell everyone I know about the game!
+📅
+September 30th
+It's Ask a Stupid Question Day! And your
+teacher says there are no stupid
+questions, so now is the time to ask
+anything you want, even if it sounds
+ridiculous.
+What will you ask?
+Can I be inside an empty room?
+Is a fly without wings called a walk?
+Do butterflies feel people in their stomachs?
+Are there rings around Uranus?
+📅
+October 1st
+You're celebrating International Coffee
+Day with some friends at Starbucks when
+someone points out how many people
+are wearing coffee-themed tees. Your
+best friend asks which one you
+think is the most cringey.
+What will you say?
+Caffeine Queen
+But first, coffee
+Death Before Decaf
+Just Brew It
+📅
+October 2nd
+Your friend is an aspiring cocktologist and, in honor of World No Alcohol Day, offers to make you a delicious “mocktail' to help you celebrate this special day of abstinence.
+What will you drink?
+Shirley Temple
+Roy Rogers
+Nojito
+Bourbon!
+📅
+October 3rd
+📅
+October 4th
+It's World Animal Day today, and you've
+been invited to join an activist group that
+rescues wild animals from illegal
+sanctuaries. They're asking which animal
+you want to help rescue the most.
+What will you say?
+An elephant
+A wolf
+A monkey
+Tiger King Joe Exotic
+📅
+October 5th
+Your teacher informs the class that today
+is World Teacher's Day, and she asks
+everyone to identify who they think is
+the greatest teacher in history.
+What will you tell her?
+Confucius
+Aristotle
+Martin Luther King
+You are!
+📅
+October 6th
+National Plus-Size Appreciation Day has
+arrived, and you must decide how you
+will honor your favorite plus-size model,
+Julie Henderson.
+What will you do?
+Order a plus-size swimsuit calendar
+Support plus-size models on social media
+Get a tattoo of a plus-size model
+Maybe next year
+📅
+October 7th
+To celebrate National Flower Day, a local florist is delivering free flowers, and all you got to do is tell them where you would enjoy having flowers the most in your home.
+What will you say?
+Heather in my bedroom.
+Pansies on my back porch.
+Tulips on my organ.
+Peonies in my bathroom.
+📅
+October 8th
+📅
+October 9th
+You discover that today is National
+Sneakers Day when a poll shows on your
+feed asking if you had to wear just one
+brand of sneakers for the rest of your
+life, which one would you choose?
+What will you say?
+Converse
+Vans
+Nike
+Adidas
+📅
+October 10th
+Your friend is asking if you could hug just one famous Kevin on National Hug-a-Kevin Day, who would it be?
+Who will you say?
+Kevin Bacon
+Kevin Costner
+Kevin Spacey
+Kevin, the Creator (of Bitlife)
+📅
+October 11th
+📅
+October 12th
+A group of freethinkers wants you to join
+them at a free-thinking party to celebrate
+National Freethought Day, and they're
+asking you to bring your favorite free
+thought with you.
+What thought will you bring?
+Visualize world peace
+Love is all you need
+It is what it is
+Perception is reality
+📅
+October 13th
+It's National No Bra Day, and you and
+some girlfriends are sitting around
+thinking of fun things to do today while
+not wearing a bra.
+What will you do?
+Go for a run
+Post a selfie
+Play in the sprinklers
+Stay home
+📅
+October 14th
+📅
+October 15th
+Global Handwashing Day has finally
+come, allowing you to reflect upon your
+handwashing techniques and a chance
+to adjust your approach.
+Which approach will you adopt?
+Thorough washes throughout the day
+Sporadically wash throughout the day
+An occasional quick rinse
+That sounds like work!
+📅
+October 16th
+While scrolling through Buzzfeed, you
+encounter a fun poll asking everyone to
+vote for their favorite cat in honor of
+Global Cat Day.
+Which cat will you choose?
+Hello Kitty
+Grumpy Cat
+Garfield
+Cat Stevens
+📅
+October 17th
+📅
+October 18th
+📅
+October 19th
+Your teacher informs the class that today is Evaluate Your Life Day and asks everyone to evaluate their lives using weather terms?
+What will you say?
+Bright and Sunny
+Journal: On Evaluate Your Life Day, I told my teacher that my life was bright and sunny.
+Partly cloudy
+Journal: On Evaluate Your Life Day, I told my teacher that my life was partly cloudy.
+Torrential downpour
+Cool and breezy
+Journal: On Evaluate Your Life Day, I told my teacher that my life was cool and breezy.
+📅
+October 20th
+📅
+October 21st
+📅
+October 22nd
+📅
+October 23rd
+📅
+October 24th
+📅
+October 25th
+📅
+October 26th
+📅
+October 27th
+📅
+October 28th
+You and your friends love watching animated movies. It's International Animation Day today, and you're all trying to decide which movie you want in best celebration.
+What will you choose?
+Spirited Away
+Journal: I watched 'Spirited Away' with my friends on International Animation Day.
+Toy Story
+Journal: I watched 'Toy Story' with my friends on International Animation Day.
+Isle of Dogs
+Journal: I watched 'Isle of Dogs' with my friends on International Animation Day.
+Inside Out
+Journal: I watched 'Inside Out' with my friends on International Animation Day.
+📅
+October 29th
+📅
+October 30th
+📅
+October 31st
+📅
+November 1st
+📅
+November 2nd
+📅
+November 3rd
+📅
+November 4th
+📅
+November 5th
+📅
+November 6th
+You're shooting hoops with your friend on National Basketball Day and debating the GOATs of the NBA. He/She asks who you think is the greatest scorer of all time.
+What will you say?
+Michael Jordan
+Kareem Abdul-Jabbar
+Wilt Chamberlain
+Beats me?!
+📅
+November 7th
+📅
+November 8th
+📅
+November 9th
+📅
+November 10th
+📅
+November 11th
+📅
+November 12th
+📅
+November 13th
+📅
+November 14th
+📅
+November 15th
+📅
+November 16th
+📅
+November 17th
+📅
+November 18th
+📅
+November 19th
+📅
+November 20th
+📅
+November 21st
+📅
+November 22nd
+📅
+November 23rd
+📅
+November 24th
+📅
+November 25th
+It's Blase' Day! Today's the perfect day to feel "meh" about everything. Even writi-- meh.
+How will you respond?
+Meh
+Mehhh
+Blah blah blah
+Womp womp
+📅
+November 26th
+📅
+November 27th
+📅
+November 28th
+📅
+November 29th
+📅
+November 30th
+Your friend comes up to you and says, "Hey man, I need my space." You ask him why, and he/she tells you it's because today is National Personal Spce Day.
+How will you react?
+Call him/her a mouth-breather
+Give him/her a hug
+Get in his/her face
+Tell him/her to get lost in space.
+📅
+December 1st
+📅
+December 2nd
+📅
+December 3rd
+📅
+December 4th
+📅
+December 5th
+📅
+December 6th
+📅
+December 7th
+📅
+December 8th
+📅
+December 9th
+📅
+December 10th
+📅
+December 11th
+📅
+December 12th
+📅
+December 13th
+📅
+December 14th
+📅
+December 15th
+Your friend wants to celebrate International Tea Day by visiting a tea house and enjoying a cup or two while engaging in gossip. She asks you to choose the tea that will best suit the occasion.
+•Moroccan Mint Tea      •Indian Chai Tea •Japanese Matcha Tea •English Breakfast
+📅
+December 16th
+📅
+December 17th
+📅
+December 18th
+📅
+December 19th
+📅
+December 20th
+📅
+December 21st
+📅
+December 22nd
+📅
+December 23rd
+📅
+December 24th
+📅
+December 25th
+It's Christmas Day today, and in the spirit of giving, you decide to gift your parents a special surprise.
+What will you gift them?
+A cup o' cheese
+A crop dusting
+A 'silent but deadly'
+Hugs and kisses
+Journal: On Christmas Day, I gave both of my parents a big hug and a kiss on the cheek.
+📅
+December 26th
+📅
+December 27th
+It's National Fruitcake Day! You ave a leftover fruitcake that you want to take to the nearest Great Fruitcake Toss so that you can dispose of it. The only question, now, is what you'll use to toss the cake.
+What will you choose?
+Catapult
+Grenade launcher
+Slingshot
+Bottle rocket
+📅
+December 28th
+📅
+December 29th
+Today is "Still Need to Do Day," and it's time to get those things done that you promised you'd get done before the end of the year. You'd decide to make a list and focus on getting the most important task done before the year ends.
+What will you choose?
+Fold laundry
+Write thank-you notes
+Shop for NYE
+Sleep
+📅
+December 30th
+It's National Bacon Day! Your friend invites you over for a breakfast. As you're heading over he/she calls and tells you that he/she forgot to pick up your favorite kind of bacon! He/She asks you to pick up your favorite kind of bacon on your  way over.
+What will you choose?
+Maple bacon
+Journal: On National Bacon Day, when my friend asked me to pick up some bacon for breakfast, I purchased a maple bacon.
+Thick cut bacon
+Journal: On National Bacon Day, when my friend asked me to pick up some bacon for breakfast, I purchased a thick cut bacon.
+Turkey Bacon
+Journal: On National Bacon Day, when my friend asked me to pick up some bacon for breakfast, I purchased a turkey bacon.
+No Bacon
+📅
+December 31st

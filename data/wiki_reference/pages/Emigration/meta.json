@@ -1,0 +1,21 @@
+{
+  "title": "Emigration",
+  "pageid": 343,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Emigration",
+  "categories": [
+    "Activities",
+    "BitLife"
+  ],
+  "links": [
+    "Childhood events",
+    "IOS version",
+    "Ribbons"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Emigration/content.html",
+    "wikitext": "pages/Emigration/content.wikitext",
+    "text": "pages/Emigration/content.txt"
+  }
+}

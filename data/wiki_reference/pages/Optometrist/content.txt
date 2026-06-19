@@ -1,0 +1,17 @@
+Optomerist
+Launched on iOS:
+March 2020
+Launched on Android:
+June 2020
+Eyesight Scenario showing the mother is concerned with eyesight, but it can be both parents, just the father, or if both parents are dead in this scenario, you'll get a pop up telling you your eyesight has been worsening and it's time to visit the optometrist for the eye exam.
+Optometrist is the eye doctor in BitLife. It is currently a
+Bitizen
+feature. There maybe a scenario popping up where your parents might be concerned about your eye vision. They'll take you to do an eye exam and if you fail, will get you to the Optometrist. You might also go there willingly from age 18. There you can choose which spectacles you'll wear, each one having a different color. It is also possible to cheese it in a way where if you fail the exam and need glasses, once you become 18 you can take them off and get regular contact lenses instead.
+Note: At some point in your childhood, it's likely you'll have a parent concerned with your eyesight and will take you for an eye exam at the optometrist - this does not require Bitizen to happen.
+“ Under construction! ”
+“ Under construction! ”
+⬇
+[[File:{{{image}}}|90x90px|link=]]
+This article is a
+stub
+! Help outBitLife - Life Simulator Wiki by adding more information.

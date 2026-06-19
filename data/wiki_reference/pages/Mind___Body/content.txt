@@ -1,0 +1,971 @@
+Mind & Body
+Launched on iOS:
+September 2018 (default)
+Launched on Android:
+February 2019 (default)
+Last Updated on iOS:
+February 2020
+Last Updated on Android:
+March 2020
+Mind & Body
+is an
+activity
+that can give small bursts of health and smarts to increase your
+Stats
+and can even help raise
+Karma
+. In addition, they may be a little more happy as a result of self-care. Mind and Body was a standard default top fave go-to activity, until an
+update
+allowed players to choose which activities should go on the top for their own games. In most locations, characters need to be at least 12-13 for meditating or library or 16 to work out at the gym or to take a memory test. Later it was changed to 12 for all 4: meditating, library, gym, and memory test. This can be done in
+Prison
+and juvenile detention (except for a memory test) with gym being free. There was an update which added 5 more Mind and Body activities: Reading books, Going on a Diet, Gardening, Martial Arts, and Walks.
+Mind & Body Activities
+[
+]
+Books
+- The player can choose a book for their character and tap the screen to read the pages. They can also get a manga (Fruits Basket, Vol. 1). This can improve Smarts for the character and have them say how much they enjoyed the book. If a character does not want to finish a book, they may abandon it or find a different book. All books are based on real-life books. Children may only read children's books. An achievement can be unlocked for reading the entire dictionary. Unlike the Library, reading multiple individual books in one year can improve Smarts every time rather than just once a year.
+List of Books, Authors, Genres, and Pages, etc.
+Book
+Author
+Genre
+Pages
+Age Unlocked
+Effects
+#IMomSoHard
+Kristin Hensley
+Comedy
+272
+17
+Happiness +16
+Smarts +4
+1984
+George Orwell
+Science Fiction
+237
+17
+A Brief History of Time
+Stephen Hawking
+Non-Fiction
+256
+17
+A Game of Thrones
+George R.R. Martin
+Fantasy
+694
+18
+Happiness +16
+Smarts +4
+Alice's Adventures in Wonderland
+Lewis Carroll
+Fantasy
+239
+10
+Happiness +100
+Smarts +50
+All My Friends Are Dead
+Avery Monsen
+Comedy
+96
+17
+Happiness +16
+Smarts +4
+All Quiet on the Western Front
+Erich Maria Remarque
+Historical Fiction
+296
+17
+Angela's Ashes
+Frank McCourt
+Autobiography
+378
+15
+Happiness -8
+Smarts +16
+A Tale of Two Cities
+Charles Dickens
+Historical Fiction
+489
+17
+A Time to Kill
+John Grisham
+Novel
+546
+17
+Happiness +4
+Smarts +4
+Atlas Shrugged
+Ayn Rand
+Novel
+1168
+17
+Happiness +8
+Smarts +100
+A Tree Grows in Brooklyn
+Betty Smith
+Novel
+493
+13
+Happiness +16
+Smarts +16
+Awaken the Giant Within
+Tony Robbins
+Self-Help
+548
+15
+Happiness +50
+Smarts +50
+A Wrinkle in Time
+Madeleine L'Engle
+Fantasy
+260
+10
+Beauty Fades, Dumb is Forever
+Judy Sheindlin
+Comedy
+190
+19
+Happiness +16
+Smarts +4
+Becoming
+Michelle Obama
+Autobiography
+463
+15
+Happiness +16
+Smarts +50
+Beloved
+Toni Morrison
+Historical Fiction
+345
+16
+Happiness -8
+Smarts +50
+Bossypants
+Tina Fey
+Autobiography
+196
+19
+Brave New World
+Aldous Huxley
+Science Fiction
+288
+17
+Happiness -4
+Smarts +50
+Broke Millennial Takes On Investing
+Erin Lowry
+Self-Help
+258
+17
+Brown Bear, Brown Bear, What Do You See?
+Bill Martin Jr.
+Children's Picture Book
+32
+6
+Happiness +16
+Smarts +16
+Captain Underpants and the Attack of the Talking Toilets
+Dav Pilkey
+Children's Novel
+133
+7
+Happiness +4
+Smarts +4
+Catch-22
+Joseph Heller
+Novel
+452
+16
+Charlie and the Chocolate Factory
+Roald Dahl
+Children's Novel
+178
+7
+Charlotte's Web
+E.B. White
+Children's Novel
+196
+8
+Cookin' with Coolie
+Coolio
+Cookbook
+224
+17
+Corduroy
+Don Freeman
+Children's Picture Book
+32
+6
+Happiness +30
+Smarts +16
+Cosmos
+Carl Sagan
+Non-Fiction
+365
+17
+Happiness +8
+Smarts +50
+Crime and Punishment
+Fyodor Dostoyevsky
+Crime Fiction
+671
+19
+Happiness -4
+Smarts +50
+Critique of Pure Reason
+Immanuel Kant
+Non-Fiction
+856
+17
+Dad is Fat
+Jim Gaffigan
+Comedy
+288
+17
+Happiness +16
+Smarts +4
+Diary of a Wimpy Kid
+Jeff Kinney
+Children's Novel
+221
+10
+Happiness +50
+Smarts +4
+Don Quixote
+Miguel de Cervantes
+Novel
+1023
+17
+Dracula
+Bram Stoker
+Horror Novel
+488
+13
+Everything I Know About Women I Learned From My Tractor
+Roger Welsch
+Comedy
+224
+19
+Happiness +16
+Smarts -4
+Fahrenheit 451
+Ray Bradbury
+Science Fiction
+194
+16
+Fear and Loathing in Las Vegas
+Hunter S. Thompson
+Novel
+217
+19
+Fifty Shades of Grey
+E.L. James
+Romance Novel
+514
+19
+Happiness +50
+Smarts -4
+First Step 2 Forever
+Justin Bieber
+Biography
+240
+15
+Flowers for Algernon
+Daniel Keyes
+Science Fiction
+311
+16
+Frankenstein
+Mary Shelley
+Horror Novel
+335
+13
+Freedom in Exile
+Dalai Lama
+Autobiography
+304
+15
+Gone with the Wind
+Margaret Mitchell
+Historical Fiction
+1037
+17
+Goodnight Moon
+Margaret Wise Brown
+Children's Picture Book
+32
+6
+Goosebumps
+R.L. Stine
+Children's Novel
+122
+9
+Happiness +16
+Smarts +4
+Hamlet
+William Shakespeare
+Tragedy
+289
+19
+Harry Potter and the Sorcerer's Stone
+J.K. Rowling
+Fantasy
+309
+9
+Hatchet
+Gary Paulsen
+Young Adult Novel
+195
+13
+Happiness +16
+Smarts +16
+Heart Of Darkness
+Joseph Conrad
+Novel
+188
+19
+Holes
+Louis Sachar
+Young Adult Novel
+251
+11
+Hop On Pop
+Dr. Seuss
+Children's Poetry
+72
+6
+Smarts -1
+How to Win Friends and Influence People
+Dale Carnegie
+Self-Help
+291
+15
+If You Give a Mouse a Cookie
+Laura Numeroff
+Children's Picture Book
+32
+6
+Happiness +16
+Smarts +30
+I Know Why the Caged Bird Sings
+Maya Angelou
+Autobiography
+305
+14
+Interview with the Vampire
+Anne Rice
+Horror Novel
+353
+19
+Invisible Man
+Ralph Ellison
+Novel
+581
+17
+I, Robot
+Isaac Asimov
+Science Fiction
+253
+15
+Happiness +8
+Smarts +8
+It
+Stephen King
+Horror Novel
+1138
+15
+Happiness +4
+Smarts +4
+Jane Eyre
+Charlotte Brontë
+Romance Novel
+532
+15
+Jurassic Park
+Michael Crichton
+Science Fiction
+400
+15
+Kama Sutra
+Vātsyāyana
+Self-Help
+576
+19
+Les Misérables
+Victor Hugo
+Historical Fiction
+141
+16
+Happiness -4
+Smarts +16
+Life of Pi
+Yann Martel
+Novel
+354
+15
+Smarts +4
+Little Women
+Louisa May Alcott
+Novel
+449
+11
+Lolita
+Vladimir Nabokov
+Novel
+331
+19
+Long Walk to Freedom
+Nelson Mandela
+Autobiography
+684
+16
+Lord of the Flies
+William Golding
+Young Adult Novel
+182
+14
+Madame Bovary
+Gustave Flaubert
+Novel
+329
+17
+Moby-Dick
+Herman Melville
+Novel
+654
+15
+My Horizontal Life
+Chelsea Handler
+Autobiography
+213
+19
+Happiness +16
+Smarts -4
+Norwegian Wood
+Haruki Murakami
+Novel
+296
+19
+Of Mice and Men
+John Steinbeck
+Novel
+187
+16
+One Flew Over the Cuckoo's Nest
+Ken Kesey
+Novel
+325
+19
+Smarts +16
+One Hundred Years of Solitude
+Gabriel García Márquez
+Fantasy
+417
+17
+On The Origins of Species
+Charles Darwin
+Non-Fiction
+502
+17
+On the Road
+Jack Kerouac
+Novel
+320
+17
+Patriot Games
+Tom Clancy
+Crime Fiction
+540
+17
+Pride and Prejudice
+Jane Austen
+Romance Novel
+279
+14
+Ramona Quimby Age 8
+Beverly Clery
+Children's Novel
+192
+9
+Ready Player One
+Ernest Cline
+Science Fiction
+386
+13
+Rich Dad, Poor Dad
+Robert Kiyosaki
+Self-Help
+196
+15
+Roots: The Saga of an American Family
+Alex Haley
+Novel
+704
+17
+Sherlock Holmes
+Arthur Conan Doyle
+Mystery
+1059
+13
+Shogun
+James Clavell
+Science Fiction
+1152
+19
+Siddhartha
+Hermann Hesse
+Novel
+152
+16
+Slaughterhouse-Five
+Kurt Vonnegut Jr.
+Science Fiction
+275
+17
+Happiness -4
+Smarts +30
+Stellaluna
+Janell Cannon
+Children's Picture Book
+48
+6
+Happiness +30
+Smarts +16
+Strong Looks Better Naked
+Khloé Kardashian
+Biography
+245
+17
+Tales of a Fourth Grade Nothing
+Judy Blume
+Children's Novel
+130
+11
+Happiness +16
+Smarts +8
+Teach Your Wife to be a Widow
+Donald Rogers
+Self-Help
+93
+17
+Happiness -4
+Smarts -4
+The 4-Hour Workweek
+Tim Ferris's
+Self-Help
+322
+19
+The 7 Habits of Highly Effective People
+Stephen R. Covey
+Self-Help
+420
+15
+Happiness +16
+Smarts +50
+The Adventures of Huckleberry Finn
+Mark Twain
+Young Adult Novel
+327
+14
+The Alchemist
+Paulo Coelho
+Novel
+179
+17
+Happiness +4
+Smarts +50
+The Art of War
+Sun Tzu
+Non-Fiction
+25
+17
+The Baby-Sitters Club
+Ann Martin
+Young Adult Novel
+147
+9
+Happiness +16
+Smarts +4
+The Bedwetter:Stories of Courage, Redemption, and Pee
+Sarah Silverman
+Comedy
+240
+19
+Happiness +16
+Smarts +4
+The Book Thief
+Markus Zusak
+Historical Fiction
+584
+12
+The Canterbury Tales
+Geoffrey Chaucer
+Poetry
+504
+19
+The Catcher in the Rye
+J.D. Salinger
+Novel
+277
+15
+The Cat in the Hat
+Dr. Seuss
+Children's Picture Book
+73
+6
+Happiness +16
+Smarts +4
+The Celestine Prophecy
+James Redfield
+Novel
+278
+17
+The Color Purple
+Alice Walker
+Historical Fiction
+347
+15
+Happiness -16
+Smarts +50
+The Communist Manifesto
+Karl Marx
+Non-Fiction
+30
+17
+The Count of Monte Cristo
+Alexandre Dumas
+Historical Fiction
+1276
+16
+The Crucible
+Arthur Miller
+Tragedy
+143
+16
+The Da Vinci Code
+Dan Brown
+Crime Fiction
+466
+16
+The Diary of a Young Girl
+Anne Frank
+Autobiography
+283
+14
+The Divine Comedy
+Dante Alighieri
+Poetry
+798
+17
+The Five Love Languages
+Gary Chapman
+Self-Help
+126
+15
+Happiness +50
+Smarts +50
+The Girl with the Dragon Tattoo
+Stieg Larsson
+Crime Fiction
+672
+17
+The Giving Tree
+Shel Silverstein
+Children's Picture Book
+31
+6
+Happiness +8
+Smarts +16
+The Godfather
+Mario Puzo
+Crime Fiction
+448
+19
+Happiness -4
+Smarts +4
+The Good Earth
+Pearl S. Buck
+Historical Fiction
+418
+15
+The Great Gatsby
+F. Scott Fitzgerald
+Novel
+200
+16
+The Hitchhiker's Guide to the Galaxy
+Douglas Adams
+Science Fiction
+216
+13
+Happiness +16
+Smarts +4
+The Hunger Games
+Suzanne Collins
+Fantasy
+374
+13
+The Importance of Being Earnest
+Oscar Wilde
+Comedy
+76
+14
+The Joy of Cooking
+Irma S. Rombauer
+Cookbook
+1152
+13
+The Kite Runner
+Khaled Hosseini
+Historical Fiction
+371
+16
+The Lion, the Witch and the Wardrobe
+C.S. Lewis
+Fantasy
+208
+11
+The Little Engine That Could
+Watty Piper
+Children's Picture Book
+48
+6
+Happiness +50
+Smarts +16
+The Lord of the Rings
+J.R.R. Tolkien
+Fantasy
+1216
+13
+The Meaning of Relativity
+Albert Einstein
+Non-Fiction
+170
+17
+The Merriam-Webster Dictionary
+Merriam Webster
+Reference
+3350
+13
+Smarts +100
+The Metamorphosis
+Franz Kafka
+Novel
+201
+16
+The Motorcycle Diaries
+Che Guevara
+Autobiography
+166
+17
+The Odyssey
+Homer
+Poetry
+541
+13
+The Old Man and the Sea
+Ernest Hemingway
+Novel
+132
+16
+The Power of Now
+Eckhart Tolle
+Self-Help
+236
+15
+Happiness +50
+Smarts +50
+The Prince
+Niccolo Machiavelli
+Non-Fiction
+164
+17
+The Republic
+Plato
+Novel
+570
+17
+The Rights of Man
+Thomas Paine
+Non-Fiction
+200
+17
+The Scarlet Letter
+Nathaniel Hawthorne
+Historical Fiction
+279
+16
+The Secret Garden
+Frances Hodgson Burnett
+Children's Novel
+331
+9
+Happiness -4
+Smarts +16
+The Snowy Day
+Ezra Jack Keats
+Children's Picture Book
+40
+6
+Happiness +16
+Smarts +16
+The Sound and the Fury
+William Faulkner
+Novel
+326
+17
+The Time Machine
+H.G. Wells
+Science Fiction
+84
+13
+Happiness +16
+Smarts +8
+The Tipping Point
+Malcolm Gladwell
+Non-Fiction
+209
+17
+The Total Money Makeover
+Dave Ramsey
+Self-Help
+289
+19
+The Very Hungry Caterpillar
+Eric Carle
+Children's Picture Book
+22
+6
+Happiness +16
+Smarts +4
+The Wealth of Nations
+Adam Smith
+Non-Fiction
+950
+17
+The Zen of Farting
+Carl Japikse
+Comedy
+104
+19
+Think and Grow Rich
+Napoleon Hill
+Self-Help
+238
+17
+To Kill a Mockingbird
+Harper Lee
+Novel
+324
+14
+Treasure Island
+Robert Louis Stevenson
+Young Adult Novel
+311
+11
+Happiness +50
+Smarts +4
+Tuesdays with Morrie
+Mitch Albom
+Biography
+192
+15
+Twenty Thousand Leagues Under the Sea
+Jules Verne
+Science Fiction
+394
+13
+Happiness +50
+Smarts +4
+Twilight
+Stephenie Meyer
+Young Adult Novel
+498
+14
+Happiness +4
+Smarts +4
+War and Peace
+Leo Tolstoy
+Historical Fiction
+1225
+19
+Where the Red Fern Grows
+Wilson Rawls
+Children's Novel
+273
+10
+Where the Wild Things Are
+Maurice Sendak
+Children's Picture Book
+56
+6
+Happiness +16
+Smarts +4
+Wuthering Heights
+Emily Brontë
+Novel
+464
+16
+Happiness +4 Smarts +16
+Diet
+- Go on a diet. Some diets can improve health while others lower health. Diets with lower health benefits could lead to
+Health problems
+. Each diet has a monthly price.
+List of diets and its effects (May not be accurate)
+Atkins diet: Slightly lowers health.
+High Calorie diet: Raises happiness, lowers health and appearance (-16 health per year)
+Hot Cheetos diet: Lowers health rapidly (-50 health per year)
+Jenny Craig diet: Raises happiness and health
+Keto diet: Raises health, lowers happiness slightly
+Liquid diet: Lowers looks, happiness and health, could result in being diagnosed with malnutrition
+Mediterranean diet: Raises happiness and health
+Paleo diet: Raises health and looks, lowers happiness
+South Beach diet: Raises health and looks
+Tapeworm diet: Lowers health and looks rapidly (-50 health, -50 looks per year)
+Vegan diet: Character gets malnutrition more easily, raises health, lowers happiness
+Vegetarian diet: Character gets malnutrition more easily, raises health
+Weight Watchers diet: Raises happiness, health, and looks
+Whole30 diet: Raises health, lowers happiness.
+Gardening
+- If the character has
+a house
+, they may do some gardening in their garden. You can garden in your parents' house until you're 18, when you need to own a house. This will show a bar showing how relaxing it was while gardening. Gardening increases happiness by 8%.
+List of Gardening actions
+Cutting back the plants
+Fertilizing the shrubs
+Filling all the birdbaths with water and bird feeders with seeds
+Planting some [plant]
+Pruning the trees
+Pulling all of the weeds
+Raking the leaves
+Trimming the shrubs
+Gym
+- Going to the gym costs $5–20 per visit and increases health and appearance. If your character has less than 10% health, they will be too weak to work out and unable to do so. Some
+physical ailments
+can be contracted at the gym such as ringworm or athlete's foot, but these go away quickly after
+aging
+or seeing
+the doctor.
+Sometimes a player can find
+Love
+at the gym, where they have an opportunity to ask someone on a date or accept a date request. It is available free on
+Prison
+.
+Memory Test
+- It is a test with a
+mini-game
+where you need to press the flashing colors after they're done flashing, the same colors the same amount of times. An easy way to win this to write the initials of the colors on a paper. This either increases or decreases your smarts depending on your score.
+Library
+- Going to the city's public library increases smarts. This tends to be faster increase when the character is younger rather than old. Sometimes a player can find
+Love
+at the library, where they have an opportunity to ask someone on a date or accept a date request.
+Martial arts
+- The player can rank up in belts and use moves on their enemies in assault situations. They can learn jiu-jitsu, taekwondo, judo, karate, or kung fu. Killing someone with one of these moves can earn an
+achievement
+. If the character has less than 60% health, they will probably not rank up in belts, and if their health is below 10%, they will be unable to attend these classes altogether.
+Meditation
+- Meditation increases health and improves karma. You can also find a "deep awareness" of yourself, meaning you will know a random stat like, say, athleticism or fertility.
+Walks
+- The character can choose from various walks. Walking improves one's health. They might encounter scenarios such as finding a purse or an animal. However, in some unfortunate cases, the character could suffer a massive heart
+attack
+, which usually happens if the character is old and walks at too fast a pace.

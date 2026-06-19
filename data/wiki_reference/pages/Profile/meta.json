@@ -1,0 +1,36 @@
+{
+  "title": "Profile",
+  "pageid": 579,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Profile",
+  "categories": [
+    "BitLife",
+    "Features",
+    "Profile",
+    "Under_construction"
+  ],
+  "links": [
+    "BitLife: Life Simulator",
+    "Children",
+    "Classmates",
+    "Co-Worker",
+    "Exes",
+    "Hook-Up",
+    "Love Interests",
+    "Main Characters",
+    "Nations",
+    "Parents",
+    "Pets",
+    "Relationships",
+    "School Faculty",
+    "Siblings",
+    "Stats",
+    "Superviser"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Profile/content.html",
+    "wikitext": "pages/Profile/content.wikitext",
+    "text": "pages/Profile/content.txt"
+  }
+}

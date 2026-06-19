@@ -1,0 +1,43 @@
+{{Infobox BitLifeApp
+|title1=Salon & Spa
+|image1=
+|launched_on_ios:=September 2018 (default)
+|launched_on_android:=February 2019 (default)}}The '''Saln & Spa''' is an [[Activities|activity]] that can increase [[Stats|looks,]] except for the massages, which can increase health. A player that has a character 18 years or older can do any of the procedures, while the ''Hair Salon'' and ''Nail Salon'' are the only two services that juvenile characters can go to. Juvenile characters will have to have their own money to pay for hair and nail salons, as parents only pay for [[Medical Doctor|seeing the doctor.]]
+
+
+==Hair Salon==
+*Cut & Color: 60-70
+*Cut Only: 5-20
+*Color Only: 30-60
+*Blowout: 5-15
+*Keratin Treatment: 60-85
+*Extensions: 180-210
+*Dye Job: Free
+*Hair Stylist: Free
+
+==MassageAll are 20-30 depending on [[Nations|country]].==
+*Deep Tissue
+*Pregnancy (pregnant females only)
+*Shiatsu
+*Swedish
+*Thai
+
+'''Warning: A [[Fertility|pregnant]] female must only get a pregnancy massage, as getting any of the others causes an immediate miscarriage.'''
+
+==Nail Salon==
+*Manicure: 5-20
+*Pedicure: 10-25
+*Manicure & Pedicure: 15-40
+
+==Tanning Salon==
+*Spray Tan: 5-15
+*Tanning Bed: 5-20
+
+==Waxing Studio==
+*Bikini Wax: 5-20
+*French Wax: 5-20
+*Hollywood Wax: 10-30
+*Brazilian Full Body (females only): 30-50
+*"Bro"zilian Wax (males only): 30-50
+[[Category:BitLife]]
+[[Category:Activities]]

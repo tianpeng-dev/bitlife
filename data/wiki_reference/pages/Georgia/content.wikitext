@@ -1,0 +1,10 @@
+{{Infobox_country|caption1=Georgia's flag.|country_name=Georgia|number_of_default_cities=1|when_was_it_added_to_ios=May 2020|available_on_android_as_well=Yes|image1=Flag_Georgia.png}}
+
+'''Georgia ''' is a [[Nations|country]] that was added to Bitlife in the May 10, 2020 update, alongside [[Algeria]], [[Bangladesh]], [[Bolivia]], [[Croatia]], [[Hungary]], [[Jordan]], [[Qatar]], [[Slovakia]], and [[Zimbabwe]]. The only default city is its capital, Tbilisi. However, cities of Poti and Batumi are available in [[DogLife]].
+
+== Gallery ==
+<gallery>
+File:Georgia baby.jpeg|A baby born in Georgia.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

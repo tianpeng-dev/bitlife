@@ -1,0 +1,23 @@
+{
+  "title": "Saul Goodman",
+  "pageid": 3665,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Saul_Goodman",
+  "categories": [
+    "Alcoholics",
+    "Americans",
+    "Criminals",
+    "Fan_Characters",
+    "Lawyers"
+  ],
+  "links": [
+    "Cheyenne McGill",
+    "Grayson McGill"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Saul_Goodman/content.html",
+    "wikitext": "pages/Saul_Goodman/content.wikitext",
+    "text": "pages/Saul_Goodman/content.txt"
+  }
+}

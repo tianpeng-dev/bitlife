@@ -1,0 +1,26 @@
+{
+  "title": "Situation/Witnessing Crimes",
+  "pageid": 624,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Situation%2FWitnessing_Crimes",
+  "categories": [
+    "BitLife",
+    "Events"
+  ],
+  "links": [
+    "Crime",
+    "Emoji",
+    "Encounter",
+    "Lawsuit",
+    "Prison",
+    "Random strangers",
+    "Ribbons",
+    "Situation/SOS"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Situation_Witnessing_Crimes/content.html",
+    "wikitext": "pages/Situation_Witnessing_Crimes/content.wikitext",
+    "text": "pages/Situation_Witnessing_Crimes/content.txt"
+  }
+}

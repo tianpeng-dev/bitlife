@@ -1,0 +1,20 @@
+{
+  "title": "Sydney Simpson",
+  "pageid": 5831,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Sydney_Simpson",
+  "categories": [
+    "Americans",
+    "Businesspeople",
+    "Fan_Characters"
+  ],
+  "links": [
+    "Amaya Simpson"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Sydney_Simpson/content.html",
+    "wikitext": "pages/Sydney_Simpson/content.wikitext",
+    "text": "pages/Sydney_Simpson/content.txt"
+  }
+}

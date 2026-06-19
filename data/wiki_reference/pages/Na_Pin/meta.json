@@ -1,0 +1,22 @@
+{
+  "title": "Na Pin",
+  "pageid": 5933,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Na_Pin",
+  "categories": [
+    "Fan_Characters",
+    "Koreans",
+    "Old_people",
+    "Truckers"
+  ],
+  "links": [
+    "Na Kang Mi",
+    "Na Kang Mi II"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Na_Pin/content.html",
+    "wikitext": "pages/Na_Pin/content.wikitext",
+    "text": "pages/Na_Pin/content.txt"
+  }
+}

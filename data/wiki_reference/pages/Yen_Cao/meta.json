@@ -1,0 +1,20 @@
+{
+  "title": "Yen Cao",
+  "pageid": 6065,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Yen_Cao",
+  "categories": [
+    "Fan_Characters",
+    "Restaurant_Workers",
+    "Vietnamese"
+  ],
+  "links": [
+    "Mildred (cat)"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Yen_Cao/content.html",
+    "wikitext": "pages/Yen_Cao/content.wikitext",
+    "text": "pages/Yen_Cao/content.txt"
+  }
+}

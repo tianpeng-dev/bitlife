@@ -1,0 +1,49 @@
+[[Category:Information]]
+[[Category:Careers]]
+[[Category:Special Careers]]
+[[Category:Under construction]]
+{{Infobox BitLifeApp
+|title1=Model
+|image1=[[File:Modeling Update BitLife.png|thumb]]
+|launched_on_ios:=December 2023
+|launched_on_android:=December 2023}}
+The '''Model''' Job Pack is a [[Careers/Occupation|special career]] that became available for purchase following the December 2023 update, players can now pursue a modeling career with this job pack. Players can now be born with a modeling talent, join a modeling agency, audition for modeling gigs, walk in Fashion weeks and more.
+
+'''This page is under construction!'''
+== Haute Couture Outfits ==
+After the promotion to elite model in a modeling agency, you will be able to receive invitations to walk at a Fashion Week when you age up. Some of your sponsors may gift you haute couture outfits that you may choose to accept and keep. There are a total of 30 unique haute couture outfits that will be viewable under your Main Menu under Designer Clothes.
+[[File:Haute Couture Outfits 1.png|thumb]][[File:Haute Couture Outfits 2.png|thumb]][[File:Haute Couture Outfits 3.png|thumb]]
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+'''List of Haute Couture Outfits:'''
+<div class="mw-collapsible-content"> 
+#Aquarelle Sweatshirt
+#Army Brat Jacket
+#BitLife Zip-Up Sweater
+#Black Jaguar Leather Jacket
+#Black Swan Cocktail Dress
+#Blackest Knight Cropped Sweater
+#Blue Skies Cropper Sweater
+#Bow-Wow DogLife Shirt
+#Brown Butter Leather Shirt
+#Camisa Del Sol Button-Up Shirt
+#Camp Counselor Tailored Shorts
+#Candy Striper Jumpsuit
+#Club Sake Tube Dress
+#Driven Snow Overalls
+#Eternal Bond Tuxedo Jacket
+#Faded Glory Jeans
+#Final Gambit Trench Coat
+#Girl With The Silk Sundress
+#Jendashian Cashmere Blazer
+#K-Drama Longline Coat
+#Lady In Red Blouse
+#Librarian Chic Midi Skirt
+#Miao-Miao CatLife Shirt
+#Perfect Blue Jacket
+#Priestly Jacket
+#Red Carpet Elaganza Gown
+#Retrowave Button-Up Shirt
+#Rough Rider Leather Jacket
+#Starman Leather Pants
+#Total Boss Tailored Trousers
+</div>

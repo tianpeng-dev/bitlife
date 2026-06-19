@@ -1,0 +1,21 @@
+{
+  "title": "Cheating",
+  "pageid": 496,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Cheating",
+  "categories": [
+    "BitLife"
+  ],
+  "links": [
+    "Adoption",
+    "Hook-Up",
+    "Karma",
+    "Ribbons"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Cheating/content.html",
+    "wikitext": "pages/Cheating/content.wikitext",
+    "text": "pages/Cheating/content.txt"
+  }
+}

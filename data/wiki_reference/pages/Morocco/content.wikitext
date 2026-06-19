@@ -1,0 +1,21 @@
+{{Infobox country
+|title1=Morocco
+|image1=[[File:Morocco.png]]
+|caption1=Morocco's flag.
+|country_name=Morocco
+|number_of_default_cities=4
+|when_was_it_added_to_ios=October 2019 (Haunted Update)
+|available_on_android_as_well = Yes.}}'''Morocco''' is a [[Nations|country]] that was on BitLife in October 2019. Its default cities are Casablanca,  Fez, Marrakesh and Tangier. The capital, Rabat, is strangely absent.
+
+Morocco was added as a new country to BitLife in late October 2019 during the Haunted Update, as the only non-Haunted addition to the game. [[Czech Republic]], [[Ecuador]], [[Hong Kong]], [[Malaysia]], [[Monaco]], [[Pakistan]], and [[Syria]] were also added at the same time.
+
+== Information ==
+
+== Name List ==
+
+== Gallery ==
+<gallery>
+File:Morocco baby.jpeg|A baby born in Morocco.
+File:Moroccan royalty.jpeg|A baby born into Moroccan royalty.
+</gallery>{{Nations}}[[Category:BitLife]]
+[[Category:Nations]]

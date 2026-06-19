@@ -1,0 +1,22 @@
+{
+  "title": "Mafia",
+  "pageid": 3555,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Mafia",
+  "categories": [
+    "Careers",
+    "Information",
+    "Special_Careers"
+  ],
+  "links": [
+    "Game over",
+    "God Mode",
+    "Prison"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Mafia/content.html",
+    "wikitext": "pages/Mafia/content.wikitext",
+    "text": "pages/Mafia/content.txt"
+  }
+}

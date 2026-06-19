@@ -1,0 +1,68 @@
+{{Infobox country
+|title1=Angola
+|image1=[[File:Angola.png]]
+|caption1=Angola's flag.
+|country_name=Angola
+|number_of_default_cities=
+|when_was_it_added_to_ios=July 10, 2022
+}}'''Angola''' is a [[Nations|country]] that was on BitLife in July 10, 2022.
+
+On July 10, 2022, new countries were added to both iOS and Android. Along with Angola, there was also [[Andorra]], [[Aruba]], [[Belize]], [[El Salvador]], [[Guatemala]], [[Guyana]], [[Haiti]], [[Nicaragua]], [[Papua New Guinea]], [[Paraguay]], [[Samoa]], [[Tunisia]], and [[Uganda]]. This was added in a bug fix update prior to the upcoming Business Update.
+
+==Information==
+Angola, along with [[Afghanistan]], [[Tunisia]], [[Belize]], [[El Salvador]], [[Guatemala]], [[Guyana]], [[Haiti]], [[Iraq]], [[Pakistan]], [[Papua New Guinea]], [[Syria]] and [[Venezuela]], are the 13 countries in the game where [[Death|deaths]] are influenced by the country a character is from, in this case, characters can die from unexpected terrorist or battlefield attacks. Being killed by an attack under the age of 30 will give your character the ''Unlucky'' ribbon, making it easier to obtain (though there is a chance that they may end up getting a different ribbon besides ''Unlucky''). [[Family]] members can also die from these as well and it is likely that a parent or parents will die while your character is still very young.
+
+==Vital Statistics==
+Currency:  USD ($)
+
+Default Cities:  Benguela, Luanda, Lubango
+
+Graduation Age:  17
+
+Minimum Age to Drop out of School:  12
+
+Free University:  No
+
+Minimum Legal Driving Age:  18
+
+Same-Sex Dating Legal:  Yes
+
+Same-Sex Marriage Legal: No
+
+Changing Last Name After Marriage Permitted: No
+
+Free Healthcare: No
+
+Gambling Legal: Yes
+
+Death Penalty Legal: Yes
+
+Conjugal Visits Permitted: No
+
+Commercial Surrogacy Legal: Yes
+
+==Name List==
+
+===First Names===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Name
+! Gender
+! Meaning
+|-
+|}
+
+===Surnames===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Surname
+! Meaning
+|-
+|}
+
+== Gallery ==
+<gallery>
+File:Angola baby.jpeg|A baby born in Angola.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

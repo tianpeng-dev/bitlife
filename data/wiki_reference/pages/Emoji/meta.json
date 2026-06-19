@@ -1,0 +1,23 @@
+{
+  "title": "Emoji",
+  "pageid": 1355,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Emoji",
+  "categories": [
+    "BitLife",
+    "Emoji",
+    "Under_construction"
+  ],
+  "links": [
+    "BitLife: Life Simulator",
+    "Careers/Jobs",
+    "Characters",
+    "Events"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Emoji/content.html",
+    "wikitext": "pages/Emoji/content.wikitext",
+    "text": "pages/Emoji/content.txt"
+  }
+}

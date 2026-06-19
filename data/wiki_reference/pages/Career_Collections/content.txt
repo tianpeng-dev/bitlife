@@ -1,0 +1,499 @@
+Career Collections
+A career is collected when a character holds it for 20 consecutive years. Nearly every career in the game can be collected – the prestigious Judge and the lowly Worm Picker, from the Midwife to the Mortician and (almost) everything in between.
+For quick reference, the list below includes the basic requirements to get hired in each career. Over half have an educational requirement, and some have requirements based on gender, traits, previous work experience, or other factors. See
+Education
+for info on requirements for higher education, and
+Careers/Jobs
+for additional info on each career track.
+Note: "Secondary School" refers to any equivalent level of education, including various countries' High School or Upper Secondary School, as well as earning a GED.
+Career
+Education Requirement
+Other Reqs
+📒
+Accountant
+University (Accounting)
+🎬
+Actor
+Secondary School
+✈️
+Air Force Enlistee
+Secondary School
+✈️
+Air Force Officer
+University
+🧞‍♀️
+Animator
+University (Computer Science)
+💀
+Archaeologist
+University (Archaeology) & Graduate School
+🏛️
+Architect
+University (Architecture)
+🛡
+Army Enlistee
+Secondary School
+🛡
+Army Officer
+University
+🖼️
+Art Gallery Worker
+University (Art History)
+🔧
+Auto Mechanic
+―
+🛄
+Baggage Handler
+―
+🥐
+Baker
+―
+🏦
+Banker
+University (Accounting)
+🍸
+Bartender
+―
+🐝
+Beekeeper
+―
+🤑
+Bill Collector
+Secondary School
+🌱
+Biotechnologist
+University (Biology)
+🔨
+Blacksmith
+―
+💪
+Bouncer
+―
+🧠
+Brain Surgeon
+Medical School
+🚌
+Bus Driver
+―
+Driver's License
+📊
+Business Analyst
+University (Finance)
+🥩
+Butcher
+―
+🎥
+Cameraman
+Secondary School
+🪓
+Carpenter
+Secondary School
+💳
+Cashier
+―
+♠️
+Casino Worker
+Secondary School
+🐈
+Cat Behavior Consultant
+―
+🍳
+Chef
+Community College
+3 yrs work exp.
+⚗️
+Chemical Engineer
+University (Engineering)
+🔥
+Chimney Sweep
+―
+💀
+Chiropractor
+Medical School
+🎭
+Choreographer
+University (Dance)
+🎪
+Circus Performer
+―
+🤡
+Clown
+―
+Male
+🛥
+Coast Guard Enlistee
+Secondary School
+🛥
+Coast Guard Officer
+University
+🎓
+College Dean
+―
+30 yrs work exp.
+🖥️
+Computer Programmer
+University (Computer Science)
+🚧
+Construction Worker
+―
+🦀
+Crab Fisherman
+―
+💃
+Dance Instructor
+University (Dance)
+💃
+Dancer
+―
+High Looks
+🖥️
+Database Administrator
+University (Computer Science)
+😁
+Dental Hygienist
+Community College
+🦷
+Dentist
+Dental School
+🔍
+Detective
+University
+10 yrs work exp.
+🎶
+Disk Jockey
+―
+🚖
+Driver
+―
+Driver’s License & Car
+🗞️
+Editor
+University (English)
+7 yrs work exp.
+💡
+Electrician
+―
+Driver’s License & Car
+♻️
+Environmental Scientist
+University (Physics)
+💋
+Escort
+―
+High Looks
+📍
+Executive
+Business School
+15 yrs work exp.
+👿
+Exorcist
+―
+🍑
+Exotic Dancer
+―
+Female, High Looks
+🏭
+Factory Worker
+―
+🏥
+Family Physician
+Medical School
+🚜
+Farmer
+―
+👗
+Fashion Designer
+University (Graphic Design)
+🍔
+Fast Food Worker
+―
+💵
+Financial Advisor
+University (Finance)
+💵
+Financial Analyst
+University (Finance)
+🚒
+Firefighter
+Secondary School
+🎣
+Fisherman
+―
+💺
+Flight Attendant
+Secondary School
+🔬
+Forensic Scientist
+University (Criminal Justice)
+🎨
+Graphic Designer
+University (Graphic Design)
+🥦
+Grocer
+Secondary School
+✂️
+Hairdresser
+Secondary School
+📚
+History Teacher
+University (History)
+🏇
+Horse Jockey
+―
+🏡
+Housekeeper
+―
+📊
+Insurance Agent
+Secondary School
+🛋️
+Interior Designer
+University (Graphic Design)
+📒
+Internal Auditor
+University (Accounting)
+🗑️
+Janitor
+―
+💎
+Jeweler
+Secondary School
+⚖️
+Judge
+Law School
+30 yrs work exp.
+🌳
+Landscaper
+―
+⚖️
+Lawyer
+Law School
+📚
+Librarian
+Graduate School
+🗣️
+Lobbyist
+University (Political Science)
+🌲
+Lumberjack
+―
+🎩
+Magician
+―
+📫
+Mail Carrier
+Secondary School
+💄
+Makeup Artist
+Secondary School
+🕺
+Male Stripper
+―
+Male, High Looks
+🦑
+Marine Biologist
+University (Mathematics) & Graduate School
+⚔️
+Marines Enlistee
+Secondary School
+⚔️
+Marines Officer
+University
+💒
+Marriage Counselor
+University (Psychology)
+👐
+Massage Therapist
+Community College
+⚙️
+Mechanical Engineer
+University (Engineering)
+🔬
+Microbiologist
+University (Biology)
+🚼
+Midwife
+University (Nursing)
+📲
+Mobile App Developer
+University (Computer Science)
+📸
+Model
+―
+Female, High Looks
+⛪️
+Monk
+―
+Male, no sex or romance
+🥃
+Moonshiner
+―
+⚰️
+Mortician
+University (Chemistry)
+🦕
+Museum Worker
+University (History)
+🎹
+Music Composer
+University (Music)
+💅
+Nail Technician
+―
+⚓️
+Navy Enlistee
+Secondary School
+⚓️
+Navy Officer
+University
+🎨
+Nude Art Model
+―
+⛪️
+Nun
+―
+Female, no sex or romance
+🏥
+Nurse
+Nursing School
+📊
+Operations Analyst
+University (Information Systems)
+🎨
+Painter
+―
+⚖️
+Paralegal
+Community College
+🐶
+Pet Groomer
+―
+💊
+Pharmacist
+Pharmacy School
+📸
+Photographer
+Secondary School
+🧘‍♀️
+Physical Therapist
+Medical School
+✈️
+Pilot
+University
+Pilot License
+💦
+Plumber
+―
+🚓
+Police Officer
+Secondary School
+🔍
+Policy Analyst
+University (Political Science)
+💦
+Porn Set Janitor
+―
+🤩
+Pornographer
+―
+High Looks
+🎞️
+Pornography Historian
+―
+🚽
+Porta Potty Pumper
+―
+✝️
+Priest
+―
+Male, no sex or romance
+🔍
+Private Investigator
+University (Criminal Justice)
+🎓
+Professor
+University (Education) & Graduate School
+🧠
+Psychiatrist
+Medical School
+🎎
+Puppeteer
+―
+🏡
+Real Estate Agent
+Secondary School
+Driver’s License & Car
+🛎️
+Receptionist
+Secondary School
+👀
+Reporter
+University (Journalism)
+🍽️
+Restaurant Worker
+Secondary School
+🛍️
+Retail Salesperson
+―
+☠️
+Roadkill Remover
+―
+🏫
+School Administrator
+University (Education) & Graduate School
+3 yrs work exp
+🧠
+School Psychologist
+University (Psychology)
+🍎
+School Teacher
+University (Education)
+🗿
+Sculptor
+―
+🔒
+Security Guard
+―
+📈
+Stockbroker
+University (Finance)
+⛑️
+Stuntman
+Secondary School
+👗
+Tailor
+―
+🖥️
+Technical Support Specialist
+University (Computer Science)
+📞
+Telemarketer
+―
+㊗️
+Translator
+University (Communications)
+🏖️
+Travel Agent
+Secondary School
+🛻
+Trucker
+Secondary School
+🐶
+Veterinarian
+Veterinary School
+🗑️
+Waste Collector
+―
+👙
+Water Slide tester
+―
+💒
+Wedding Planner
+Secondary School
+🐛
+Worm Picker
+―
+📝
+Writer
+Secondary School
+High Smarts

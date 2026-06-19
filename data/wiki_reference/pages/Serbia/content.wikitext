@@ -1,0 +1,16 @@
+{{Infobox country
+|title1=Serbia
+|image1=[[File:Serbia.png]]
+|caption1=Serbia's flag.
+|country_name=Serbia
+|number_of_default_cities=1
+|when_was_it_added_to_ios=September 2018
+}}
+'''Serbia''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default city is only the capital, Belgrade.
+
+== Gallery ==
+<gallery>
+File:Serbia baby.jpeg|A baby born in Serbia.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

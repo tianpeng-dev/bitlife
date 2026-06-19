@@ -1,0 +1,4 @@
+You can start a cult using the Cult expansion pack. (WIP)
+
+== Starting a Cult ==
+You can start a cult by going to Relationships, then Followers, then Commune, or going to Activities, then Commune. You now can choose a plot by hermitage, hunting lodge, retreat, sanctuary, and compound. Once you buy a plot, you can now choose your cult name, the doctrine of your cult (you can only choose 3 rules, others may be added later), and the philosophy of your cult.

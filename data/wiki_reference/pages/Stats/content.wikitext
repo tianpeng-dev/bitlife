@@ -1,0 +1,315 @@
+{{Infobox BitLifeApp
+|title1=Stats
+|image1=[[File:JoyProfile.png|thumb]]
+|caption1=A profile with four stats.
+|launched_on_ios:=September 2018 (default)
+}}'''Stats''' are the four bars below your character that determine their well-being. They are randomised at the start, however happiness can be low in new generations due to the fact that the character has just lost their parent/lover. It is natural for stats to raise and lower a few points when aging up. Having higher percentages on the bars will make a character live longer and more successfully. Following the Fame update, if your character becomes famous, there is a fifth bar for [[Fame]]. Following the Politics update, there was another bar for Approval. In May 2019, Boosts were added to help characters with low stats be able to raise their bar. Players would have to watch an ad to get the boost if they are not a [[Bitizenship|Bitizen]]. If a stat is at a low percentage (below 15%), it will show a warning sign that indicates that it is in jeopardy.
+
+
+
+Starting Stats:
+
+Happiness: 50 to 100
+
+Health: 80 to 100
+
+Smarts: 0 to 100
+
+Looks: 0 to 100
+=='''Happiness'''==
+Happiness is the easiest stat to boost, but when something tragic or traumatic happens, it can lower happiness all the way to zero.
+===Things that increase happiness===
+*Boosts (+30 Happiness)
+*Murder People
+*Vacations
+*Passing an eye exam (+16 Happiness)
+*Meditation (+4 Happiness)
+*Getting a lot of money, like in a lottery, casino, or horse race win
+*Tending to your garden
+*Having a new child (+50 Happiness)
+*Having a one-night-stand (+16 Happiness)
+*Marriage and renewing vows
+*Spending time with family and lovers (+4 Happiness)
+*Being cured of a disease or having a pet cured.
+*Watching a Comedy (only available when the player is 18+) or going to the theatre with a loved one
+*Getting a pet (+30 Happiness)
+*Doing something to raise one of your other bars will give a short burst of happiness
+*Winning a lawsuit (+50 Happiness)
+*Getting into a school or job
+*Getting into a club, clique or fraternity/sorority
+*Trying drugs such as MDMA/Ecstasy, liquid acid, magic mushrooms and cannabis (this method only works sometimes)
+*Shock therapy (only works sometimes)
+*Watching a Family movie (only available if the character is 6-17)
+*Passing your driver's test (+8 Happiness)
+*Passing your boating license (+16 Happiness)
+*Giving money
+*Complimenting and getting complimented back
+*Becoming friends with someone new (+16 Happiness)
+*Posting on social media (+16 Happiness)
+*Riding boats and aircrafts (vehicles you own) (very good way to get happiness)
+*Successfully robbing a bank (+50 Happiness)
+*Successfully robbing a train (+100 Happiness)
+*Successfully escaping prison (+30 Happiness)
+
+===Things that decrease happiness===
+*Losing a lot of money, like in a casino, or horse race loss.
+*Getting divorced or broken up (-30 Happiness)
+*Being unfriended (-30 Happiness) or becoming enemies (-16 Happiness)
+*Parents divorcing (especially when your character is at a young age) (-50 or -30 Happiness)
+*[[Family]], [[Relationships|lovers]], friends, or pets dying.
+**Spouse dying (-50 Happiness)
+**Child dying (-100 Happiness)
+*Having a miscarriage, a molar pregnancy or a stillborn baby (-50 Happiness)
+*Getting an STD
+*Being diagnosed with a [[Diseases|disease]]
+*Being unable to get pregnant
+*Not using condoms when having a one night stand (only if you get an STD)
+*Spouses or pets being kidnapped (-50 Happiness)
+*Being unable to cure your disease or the disease of a pet
+*Having depression or anxiety, although this usually stems from already having low happiness
+*Getting arrested
+*Being cheated on by a lover (-50 Happiness)
+*Having your car stolen (if you have notifications on)
+*Getting robbed (if you have notifications on)
+*Not being able to have conversations, give money, or spend time with family and lovers (if they have a low or empty relationship)
+*Having a restraining order filed by an ex
+*Doing something to lower one of your other bars will give a short drop in happiness
+*Losing the lawsuit
+*Rejected from a part-time job (-8 Happiness), a full-time job (-16 Happiness), the military, or [[Education|type of school]]
+*Not receiving a callback when auditioning for musician or actor roles.
+*Rejected from joining a club (-16 Happiness), clique (-30 Happiness), or fraternity/sorority (-50 Happiness)
+*Being assaulted
+*Arguing
+*Being scared by a ghost
+*Getting suspended/expelled
+*Getting fired from your job
+*Going to the witch doctor (sometimes)
+*Choosing to ignore a bad coworker annoying you (-8 Happiness)
+*Failing your driver's license (-8 Happiness)
+*Failing your boater's license (-16 Happiness)
+*Getting caught in a bank robbery, or caught after successfully killing someone (-100 Happiness)
+*Hitmen scamming your character by running of with the money (-50 Happiness) or turning out to be an undercover cop (-100 Happiness)
+*Refusing to join social media (-30 Happiness)
+
+=='''Health'''==
+Health takes longer to boost up, but doesn't lower dramatically very often in a life. Having high health and high happiness will help a character live longer.
+===Things that increase health===
+*Boosts (+30 Health)
+*Meditation (+4 Health)
+*Getting a massage (+4 Health)
+*Going to the [[Medical Doctor]] or any [[Alternative Doctor]].
+*Curing an illness or ailment
+*Going to the gym (+8 Health)
+*Getting on a good diet
+*Walking
+*Practicing martial arts
+*Gardening
+
+===Things that decrease health===
+*Having a terminal illness (depression, anxiety, etc.)
+*Contracting an STD
+*Going to the witch doctor (sometimes)
+*Botched plastic surgery
+*Being assaulted
+*Being exploded by a mine while deployed (-30 Health, -100 Health if killed)
+*Shock Therapy
+*Trying alcohol or drugs or being addicted to them
+*Being overstressed and/or having high blood pressure
+*Getting on a bad diet
+*Doing too many longer livestreams (Long = 4 Health)
+
+=='''Smarts'''==
+Smarts are harder to raise but also harder to lower. Having a high-smarts character can get the ''Academic'' [[Ribbons|ribbon]] while having a low-smarts character dropping out of school and making bad decisions throughout their life can get the ''Stupid'' ribbon. Parents of children may have their smarts inherited into their child along with their partner's smarts. Smarts will often have the highest minor increase and decrease every year the character [[Age|ages]].
+===Things that increase smarts===
+*Boosts (+16 Smarts)
+*Watching a Documentary (only available when the player is 18+)
+*[[Education]]
+*Going to the library (sometimes)
+*Studying harder in school or working harder in a job
+*Doing great in the Memory Test [[Minigames|minigame]]
+*Reading books (Rewards more smartness at a young age)
+*Making smart decisions
+*Gardening
+*Doing certain drugs such as marijuana and LSD has a chance of making your character illuminated and increase smarts to 100
+===Things that decrease smarts===
+*Making poor decisions
+*Taking drugs
+*Bribing a college official
+*Doing poorly in the Memory Test minigame
+*Going to the witch doctor (sometimes)
+*Having certain diseases such as dementia
+*Being scared by ghosts
+
+=='''Looks'''==
+A character will inherit looks from their parents along with their smarts. Having high looks at 100% will get your character any of the famous jobs. Having low looks will have kids rejected by their crushes at the school dance and adults barred from clubbing and will also have their sperm rejected by the fertility clinic. Parents of children may have their looks inherited into their child along with their partner's looks.
+
+===Things that increase looks===
+*Boosts + (16 Looks)
+*Successful plastic surgery
+*Gym
+*Successfully curing an illness
+*Salon/spa
+**Haircuts and dye jobs
+**Manicures and pedicures (only if the player is female)
+**Waxing
+===Things that decrease looks===
+*Botched plastic surgery
+*Getting assaulted (sometimes)
+*Being exploded by a mine while deployed (-30 Looks)
+*Diseases
+*Getting older (most of the time)
+
+=='''[[Fame]]'''==
+Following the Fame Update, there is now a fame bar if your character has a fame-related job. This can make the player easier and better qualified to win the ''Famous'' ribbon if they keep this bar up. Fame does not come with Boosts.
+
+Following the Royal Update, this bar will be named "Respect" rather than "Fame". However, it does basically the same job, and being a royal gets you access to the different activities available to famous characters as well.[[File:Statfame.png|thumb]] If a character's fame continues to go down, they could lose their fame bar and no longer be famous.
+===Things that increase fame===
+*Posting on social media
+*Having a good TV interview
+*Publishing a book, usually if it becomes a bestseller
+*Appearing in a magazine
+*Doing a good commercial
+*Having your social media account verified
+===Things that decrease fame===
+*Making a bad appearance
+*Not doing anything to boost your fame
+*Being insulted by another famous person
+*Getting too old
+*Being fired from your job
+*Going to prison
+*Emigrating
+*Losing followers due to already-lacking Fame
+*Getting your request at verification rejected
+*Getting suspended from [[Social Media]].
+
+== '''Approval''' ==
+Following the Politics update, there is now an Approval bar if your character becomes a governor of a city, state, or country. After 4 years if you don't get reelected, the Approval bar won't be there.
+
+If your character's approval continues to go down, you may not win the re-election.
+
+=== Things that increase approval ===
+* Read newspaper to find problems, and then make speeches for them to raise awareness or give people hope.
+* Well received rallys
+* Giving speaches spreading awareness of an issue you have low approval
+* Increasing the hours for an issue you have low approval
+* Making decisions related to the issues you have low approval in politics related choice cards
+
+=== Things that decrease approval ===
+
+* Ignoring the newspaper problems
+* Scaring the public
+* Making an incovenient speech such as bragging about accomplishments on an issue you have low approval
+* Badly received rallys
+
+=='''Relationship Stats'''==
+Relationships will have special stats that differ from your character's stats. The only bar that you can affect is the Relationship bar, which determines how strong of a relationship you have with that person and how well they get along with you. The ''Family Guy'' ribbon can be achieved if a character is male and maintains great relationships with his family. The ''Cat lady'' ribbon can be achieved if a character is female and has many cats throughout her life and takes good care of them.
+===Parent Stats===
+*Relationship
+*Religiousness - A religious parent will show disdain if you get a job that is seen as sinful, such as a porn star. However, religion does not play a huge role. In countries that arrange marriages, religious parents are more likely to do this and are more likely to get angry if the arrangement is refused.
+*Generosity - This determines how willing they are to give money when asked, get you a pet if asked, allow you to pratice martial arts and music, give a [[Assets|car]] if you pass your driver's test, and whether they would agree to pay for your college tuition if you ask.
+*Money - This also determines giving money when asked and for college tuition, however, a high-money low-generosity parent will never give you money when asked and not get your character a car but will be more likely to pay a college tuition and will leave a bigger inheritance. A low-money but high-generosity person will often give your character money when asked but will always give low amounts of money.
+
+===Sibling Stats===
+*Relationship
+*Smarts
+*Looks
+*Petulance - A high-petulance sibling will fight your character more often and argue a lot, sometimes could even assault your character to death, they also have a lower starting relationship with your character.
+
+===Lover Stats===
+*Relationship
+*Looks - An average of your looks and your partner's looks will pass to the kids you have with them.
+*Smarts - An average of your smarts and your partner's smarts will pass to the kids you have with them.
+*Money - A high money partner will bring more money when married.
+*Craziness - A very crazy partner will be more open to exotic pets, threesomes, overruled abortions, and early proposals and babies. When broken up/divorced, they will contact you more often. They're also more likely to cheat on you and refuse preenups.
+*Willpower (only visible with god mode) - A low willpower partner is easier to be persuaded and murdered and will disagree with your character's decisions less often, but is more likely to cheat.
+
+=== Friend Stats ===
+*Relationship
+*Looks
+*Smarts
+*Money - Although you cannot ask a friend for money or give them money, this stat appears.
+*Craziness - A friend with high craziness is more likely to change the status between both of you, usually become best friends when the relationship is high or enemies when the relationship is low. They're also more likely to ask you help with illegal stuff, invite you to do drugs, and be willing to do mischief.
+
+===[[Pets|Pet]] Stats===
+*Relationship
+*Health
+*Happiness
+*Smarts - A high smarts pet is easier to be trained when misbehaving.
+*Craziness - A very crazy pet could attack you more often, attack other pets, or attack other people. It is more likely to be mauled to death by a crazy pet and have other pets get that [[Death/Pets|fate]]. Exotic animals are more likely to be crazy.
+
+===Juvenile Delinquent Stats===
+*Relationship
+*Craziness
+*Respect
+
+===Prison Inmate Stats===
+*Relationship - Inmates can be in [[Prison/Gangs|gangs,]] and will be at a higher relationship if you're in their gang and a lower one if you aren't in a gang or in an opposing one. Prisoner characters may only join one gang.
+*Size
+*Craziness - A crazy inmate will assault your character more even for good actions like complimenting them.
+*Respect
+
+===Child Stats===
+* Relationship
+* Health
+* Smarts
+* Looks
+
+===Grandchild, Nephew and Niece Stats===
+*Relationship
+*Looks
+*Smarts
+
+===School Faculty Stats===
+*Relationship
+*Looks
+*Strictness - A strict teacher may be less likely to accept compliments, gifts, and sucking up. Being rude to strict teachers will get you in more trouble.
+*Popularity
+
+===[[Hook-Up|One-Night Stands]] Stats===
+*Looks - This is the only stat that first shows up when having a one-night stand, however when they show up on the Exes tab, they will have the same set of stats as the Lover stats.
+
+===Step-parent Stats===
+*Relationship
+*Kindness - Step-parents with low kindness will have a low relationship with you immediately, not give you money when asked, never spend time with you, and prank you more often.
+*Money
+
+===[[Ghosts|Spirit]] Stats===
+*Friendliness - A friendly spirit will not scare or attack your character as much.
+*Activeness - An active spirit will do more haunting when summoned and causes more paranormal activity
+
+===[[Careers/Job activities|Co-worker]] Stats===
+*Relationship
+*Looks
+*Professionalism - Coworkers with low professionalism are more likely to prank you and do annoying stuff. A supervisor with low professionalism is more likely to ignore your complaints and to laugh at you when you ask for a promotion or raise. They will also not promote you based on your performance and experience (confirmation necessary).
+*Coolness - Coworkers with low coolness are more likely to assault or report you if you prank them, try to hookup with them, and even if you talk to them. A low coolness supervisor will give harsher punishments and is more likely to demand overtime and to get angry and fire you when you ask for a promotion or raise.
+
+===Adoptive Children Stats===
+*Health
+*Smarts
+*Looks
+*Behavior
+
+== Stats for Non-Relationships ==
+
+=== House Stats===
+*Condition
+*Hauntedness - For haunted houses only. A very highly haunted house will have more spirits and more paranormal scenarios.
+
+=== Car Stats ===
+*Condition - While this is the only stat with a bar, the method of ownership, type of car, color, age, and value of the car are also shown.
+
+=== Heirloom Stats ===
+*Condition - While this is the only stat with a bar, the number of years in the family and its estimated prices are also shown. The condition will lower and may affect the price.
+
+=== Schedule Stats ===
+*Stress - Having too many part-time jobs or being too busy will have a higher stress bar which could lead to problems. A stressed character will write in their journal that the stress is wearing them down and they could suffer a sudden heart attack or stroke due to the high blood pressure. It can also affect their performance.
+=== Reaction Stats ===
+After a vacation, nightclub visit, or cruise, it will say how much you enjoyed it, which will boost happiness accordingly. Some activities you may do with other people or with pets, it will say how much they enjoyed what you did or how well you agreed. This will raise or lower the relationship you have with them. If you pay for a child's tuition or support their decision to come out of the closet, they will have a usually high appreciation. After one-night stands, it will say how well you and the other person enjoyed the fling.
+
+=== Orphanage Stats ===
+*Love
+[[Category:BitLife]]
+[[Category:Information]]
+[[Category:Features]]
+[[Category:Profile]]
+[[Category:Updates]]

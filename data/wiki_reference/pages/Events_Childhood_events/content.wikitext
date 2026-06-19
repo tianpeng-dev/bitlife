@@ -1,0 +1,804 @@
+{{Infobox BitLifeApp
+|title1=Childhood Events
+|launched_on_ios:=September 2018 (default)
+|launched_on_android:=February 2019 (default)
+|image1=Bitlife_Vacc_2022.png|caption1=A character named "Li-Jie Tu" from Taiwan gets vaccinated by his mother, "Ching-yi Tang"}}'''Childhood events''' are certain scenarios only popping up as a child or in school. Some events only happen when your character is under 18. Many of these do not have a huge effect on the character's life.
+
+== List of events ==
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:left;" width="100%"
+|-
+!List of childhood events
+|-
+|
+{| class="article-table"
+!Emoji
+!Event Name
+!Description
+!Options/Results
+!Taglines
+!Age Range
+!Notes
+|-
+|👄
+|Mouth Noises
+|''Your mother is calling towards you in a soft voice. You feel inclined to respond.'<nowiki/><nowiki>''</nowiki>''
+'''How will you react?'''
+|
+* Say 'ma ma':
+** Journal: '<nowiki/>''I made the noise "ma ma" with my mouth and my caretaker became ecstatic. I was held, kissed, and fed immediately thereafter.'''
+* Say 'da da':
+** Journal:'<nowiki/>''I disappointed my caretaker when I made the noise "da da." I was still fed promptly thereafter.'''
+* Cry
+** Journal: ''<nowiki/>'I cried after finding myself confused by the intricacies of the English language.'''
+* Spit
+** Journal: ''<nowiki/>'I spit some liquid that was in my mouth onto the face of my caretaker. She wasn't happy!''
+|N/A
+|1 yr - ?
+|
+Choosing "Say 'ma ma'" increases happiness by 16% and smarts by 8%.
+Choosing Say 'da da'" increases smarts by 4%.
+Choosing "Cry" lowers happiness by 16% and smarts by 4%.
+|-
+|🥑
+|Mashed Avocado
+|''It's dinner time and, once again, your mother is swirling a spoonful of your least-favorite green muck through the air. The spoon approaches your lips.''
+'''What will you do?'''
+|
+* Eat it
+** Journal" ''<nowiki/>'My mother gave me a big smile and kissed me after I ate some mashed avocado that she shoveled in my face.'''
+* Cry
+** Journal: ''<nowiki/>'I wailed loudly when my mother tried to feed me mashed avocado. I was given a replacement banana for my efforts.'''
+* Slap the spoon
+** Journal: '<nowiki/>''My mother tried to feed me some mashed avocado but I slapped it to the floor.'''
+|
+|1 yr - ?
+|Choosing 'Eat it' increases smarts by 8%
+|-
+|
+|Toying Around
+|''You're at home, lying inside your crib. Luckily, there are a few things nearby to keep you occupied.''
+'''Which will you reach for?'''
+|
+* The firetruck
+** Journal: ''<nowiki/>'I played with a toy firetruck that I found in my crib.'''
+* The picture book
+** Journal: ''<nowiki/>'I looked at a picture book that I found in my crib.'''
+* The xylophone
+** Journal: ''<nowiki/>'I banged on a xylophone that I found in my crib.''
+|
+|
+|Choosing 'The picture book' increases smarts most, by 8%. The other options increases smarts by 4%.
+|-
+|
+|Tolerance
+|''While playing at the park, a big-haired, colorful lady who is having a conversation with your mom, squeezes your cheek and attempts to pick you up.''
+'''How will you react?'''
+|
+* Hit her
+** Journal: ''<nowiki/>'I clocked a weird lady in the jaw after she tried to pick me up at the park.'''
+* Scream
+** Journal: ''<nowiki/>'I screamed after a strange-looking woman tried to lift me up at the park.'''
+* Up, up
+** Journal: '<nowiki/>''I allowed a strange-looking woman to hold me at the park.'''
+|
+|
+|Choosing 'Up, up' increases looks by 8%.
+Choosing "Scream" lowers looks by 4%
+|-
+|💉
+|Vaccination
+|''Your parent is taking you to the doctor's office to get vaccinated''
+'''How will you behave?'''
+|
+* Bite her
+** Journal: ''<nowiki/>'I bit my parent when they took me to the doctor's office to get vaccinated.'''
+* Throw a conniption fit/tantrum
+** Journal: ''<nowiki/>'I threw a tantrum when my parent took me to the doctor's office to get vaccinated.''
+* Try to stay calm
+** Journal'': 'I remained calm when my parent took me to the doctor's office to get vaccinated.'''
+|
+|
+|
+Choosing "Throw a tantrum" lowers happiness by 30% and lowers relationship slightly.
+Choosing "Bite them" lowers happiness by 8% and lowers relationship.
+|-
+|
+|Jump Around
+|''While at the park, you see many awesome things you want to jump in.'<nowiki/><nowiki>''</nowiki>''
+'''Which will you choose?'''
+|
+* A pile of leaves
+** Journal: ''<nowiki/>'I had a great time running and jumping into a big pile of leaves at the park.'''
+* A huge puddle
+** Journal: ''<nowiki/>'I had a great time jumping and splashing in an enormous puddle at the park.''
+* A lake
+** Journal: ''While at the park, I had a blast running and jumping into a lake with all of my clothes on.''
+* A pile of horse droppings
+|N/A
+|
+|Choosing 'A huge puddle' increases looks by 4%.
+Choosing 'A lake' lowers smarts by 4% and raises looks by 4%.
+|-
+|😳
+|Integrity
+|''You broke your parents' [Item] while you were playing.''
+'''What will you do?'''
+|
+* Admit that I broke it
+** Journal: ''<nowiki/>'I admitted to my parents that I broke their [Item].''
+* It wasn't me
+** Journal: ''<nowiki/>'I broke my parents' [Item] and then lied about it.'''
+|
+|
+|This event is guaranteed to happen in a child's life.
+|-
+|🚘
+|Family Vacation
+|
+* ''Your parents want to take you (and siblings) on a road trip to visit relatives in [City], [Country]. How will you behave?''
+|
+* Be appreciative
+** ''Your parents took you on a road trip to visit relatives in [City], [Country].''
+** Journal: ''<nowiki/>'I was appreciative to my parents for taking me on a road trip to visit relatives in [City], [Country].'<nowiki/>'<nowiki/>'''<nowiki/>'''''
+* Complain but go
+* Refuse to go
+** Journal: ''I refused to go with my mother and my half brother on a road trip to visit relatives in [City], [Country].''
+|
+* Option 1:
+** ''I might not leave, ever''
+** ''It was great''
+** ''Vacay''
+|
+|If visiting relatives, the city will always be in the same country.
+|-
+|
+|Nature's Call
+|''You are encouraged to "spend some time in the great outdoors" while being escorted outside to play.''
+'''What will you do?'''
+|
+* Climb a tree
+** Journal: ''<nowiki/>'I discovered new heights when I climb trees outside'.''
+* Kick a ball around
+** Journal: ''<nowiki/>'I got a solid leg and lung workout by kicking a ball into a makeshift goal.'''
+* Dig a hole
+** Journal: ''<nowiki/>'I got my hands dirty and dug a deep hole in the ground.'''
+|
+|
+|Choosing 'Kick a ball around' and 'Climb a tree' increases smarts.
+Choosing ‘Dig a hole’ decreases happiness, smarts and looks by 4%.
+|-
+|🌳
+|Free Rein
+|''You are at the park and have free rein to play as you choose.''
+'''What will you choose?'''
+|
+* Sit in the shade
+** Journal: ''<nowiki/>'While at the park, I chose to sit alone in the shade instead of playing with the other kids.'''
+* Play house
+** Journal: ''<nowiki/>'While at the park, I took the role of mommy as I played house with other kids on the jungle gym.'''
+* Swing set
+** Journal: ''<nowiki/>'While at the park, I tested the laws of physics as I swung on the swing set.'''
+* Practice my soccer skills
+** Journal: ''<nowiki/>'While at the park, I worked hard on my soccer skills.'''
+|
+|
+|Choosing 'Practice my soccer skills' increases looks.
+Choosing 'Play house' increases looks and smarts by 4%.
+Choosing ‘Swing Set' increases both smarts and looks by 4%.
+Choosing ‘Sit in the shade' decreases looks by 4%.
+|-
+|😬
+|Wet Pants
+|''While playing at the park, you accidentally wet/pee yourself/your pants.''
+'''What will you do?'''
+|
+* Go home
+** Journal: ''<nowiki/>‘ I went home with my head hung low after I peed myself in front of the other kids at the park.'''
+* Get wet before anyone notices
+** Journal: ''<nowiki/>'I used the drinking fountain to splash water on myself at the park so no one could see that I peed myself.'''
+* Own it
+** Journal: ''<nowiki/>'I joked with my friends after I wet myself and we all had a good laugh together.'''
+|
+|
+|Choosing 'Own it' increases and smarts by 4%.
+Choosing 'Get wet before anyone notices increases smarts by 16%.
+Choosing ‘Go home' decreases both Happiness and Looks by 4%.
+|-
+|🧸
+|Toy Time
+|''A little girl that you are playing with picks up your favorite toy''
+'''What will you do?'''
+|
+* Let her play with it
+** Journal: ''<nowiki/>‘ I let another child play with my favorite teddy bear.'''
+* Refuse to let her play with it
+** Journal: ''<nowiki/>'I refused to let another child play with my favorite stuffed animal.'''
+* Play with it together
+** Journal: ''<nowiki/>'I let another child play with me and my favorite toy.'''
+* Give it to her
+** Journal: ''<nowiki/>'I gave my toy to another child I was playing with.'''
+|
+|
+|Choosing ‘Play with it together and ‘Let her play with it’ increases smarts.
+Choosing 'Refuse to let her play with it' decreases happiness by 4%.
+|-
+|😲
+|Favorite Toy
+|You're playing with some friends in your room when suddenly a little boy grabs the [Toy] right out of your hands.
+How will you react?
+|
+* Let him play with it
+* Cry
+* Grab it back
+** Journal: ''When a little boy took my favorite [Toy] I grabbed it back out of his hands.''
+* Be a tattletale
+|
+|
+|
+|-
+|🐝
+|Bee Careful
+|''While playing on the sidewalk outside of your home, you notice a group of buzzing insects flying in and out of a nearby lamp post.''
+'''What will you do?'''
+|
+* Observe them
+** Journal: ''<nowiki/>I carefully examined some bees I spotted outside of my home.''
+* Disregard them
+** Journal: ''<nowiki/>I ignored some bees I spotted outside of my home.'''
+* Throw a rock at them
+** Journal: ''<nowiki/>I threw a rock at a beehive outside of my home and was chased back inside by a swarm of angry bees.''
+|
+|
+|Choosing 'Observe them' increases smarts by 16%. Choosing 'Throw a rock at them' decreases smarts and happiness by 8%
+|-
+|🤔
+|Big Flex
+|''You are considering which skill you will perfect in order to impress everyone you know.''
+'''Which will you choose?'''
+|
+* Tooth brushing skills
+** Journal: ''<nowiki/>'I worked intensely on my tooth brushing skills until I was able to thoroughly clean my teeth without missing a spot.'''
+* Tricycle skills
+** Journal: ''<nowiki/>'I trained until I could ride my tricycle down to the corner and back in less than 60 seconds.'''
+* Writing skills
+** Journal: ''<nowiki/>'I practiced my penmanship until I could write my name flawlessly.'''
+* Building block skills
+** Journal: ''I developed me block stacking skills until I could stack 25 building blocks''
+|
+|
+|Choosing 'Tooth brushing skills' increases smarts and looks by 8% and 16% respectively.
+Choosing ‘Tricycle skills' increases looks by 16%.
+Choosing 'Writing skills' increases smarts by 8%.
+Choosing "Building Block skills" increases smarts by 8%.
+|-
+|🛏️
+|Sweet Dreams
+|''It's late at night but you are extremely restless and completely awake. You've already been tucked into bed twice.''
+'''What will you do?'''
+|
+* Get up & play
+** Journal: ''I got up and played for a bit after having a hard time falling asleep.''
+* Try to sleep
+** Journal: ''<nowiki/>'I managed to fall asleep after setting my mind to it.'''
+* Go get my parents
+|
+|
+|Choosing 'Try to sleep' increases smarts by 4%.
+|-
+|🎪
+|Playground
+|Wow, the playground is actually empty! What will you pick?
+|
+* The swing
+** Journal: ''I played on the swing.''
+* The slide
+** Journal: ''I played on the slide.''
+* The monkey bars
+** Journal: ''I played on the monkey bars.''
+* None, they are too dangerous
+** Journal: ''I refused to get on playground equipment because it's too dangerous.''
+|
+|
+|
+|-
+|💩
+|Mud?
+|''While playing outside of your home, you notice a neat pile of brown mud swirled on the sidewalk.''
+'''What will you do?'''
+|
+* Throw it
+** Journal: ''<nowiki/>'I grabbed a pile of mud off the sidewalk and tossed it. It smelled absolutely horrible and left smudges all over my hand.'''
+* Leave it alone
+** Journal: ''<nowiki/>'I left a random pile of mud alone after spotting it on the sidewalk.'''
+* Stomp on it
+** Journal: ''<nowiki/>'I stomped on a random pile of brown mud on the sidewalk. It smelled absolutely horrid.'''
+|
+|
+|Choosing 'Leave it alone' increases smarts by 4%.
+Choosing 'Throw it' decreases happiness by 16% and smarts by 8%.
+Choosing ‘Stomp on it' decreases smarts by 8%.
+|-
+|🦷
+|Dental Care
+|You are told to brush your teeth before going to bed.
+'''What will you do?'''
+|
+* Brush them well
+** Journal: ''After being told to do so. I brushed my teeth thoroughly before going to bed.''
+* I'll pass
+** Journal: ''I finished my soda and went to bed without brushing, even though I was told to brush my teeth.''
+* Mouthwash only
+** Journal: ''I was told to brush my teeth before going to bed, but instead I just did a quick rinse with mouthwash.''
+* Brush and floss
+** Journal: ''<nowiki/>'After being told to do so, I brushed and flossed my teeth to keep my pearly whites shining bright.'''
+|
+|
+|Choosing 'Brush and floss' increases happiness and smarts by 8% and looks by 30%.
+
+Choosing 'Brush them well' increases smarts and looks by 4% and 8%.
+
+Choosing "Mouthwash only" lowers smarts and looks by 4%.
+|-
+|🛒
+|Rejection
+|Your mother is refusing to buy you a/an [Food] while on a shopping trip at the grocery store.
+What will you do?
+|
+* Steal it
+** Journal: ''While at the grocery store, I secretly stole and ate a/an [Food].''
+* Throw a tantrum
+** Journal: ''I threw myself on the floor kicking and screaming because I didn't get the [Food] I wanted at the grocery store. I still didn't get it.''
+* Stay cool
+** Journal: ''I kept my composure when I didn't get the [Food] I wanted at the grocery store.''
+|
+|
+|
+Choosing "Steal it" raises happiness by 4%.
+Choosing "Throw a tantrum" lowers happiness by 8%.
+|-
+|🚼
+|Favorite activity
+|You're learning new things to do with your body and are trying to decide which activity is the most fun.
+What will you choose?
+|
+* Swaying to music
+** Journal: ''I had fun swaying to some music my mother was playing.''
+* Scribbling with crayons
+** Journal: ''I had fun scribbling with crayons.''
+* Throwing food on the floor
+** Journal: ''I had fun throwing food off my high chair.''
+* Walking backward
+** Journal: ''I had fun walking backwards.''
+|
+|
+|
+|-
+|🍼
+|Favorite Activity
+|You're learning new things to do with your body and are trying to decide which activity is the most fun.
+What will you choose?
+|
+* Running fast
+** Journal: ''I ran fast just for fun.''
+* Standing on one foot
+** Journal: ''I have fun just standing on one foot.''
+* Drawing circles
+** Journal: ''I have fun drawing circles.''
+* Jumping in place
+** Journal: ''I have fun jumping in place.''
+|
+|
+|
+|-
+|🦷
+|Teething
+|Your gums hurt, and you're looking for something within reach to chew on to make them feel better.
+What will you grab?
+|
+* A Sharpie marker
+** Journal: ''I chewed on a Sharpie marker to make my gums feel better.''
+* The TV remote
+** Journal: ''I chewed on a TV remote to help my gums feel better.''
+* My mother's cell phone
+** Journal: ''I chewed on my mother's cell phone to help my gums feel better.''
+* Rubber chew ring
+** Journal: ''I chewed on a rubber chew ring to help my gums feel better.''
+|
+|
+|
+|-
+|🍔
+|Favorite fast food
+|Your parents are taking you out for dinner and are asking which fast food restaurant is your favorite
+What will you tell them?
+|
+* Pizza Hut
+** Journal: ''I told my parents that Pizza Hut is my favorite fast-food restaurant.''
+* McDonald's
+** Journal: ''I told my parents that McDonald's is my favorite fast-food restaurant.''
+* KFC
+** Journal: ''I told my parents that KFC is my favorite fast-food restaurant.''
+* I don't like fast food
+** Journal: ''I told my parent's that I didn't like fast food because it tastes fake.''
+|
+|
+|Choosing "I don't like fast food" increases smarts by 16%.
+|-
+|🍛
+|Dinner
+|You're at your friend, [Name]'s, house sitting down to dinner but the food looks kind of disgusting
+What will you do?
+|
+* Refuse to eat it
+** Journal: ''I refused to eat a gross dinner at my friend's house.''
+* Suck it up & push it down
+** Journal: ''I made myself eat a gross dinner at my friend's house.''
+* Slip it to the dog
+|
+|
+|
+|-
+|🍌
+|Lunchtime
+|While watching "[Cartoon]" on TV, your mother asks what you want to eat for lunch.
+What will you choose?
+|
+* Mac and cheese
+** Journal: ''I chose to eat some mac and cheese for lunch while watching "[Cartoon]".''
+* A PB&J
+* Yogurt and a fruit cup
+** Journal: ''I chose to eat some yogurt and a fruit cup for lunch while watching "[Cartoon]".''
+* Banana and turkey slices
+** Journal: ''I chose to eat a banana and some turkey slices for lunch while watching "[Cartoon]".''
+|
+|
+|
+|-
+|📲
+|XXX
+|A kid from school named [Name] is sending everyone links to obscene websites with videos of people doing weird things to each other. They sent it to you too.
+''What will you do?''
+|
+* Click the first video just to see
+** Journal: ''I was exposed to pornographic content.''
+* Watch all the videos they sent
+** Journal: ''I watched a bunch of explicit videos that someone at school send me.''
+* Delete their text
+** Journal: ''I resisted a classmate's attempt to expose me to pornography.''
+|
+|
+|
+|-
+|💪
+|Physical Development
+|You're starting to discover what your little body can do, and your mother is encouraging you to perform one of your favorite moves.
+What will you do?
+|
+* Grab her hair
+** Journal: ''I grabbed my parent's hair when they asked me to perform my favorite move''
+* Hold a ball
+** Journal: ''I practiced holding a ball for my parent.''
+* Stand up in the crib
+** Journal: ''I practiced standing up in the crib for my parent.''
+* Crawl across the floor
+** Journal: ''I crawled across the floor for my parent.''
+|
+|
+|Choosing "Stand up in the crib" raises smarts by 4%.
+|-
+|🍪
+|Free Samples
+|You're riding in the cart at the supermarket, shopping for groceries with your mother, and pass by a woman handing out free samples of [Food]. You want some, but your mother says no and keeps walking.
+How will you react?
+|
+* Kick and scream
+** Journal: ''I threw a tantrum at the supermarket because my mother wouldn't let me have a free sample of [food].''
+* Ask again, and again
+** Journal: ''I annoyed my mother by repeatedly asking for a free sample of [food] at the supermarket.''
+* Cry
+** Journal: ''I cried when my mother wouldn't let me have a free sample of [food] at the supermarket.''
+* Say nothing
+** Journal: ''I didn't protest when my mother wouldn't let me have a free sample of [food] at the supermarket.''
+|
+|
+|Choosing "Kick and scream" lowers your smarts by 8%.
+Choosing "Ask again, and again" lowers happiness by 8% and smarts by 4%.
+|-
+|💤
+|Nap Time
+|Your mother is saying it's time for you to take a nap, but you want to play some more.
+What will you do?
+|
+* Kick and scream
+** Journal: ''I threw a tantrum because my mother said I had to take a nap, but I wanted to play some more.''
+* Compromise
+** Journal: ''I negotiated with my mother for an additional ten minutes of play time before taking a nap.''
+* Cry
+** Journal: ''I cried when my mother made me take a nap because I wanted to play some more.''
+* Take a nap
+** Journal: ''Even though I wanted to play some more, I took a nap when my mother said it was time.''
+|
+|
+|
+Choosing "Kick and scream" lowers happiness by 4%.
+
+Choosing "Compromise" increases smarts by 8%.
+|-
+|🖍️
+|Favorite activity
+|You're learning new things to do with your body and are trying to decide which activity you like doing the most.
+What will you choose?
+|
+* Coloring
+** Journal: ''I decided that coloring was my favorite thing to do.''
+* Building a tower with blocks
+** Journal: ''I decided that building a really tall tower out of blocks was my favorite thing to do.''
+* Marching in a straight line
+** Journal: ''I decided that marching in a straight line was my favorite thing to do.''
+* Riding your tricycle
+|
+|
+|
+|-
+|🧸
+|Fun Toys
+|While lying on a big soft blanket on the floor, you notice some fun toys to play with around you.
+What will you choose?
+|
+* The TV remote
+** Journal: ''I played with the TV remote while laying on a blanket.''
+* Beanie Baby penguin
+** Journal: ''I played I played with a Beanie Baby penguin while laying on a blanket.''
+* Plush picture book
+** Journal: ''I looked at a plush picture book while laying on a blanket''
+* A pair of dirty socks
+** Journal: ''I played with a pair of dirty socks while laying on a blanket.''
+|
+|
+|Choosing "Plush picture book" raises smarts by 4%.
+
+Choosing "A pair of dirty socks" lowers smarts by 4%.
+|-
+|🥤
+|Favorite drink
+|After playing all morning, your mother says you need to drink something and asks what sounds good.
+What will you choose?
+|
+* Water
+** Journal: ''I drank a tall glass of water after playing all morning.''
+* A glass of milk
+** Journal: I drank a glass of milk after playing all morning.
+* Prune juice
+** Journal: ''I drank a glass of prune juice after playing all morning.''
+* Apple juice
+** Journal: ''I drank a cold glass of apple juice after playing all morning.''
+|
+|
+|
+|-
+|👗
+|What to Wear
+|Your mother is taking you to play in the park and is asking what you want to wear.
+What will you choose?
+|
+* Red and white Polo dress
+** Journal: ''I wore a red and white Polo dress to play in the park.''
+* Burberry princess dress
+* Fendi skirt with plaid blouse
+* Gucci jeans and white tee
+|
+|
+|
+|-
+|🎨
+|Favorite color
+|Your mother is asking what your favorite color is.
+What color will you choose?
+|
+* Blue
+** Journal: ''I told my mother that blue is my favorite color.''
+* Yellow
+** Journal: ''I told my mother that yellow is my favorite color.''
+* Green
+** Journal: ''I told my mother that green is my favorite color.''
+* Pink
+** Journal: ''I told my mother that pink is my favorite color.''
+|
+|
+|
+|-
+|🤬
+|Swear Club
+|A group of neighborhood children are creating a secret club. They call it the "Swear Club" and only allow in kids who say bad words.
+What will you do?
+|
+* Let me in, dammit!
+** Journal: ''I joined a secret profanity club for kids in my neighborhood.''
+* Ignore them
+** Journal: ''I took no part of a naughty club that some kids in my neighborhood organized.''
+* Tell an adult.
+** Journal: ''I tattled a naughty neighborhood of children, the club they started was disbanded.''
+|
+|
+|
+|-
+|⭐
+|Talent show
+|You've been invited to perform at a children's talent show at the mall
+What will you do?
+|
+* Tell a joke
+** Journal: ''I told my favorite knock-knock joke at a talent show at the mall.''
+* Sing the ABC's
+** Journal: ''I sang the ABC's at the mall for a kiddie talent show''
+* Break dance
+** Journal: ''I performed break dance at a talent show at the mall.''
+* Decline
+|
+|
+|
+|-
+|🎂
+|10th birthday
+|You are asked what theme you'd like to have for your 10th birthday party.
+What will you choose?
+|
+* A Teletubbies theme
+** Journal: ''I had a Teletubbies-themed birthday party but I was left disappointed after I was the only one who dressed as a Teletubbie.''
+* A Disney theme
+* A superhero theme
+* A unicorn theme
+|
+|
+|Choosing "A teletubbies theme" lowers smarts by 8%.
+|-
+|💭
+|Pretending
+|Pretending to do things is a lot of fun but you're not sure which activity is the most fun.
+What will you choose?
+|
+* Playing house
+** Journal: ''I decided that pretending to play house is the most fun thing to do''
+* Cooking food
+** Journal: ''I decided that pretending to cook food is the most fun thing to do.''
+* Driving a car
+** Journal: ''I decided that pretending to drive a car is the most fun thing to do.''
+* Talking on the phone
+** Journal: ''I decided that pretending to talking on the phone is the most fun thing to do.''
+|
+|
+|
+|-
+|🌉
+|Daredevil
+|Two/Three of your friends literally just jumped off a bridge into the river below.
+What will you do?
+|
+* Jump!
+** Journal: ''I jumped off a bridge after I saw my friends do it.''
+* Turn around and leave
+** Journal: ''I was uninterested in jumping off a bridge.''
+* Climb down and swim
+** Journal: ''I didn't have the guts to jump off a bridge.''
+|
+|
+|
+|-
+|📬
+|Mailbox Mischief
+|Your delinquent friend, [Name] invites you to go bash in mailboxes with a sledgehammer.
+What will you do?
+|
+* I'll go, but just watch
+* No way, I'm busy
+** Journal: ''I turned down an opportunity to bash in mailboxes with a delinquent friend.''
+* Let's get into some mischief!
+|
+|
+|
+|-
+|🥣
+|Orphanage
+|With no surviving parents, you've been sent to an orphanage for the remainder of your childhood.
+|
+* OK
+** Journal: ''I've been sent to an orphanage for the remainder of my childhood.''
+|
+|
+|
+|-
+|🔴
+|Menstrual Cycle
+|You just got your first period.
+|
+* Tell my mother about it
+** Journal: ''I got my first period and shared the news with my mother.''
+* Tell my friend
+* Tell my sister
+* Keep it a secret
+|
+|10 yrs - 15 yrs
+|Increases relationships
+|}
+'[Food]' is a command example, such as cupcake, lollipop, apple, bag of chips, etc.
+|}
+
+== Bullying ==
+There is an event where a bully can tease or make fun of you or your younger sibling. You have the option to either do nothing, assault your bully, report them, have a talk with them, or if you have an older sibling, ask them to help you. If your younger sibling is being bullied, you have the option to either do nothing, assault the bully, and report them too. Sometimes, you can get in trouble for fighting a bully, and even expelled. If your older sibling helps you with the bully, their relationship will improve mildly. 
+===Things the bully might do or say:===
+*Try to turn your friends/your sibling's friends against you/your younger sibling
+*Won't let you/your younger sibling play with them
+*Tease you/your younger sibling about your socioeconomic status
+*Tell everyone that you/your younger sibling slept with everyone on the diving team
+*Tell everyone you/your younger sibling has a small penis
+*Make untrue rumors about you/your younger sibling
+*Fart in class and blame it on you/your younger sibling
+*Vandalize with graffiti and blame it on you/your younger sibling
+*Take your/your younger sibling's lunch money
+*Tell your/your younger sibling's classmates that you/your younger sibling smell like shrimp scampi
+*Tell you/your younger sibling that you're/they're stupid/ugly every day
+*Insult your/your younger sibling's accent
+*Make fun of your/your sibling's lisp
+*Cut bits of your/your sibling's hair
+*Tell everyone your/your sibling's mother is a prostitute
+*Calls you racial slurs everyday in the bathroom
+*Gives you a wedgie in the school bathroom every morning 
+
+== Classmate acting up ==
+[[File:IMG 0936.PNG|thumb|191x191px|A fatal assault to a classmate acting up at school.]]A classmate of your character will act up in class. Your character can ignore them, report them, have a talk with them, laugh at their antics, or assault them. Reporting the classmate will get them punished, but your character can lose popularity. Laughing at antics will give your character a higher relationship with the classmate but may or may not get them in trouble for encouraging a misbehaving classmate. Assaulting them could get your character in trouble for fighting. Having a talk with them shows a "Their Receptiveness" stat and the classmate will either apologize for their actions, say they like you, insult you or even assault you depending on receptiveness stats.
+
+== Class Clown ==
+Your character might come up with a good joke to tell in class as an answer to the teacher's question. You can either crack the joke, answer the question seriously, or say "never mind".
+
+== Flirting ==
+Some teachers will flirt with your character. You can either flirt back, ignore them, or report them to the dean/principal/headmaster. This event is only sometimes a childhood event because it will only happen if you are in Community College, University, or any of the Higher Education options.
+
+== Pets ==
+Your parents may offer to buy you and your siblings a [https://bitlife-life-simulator.fandom.com/wiki/Pets pet]. You can accept the pet or refuse it, and if your siblings have high petulance, they can assault or insult you for refusing a pet.
+
+== Cars ==
+If you get your driver's license and your parents' generosity, money, and relationship levels are high, then they might offer to get you a [https://bitlife-life-simulator.fandom.com/wiki/Assets car]. You can choose to accept it gratefully, ask for a more expensive car, or turn it down. Asking for a more expensive car might lead to your parents getting you a better car, or you not getting a car at all.
+
+== School dance/Naughty Stuff ==
+{{Infobox scenario|title1 = School Dance|image1 = Screenshot 2019-11-13-06-56-32-377 com.candywriter.bitlife.png|caption1 = ''An example of an scenario''|scenario_type: = School|emoji: = 🎶|also_on_android = Yes}}Sometimes, you have the option to ask your crush out for the school dance, go by yourself, or not go at all. Successfully asking your crush out will increase your relationship with them, but being rejected with decrease your relationship with them. Taking someone to the school dance will not always lead to you dating them. Sometime you find things like a club with kids who only say bad words you can join them, ignore them or tell someone to get the gang stopped. 
+
+== First kiss ==
+Your character can have the opportunity to have their first kiss with one of their classmates. You have the option to kiss with tongue, kiss but make sure there's no tongue, or run away. Kissing them will give you a decent relationship boost with this classmate, but running away will lessen your relationship.
+Kissing with tongue will say what they tasted like or what they said you taste like.
+
+== Movies ==
+The kid/kids next door can invite your character to watch a [https://bitlife-life-simulator.fandom.com/wiki/Movie_Theater movie] with them. Going with them will boost your happiness, and if you are not a Bitizen, you will have to watch an ad.
+
+== School Clubs/Extracurricular Activities ==
+When you go to middle school/secondary school, you are given the option to join a club or participate in extracurricular activities. Sometimes, there is a popup that tells you that your friends are joining a certain club and they want you to join it too, or you've been thinking about trying out in a sport.
+==Drugs/Alcohol==
+Even though your character is under 18 at this time, characters as young as 14 may be offered drugs or alcohol when they age up. Sometimes the character can become addicted or even overdose to death on their first offer, however, the latter is very rare. Sometimes you can be offered juuls or anything else that counts you can say yes or say no the offers of drugs or alochol or any thing else that counts.
+
+== Playground ==
+Your character is on the playground and can choose to ride the slide, swings, monkey bars, or none because they are "too dangerous".
+
+== Daredevil ==
+Your character's friends will sometimes jump off a bridge into a river, and tell you to do the same. You can jump, climb down instead of jumping, or refuse to.
+
+Following the School update, friends can persuade you to ditch class with them or help them cheat on exams. You may agree to peer pressure, refuse, or report it. If you do what you were pressured, you may or may not be caught depending on luck. If the classmate wants you to help them cheat, you can instead help them study, which will then say whether the classmate passed or failed the exam with their appreciation. If the classmate passes (whether by cheating or studying), or if you agree to ditch class for a friend, the relationship will improve with them. If you have not chosen to report them, you may still do so but this destroys your relationship with that character and could lose popularity. Even if you ditched school or helped them cheat, you will not be caught while reporting if you weren't already caught.
+
+== Picking Teams ==
+Your character is picking teams on a sport and can choose who they want as their last teammate. The options are: the nerdy kid, the wimpy kid, the scrawny kid, and the uncoordinated kid, but you can choose to pick neither of them.
+
+== Family Trips ==
+
+Your character's parents will sometimes book a vacation to a city in another country, or go on a road trip to visit some relatives. You can choose to appreciate it, complain but go anyway, or refuse to go.
+If you complain, they may take you with them or just let you stay at home.
+
+== Emigration ==
+[[File:Poland emigration .jpg|thumb|281x281px|Emigration]]
+Rarely, your family might decide to [https://bitlife-life-simulator.fandom.com/wiki/Emigration emigrate] to another country.
+
+== Vaccination ==
+Your parents may vaccinate your character around the time they are a toddler. You can stay calm, throw a tantrum, or bite your parent (no matter what you pick, you will be vaccinated). Throwing a tantrum or biting your parent will lower your relationship.
+
+== Driver's License ==
+[[File:Drv-l-abigail-l.png|thumb]]
+When your character is the legal driving age in their [[Nations|country]], they can take a multiple choice quiz to earn their driver's license. [[Driving License|Driver's License]] can only be free on the first try, subsequent tries will cost 45. Generous parents will offer a [[Assets|car]] to your character when they get their licence. This event is not always a childhood event as some countries require drivers to be at least 18 to receive a license. Since the March 2020 update, there is a bug where if you have a partner, and click on "Propose" and then "Go ring shopping first", you can get the driving license as young as 10.
+[[Category:BitLife]]
+[[Category:Events]]

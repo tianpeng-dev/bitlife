@@ -1,0 +1,25 @@
+{
+  "title": "Encounter/Animal",
+  "pageid": 621,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Encounter%2FAnimal",
+  "categories": [
+    "BitLife",
+    "Events",
+    "Under_construction"
+  ],
+  "links": [
+    "Achievements",
+    "Death",
+    "Diseases",
+    "Emoji",
+    "Pets",
+    "Stats"
+  ],
+  "fetched_at": "2026-06-18T03:35:30.110242+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Encounter_Animal/content.html",
+    "wikitext": "pages/Encounter_Animal/content.wikitext",
+    "text": "pages/Encounter_Animal/content.txt"
+  }
+}

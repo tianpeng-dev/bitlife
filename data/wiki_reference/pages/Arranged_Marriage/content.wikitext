@@ -1,0 +1,26 @@
+{{Infobox_BitLifeApp|title1 = Arranged Marriage|launched_on_ios: = October 19, 2019|launched_on_android: = December 20, 2019}}In some [[Nations|countries]], your parents can arrange a [[Relationships/Spouses|marriage]] for you to another person, regardless of whether your character is already in a relationship, engaged, or identifies as homosexual. Even if you are dating or are engaged, you parents can arrange a marriage for you. You will have the options "Agree to marry them" and "Refuse to marry them". If you refuse to marry them, your parents might either leave it there, ask you politely, or demand that you marry the person if they have a high religiousness. They might also demand you after rejecting the polite request. Refusing to marry the person after they demanded twice will result in an empty [[relationships]] bar. If they only ask once and you refuse, this will not empty the relationship bar but will lower it. When you agree to marry the person, your spouse's relationship bar will usually start off low, near the orange zone. 
+
+== Countries in BitLife where arranged marriage is practiced ==
+(The list is not complete yet)
+
+* Bolivia
+* China
+* DR Congo
+* Georgia
+* Hong Kong
+* India
+* Israel
+* Japan
+* Kazakhstan
+* Mongolia
+* Nigeria
+* Pakistan
+* Saudi Arabia
+* Kenya
+* Iran
+* Iraq
+* Ukraine
+* Malaysia
+
+[[Category:Updates]]
+[[Category:BitLife]]

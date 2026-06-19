@@ -1,0 +1,10 @@
+{{Infobox BitLifeApp
+|title1=Generations
+|launched_on_ios:=March 2019
+|launched_on_android:=December 2019}}
+
+'''Generations''' are a new update in BitLife that appears in the [[IOS version]], debuting in March 2019 and the [[Android version]] in December 2019. This idea is notable for appearing on InstLife before BitLife. If a character is a [[Bitizenship|Bitizen]], they may have unlimited generations but a non-Bitizen may only do this once.
+
+After your previous life dies, any children from that life may go to the bathroom and you may play as them. In a new generation, a character's life begins with how the previous generation's character died and what they got as an inheritance. The character you play as will be the same age that they were when the parent died. In some countries, an estate tax will be paid to the country's government, lowering the amount of money inherited. In addition to money, the new generation will also inherit [[Heirlooms]]. If a character in the new generation is a juvenile, they will have any houses or cars owned by the previous generation auctioned off due to their age, but they can keep all profits from the auctioned items and will still be able to hold any heirlooms from past generations. In a character's [[Will/Testament]], they may choose to give everything up to one child and the player can play as that child and get all the inheritance, same as if they were an only child. If a character has siblings and the will was split evenly, the siblings will share the inheritance evenly and you will get a fraction of the inheritance depending on how many siblings. Generations cannot be played with as a spouse, your new generation must be any of the living children your character has. Generations may be played as an adopted child or step-child if your character had any.
+[[Category:BitLife]]
+[[Category:Updates]]

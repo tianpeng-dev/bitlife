@@ -1,0 +1,23 @@
+{
+  "title": "Jim Bob Butler",
+  "pageid": 4914,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Jim_Bob_Butler",
+  "categories": [
+    "Actors",
+    "Americans",
+    "Fan_Characters",
+    "Teachers"
+  ],
+  "links": [
+    "Hannah Shrub",
+    "Henry Shrub",
+    "Jackie Shrub"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Jim_Bob_Butler/content.html",
+    "wikitext": "pages/Jim_Bob_Butler/content.wikitext",
+    "text": "pages/Jim_Bob_Butler/content.txt"
+  }
+}

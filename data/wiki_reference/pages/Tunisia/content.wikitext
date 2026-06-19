@@ -1,0 +1,39 @@
+{{Infobox country
+|title1=Tunisia
+|image1=[[File:Tunisia.png]]
+|caption1=Tunisia's flag.
+|country_name=Tunisia
+|number_of_default_cities=
+|when_was_it_added_to_ios=July 10, 2022
+}}'''Tunisia''' is a [[Nations|country]] that was added to [[BitLife: Life Simulator|BitLife]] in July 8, 2022.
+
+On July 8, 2022, new countries were added to both iOS and Android. Along with Tunisia, there was also [[Andorra]], [[Angola]], [[Aruba]], [[Belize]], [[El Salvador]], [[Guatemala]], [[Guyana]], [[Haiti]], [[Nicaragua]], [[Papua New Guinea]], [[Paraguay]], [[Samoa]], and [[Uganda]]. This was added in a bug fix update prior to the upcoming Business Update.
+
+==Information==
+Tunisia, alongside Papua New Guinea, Venezuela, Belize, Iraq, Afghanistan, Nicaragua, El Salvador, Pakistan, Haiti, Syria, Guatemala, Angola, and Guyana are the 14 countries where a character can die suddenly, due to a terrorist attack, giving them the Unlucky ribbon. Family members can also die from these.
+
+==Name List==
+
+===First Names===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Name
+! Gender
+! Meaning
+|-
+|}
+
+===Surnames===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Surname
+! Meaning
+|-
+|}
+
+== Gallery ==
+<gallery>
+File:Tunisia baby.jpeg|A baby born in Tunisia.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

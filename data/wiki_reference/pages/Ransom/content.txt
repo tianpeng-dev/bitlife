@@ -1,0 +1,53 @@
+Ransom
+Description
+Your (victim), (victim name), has been kidnapped and is being held for ransom! Their kidnappers are demanding (money) in cash for their return!
+Emoji
+😱
+Ransom
+is an event in BitLife. This event can randomly occur when your character has a lot of money (usually more than a million dollars/euros/pounds, etc.) and it consists in one of your family members, friends or pets being captured and held for ransom. Sometimes, the popup can say: "Some warn you not to call the police".
+Contents
+1
+Who can be held up for ransom
+2
+Options
+2.1
+Do Nothing
+2.2
+Pay the ransom
+2.3
+Involve the police
+3
+Consequences
+4
+Trivia
+Who can be held up for ransom
+[
+]
+Your parents
+Your friends
+Your pets
+Your lover
+Options
+[
+]
+Do Nothing
+[
+]
+You let the kidnappers take away one of your relationships, but there are a chance that the victim can escape from the kidnappers.
+Pay the ransom
+[
+]
+Gives a lot of money to the kidnappers. There's a chance that they will give it back or that they will scam up and take the money without returning (relative/pet), like a hitman can.
+Involve the police
+[
+]
+If you call the police, they can able to retrieve the victim and arrest the kidnappers or are unable to do so.
+Consequences
+[
+]
+Depending of your choice, you can ignore the popup, the police failed their mission or the kidnappers scam you, after this, the kidnappers will vanish the victim and the victim will be considered dead, as for your pet, it will permantely disappear and will not appear on your relationship tab, even at "late pets" tab. But there are a chance that the victim escaped from the kidnappers or the police arrested the kidnappers.
+Trivia
+[
+]
+If the victim is a person and they vanish with the kidnappers, They are considered dead.
+If the victim is an animal, They will disappear from your relationships and not appear in "Late Pets".

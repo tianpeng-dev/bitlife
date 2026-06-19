@@ -1,0 +1,21 @@
+{
+  "title": "Careers/Job activities",
+  "pageid": 742,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Careers%2FJob_activities",
+  "categories": [
+    "BitLife",
+    "Under_construction"
+  ],
+  "links": [
+    "Careers",
+    "Crime",
+    "Updates"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Careers_Job_activities/content.html",
+    "wikitext": "pages/Careers_Job_activities/content.wikitext",
+    "text": "pages/Careers_Job_activities/content.txt"
+  }
+}

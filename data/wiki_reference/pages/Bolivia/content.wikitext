@@ -1,0 +1,8 @@
+{{Infobox_country|image1 = [[File:Bolivia.png]]|caption1 = Bolivia's flag.|country_name = Bolivia|number_of_default_cities = 2|when_was_it_added_to_ios = May 9, 2020|available_on_android_as_well = Yes}}
+'''Bolivia''' is a [[Nations|country]] that was added to BitLife in version 1.36. Its default cities are the capital, La Paz, along with Sucre.
+
+== Gallery ==
+[[File:Bolivia baby.jpeg|left|thumb|A baby born in Bolivia.]]
+{{Nations}}
+[[Category:Nations]]
+[[Category:BitLife]]

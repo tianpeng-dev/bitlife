@@ -1,0 +1,23 @@
+{
+  "title": "Buster Brian",
+  "pageid": 5013,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Buster_Brian",
+  "categories": [
+    "Americans",
+    "Fan_Characters",
+    "Korean_War_veterans",
+    "Soldiers",
+    "World_War_II_veterans",
+    "Young_people"
+  ],
+  "links": [
+    "John Buckles"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Buster_Brian/content.html",
+    "wikitext": "pages/Buster_Brian/content.wikitext",
+    "text": "pages/Buster_Brian/content.txt"
+  }
+}

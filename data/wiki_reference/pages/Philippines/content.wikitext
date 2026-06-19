@@ -1,0 +1,358 @@
+{{Infobox country
+|title1=Philippines
+|image1=[[File:Philippines.png]]
+|caption1=The Philippines' flag.
+|country_name=Philippines
+|number_of_default_cities=2
+|when_was_it_added_to_ios=September 2018
+}}
+'''The Philippines''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Manila, along with its largest city in Luzon, Quezon City.
+
+== Name List ==
+=== Male First Names ===
+* Adam
+* Adrian 
+* Agustin 
+* Adniel 
+* Abdiel 
+* Adriel 
+* Abnar
+* Albert 
+* Alberto 
+* Adalberto 
+* Alejandro 
+* Alessandro 
+* Adonis
+* Andriel 
+* Aniel
+* Alfredo 
+* Alexey 
+* Aliet
+* Amel
+* Andy
+* Angel
+* Arezki 
+* Arian
+* Ary
+* Alex
+* Andre
+* Alden
+* Alon
+* Amado
+* Andres
+* Antonio
+* Apolinario
+* Armando
+* Anthony 
+* Bayani
+* Benjie
+* Bruno 
+* Benjamin 
+* Caesar
+* Carl
+* Carlo
+* Carlos
+* Christian
+* Daniel
+* David
+* Diego 
+* Francis
+* Gabriel 
+* Ian
+* Ignacio
+* Iman
+* Ivan 
+* Irving 
+* Javier
+* Jose
+* Juan
+* Juan Diego 
+* Juan David 
+* Juan Jose
+* Juan Pablo
+* Juan Sebastian 
+* Julian 
+* Jack
+* Jackson
+* James
+* Jayson
+* Jayden
+* Jerome
+* Jesus
+* John
+* John Anthony 
+* John Carlo
+* John Lloyd
+* John Mark
+* John Michael
+* John Paul
+* John Rey
+* Joshua
+* Justin
+* Justine
+* Kelvin
+* Kenneth
+* Kent
+* Kevin
+* Lamar
+* Lance
+* Landon
+* Lloyd 
+* Liberato
+* Marc
+* Marco
+* Marcos 
+* Macario
+* Mandy
+* Manolo
+* Mark
+* Michael 
+* Mark Anthony
+* Modesto
+* Nate
+* Nathan
+* Nathaniel
+* Neal
+* Nemesio
+* Norman
+* Oistin
+* Oliver
+* Omar
+* Omarion
+* Onofre
+* Pablo
+* Paco
+* Palmer
+* Paolo
+* Paul
+* Restituto
+* Rizal
+* Rodel
+* Rodrigo
+* Rommel
+* Ronald
+* Ryan
+* Ray
+* Salvador
+* Sebastian
+* Samuel 
+* Sherwin
+* Tadeo
+* Teodulo
+* Thaddeus
+* Thatcher
+* Tobias
+* Tomas
+* Urbano
+* Varian
+* Venancio
+* Vincent
+* Vito
+* Wilfred
+* Willard
+* Yanni
+* Yaniel
+* Yadiel 
+* Yanuel
+* Yariel
+* Yeriel
+
+=== Female First Names ===
+* Althea
+* Amihan
+* Amor
+* Anna
+* Ana
+* Analyn
+* Andrea
+* Angela
+* Angelica
+* Angeline
+* Bea
+* Beatrice
+* Belen
+* Benilda
+* Bernadette
+* Bituin
+* Blessica
+* Camille
+* Candida
+* Carla
+* Carol
+* Chesa
+* Christine
+* Claire
+* Daisy
+* Daniela
+* Darna
+* Diana
+* Divina
+* Diwata
+* Emma
+* Edita
+* Erica
+* Estrellita
+* Eugenia
+* Edna 
+* Faith
+* Farah
+* Fatima
+* Fay
+* Felicia
+* Flordeliza
+* Floribeth
+* Gabriella
+* Garnet
+* Gemma
+* Geneva
+* Geraldine
+* Gloria
+* Grace
+* Hannah
+* Harmony
+* Hazel
+* Heidi
+* Helen
+* Honorata
+* Ida
+* Imelda
+* Inez
+* Ingrid
+* Julia
+* Jane
+* Joy
+* Janelle
+* Jessa
+* Karen
+* Kimberly
+* Louise 
+* Liezel
+* Ligaya
+* Lilibeth
+* Luahwati
+* Luzviminda
+* Mahalia
+* Malaya
+* Mara
+* Maria
+* Marie
+* Marcia
+* Marisol
+* Mary
+* Mary Paul
+* Mary Mark
+* Mary Grace
+* Mary Joy
+* Michelle
+* Nenita
+* Patricia
+* Perlah
+* Princess
+* Rosa
+* Samantha
+* Sampaguita
+* Stephanie
+* Tala
+* Valerie
+* Yuliana 
+
+=== Surnames ===
+* Andrada
+* Alcantara 
+* Ang
+* Angeles
+* Antonio
+* Aquino
+* Bautista
+* Castillo
+* Chan
+* Chua
+* Concepcion
+* Corpuz
+* Cortez
+* Cruz
+* Dichoco
+* Dimaandal
+* Dimaguiba
+* Dimakulangan
+* Dimasalang
+* Dimayuga
+* Divinagracia
+* Dizon
+* Domingo
+* Duterte
+* Enriquez
+* Espiritu
+* Evangelista
+* Fajardo
+* Flores
+* Francisco
+* Garcia
+* Guinto
+* Javier
+* Legaspi
+* Lim
+* Limbaco
+* Lumaban
+* Lustre
+* Makareg
+* Manalo
+* Manuel
+* Marc
+* Marco
+* Marcos
+* Mariano
+* Matapang
+* Medina
+* Mendoza
+* Mercado
+* Miranda
+* Navarro
+* Ocampo
+* Ong
+* Ortiz
+* Pacquiao
+* Padilla
+* Perez
+* Pantangco
+* Pineda
+* Pulumbarit
+* Ramos
+* Ramirez 
+* Reyes
+* Rivera
+* Rosales
+* Salazar
+* Samson
+* Santos
+* Sarmiento
+* Soriano
+* Tan
+* Tantoco
+* Ting
+* Tiu
+* Tolentino
+* Tomas
+* Torres
+* Vergara
+* Villanueva
+* Yap
+* Yu
+* Yusingco
+* Yutadco
+* de Jesus 
+* de Castro
+* de Rosales
+* de Leon 
+* del Rosario
+* de la Cruz  
+* de la Vega
+* de los Reyes
+* de los Santos
+
+== Gallery ==
+<gallery>
+File:Philippines baby.jpeg|A baby born in the Philippines.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

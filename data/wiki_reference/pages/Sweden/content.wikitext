@@ -1,0 +1,180 @@
+{{Infobox country
+|title1=Sweden
+|image1=[[File:Sweden.png]]
+|caption1=Sweden's flag.
+|country_name=Sweden
+|number_of_default_cities=4
+|when_was_it_added_to_ios=September 2018 (default)
+}}
+'''Sweden''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Stockholm, along with Gothenburg, Halmstad, and Malmö.
+== Name List ==
+=== Male First Names ===
+* Adam
+* Adrian
+* Anton
+* Alfred 
+* Albin
+* Alvin
+* Arvid
+* August
+* Axel
+* Alexander 
+* Benjamin
+* Carl
+* Casper
+* Charlie
+* Daniel
+* Dag
+* David
+* Dolph
+* Ebbe
+* Edvin
+* Elias
+* Elliot
+* Emil
+* Erik
+* Filip
+* Gabriel
+* Gustav
+* Harry
+* Henrik
+* Hugo
+* Ingvar
+* Isak
+* Josef
+* Leo
+* Leon
+* Liam
+* Lucas
+* Ludvig
+* Malte
+* Marcus
+* Mats
+* Max
+* Melker
+* Melvin
+* Mohamed
+* Nils
+* Noah
+* Oliver
+* Olle
+* Oscar
+* Per
+* Samuel 
+* Sixten
+* Stefan
+* Sven
+* Theo
+* Theodor
+* Valter
+* Viggo
+* Viktor
+* Vincent
+* William
+
+=== Female First Names ===
+* Alice
+* Alicia
+* Amanda 
+* Agnes
+* Alma
+* Alva
+* Astrid
+* Birgit
+* Ebba
+* Edith
+* Elise
+* Ella
+* Ellen
+* Ellie
+* Elsa
+* Elvira
+* Emilia
+* Emma
+* Ester
+* Felicia
+* Freja
+* Greta
+* Ida
+* Ines
+* Ingrid
+* Isabella
+* Iza
+* Julia
+* Klara
+* Kristina
+* Leah
+* Lilly
+* Linnea
+* Maja
+* Matilda
+* Meja
+* Moa
+* Molly
+* Nellie
+* Nora
+* Nova
+* Olivia
+* Saga
+* Sara
+* Selma
+* Signe
+* Siri
+* Sofia
+* Stella
+* Tuva
+* Tyra
+* Vera
+* Wilma
+* Zara
+
+=== Surnames ===
+* Ahlgren 
+* Akerman 
+* Anderberg
+* Andersson
+* Anderssen 
+* Berggren
+* Bjorklund
+* Dahlberg
+* Ekdahl
+* Eriksson
+* Gustafsson
+* Hansson
+* Jakobsson
+* Jansson
+* Johansson
+* Jonsson
+* Karlsson
+* Labba
+* Larsson
+* Lennartsson
+* Lind
+* Lundgren
+* Lundin
+* Lundmark
+* Magnusson
+* Naslund
+* Nilsson
+* Nutti
+* Olofsson
+* Olsson
+* Palmstruch
+* Persson
+* Pettersson
+* Qvist
+* Rosenqvist
+* Sundin
+* Simonsson
+* Svensson
+* Tornquist
+* Vikander
+* Wahlgren
+
+== Gallery ==
+<gallery>
+File:Sweden baby.jpeg|A baby born in Sweden.
+File:Swedish royalty.jpeg|A baby born into Swedish royalty.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

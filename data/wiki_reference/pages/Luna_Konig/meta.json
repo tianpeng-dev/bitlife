@@ -1,0 +1,22 @@
+{
+  "title": "Luna Konig",
+  "pageid": 5544,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Luna_Konig",
+  "categories": [
+    "Criminals",
+    "Fan_Characters",
+    "Germans",
+    "Prisoners"
+  ],
+  "links": [
+    "Eva Grieg II",
+    "Mattis Bauer"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Luna_Konig/content.html",
+    "wikitext": "pages/Luna_Konig/content.wikitext",
+    "text": "pages/Luna_Konig/content.txt"
+  }
+}

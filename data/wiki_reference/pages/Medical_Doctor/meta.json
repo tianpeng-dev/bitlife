@@ -1,0 +1,24 @@
+{
+  "title": "Medical Doctor",
+  "pageid": 101,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Medical_Doctor",
+  "categories": [
+    "BitLife",
+    "Medical"
+  ],
+  "links": [
+    "Alternative Doctor",
+    "Cancer",
+    "Diseases",
+    "Nations",
+    "Updates",
+    "Witch Doctor"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Medical_Doctor/content.html",
+    "wikitext": "pages/Medical_Doctor/content.wikitext",
+    "text": "pages/Medical_Doctor/content.txt"
+  }
+}

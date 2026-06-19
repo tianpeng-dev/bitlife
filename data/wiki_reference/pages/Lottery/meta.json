@@ -1,0 +1,22 @@
+{
+  "title": "Lottery",
+  "pageid": 828,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Lottery",
+  "categories": [
+    "Activities",
+    "BitLife"
+  ],
+  "links": [
+    "Achievements",
+    "Activities",
+    "Nations",
+    "Notifications"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Lottery/content.html",
+    "wikitext": "pages/Lottery/content.wikitext",
+    "text": "pages/Lottery/content.txt"
+  }
+}

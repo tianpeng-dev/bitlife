@@ -1,0 +1,21 @@
+{
+  "title": "Encounter/Sexual",
+  "pageid": 620,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Encounter%2FSexual",
+  "categories": [
+    "BitLife",
+    "Events"
+  ],
+  "links": [
+    "Crime",
+    "Diseases",
+    "Jail"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Encounter_Sexual/content.html",
+    "wikitext": "pages/Encounter_Sexual/content.wikitext",
+    "text": "pages/Encounter_Sexual/content.txt"
+  }
+}

@@ -1,0 +1,1596 @@
+{{Infobox BitLifeApp
+|title1=Careers
+|image1=[[File:Bitlifeoffice.png|thumb]]
+|launched_on_ios:=September 2018 (default)
+|launched_on_android:=February 2019 (default)}}
+
+'''Careers''' are forms of employment that provide characters with varying levels  of income. Certain careers pay more than others but normally require a greater level of education and certain schooling. Income is the same number of money, no matter what currency. Some careers rapidly provide more social media followers and a massive increase in income after reaching a certain 'breakthrough' (Acting and Composing) while others rely on a gradually increasing wage (Doctor and Corporate's President). Most medical careers require a PhD but can give a rewarding wage. Choosing careers relies on steady planning and where you live. [[Emigration]] also forces you to get a new career. Most careers also provide raises based on performance or, depending on the job, looks and smarts. Another key thing to remember is that jobs typically go from Jr. X to X to Sr. X or Apprentice X to X. Careers may be [[Career Collections|collected]] if the character spends at least 20 years in the career. There are certain [[Achievements]] a player can get if they become a certain career and as of April 2020, there is a whole section in achievements about jobs and military.
+
+''Alternate page: [[Careers/Jobs]]''
+
+== Interviews ==
+Characters are required to attend an interview to get hired. If the character has previously been in a fraternity/sorority either in United States or Canada, they could be hired on the spot without an interview. You may or may not be hired based on the choices you choose and sometimes randomized results of each choice.
+
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:left;" width="100%"
+|-
+!Interview questions & answer options
+|-
+|
+{| class="article-table"
+!Question
+!Choices
+|-
+|Are you a goal-oriented person?
+|
+# Every day!
+# Goals are for trolls if you ask me
+# I always have long & short-term goals
+# I love working towards team goals
+# I set goals but achieving them is challenging
+# I tend to fall short of goals
+# I'm not a fan of soccer
+# I'm too busy to set goals
+# My goal is to set more goals
+# Not really
+# S.M.A.R.T. goals all day long
+# Sometimes I am overly ambitious
+# Yeah, I always shoot for the stars
+|-
+|Coffee or tea?
+|
+# Both *
+# Coffee *
+# Neither *
+# Tea *
+|-
+|Do you consider yourself to be a good listener?
+|
+# Could you repeat the question?
+# How attractive is the speaker?
+# I hear you loud and clear
+# I need more time to process what you said
+# I listen with my ears and my eyes
+# I'm better at talking
+# I’m working to be a better listener
+# If I don't have earbuds on
+# It depends who’s talking
+# My friends and family tell me I am
+# My friends tell me I am
+# Yeah, I think so
+# Yes, but I struggle with body language
+# Yes, but I'm a little of hearing
+# Yes, I listen to music every day
+# Yes, I'm a great writer
+|-
+|Do you handle conflict well?
+|
+# Are you coming at me bro?
+# I am great at conflict resolution
+# I avoid conflict at all costs
+# I cower when confronted
+# I don't like confronting people
+# I excel at physical & verbal altercations
+# I navigate conflict calmly
+# I tend to shy away from conflict
+# I think I handle conflict with tact
+# I'm a fighter, not a lover
+# I'm always ready for battle
+# I'm great at conflict
+# I'm pretty easy to get along with
+# I'm trying to be more assertive
+# No, I implode
+# Usually, I just avoid confrontation
+# Yeah, I just focus on the task at hand
+# Yeah, I kick ass and take names
+# Yes, I am assertive but gentle
+|-
+|Do you have any plans for future education?
+|
+# Are you paying?
+# Education is a waste of money
+# Education never ends
+# Harvard PHD, here I come!
+# I wouldn't rule it out
+# I'd like to continue professional learning
+# I'd like to continue taking courses
+# I'll never stop learning
+# I'm committed to lifelong leaning
+# I'm done with that stuff
+# I'm enrolled in the school of hard knocks
+# I haven't really considered it
+# I'm undecided at this point
+# I try to learn new things every day
+# I've attended my last class
+# Not bloody likely
+# Not currently
+# Only if the company will pay for it
+# School is for fools in my opinion
+|-
+|Do you have any questions for us?
+|
+# Am I hired?
+# Are you married?
+# Are you wearing any underwear?
+# Can you envision me working here?
+# Can you tell me more about the company?
+# Can you tell me more about the culture?
+# Can you tell me more about the job?
+# How do I compare to other candidates?
+# How much do you make?
+# What are your expectations for this role?
+# What do you like best about the company?
+# What qualities are you looking for?
+# When do I start?
+# Where do you see the company in 5 years?
+# Where is the bathroom?
+# Why should I want to work here?
+# Would I be a good fit?
+|-
+|Do you prefer call or text?
+|
+# Call *
+# I like both *
+# I prefer to talk in person *
+# Text *
+|-
+|Do you prefer to be liked or be right?
+|
+# Both *
+# I'd rather be liked *
+# I'd rather be right *
+# Neither *
+|-
+|Have you ever stolen a pen from work?
+|
+# Guilty as charged
+# Honestly, I don't know
+# I couldn't do that
+# I don't take things that aren't mine
+# I hope not
+# I only use pens stolen from work
+# I would never
+# I’ve already stolen two here today
+# I'm eyeing the one in your hand now
+# I've never stolen a thing in my life
+# Is this an accusation?
+# No way!
+# No, I always purchase them
+# No, I steal them from other places
+# No, only borrowed them
+# Not yet
+# Probably, but never intentionally
+|-
+|How are you most likely to invest your money?
+|
+# Ain't nobody got money for that
+# Big parties
+# Bitcoin
+# Bonds
+# Clothes
+# Gold
+# I'd rather spend it
+# I'd invest into this organization
+# I'm open to suggestions
+# Index funds
+# Mutual funds
+# Real estate
+# Retirement funds
+# Savings account
+# Sports cars
+|-
+|How did you hear about this position?
+|
+# A former colleague told me about it
+# A friend told me about it
+# A hiring recruiter suggested it
+# I heard about it from a competitor
+# I heard it through the grapevine
+# I just happened to be walking by
+# I saw a "Now Hiring" sign
+# I saw a posting online
+# I saw it on carreerbuilder.com
+# I saw it on LinkedIn
+# I saw it on monster.com
+# I saw it on ziprecruiter.com
+# I saw someone mention it on Facebook
+# I stumbled into your website
+# I was referred to it while networking
+# I've always wanted to work here
+# Thorough research led me to it
+# Which position?
+|-
+|How do you deal with stressful situations?
+|
+# By focusing on the task at hand
+# By owning them
+# I avoid stressful situations
+# I collect myself & then use logic
+# I defer to my boss as much as possible
+# I meditate
+# I pop an anxiety pill
+# I prefer to not deal with them
+# I remove emotion from the situation
+# I take a yoga break to compose myself
+# I thrive on stress
+# I work well under pressure
+# I'm too blessed to be stressed
+# Often with an epic meltdown
+# One breath at a time
+# Poorly
+# Slow down & focus
+# With a cocktail
+# With the help of my therapy dog
+|-
+|If we asked your friends which animal you would be, which would they choose?
+|
+# A cat
+# A cow
+# A dragon
+# A deer
+# A dog
+# A dolphin
+# A fox
+# A horse
+# A lion
+# A mosquito
+# A mouse
+# A pig
+# A raccoon
+# A rat
+# A shark
+# A snake
+# A unicorn
+# An eagle
+# An ox
+|-
+|If you could only eat one of these deserts for the rest of your life, what would it be?
+|
+# Apple pie
+# Birthday cupcakes
+# Bread pudding
+# Carrot cakes
+# Chocolate chip cookies
+# Cinnamon rolls
+# Donuts
+# Frozen yogurt
+# Hot fudge brownies
+# Magic brownies
+# Marshmallows
+# Pop Tarts
+# S’mores
+|-
+|If you were 80 years old, which piece of advice would you give to an 18 year old?
+|
+# Be myself
+# Carpe diem
+# Don't get married! Ever!
+# Don't put all your eggs in one basket
+# Everything happens for a reason
+# Follow your heart
+# Good things come to those who wait
+# Keep calm and carry on
+# Laughter is the best medicine
+# Love is all you need
+# Make lemonade when given lemons
+# Save yourself for marriage
+# Stay true
+# What goes around comes around
+|-
+|Team Edward or Team Jacob?
+|
+# Both *
+# Team Edward *
+# Team Jacob *
+# What are you talking about? *
+|-
+|What are you looking for in a new position?
+|
+# A chance to advance my career
+# A chance to develop professionally
+# A chance to learn new skills
+# A fun working environment
+# A lenient boss
+# A path toward my professional goals
+# A way to gain work experience
+# An awesome salary
+# An opportunity to add value somewhere
+# An opportunity to grow
+# An opportunity to make the world better
+# Are you sexually harassing me?
+# Cute coworkers
+# I want to be part of an expectational team
+# I'm not too sure
+# Lots of vacation time
+# Mentorship from colleagues
+# Something that will pay the bills
+# Something to get me by for now
+# The ability to create my own schedule
+|-
+|What are your salary expectations?
+|
+# A competitive wage for the market
+# A fair salary
+# Can you pay me in cash?
+# Depends on the benefits
+# Enough to pay my bills
+# Gimme dat cash
+# I expect to be paid fairly
+# I thought this was an unpaid internship
+# I'd like to be paid in Russian Rubles
+# The more the merrier
+# The pay is negotiable
+# The right fit is more important
+# They align with my experience
+# They align with my qualifications
+# Top dollar
+# Typical pay for the role & responsibilities
+# What've you got?
+# You can pay me whatever
+|-
+|What is the best place to masturbate?
+|
+# A hot tub
+# Anywhere
+# I don't do that
+# I'd rather not say
+# I'm no longer interested in the position
+# My bed
+# The bathtub
+|-
+|What or who inspires you?
+|
+# Arnold Schwarzenegger's acting 
+# Bansky's creativity
+# Beyonce's thighs
+# Keanu Reeve's acts of kindness
+# Lionel Messi's talent
+# Martin Luther King's dream
+# Mick Jagger's moves
+# Nelson Mandela's fortitude
+# Successful single mothers
+# Teachers
+# The compassion of Mother Teresa
+# The Dalai Lama
+# The music of Cupcakke
+# The words of Edgar Allan Poe
+# Tony Robbins' positive attitude
+|-
+|What or who motivates you?
+|
+# A burning drive to be successful
+# A desire to control those around me
+# A desire to save the planet
+# A desire to see my enemies fail
+# A passion for learning new things
+# Fame & fortune
+# Fear of failure
+# Helping others
+# Money
+# My faith
+# My previous failures
+# Providing that the world is flat
+# To be remembered after I'm gone
+# The desire for power
+# The hopes of an early retirement
+# Words of praise from those I respect
+|-
+|What type of work environment do you prefer?
+|
+# A highly productive one
+# I like to work remotely from home
+# I prefer to work alone
+# One full of passionate people
+# One of micro-management
+# One that embraces teamwork
+# One that is competitive & challenging
+# One that is fast-paced and intense
+# One that is high-tech
+# One that is highly flexible
+# One that is inspiring everyday
+# One that is low-stress
+# One that is very casual
+# One with a corporate structure
+# One with a lot of collaboration
+# One with an ocean view
+# One with great benefits
+# One with lots of eye candy 
+# One with strong leadership
+# The one that pays the most
+|-
+|What's the worst thing you've ever done?
+|
+# I defecated on my enemy's lawn
+# I didn't plunge a toilet I clogged
+# I forged a permission slip
+# I lied in an interview
+# I stole from a homeless man
+# I'd rather not say *
+# I've never done anything wrong
+|-
+|What would you do if you won the lottery?
+|
+# Buy 100,000 more lottery tickets
+# Buy a helicopter
+# Buy a mansion
+# Buy a McDonald's restaurant
+# Buy a professional sports franchise
+# Buy a small country
+# Buy a yacht
+# Buy an island
+# Buy this organization
+# Donate to church
+# Invest it
+# Pay off my friends' student loans
+# Retire
+# Save it for a rainy day
+# Spend more time with family
+# Throw a huge party
+|-
+|Where do you see yourself in 5 years?
+|
+# As a leading expert in your field
+# As your boss
+# At the store buying wrinkle cream
+# Collaborating with you
+# Golfing and smoking cigars
+# Happily divorces
+# Here, mastering my craft
+# Hopefully not in rehab
+# I can't envision 5 hours from now
+# In a leadership role
+# In a leadership role within your company
+# In a managerial role here
+# In an important role here
+# Making important decisions here
+# Moving on up in the world
+# One day at a time, my friend
+# Retired
+# Whiling away in a cubicle
+# Working with industry leaders
+|-
+|Which element do you identify with the most?
+|
+# Air *
+# Earth *
+# Fire *
+# Water *
+|-
+|Which of these are you most passionate about?
+|
+# Animal rescue
+# Breasts
+# Cosplay
+# Film
+# Grammar
+# Hacking
+# Human rights
+# Learning new things
+# Money
+# New technology
+# Penguins
+# Pizza
+# Porn
+# Sleep
+# Sports
+# Preparing for retirement
+# Timeliness
+# Witchcraft
+|-
+|Which of these colors do you like the best?
+|
+# Aquamarine
+# Black
+# Blue
+# Clear
+# Coral
+# Forest green
+# Gold
+# Gray
+# Green
+# I can't pick just one color *
+# Orange
+# Purple
+# Red
+# Salmon
+# The color of money
+# Turquoise
+# White
+# Yellow
+|-
+|Which of these cookies do you like the best?
+|
+# Animal crackers
+# Any Girl Scout cookies
+# Chocolate chip cookies
+# Frosted sugar cookies
+# Gingerbread cookies
+# Gingersnaps
+# I can't choose just one *
+# Macaroons
+# Oreos
+# Shortbread cookies
+# Snickerdoodles
+# Oatmeal raisin cookies
+# Wafers
+|-
+|Which of these do you consider to be your biggest area of challenge?
+|
+# Answering interview questions
+# Determining my biggest area of challenge
+# I always try to please everyone
+# I can be shy
+# I could be more detail oriented
+# I crack under pressure
+# I have some anxiety
+# I really don't have any weaknesses
+# I'm a big time procrastinator
+# I'm not as organized as I could be
+# I'm not great with technology
+# I'm overly sensitive to criticism
+# I tend to take on too much
+# I'm too critical for myself
+# Just one?
+# Sometimes I don't ask for help
+# That's none of your business
+|-
+|Which of these "Game of Thrones" characters do you relate to most?
+|
+# Cersei Lannister
+# Daenerys Targaryen
+# Dog
+# Hodor
+# I don't watch that show *
+# Lord Varys
+# Robb Stark
+# Jon Snow
+# Sansa Stark
+# Stannis Baratheon
+|-
+|Which of these "Harry Potter" characters do you relate to most?
+|
+# Argus Filch
+# Belltrix Lestrange
+# Dobby
+# Dolores Umbridge
+# I don't know anything about that*
+# Magic is not my thing
+# Moaning Myrtle
+# Peter Pettigrew
+# Professor McGonagall
+|-
+|Which of these "Star Wars" characters do you relate to most?
+|
+# A Storm Trooper
+# BB-8
+# C-3PO
+# Chewbacca
+# Finn
+# Han Solo
+# I like to think of myself as a George Lucas
+# I've never watched 'Star Wars' *
+# Luke Skywalker
+# Obi-Wan Kenobi
+# Rey
+# R2-D2
+# The force isn't strong in me
+# Yoda
+|-
+|Which of these "The Office" characters do you relate the most?
+|
+# Andy
+# Creed
+# Dwight
+# Erin
+# I don't watch that show *
+# Kelly
+# Kevin
+# Meredith
+# Phyllis
+# Ryan
+# That's not my type of humor
+|-
+|Which of these is the best superhero?
+|
+# Aquaman
+# Batman
+# Captain America
+# Catwoman
+# Deadpool
+# Green Lantern
+# Hulk
+# Magneto
+# None: superheroes are ridiculous
+# Punisher
+# Robin
+# Spiderman
+# Store
+# Superman
+# The Joker
+# Thor
+# Wolverine
+# Wonder Woman
+|-
+|Which of these is the most respectable Disney princess?
+|
+# Anna
+# Aurora
+# Does Tinker Bell Count?
+# Elsa
+# I don't know anything about it *
+# I'm not a big Disney fan
+# Mulan
+# Pochantos
+# Rapunzel
+|-
+|Which of these is your greatest strength professionally?
+|
+# Do I have to pick just one?
+# I excel at problem solving
+# I have a strong work ethic
+# I have no weakness
+# I have strong people skills
+# I never steal from my employer
+# I work well with most people
+# I'd have to think about it more
+# I’m a deal orientated
+# I'm a good communicator
+# I'm a strong leader
+# I'm a team player
+# I'm always prepared
+# I'm dependable
+# I'm enthusiastic in everything
+# I'm great with technology
+# I'm not sure I have strengths
+# I'm usually on time
+# I'm very diligent
+|-
+|Which of these secret powers would you most like to possess?
+|
+# Alchemy
+# Eat sweets without gaining weight
+# Fire control
+# Flight
+# Healing
+# Immortality
+# Invisibility
+# Magic
+# Power mimicry
+# Psychokinesis
+# Shapeshifting
+# Superhuman endurance
+# Superhuman speed
+# Telepathy
+# Teleportation
+# Time travel
+# Unlimited sexual endurance
+# Weather modification
+# X-ray vision
+|-
+|Which of these "SpongeBob SquarePants" characters do you relate to most? 
+|
+# I don't know anything about that *
+# King Neptune
+# Mrs. Puff
+# Ray Man
+# Sandy Cheeks
+# SpongeBob
+# Squidward Tentacles
+# Squilliam Fancyson
+# The Flying Dutchman
+|-
+|Which of these trees do you relate the most?
+|
+# A cactus
+# A stump
+# Beach tree
+# Cedar tree
+# Coconut tree
+# Cottonwood tree
+# Giant Sequoia tree
+# Lemon tree
+# Palm tree
+# Pine tree
+# Spruce tree
+# Sycamore tree
+# The Giving Tree
+# Walnut tree
+# Weeping willow
+|-
+|Which of these words best describes you?
+|
+# Ambitious
+# Analytical
+# Average
+# Blessed
+# Cheerful
+# Compassionate
+# Driven
+# Efficient
+# Entitled
+# Extraordinary
+# Fabulous
+# Funky
+# Lazy
+# Trainwreck
+|-
+|Which of these would be hardest for you to live without?
+|
+# Movies
+# Quinoa
+# Sleep
+# There's nothing I could live without *
+|-
+|Which of these would you choose as your last meal?
+|
+# A hoagie
+# A hot dog
+# Calm chowder
+# Ceviche
+# Cheeseburger
+# Chicken & waffles
+# Chicken noodle soup
+# Fried chicken
+# Jambalaya
+# Mac & cheese
+# Sushi
+# Tacos
+# Vegan meatloaf
+|-
+|Why do you want this job?
+|
+# Because I need a job
+# Because you're a winner and I'm a winner
+# I believe I'm the perfect fit
+# I can thrive in the position
+# I hadn't thought about it too much
+# I heard there was an opening
+# I want that cash
+# I want to be a part of your team
+# I will thrive in it
+# I'll be a great asset to this company
+# I'm not really sure I do anymore
+# I've always wanted to work here
+# It seems easy
+# It seems fun
+# It'll allow me to achieve my goals
+# It's close to where I live
+# It's my dream job
+# It's my only option
+# The organization has a great reputation
+|-
+|Why should we hire you?
+|
+# Because I need it badly
+# Because I'll do ANYTHING to get it
+# Because I'm a bad-ass
+# Hmmm, good question
+# I have the necessary skills
+# I have the right experience
+# I was hoping you could tell me
+# I'll be a great addition to the team
+# I'll provide great value to you
+# I'm a hard worker
+# I'm not sure you should
+# I'm the right fit
+# Is that a rhetorical question?
+# It will make you look smart
+# It'll be a better place for everyone
+# You don't want me at a competitor
+# You should allow me to achieve my goals
+|}
+|}
+''* Answer unceasingly comes up.''
+
+== Medical ==
+The following is a list of all medical careers including both mental and physical health. Many require either PhDs in medical fields or other schooling.
+{| class="sortable mw-collapsible mw-collapsed fandom-table article-table"
+|+
+![[Careers/Jobs|Job]]
+!Promotes To
+!Company
+Type
+![[Education]] Required and/or Work Experience
+!Average
+Starting Wage
+|-
+|Jr. Pharmacist
+|Pharmacist
+|Medical Office
+|Pharmacy School
+|$75,000
+|-
+|Pharmacist
+|N/A
+|Medical Office
+|Pharmacy School/Jr. Pharmacist
+|$80,000
+|-
+|Jr. Chiropractor
+|Chiropractor
+|Medical Office
+|Medical School
+|$45,000
+|-
+|Chiropractor
+|N/A
+|Medical Office
+|Medical School/Jr. Chiropractor
+|$55,000
+|-
+|Jr. Psychiatrist
+|Psychiatrist
+|Medical Office
+|Medical School
+|$80,000
+|-
+|Psychiatrist
+|Sr. Psychiatrist
+|Medical Office
+|Medical School/Jr. Psychiatrist
+|$125,000
+|-
+|Sr. Psychiatrist
+|N/A
+|Medical Office
+|Medical School/Psychiatrist
+|$145,000
+|-
+|Jr. Physical Therapist
+|Physical Therapist
+|Medical Office
+|Medical School
+|$50,000
+|-
+|Physical Therapist
+|N/A
+|Medical Office
+|Medical School
+|$60,000
+|-
+|Associate Nurse
+|Clinical Nurse
+|Hospital
+|Nursing School
+|$40,000
+|-
+|Clinical Nurse
+|Advanced Clinician
+|Hospital
+|Nursing School/Associate Nurse
+|$45,000
+|-
+|Advanced Clinician
+|N/A
+|Hospital
+|Nursing School/Clinical Nurse
+|€50,000
+|-
+|Apprentice Midwife
+|Midwife
+|Hospital
+|University
+|$48,000
+|-
+|Midwife
+|N/A
+|Hospital
+|University/Apprentice Midwife
+|$80,000
+|-
+|Brain Surgeon
+|N/A
+|Hospital
+|Medical School
+|$95,000
+|-
+|Dental Hygienist
+|N/A
+|Dental Office
+|Community College
+|$65,000
+|-
+|Dentist
+|N/A
+|Dental Office
+|Dental School
+|$115,000
+|-
+|Family Physician
+|N/A
+|Hospital
+|Medical School
+|$95,000
+|}
+
+== Corporate ==
+The following job/job descriptions are all corporate. The requirements vary from high school, business school, and specific majoring in university.
+{| class="sortable mw-collapsible mw-collapsed fandom-table article-table"
+|+
+!Job
+!Promotes To
+!Education Required
+and/or Work Experience
+!Average Starting Wage
+|-
+|Jr. Internal Auditor
+|Internal Auditor
+|University
+|€53,000
+|-
+|Internal Auditor
+|Sr. Internal Auditor
+|University
+|€56,000
+|-
+|Sr. Internal Auditor
+|N/A
+|University/Internal Auditor
+|€65,000
+|-
+|Jr. Financial Analyst
+|Financial Analyst
+|University
+|€42,000
+|-
+|Financial Analyst
+|Sr. Financial Analyst
+|University
+|€50,000
+|-
+|Sr. Financial Analyst
+|N/A
+|University/Financial Analyst
+|€55,000
+|-
+|Jr. Computer Programmer
+|Computer Programmer
+|University
+|€42,000
+|-
+|Computer Programmer
+|Sr. Computer Programmer
+|University
+|€60,000
+|-
+|Jr. Lobbyist
+|Lobbyist
+|University
+|$24,000
+|-
+|Lobbyist
+|N/A
+|University/Jr. Lobbyist
+|€55,000
+|-
+|Jr. Insurance Agent
+|Insurance Agent
+|High School
+|€23,000
+|-
+|Insurance Agent
+|Sr. Insurance Agent
+|High School/Jr. Insurance
+|€28,000
+|-
+|Sr. Insurance Agent
+|N/A
+|High School/Insurance Agent
+|€37,000
+|-
+|Jr. Biotechnologist
+|Biotechnologist
+|University
+|$51,000
+|-
+|Biotechnologist
+|Sr. Biotechnologist
+|University/Jr. Biotechnologist
+|€60,000
+|-
+|Sr. Biotechnologist
+|N/A
+|University/Biotechnologist
+|$93,000
+|-
+|Jr. Environmental
+Scientist
+|Environmental Scientist
+|University
+|€40,000
+|-
+|Environmental Scientist
+|Sr. Environmental Scientist
+|University
+|€42,000
+|-
+|Sr. Environmental
+Scientist
+|N/A
+|University/Environmental
+Scientist
+|€50,000
+|-
+|Jr. Microbiologist
+|Microbiologist
+|University
+|€42,000
+|-
+|Microbiologist
+|Sr. Microbiologist
+|University/Jr. Microbiologist
+|€50,000
+|-
+|Sr. Microbiologist
+|N/A
+|University/Microbiologist
+|€58,000
+|-
+|Jr. Stockbroker
+|Stockbroker
+|University
+|€40,000
+|-
+|Stockbroker
+|Sr. Stockbroker
+|University/Jr. Stockbroker
+|€65,000
+|-
+|Sr. Stockbroker
+|N/A
+|University/Stockbroker
+|€88,000
+|-
+|Jr. Operations Analyst
+|Operations Analyst
+|University
+|€48,000
+|-
+|Operations Analyst
+|Sr. Operations Analyst
+|University/Jr. Operations Analyst
+|€62,000
+|-
+|Sr. Operations Analyst
+|N/A
+|University/Operations Analyst
+|€55,000
+|-
+|Assistant Vice President 
+|Vice President
+|Business School/Sr. Operations Analysts 
+|105.127 in Dallas, US. Interstellar Financial
+|-
+|Vice President 
+|First Vice President 
+|Business School/Assistant Vice President 
+|121,300 in Dallas, US. Interstellar Financial
+|-
+|First Vice President 
+|Senior Vice President 
+|Vice Presiden/Business School 
+|137,472 in Dallas, US. Interstellar Financial
+|-
+|Senior Vice President 
+|Executive Vice President
+|First Vice Presiden/Business School
+|153.644 in Dallas, US. Interstellar Financial
+|-
+|Executive Vice President
+|Managing Director 
+|Senior Vice Presiden/Business School
+|169,815 in Dallas, US. Interstellar Financial
+|-
+|Managing Director 
+|President 
+|Executive Vice President/Business School
+|184,100 in Australia
+|-
+|President
+|N/A
+|Managing Director/Business School
+|192,000 in USA
+|-
+|Accountant
+|Sr. Accountant
+|University
+|€50,000
+|-
+|Sr. Accountant
+|N/A
+|University/Accountant
+|€51,000
+|-
+|Jr. Architect
+|Architect
+|University
+|€50,000
+|-
+|Architect
+|Sr. Architect
+|University/Jr. Architect
+|$82,000
+|-
+|Sr. Architect
+|N/A
+|University/Architect
+|€77,000
+|-
+|Jr. IT Support
+|IT Support
+|University
+|€30,000
+|-
+|IT Support
+|Sr. IT Support
+|University/Jr. IT Support
+|€36,000
+|-
+|Sr. IT Support
+|N/A
+|University/IT Support
+|€45,000
+|-
+|Translator
+|Sr. Translator
+|University
+|€40,000
+|-
+|Sr. Translator
+|N/A
+|University/Translator
+|€50,000
+|-
+|Engineer I
+|Engineer II
+|University
+|€55,000
+|-
+|Engineer II
+|Engineer III
+|University/Engineer I
+|€60,000
+|-
+|Engineer III
+|Asst. Engineering Manager
+|University/Engineer II
+|€65,000
+|-
+|Asst. Engineering Manager
+|Engineering
+Manager
+|University/Engineer III
+|€70,000
+|-
+|Engineering Manager
+|Director of Engineering
+|University/Asst. Engineering Manager
+|€75,000
+|-
+|Director of Engineering
+|VP of Engineering
+|University/Engineering Manager
+|€90,000
+|-
+|VP of Engineering
+|
+|University/Director of Engineering
+|€85,000
+|-
+|Apprentice Telemarketer
+|Telemarketer
+|N/A
+|€20,000
+|-
+|Telemarketer
+|N/A
+|Apprentice Telemarketer
+|€25,000
+|-
+|Apprentice Trucker
+|Trucker
+|High School
+|€32,000
+|-
+|Trucker
+|N/A
+|High School/Apprentice Trucker
+|€36,000
+|-
+|Database Administrator
+|N/A
+|University
+|€60,000
+|-
+|Business Analyst
+|N/A
+|University
+|€64,000
+|-
+|Receptionist
+|N/A
+|High School
+|€21,000
+|-
+|Factory Worker
+|N/A
+|N/A
+|€23,000
+|-
+|Janitor
+|N/A
+|N/A
+|€18,000
+|}
+
+== Police Department ==
+The following is a list of jobs within city police departments. The salary usually does not get too high and the pension may leave you barely able to get by. (Chart is incomplete).
+{| class="sortable mw-collapsible mw-collapsed fandom-table article-table"
+|+
+!Job
+!Promotes To
+!Education Required
+and/or Work Experience
+!Average Starting Wage
+|-
+|Cadet
+|Patrolman
+|Highschool
+|$29,000
+|-
+|Patrolman
+|Trooper
+|Highschool
+|$38,000
+|-
+|Crime Scene Technician
+|Forensic Investigator
+|University
+|$38,000
+|-
+|Forensic Investigator
+|N/A
+|University/Crime Scene Technician
+|$49,000
+|-
+|Jr. Detective
+|Detective
+|University
+|$39,000
+|-
+|Detective
+|N/A
+|University/Jr. Detective
+|$49,000
+|-
+|Trooper
+|Corporal
+|Highschool
+|$47,000
+|-
+|Corporal
+|Sergeant
+|HS/Trooper
+|$56,000
+|-
+|Sergeant
+|Inspector
+|HS/Corporal
+|$64,000
+|-
+|Inspector
+|Lieutenant
+|HS/Sergeant
+|$75,000
+|-
+|Lieutenant
+|Chief of Police
+|HS/Inspector
+|$83,000
+|-
+|Chief of Police
+|N/A
+|HS/Inspector
+|$96,000
+|}
+==Military==
+The military consists of 5 different branches, each with the option of enlisting or being commissioned as an officer. Below lists the ranks of each branch. (Not finished).
+{| class="sortable mw-collapsible mw-collapsed fandom-table article-table"
+|+
+!Rank
+!Promotes To
+!
+Education Required and/or Work Experience
+!Branch
+!Category
+!Average Starting Wage
+|-
+|Ensign
+|Lieutenant Junior Grade
+|University
+|Coast Guard
+|Officer
+|$44,000
+|-
+|Lieutenant Junior Grade
+|Lieutenant
+|Ensign
+|Coast Guard
+|Officer
+|$54,000
+|-
+|Lieutenant
+|Lieutenant Commander
+|Lieutenant Junior Grade
+|Coast Guard
+|Officer
+|$66,000
+|-
+|Lieutenant Commander
+|Commander
+|Lieutenant
+|Coast Guard
+|Officer
+|$86,000
+|-
+|Commander
+|Captain
+|Lieutenant Commander
+|Coast Guard
+|Officer
+|$101000
+|-
+|Captain
+|Rear Admiral Lower Half
+|Commander
+|Coast Guard
+|Officer
+|$122,000
+|-
+|Rear Admiral Lower Half
+|Rear Admiral
+|Captain
+|Coast Guard
+|Officer
+|$139,000
+|-
+|Rear Admiral
+|Vice Admiral
+|Rear Admiral Lower Half
+|Coast Guard
+|Officer
+|$170,000
+|-
+|Vice Admiral
+|Admiral
+|Rear Admiral
+|Coast Guard
+|Officer
+|$204,000
+|-
+|Admiral
+|N/A
+|Vice Admiral
+|Coast Guard
+|Officer
+|$207,000
+|}
+
+== Small Business ==
+The following is a list of all jobs that are for a small business. The requirements are typically just high school or even nothing, but usually don’t pay too well (with some exceptions).
+{| class="sortable mw-collapsible mw-collapsed fandom-table article-table"
+|+
+!Job
+!Promotes To
+!Education Required and/or Work Experience
+!Average
+Starting Wage
+|-
+|Housekeeper
+|N/A
+|N/A
+|$18,000
+|-
+|Cat Behavior Consultant
+|N/A
+|N/A
+|$15,000
+|-
+|Security Guard
+|N/A
+|N/A
+|$18,000
+|-
+|Construction Worker
+|N/A
+|N/A
+|$20,000
+|-
+|Pornography Historian
+|N/A
+|N/A
+|$16,000
+|-
+|Roadkill Remover
+|N/A
+|N/A
+|$32,000
+|-
+|Apprentice Landscaper
+|Landscaper
+|N/A
+|$19,000
+|-
+|Landscaper
+|N/A
+|Apprentice Landscaper
+|$23,000
+|-
+|Apprentice Tailor
+|Tailor
+|N/A
+|$21,000
+|-
+|Tailor
+|N/A
+|Apprentice Tailor
+|$30,000
+|-
+|Apprentice Painter
+|Painter
+|N/A
+|$20,000
+|-
+|Painter
+|N/A
+|Apprentice Painter
+|$28,000
+|-
+|Apprentice Electrician
+|Electrician
+|N/A
+|$27,000
+|-
+|Electrician
+|N/A
+|Apprentice Electrician
+|$41,000
+|-
+|Apprentice Plumber
+|Plumber
+|N/A
+|$30,000
+|-
+|Plumber
+|N/A
+|Apprentice Plumber
+|$44,000
+|-
+|Apprentice Lumberjack
+|Lumberjack
+|N/A
+|$17,000
+|-
+|Lumberjack
+|N/A
+|Apprentice Lumberjack
+|$42,000
+|-
+|Apprentice Chimney Sweep
+|Chimney Sweep
+|N/A
+|$21,000
+|-
+|Chimney Sweep
+|N/A
+|Apprentice Chimney Sweep
+|$26,000
+|-
+|Apprentice Moonshiner
+|Moonshiner
+|N/A
+|$10,000
+|-
+|Moonshiner
+|N/A
+|Apprentice Moonshiner
+|$30,000
+|-
+|Jr. Marine Biologist
+|Marine Biologist
+|Graduate School
+|$34,000
+|-
+|Marine Biologist
+|Sr. Marine Biologist
+|Graduate School/Jr. Marine Biologist
+|$40,000
+|-
+|Sr. Marine Biologist
+|N/A
+|Graduate School/Marine Biologist
+|$52,000
+|-
+|Jr. Animator
+|Animator
+|University
+|$38,000
+|-
+|Animator
+|Sr. Animator
+|University/Jr. Animator
+|$44,000
+|-
+|Sr. Animator
+|N/A
+|University/Animator
+|$58,000
+|-
+|Jr. Graphic Designer
+|Graphic Designer
+|University
+|$32,000
+|-
+|Graphic Designer
+|Sr. Graphic Designer
+|University/Jr. Graphic Designer
+|$45,000
+|-
+|Sr. Graphic Designer
+|N/A
+|University/Graphic Designer
+|$57,000
+|}
+
+== Fire Department ==
+The following jobs are for the city fire department. Working for any of these jobs for over 20 years will [[Careers/Career Collection|collect]] the ''Firefighter'' career. There is an [[Achievements|achievement]] for becoming a fire chief.
+{| class="sortable mw-collapsible mw-collapsed fandom-table article-table"
+|+
+!Job
+!Promotes To
+!Education Required and/or Work Experience
+!Average
+Starting Wage
+|-
+|Probationary Firefighter
+|Firefighter
+|High School
+|$34,000
+|-
+|Firefighter
+|Fire Equipment Operator
+|High School
+|$36,000
+|-
+|Fire Equipment Operator
+|Lieutenant
+|High School/Firefighter
+|$37,000
+|-
+|Lieutenant
+|Captain
+|High School/Fire Equipment Operator
+|$48,000
+|-
+|Captain
+|Battalion Chief
+|High School/Lieutenant
+|$58,000
+|-
+|Battalion Chief
+|Assistant Chief
+|High School/Captain
+|$66,000
+|-
+|Assistant Chief
+|Fire Chief
+|High School/Battalion Chief
+|$67,000
+|-
+|Fire Chief
+|N/A
+|High School/Assistant Chief
+|$81,000
+|}
+[[Category:BitLife]]
+[[Category:Information]]
+[[Category:Life Achievements]]

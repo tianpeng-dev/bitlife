@@ -1,0 +1,39 @@
+{{Infobox country
+|title1=Papua New Guinea
+|image1=[[File:Papua New Guinea.png]]
+|caption1=Papua New Guinea's flag.
+|country_name=Papua New Guinea
+|number_of_default_cities=2
+|when_was_it_added_to_ios=July 10, 2022
+}}'''Papua New Guinea''' is a [[Nations|country]] that was added to [[BitLife: Life Simulator|BitLife]] in July 8, 2022. Its cities include Lae and Wewak, but its capital, Port Moresby, is strangely absent.
+
+On July 8, 2022, new countries were added to both iOS and Android. Along with Papua New Guinea, there was also [[Andorra]], [[Angola]], [[Aruba]], [[Belize]], [[El Salvador]], [[Guatemala]], [[Guyana]], [[Haiti]], [[Nicaragua]], [[Paraguay]], [[Samoa]], [[Tunisia]], and [[Uganda]]. This was added in a bug fix update prior to the upcoming Business Update.
+
+==Information==
+Papua New Guinea, along with [[Afghanistan]], [[Angola]], [[Belize]], [[El Salvador]], [[Guatemala]], [[Guyana]], [[Haiti]], [[Iraq]], [[Pakistan]], [[Syria]] and [[Venezuela]], are the 12 countries in the game where [[Death|deaths]] are influenced by the country a character is from, in this case, characters can die from unexpected terrorist or battlefield attacks. Being killed by an attack under the age of 30 will give your character the ''Unlucky'' ribbon, making it easier to obtain (though there is a chance that they may end up getting a different ribbon besides ''Unlucky''). [[Family]] members can also die from these as well and it is likely that a parent or parents will die while your character is still very young.
+
+==Name List==
+
+===First Names===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Name
+! Gender
+! Meaning
+|-
+|}
+
+===Surnames===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Surname
+! Meaning
+|-
+|}
+
+== Gallery ==
+[[File:Screenshot 20230816 195124 com.candywriter.bitlife~2.jpg|thumb|A baby born in Papua New Guinea.|left]]
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]
+[[Category:Article stubs]]

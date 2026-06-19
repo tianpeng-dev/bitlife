@@ -1,0 +1,24 @@
+{{Infobox BitLifeApp
+|title1= Ghosts
+|image1=[[File:Casper the specter.png|thumb]]
+|launched_on_ios:=October 2019
+|launched_on_android:=October 2019
+|last_updated_on_ios:=February 2020
+|caption1=An example of a ghost}}
+As of the October 28 - 29 2019 [[Updates|update]], '''Ghosts''' have been added into the game. They appear in Haunted Houses. They have an activeness and friendliness bar. They cannot be changed in [[God Mode]]. The number of Ghosts that can appear in the home depends on how haunted it is. Your character’s deceased ancestors can also appear as ghosts in a haunted house. They can be ghosts, poltergeists, demons, specters, banshees, or phantoms. They can be young or old, smiling or frowning; could be given just a first name, a first and last name, or be named after someone in history, or could be the name of past lives your character has played as. If the ghosts appear to be your past lives (such as your grandmother or your father's wife), the ghosts, in most cases, will be friendly. They can be exorcised or summoned, which may or may not succeed. If all spirits are exorcised from a haunted house, it will turn into a regular house. If you unsuccessfully try to exorcise a ghost, they will be more active and less friendly. Exorcists must be paid for at every attempt to exorcise a ghost, however if your character is an Exorcist, they have the option to exorcise the ghost themselves which is usually more successful in getting rid of ghosts.
+
+[[Diseases|Health risks]] may occur from ghosts or paranormal scenarios such as PTSD, schizophrenia, high blood pressure, and even a massive heart attack. Ghosts can also assault your character even to death. Unsuccessfully exorcising ghosts multiple times has been proved to dramatically increase the chance of death. Unlike other assailants, ghosts cannot be [[Lawsuit|sued]] and the police will not help the situation, always reprimanding your character for "wasting their time". Ghosts may also kill family members or lovers at random after angering a spirit, it will say "They were murdered." as their cause of death, the only time a character can be murdered without your character causing it. A haunted house can be sold at market value or gifted to a relative to eliminate the health risks (and will not put the family member into jeopardy). The ghosts will all go away after it is sold, but one can make more money on selling unhaunted houses, making one want to exorcise the ghosts before selling.
+
+As of November 2019, the haunted features and Halloween scenarios in the Haunted Update have gone away but the Haunted Houses and ghosts remain. They were previously in [[Relationships]] but have since been in the [[Assets]] tab for haunted houses in the Spirits tab. In February 2020, the spirit emojis were updated with the rest of the new character emojis however they are not customisable in [[God Mode]].
+
+In March 2020, release. They were part of the second challenge, the challenge, where someone would have to be an exorcist from the [[United States]] and exorcise 10 spirits from their haunted houses by themselves.
+
+=== Gallery ===
+<gallery>
+EIIxkPJU4AAX6Lz.jpg|The Haunted Update, in late October where the ghosts debuted.
+Screenshot 2019-11-12-19-53-12-994 com.candywriter.bitlife.png|Another Example of a ghost, (frowning) named Faith Lukes.
+Fatalheartattack.jpg|Fatal immediate heart attack brought on by a demon.
+File:IF69kedEveryone.webp|A custom example of a ghost, with a silly name that made the fandom user who added this laugh.
+</gallery>
+[[Category:BitLife]]
+[[Category:Updates]]

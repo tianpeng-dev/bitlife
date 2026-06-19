@@ -1,0 +1,15 @@
+''This feature of BitLife has been retired. For its modern counterpart, see [[Identity]].''
+
+{{Infobox BitLifeApp
+|title1={{PAGENAME}}
+|image1=
+|launched_on_ios:=September 2018 (default)
+|launched_on_android:=February 2019 (default)
+}}
+'''Sexuality''' is a trait of your character and other NPCs that determines which gender(s)  they are attracted to. The player can determine their sexuality at any time in their life when they are above the age of 12 by going to the [[activities]] section. The player can make their character straight, bisexual or gay. Sometimes, when the main character is a teenager, a random scenario can appear where the player has to decide their sexuality. If a character with gay tendencies chooses to say they're straight, the profile will still say "In the closet".
+
+Sexuality also influences the gender of hook-ups and love interests (if you're straight, their gender will be different than yours, if you're gay their gender will be the same as yours and if you're bisexual people of both genders can show up). If the player decides to have a threesome with their current partner, the gender of the other participant is determined by their sexuality.
+
+Interestingly, the player can date anyone from their class/workplace no matter what their sexuality is (for example, if your character is a straight male, you still have the option to date or flirt with another male, and if his feelings are shared they can even begin a relationship with you). You can also see the sexualities of classmates and co-workers if they are open to it.
+[[Category:BitLife]]
+[[Category:Updates]]

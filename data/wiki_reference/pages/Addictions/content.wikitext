@@ -1,0 +1,30 @@
+{{Infobox BitLifeApp
+|title1=Addictions
+|image1=[[File:Rehabilitation.png|thumb]]
+|launched_on_ios:=September 2018 (default)
+|launched_on_android:=February 2019 (default)
+}}
+In BitLife, you are able to develop addictions. Addictions usually form when you try too much of something. If you don't regularly acquire your addiction, you lose happiness. The ''Addict'' ribbon is a ribbon obtained by having two or more uncured addictions and usually ends with a character succumbing to addiction. It is more likely for a character to have an addiction if they are already addicted to something else or if they use it constantly but it is possible to get addicted on the first try. In rare cases, characters may get addicted or even overdose when they are under 18 after being offered a drug once but rehab is not attainable until age 18. It could be possible for a character to die from a drug overdose on the first try but this is less common and when it does happen, the character may have low health or have tried many other drugs first. 
+
+
+==Types of addictions==
+
+#Alcohol addictions
+##The player will be prompted to ask if they want to try alcohol. If they do try it, there is a chance that they will become addicted. It is also possible to be addicted to alcohol if they attend an alcohol-served party with their friends. But, if the player is addicted for too long, they will get a DUI and get arrested no matter what they do about it. Which will be of course a death sentence to their jobs, their ability to have higher paying jobs, adopt children, and have a pet, etc. 
+##*The types of alcohol in the game: Wine, Beer, Lager, Champagne, Vodka, Gin, Rum, Brandy, Scotch, Bourbon, Cognac, Whiskey Sour, Tequila, Alize, Red Bull Vodka, Mimosa, Tequila Sunrise, Mojito, Appletini, Margarita, Lemon Drop, Manhattan, Negroni, Gin & Tonic, Piña Colada, Daiquiri, Bahama Mama, Singapore Sling, Long Island Iced Tea, Mai Tai, White Russian, Bloody Mary, Moscow Mule, Cosmopolitan...
+
+#Drug addictions
+##The player, usually in prison or out clubbing, will be prompted to ask if they want to try drugs. They might also be asked by a friend. If they try it, then there is a chance they could be addicted. Clubbing a lot and getting drugs from a club can get the ''Rowdy'' ribbon. Some drug addictions may also lead to an overdose death if the player decides to do nothing about the addiction. There are also times where the player may die from an overdose just from taking a drug only once or in a situation when they come across a bag and the player clicks on "Consume all of it." This could result in the Stupid ribbon.
+##*The types of drugs in the game: Methamphetamine, Opium, Morphine, Acid, Oxycodone, Valium, Ritalin, Adderall, Nitrous Oxide, GHB, PCP, Vicodin, Marijuana, Xanax, Salvia, Cough Syrup, Sleeping Pills, Anabolic Steroids, Mescaline, Cocaine, Magic Mushrooms, Ecstasy, Crack Cocaine, Heroin...
+
+#Gambling addiction
+##Gambling too much in the casino will make you develop an addiction. The player will sometimes be asked to visit a casino or resist the urge to visit.
+==How to get rid of addictions==
+#Attending a rehab. You can either visit a regular rehab or a luxury rehab center. Successfully curing an addiction at a rehab gets an [[Achievements|achievement]]. Addictions may not always be cured '''​​​'''on the first try and may need to attend rehab more than once if they continue to suffer from their addiction.
+##If you attend a meeting, like alcohol anonymous, you can get rid of your addiction.
+##You are also able to attend these meetings even if you aren't addicted to anything.
+#Getting hypnotized. This option is cheaper than attending rehab. However, just like rehabs, it may not cure addictions on the first try.
+#Simply waiting and not acquiring your addiction
+##If you don't acquire your addiction for a certain time, you will be free of your addiction. You might lose happiness, but you won't have to acquire your addiction anymore.
+#While rare, meditation can rid some addictions.
+[[Category:BitLife]]

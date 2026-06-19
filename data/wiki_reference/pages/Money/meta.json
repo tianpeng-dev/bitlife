@@ -1,0 +1,28 @@
+{
+  "title": "Money",
+  "pageid": 893,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Money",
+  "categories": [
+    "BitLife",
+    "Gameplay",
+    "Under_construction"
+  ],
+  "links": [
+    "Achievements",
+    "Assets",
+    "BitLife",
+    "Casino",
+    "Horse Races",
+    "Monaco",
+    "Stats",
+    "Updates",
+    "Will/Testament"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Money/content.html",
+    "wikitext": "pages/Money/content.wikitext",
+    "text": "pages/Money/content.txt"
+  }
+}

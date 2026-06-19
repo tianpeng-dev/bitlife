@@ -1,0 +1,62 @@
+An Expansion Pack where you can open a museum and buy collectibles from the black market or from the auction house
+This Page is in Construction
+Contents
+1
+Black Market Seller
+1.1
+Antique Peddler
+1.2
+Arms Dealer
+1.3
+Art Thief
+1.4
+Jewel Fencer
+1.5
+Wildlife Smuggler
+2
+Auction House
+3
+Museum
+Black Market Seller
+[
+]
+In the Black Market, you can buy contrabands from 6 different Seller; The Antique Peddler, The Arms Dealer, The Art Thief, The Jewel Fencer, The Street Chemist and The Wildlife Smuggler. Possession of Items from the Black Market have a chance for you to be involved with the police or the detective.
+You can skip the items presented to you up to two times while buying items from The Antique Peddler, The Arms Dealer, The Art Thief and The Jewel Fencer. After the third item is presented and you skipped it, You will be kicked out by them
+You can also Haggle a merchandise price from The Antique Peddler, The Arms Dealer, The Art Thief, The Jewel Fencer and The Wildlife Smuggler. Doing this may decrease their attitude with you and this may not work
+When Buying Collectibles from The Antique Peddler, The Arms Dealer, The Art Thief, The Jewel Fencer or The Wildlife Smuggler, someone may try to buy it from you. In response you can try to offer a higher price which overtime increase the threat that the third party may give to you. If your offer is too high it may backfire. You can also try to threaten them or attack them directly. If You don't want trouble, you may just leave
+Antique Peddler
+[
+]
+Antique Name
+Price Range
+Arms Dealer
+[
+]
+Weapon Name
+Price Range
+Art Thief
+[
+]
+Art Name
+Price Range
+Jewel Fencer
+[
+]
+Jewel Name
+Price Range
+Wildlife Smuggler
+[
+]
+Animal Type
+Price Range
+Auction House
+[
+]
+There are initially two auction house you can buy from. As you collect more collectibles, you can buy a storage room from the third auction house in which you can pawn off some items and a chance to find a collectibles
+Museum
+[
+]
+A Part of The Expansion, The Museum allows you to charge people to see your collection. Each Item have it's own level of appeal, which contributes to the amount of people visiting your museum.
+Item Name
+Item Type
+Item Appeal

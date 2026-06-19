@@ -1,0 +1,24 @@
+{
+  "title": "Doctor (disambiguation)",
+  "pageid": 1294,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Doctor_(disambiguation)",
+  "categories": [
+    "BitLife",
+    "Disambiguations",
+    "Medical"
+  ],
+  "links": [
+    "Alternative Doctor",
+    "Medical Doctor",
+    "Optometrist",
+    "Psychiatrist",
+    "Witch Doctor"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Doctor_(disambiguation)/content.html",
+    "wikitext": "pages/Doctor_(disambiguation)/content.wikitext",
+    "text": "pages/Doctor_(disambiguation)/content.txt"
+  }
+}

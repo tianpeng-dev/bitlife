@@ -1,0 +1,18 @@
+{{Infobox BitLifeApp
+|title1=Emigration
+|last_updated_on_ios:=November 29, 2019}}In BitLife, when a player graduates high school (at 18), they can choose to emigrate to another country, they must pick a country and request approval to live there first. Emigrating many times will give the ''Globetrotter'' [[Ribbons|ribbon.]] If the player is 18 but has not yet graduated from high school (in some countries), they cannot emigrate unless they have dropped out of high school. However, on rare occasions, family members can choose to emigrate the whole family to a randomly chosen country outside of the players' control when your character is a juvenile. If the player's parents were born in another country and they emigrate to another country illegally, they will be deported to the country their parents came from.
+
+
+
+== When you're about to emigrate ==
+[[File:Emigration screen Activities.jpg|thumb]]
+If the player's request is approved by the country, they will have to pay a certain amount of money to emigrate. Depending on the partner's relationship, if the bar is more than half, they will agree to come, otherwise, they will refuse. If children are related to the player and their current partner, they will automatically come with them. Once the player emigrates, they can start living in a new country but will quit their job and leave some family members such as siblings and parents behind (if they try to spend time with them or go to the theatre, they won't be able to due to obvious reasons, but they can chat on the phone or Skype, etc). The "Spend time" button has since been replaced with "Visit them" for [[IOS version|iOS players.]] If a family member dies, iOS players may now travel to another country to attend their funeral if they are in a different country. If a partner refuses to go with the player, they will automatically leave them. If the player has an exotic animal, they will be refused entry due to them having an exotic pet. Sometimes as a [[Childhood events|child]], parents can occasionally emigrate you and the rest of the family to another country. If the character has a criminal record, if they legally emigrate, the record will not be tracked. Several reasons for being denied the immigration request by the country may be for being in the military, having a criminal record, or possessing a giant exotic pet.
+[[File:Screenshot 20210330 104520.jpg|thumb]]
+[[File:Screenshot 20210330 104548.jpg|thumb]]
+[[File:Screenshot 20210330 104612.jpg|thumb]]
+
+=== Options for emigration ===
+In standard BitLife, you can only choose 8 random countries to emigrate to, and they have a price. Otherwise, you can emigrate illegally if your request will be denied. You will either get caught by the police or not get caught at all.
+Buying the Golden Passport item grants you the ability to emigrate to every single country available as of now, without a fee and approval. The Golden Passport interface is similar to the one when you choose the place of birth at the start of a new life.
+[[Category:Activities]]
+[[Category:BitLife]]

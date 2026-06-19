@@ -1,0 +1,305 @@
+{{Infobox country
+|title1=China
+|image1=[[File:China.png]]
+|caption1=China's flag.
+|country_name=China
+|number_of_default_cities=5
+|when_was_it_added_to_ios=September 2018 (default)
+}}
+'''China''' is an original [[Nations|country]] that was on BitLife in September 2018. Due in Real Life China is one-party country, that means characters that live in China cannot work in Political Offices. Its default cities are the capital, Beijing, along with Guangzhou, Shanghai, Shenzen, and Wuhan. Social Media can not be used in the country.
+
+== Name List ==
+Note that some names can be in Mandarin or other Chinese dialects.
+
+=== Male First Names ===
+* Aiguo
+* An
+* Bai
+* Bingwen
+* Bojing
+* Boquin
+* Changming
+* Changpu
+* Chao
+* Chaoxiang
+* Cheng
+* Chenglei
+* Chongan
+* Chongkun
+* Chuanli
+* Da
+* Delun
+* Deming
+* Dingbang
+* Dong
+* Duyi
+* Fa
+* Fai
+* Feng
+* Fengen
+* Gan
+* Geming
+* Genghis
+* Guozhi
+* Hai
+* Heng
+* Ho
+* Honghui
+* Hongqi
+* Hop
+* Hu
+* Huan
+* Huang Fu
+* Hulin
+* Hung
+* Jaw-Long
+* Jian
+* Jiang
+* Jianyu
+* Jin
+* Jinjing
+* Junjie
+* Kong
+* Kueng
+* Li
+* Liang
+* Liwei
+* Longwei
+* Ming-hua
+* Mingli
+* Minsheng
+* On
+* Park
+* Peng
+* Ping
+* Qianfan
+* Qiang
+* Qingshan
+* Qiu
+* Quon
+* Renshu
+* Ru
+* Shaiming
+* Shan
+* Shen
+* Shing
+* Shirong
+* Shoi-Ming
+* Shunyuan
+* Sueh-Yen
+* Sying
+* Taiwan
+* Tingzhe
+* Wang
+* Weimin
+* Weisheng
+* Weiyuan
+* Wencheng
+* Wing
+* Wuzhou
+* Xiaojian
+* Xiasheng
+* Xin
+* Xiu
+* Xuequin
+* Xueyou
+* Yang
+* Yanlin
+* Yaozu
+* Ye
+* Yi
+* Yingjie
+* Yong
+* Yongnian
+* Yongrui
+* You
+* Yuanyun
+* Yusheng
+* Zedong
+* Zengguang
+* Zenguang
+* Zhengsheng
+* Zhensheng
+* Zhiqiang
+* Zhong
+* Zihao
+* Zixin
+* Zongmeng
+
+=== Female First Names ===
+* Ah Cy
+* Ah Kum
+* Ah Lam
+* Ai
+* An
+* Bao
+* Baozhai
+* Biyu
+* Bo
+* Changchang
+* Changying
+* Chenguang
+* China
+* Chu Hua
+* Chuntao
+* Cuifen
+* Daiyu
+* Dandan
+* Dongmei
+* Ehuang
+* Fang
+* Fenfang
+* Hong
+* Hualing
+* Huan
+* Huidai
+* Huifang
+* Huiqing
+* Huizhong
+* Jia
+* Jiao
+* Jiayi
+* Jie
+* Jing
+* Jinghua
+* Juan
+* Jun
+* Lan
+* Lanying
+* Lee
+* Li
+* Lien
+* Lihua
+* Lijuan
+* Liling
+* Lin
+* Linh
+* Liqiu
+* Luli
+* Mani
+* Mei
+* Meifeng
+* Meilin
+* Meirong
+* Meiying
+* Mingxia
+* Ning
+* Ninghong
+* Nuo
+* Nuwa
+* Peizhi
+* Ping
+* Qiao
+* Qing
+* Qingling
+* Qingzhao
+* Renxiang
+* Rong
+* Ruomei
+* Shu
+* Shuang
+* Shun
+* Song
+* Suyin
+* Tao
+* Ting
+* Tu
+* Ushi
+* Wen
+* Wenqian
+* Xiang
+* Xiaohui
+* Xiaojing
+* Xiaolian
+* Xiaoling
+* Xiaosheng
+* Xiaotong
+* Xiaowen
+* Xiaozhi
+* Xiu
+* Xiulan
+* Xiurong
+* Xue
+* Yan
+* Yanlin
+* Yanyu
+* Yenay
+* Ying
+* Yingtai
+* Yuan
+* Yue
+* Yuming
+* Yunru
+* Zhaohui
+* Zhen
+* Zhenzhen
+* Zhu
+* Zi
+* Zongying
+
+=== Surnames ===
+* Ch'eng
+* Chen
+* Cheng
+* Chian
+* Chiang
+* Chu
+* Dan
+* Delan
+* Dou
+* Feng
+* Fuk
+* Han
+* Ho
+* Hsiao
+* Hsieh
+* Hu
+* Huang
+* Hui
+* Jip
+* Jyu
+* Jyun
+* Kai-shek
+* Kao
+* Kuo
+* Li
+* Liang
+* Lin
+* Lingxin
+* Liu
+* Lo
+* Ma
+* Ming
+* P'an
+* Peng
+* Suk
+* Sun
+* Sung
+* T'ang
+* T'ien
+* Teng
+* Ts'ai
+* Tsao
+* Tseng
+* Tung
+* Tzu
+* Wang
+* Wen
+* Wu
+* Xu
+* Yaling
+* Yang
+* Yijun
+* Zedong
+* Zhang
+* Zhao
+* Zhou
+
+== Gallery ==
+<gallery>
+File:China baby.jpeg|A baby born in China.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

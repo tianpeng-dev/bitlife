@@ -1,0 +1,32 @@
+The majority of the content referred to here was released in the March 2020 Luxury Update, and can be accessed via Activities > Licenses.
+
+Following that update, there were a number of features added to the game— some of those were the abilities to have [[Assets|boats and planes]], and the abilities to navigate said [[Assets|boats and planes]]! Of course, in real life, you'll need a license to pilot those; which is why the update also introduced different types of licenses. The driving license has been available from version 1.0 of the game, but it is only in the December 2018 update that the license minigame was introduced. The Luxury Update introduced minigames for the other licenses from the get-go.
+
+[https://www.touchtapplay.com/bitlife-all-driving-test-answers-tips-and-cheats/ The full cheat-sheet for the driving test] (there are no full answer sheets, unfortunately, though you could look them up yourself).
+
+== Boating License ==
+The boating license is required to buy or own a [[Assets|boat]] (which can be purchased under Assets/Activities > [[Shopping]] > Boat Dealership (name varies, like the car dealerships, but the option is always on the bottom of the shopping page)). However, you can still purchase some vehicles under this page, like jetskis, canoes, and lifeboats. Anything above a sailing sloop will always require you to acquire a boating license before you can have a look at the vehicle, though.
+
+[[Nations|The test's cost varies based on your country,]] but are usually a little over or equal to $100 (using whichever currency sign the country you're in is using) and the test is available only after you turn 18.
+
+== Driving License ==
+The driving license is required to buy and drive a [[Assets|car]] (which can be purchased under Assets/Activities > [[Shopping]] > any of the Car Dealerships (names vary, but all 3 options are always the first to show up on the shopping page)). The prompt to get a driving license may show up from the ages 16-19 years old, and occasionally, should you pass on first try as a teenager, your parents may get you a car of your own— all for free! Though, you will have to pay for routine maintenance yourself if you want to keep it running, even in your teenage years. The car your parents get you is determined by their generosity and wealth.
+
+While, technically, you can still own a car by [[Crime|going to the "Crimes" tab and stealing one,]] you will not qualify for any jobs that require cars, and you cannot do [[Murder|drive-bys.]] 
+
+[[Nations|The test's cost varies based on your country,]] but are usually within the range of $60-90 (again, currency sign varies but monetary value is the same) and the test is available only on the year you are prompted to answer it and onwards. If you die and continue from one of your children and they are over that age (from your previous life, as the age depends on the country you're in), you will not need to take the test as your child will already have a license.
+
+== Pilot's License ==
+The pilot's license is required to buy or own a [[Assets|plane]] (or, really, any other aircraft) (which can be purchased under Assets/Activities > [[Shopping]] > Plane Dealership/Aircraft Dealership (names vary, but both options are always the first two under "Specialty Vehicle Dealers")). Before applying for a pilot's license, however, you will need to take 40 hours of lessons at flight school.
+
+[[Nations|The test's cost varies based on your country,]] but the cost is usually upwards of $1,000 and the test is available only after you turn 18.
+
+A pilot's license is required for career as an [[astronaut]]. 
+
+=== Flight School ===
+You are required to take 40 hours of lessons here before you can take the test for a pilot's license. Like when buying lottery tickets, you can get 1 hour of lessons or 10 hours in one sitting, and the price of 1 hour of lessons is listed on the screen. There is no minigame in this case; you only get a line of text on your timeline saying "I took _number_ hour/s of flying lessons." after choosing to attend. There is a chance you can crash and die, even if your health is maxed out.
+
+The class's cost also varies based on your country, but the cost usually floats by the cost for a boating license test in your country.
+
+There's a rare chance that your character dies from taking flight lessons, most likely due to low [[karma]].
+[[Category:BitLife]]

@@ -1,0 +1,22 @@
+{
+  "title": "Odd Bakke",
+  "pageid": 6021,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Odd_Bakke",
+  "categories": [
+    "Americans",
+    "Fan_Characters",
+    "Norwegians",
+    "Restaurateurs"
+  ],
+  "links": [
+    "Tarjei Bakke III",
+    "Tarjei Bakke V"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Odd_Bakke/content.html",
+    "wikitext": "pages/Odd_Bakke/content.wikitext",
+    "text": "pages/Odd_Bakke/content.txt"
+  }
+}

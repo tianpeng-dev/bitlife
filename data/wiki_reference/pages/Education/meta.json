@@ -1,0 +1,28 @@
+{
+  "title": "Education",
+  "pageid": 165,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Education",
+  "categories": [
+    "BitLife"
+  ],
+  "links": [
+    "Age",
+    "Canada",
+    "Death",
+    "Education/Cliques",
+    "Education/Faculty Staff",
+    "Mind & Body",
+    "Ribbons",
+    "Sports",
+    "Stats",
+    "United States",
+    "Wedgies"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Education/content.html",
+    "wikitext": "pages/Education/content.wikitext",
+    "text": "pages/Education/content.txt"
+  }
+}

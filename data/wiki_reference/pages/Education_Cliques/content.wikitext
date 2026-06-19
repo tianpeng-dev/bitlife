@@ -1,0 +1,47 @@
+{{Infobox BitLifeApp
+|title1=Cliques
+|image1=
+|launched_on_ios:=
+|launched_on_android:=}}'''Cliques''' are groups of [[Education|students]] who share a common interest, but unlike clubs, cliques do not take weekly hours of time. However, cliques require a certain level of popularity to join and characters can be rejected from joining a clique. Some require as much as possible while some strive for little. Characters can ask to join a clique or be asked. Being rejected from a clique will lower happiness by 30%. A character may only be in one clique but asking to join a clique while already in one, will not get you rejected for that reason. Some [[Challenges]] require joining cliques.
+
+
+* Artsy Kids - An artsy clique: You must be artistically inclined to join this creative clique.
+* Band Geeks - A geeky clique: You must enjoy blowing on or fingering instruments to join this clique.
+* Brainy Kids - A high functioning clique: You must have high smarts and grades to join this special clique.
+* Drama Kids - A thespian clique: You must be obsessed with Broadway musicals and aspire to do theatre to join this clique.
+* Gamers - A gamer clique: You must be obsessed with gaming and gamer culture to join this clique.
+* Goths - A gothic clique: You must enjoy dark attire and makeup to join this post-punk clique.
+* Hipsters - A hipster clique: You must flaunt varied non-mainstream sensibilities to join this clique.
+* Loners - An undesirable clique: You must be disliked and unhappy to join this very lonely clique.
+* Jocks (males only) - An athletic clique: You must be an athlete with little interest in intellectual studies to join this clique.
+* Mean Girls (females only) - An elite female clique: You must engage in gossip and crave popularity to join this elite clique.
+* Nerds - An intellectual clique: You must be seen as overly intellectual or introverted to join this clique.
+* Normals - A non-clique clique: You must be devoid of abnormalities to join this extremely average clique.
+* Popular Kids - A popular clique: You must be among the most popular kids in school to join this clique.
+* Skaters - A skateboarding clique: You must dedicate your life to skating to join this rebellious clique.
+* Social Floaters - A chameleon clique: You must demonstrate an uncanny ability to slip in with different groups to join this clique.
+* Talented Kids - A multi-talented clique: You must be multi-talented to join this special clique.
+* Troublemakers - An instigator clique: You must frequently get up to trouble in school to join this dubious clique.
+* Weebs - A weeb clique: You must be obsessed with Japanese culture to join this strange clique.
+
+== How to join each clique ==
+* Artsy Kids: Join the Art Club, Creative writing Club, poetry club, pottery club etc.
+* Band Geeks: Join the Concert Band, Jazz Band or Orchestra
+* Brainy Kids: Have high smarts AND high grades at the same time.
+* Drama Kids: Join the Drama Club or the Improv Club.
+* Gamers: Join the Video Games Club.
+* Goths: Have low happiness AND popularity.
+* Hipsters: You are able to be accepted without joining any clubs, as long as your popularity is not too low.
+* Jocks: Join any sports-related activities. You get rejected if the performance is too bad. Also, despite what its description said, you are able to join the clique even when having high smarts and grades. Being rejected from the clique lowers your popularity by a large portion.
+* Loners: Have low happiness AND popularity.
+* Mean Girls: Have very high popularity. Being rejected from the clique lowers your popularity by a large portion.
+* Nerds: Have low popularity and join the Book Club, Chess Club, Robotics Club, Science Club, etc. (High grades are not needed to be able to join)
+* Normals: Have moderate grades and popularity.
+* Popular Kids: Have very high popularity. Being rejected from the clique lowers your popularity by a large portion. once you are Popular, you can't join The Brainy Club, otherwise you will be rejected.
+* Skaters: Join the Skateboarding Club.
+* Social Floaters: Have high popularity and compliment the leader of the clique.
+* Talented Kids: Have high popularity, good grades, join a sports related club and compliment the leader of the clique.
+* Troublemakers: A bug in the game doesn’t allow you to ever join this clique. However if you are born into a royal family you can join the clique since you can join any clique if you’re born into royalty.
+* Weebs: Join the Anime Club, Cosplay Club or Dungeons & Dragons Club
+[[Category:BitLife]]
+[[Category:Updates]]

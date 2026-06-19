@@ -1,0 +1,20 @@
+{{Infobox country
+|title1=Estonia
+|image1=[[File:Estonia.png]]
+|caption1=Estonia's flag.
+|country_name=Estonia
+|number_of_default_cities=1
+|when_was_it_added_to_ios=March 2019
+|available_on_android_as_well=Yes, added ìn 2019}}{{Stub}}
+'''Estonia''' is a [[Nations|country]] that was on BitLife in March 2019. Its default cities are only the capital, Tallinn.
+
+Estonia was part of a March 2019 [[Updates|update]] that added 8 new countries into the game. The other 7 were [[Portugal]], [[Norway]], [[Indonesia]], [[Denmark]], [[Finland]], [[Romania]], and [[Singapore]]. This update was also the update that brought [[Pets]] for the first time. This update was also the first to have multiple new countries being added other than the ones originally released.
+
+Estonia has a low tax rate, and no inheritance tax however, it doesn't have free healthcare or free universities. 
+
+== Gallery ==
+<gallery>
+File:Estonia baby.jpeg|A baby born in Estonia.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

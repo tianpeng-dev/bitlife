@@ -1,0 +1,186 @@
+{{Infobox country
+|title1=Israel
+|image1=[[File:Israel.png]]
+|caption1=Israel's flag.
+|country_name=Israel
+|number_of_default_cities=3
+|when_was_it_added_to_ios=September 2018 (default)
+}}
+'''Israel''' is a [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Jerusalem, along with Bethlehem and Tel Aviv.
+
+Although there is currently a real-life war between Israel and Hamas, no [[Death|deaths]] related to terrorist or battlefield attacks occur in the Bitlife version.
+== Name List ==
+=== Male First Names ===
+* Adam
+* Alvah
+* Ari
+* Ariel
+* Aron
+* Asaph
+* Barak
+* Bartel
+* Benjamin
+* Choni
+* Daniel
+* David
+* Eitan
+* Elihu
+* Emanuel
+* Emile
+* Feivel
+* Gedalya
+* Geremia
+* Hadar
+* Hyman
+* Ian
+* Isaac
+* Itzhak
+* Jared
+* Jephtah
+* Jorie
+* Josias
+* Judd
+*Jesus
+* Larry
+* Lewi
+* Lot
+* Meyer
+* Mikhos
+* Nadav
+* Nimrod
+* Noam
+* Omer
+* Omri
+* Rafal
+* Rafe
+* Raviv
+* Samuel
+* Sanson
+* Schmaiah
+* Seanan
+* Simon
+* Tzuriel
+* Uri
+* Ximon
+* Yaphet
+* Yitzchok
+* Yitzhak
+* Yosef
+* Zebediah 
+* Zamir
+
+=== Female First Names ===
+* Adele
+* Ariela
+* Avigail
+* Aviva 
+* Baila
+* Chaya
+* Dafna
+* Drorit
+* Eina
+* Ella
+* Eva
+* Gazit
+* Gilla
+* Golda
+* Hadasa
+* Hadassah
+* Karin
+* Leah
+* Lee
+* Liat
+* Mai
+* Matiana
+* Mazal
+* Mili
+* Miriam
+* Neora
+* Netali
+* Noa
+* Oshrit
+* Racheli
+* Ronit
+* Ronnie
+* Sarah
+* Sharona
+* Shifra
+* Shira
+* Shlomit
+* Sigal
+* Smadar
+* Tal
+* Talia
+* Tamar
+* Tikva
+* Tzilla
+* Tzofit
+* Varda
+* Yael
+* Yahel
+* Yonat 
+
+=== Surnames ===
+* Adrei
+* Amar
+* Ashkenazi
+* Avraham
+* Azoulay
+* Barak
+* Ben-David
+* Berlinger
+* Biton
+* Brodetsky
+* Bruck
+* Chagall
+* Chazan
+* Cohen
+* David
+* Deronda
+* Friedman
+* Gabai
+* Golan
+* Goldberg
+* Goni
+* Hadad
+* Harel
+* Hazan
+* Hinn
+* Katz
+* Khen
+* Klein
+* Kraushaar
+* Kushner
+* Lachman
+* Lehrer
+* Levi
+* Levin
+* Levinstein
+* Malka
+* Meir
+* Mizrachi
+* Montefiore
+* Moshe
+* Netanyahu
+* Ohana
+* Ohayon
+* Okun
+* Omer
+*Of Nazareth
+* Pearlman
+* Peres
+* Peretz
+* Schlesinger
+* Segal
+* Shapiro
+* Solomon
+* Stern
+* Sternberg
+* Tal
+
+== Gallery ==
+<gallery>
+File:Israel baby.jpeg|A baby born in Israel.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

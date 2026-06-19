@@ -1,0 +1,44 @@
+{{Infobox BitLifeApp
+|title1=Karma
+|image1=[[File:6A7344E7-2EE7-41A4-B147-CA5E9BB4C514.png|thumb]]
+|caption1=Full karma on a tombstone}}'''Karma''' is an element to BitLife. Doing good actions will increase karma and doing bad actions will lower karma. Karma helps a player live longer and get through tough situations easier. After a character dies, it will say the level of karma they had along with their overall happiness. You can view your character's karma by meditation, or after they die. Choosing the nicest option in random scenarios improves karma while choosing the rudest will lower it.
+
+==Things that increase karma==
+*Apologizing
+*Calling police
+*Complimenting
+*Donating [[Heirlooms]]
+* Working on your [[Mind & Body]]
+*Giving gifts and cars to people
+*Giving money to family
+*Giving money to homeless
+*Helping someone, like a friend
+*Supporting friends when dealing with a problem and reporting them when they do illegal actions
+*[[Situation/SOS|Saving a life]]
+*Serving the military
+
+==Things that decrease karma==
+*Arguing
+*Assaulting
+*[[Crime]]
+*Insulting
+*Not saving a life in danger.
+*Passing on STDs
+*Cheating on a lover
+*Abandoning children or [[pets]]
+*Going to [[prison]]
+*Skipping a funeral
+*Trying drugs
+*Trying to get away with bad things done in a Life.
+*Anything that is bad
+
+<gallery position="center" widths="185">
+Screenshot 2019-01-30 at 1.30.09 PM.png|Character with full karma.
+Screenshot 2020-01-09 at 8.16.26 PM.png|Character with high karma
+Screenshot 2019-01-30 at 1.21.30 PM.png|Character with medium karma
+Screenshot 2019-07-18-10-46-15-56.png|Character with low karma
+Screenshot 20190530-205412.png|Character with empty karma
+</gallery>
+[[Category:BitLife]]
+[[Category:Features]]
+[[Category:Gameplay]]

@@ -1,0 +1,21 @@
+{
+  "title": "Liv Grieg",
+  "pageid": 5517,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Liv_Grieg",
+  "categories": [
+    "Fan_Characters",
+    "Germans",
+    "Musicians"
+  ],
+  "links": [
+    "Camilla Grieg II",
+    "Liam Grieg"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Liv_Grieg/content.html",
+    "wikitext": "pages/Liv_Grieg/content.wikitext",
+    "text": "pages/Liv_Grieg/content.txt"
+  }
+}

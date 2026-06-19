@@ -1,0 +1,21 @@
+{
+  "title": "Morgan Galore",
+  "pageid": 4692,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Morgan_Galore",
+  "categories": [
+    "Americans",
+    "Fan_Characters",
+    "Soldiers",
+    "Young_people"
+  ],
+  "links": [
+    "Moxie"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Morgan_Galore/content.html",
+    "wikitext": "pages/Morgan_Galore/content.wikitext",
+    "text": "pages/Morgan_Galore/content.txt"
+  }
+}

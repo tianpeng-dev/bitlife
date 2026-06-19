@@ -1,0 +1,61 @@
+{{Infobox BitLifeApp
+|title1=Funeral
+|image1 = File:skull-and-crossbones_2620.png
+|last_updated_on_ios:=November 29, 2019
+}}
+A '''Funeral''' is a feature in BitLife if the player dies, whoever attended the funeral will be listed on their gravestone. If the relationships are low than it will not bother to attend, sometimes spending time elsewhere instead. Characters may choose whether to attend their family and loved ones' funerals and how to plan it and rest the remains if they were in charge. Sometimes the deceased will have a wish on how they would like to rest, your character may or may not choose to do so. They may bury it, cremate it, taxidermise it, or donate it to science. If cremated, the ashes may be kept in an urn, buried, sprinkled somewhere special, or thrown away. On iOS, characters from a different [[Nations|country]] may travel to the funeral but will be unable to on Android. If your character is in prison, they will be unable to attend but may still get inheritance.
+
+Below is the list of locations the ashes can be sprinkled to:
+* At a bus station
+* At a busy intersection downtown
+* At a distillery
+* At a dollar store
+* At a farmers' market
+* At a junkyard
+* At a local cemetery
+* At a Walmart
+* At character's favorite:
+** Beach
+** Brothel
+** Camping spot
+** Club
+** Fishing spot
+** Golf course
+** Hunting location
+** Museum
+** National park
+** Park
+** Sex toy store
+** Sporting venue
+** Stargazing spot
+** Swingers' club
+** Vacation spot
+* At character's place of worship
+* At city hall
+* At the local opera house
+* At the location of character's conception
+* At the location of where character lost their virginity
+* At the zoo
+* In a blunt and then smoked it
+* In a rose bed
+* In a scattering garden
+* In a tide pool
+* In a grassland/tundra ecosystem
+* In character's bedroom
+* Inside character’s favorite restaurant
+* In the forest
+* Into the ocean
+* On a cattle farm
+* On a coffee plantation
+* On a farm
+* On a marijuana farm
+* On an organic farm
+* On character’s favorite hiking trail
+* Out of a helicopter
+* Over a waterfall
+* Over character's favorite stream
+* Over Christmas dinner
+* While riding over a farm in a hot air balloon
+
+[[Category:Death]]
+[[Category:BitLife]]

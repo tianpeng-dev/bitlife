@@ -1,0 +1,258 @@
+{{Infobox country
+|title1=Peru
+|image1=[[File:Peru.png]]
+|caption1=Peru's flag.
+|country_name=Peru
+|number_of_default_cities=3
+|when_was_it_added_to_ios=September 2018
+}}
+'''Peru''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Lima, along with Cusco and Machu Picchu.
+== Name List ==
+=== Male First Names ===
+* Andiel 
+* Abnar
+* Adalberto 
+* Alex
+* Allam
+* Aczel
+* Alfredo
+* Armando 
+* Alvaro 
+* Arturo 
+* Alexey
+* Alessandro
+* Aliet 
+* Amel
+* Andy
+* Antual 
+* Antuan 
+* Arezki
+* Arian
+* Ary
+* Arabel
+* Agustin
+* Albert 
+* Alberto
+* Alejandro
+* Andre
+* Andres
+* Angel
+* Antonio 
+* Anthony
+* Alexander 
+* Bruno
+* Benito
+* Benjamin
+* Carlos
+* Christian
+* Diego
+* Daniel
+* David
+* Eduardo
+* Edward 
+* Edwin
+* Emmanuel 
+* Esteban 
+* Ezequiel 
+* Ernesto
+* Francisco 
+* Fernando 
+* Franco 
+* Fabian
+* Felix
+* Gabriel
+* Ismael
+* Jaime
+* Jesus
+* Jheremy
+* Joaquin
+* Jose
+* Juan
+* Juan Diego
+* Juan Jose
+* Juan Pablo 
+* Juan Sebastian 
+* Julio
+* Julian
+* Lucas
+* Lucio
+* Luigi
+* Luis
+* Leonardo 
+* Manuel
+* Marc
+* Marco
+* Marcos
+* Martin
+* Matias
+* Miguel
+* Omar
+* Orlando
+* Oscar
+* Paolo
+* Pablo
+* Pedro
+* Piero
+* Renzo
+* Ricardo
+* Richard
+* Salvador
+* Sammy
+* Samuel
+* Sandro
+* Selestino
+* Sebastian 
+* Simon
+* Thiago
+* Tomas
+* Valentino 
+* Victor
+* Wilmer 
+* Xavier 
+* Yaniel
+* Yadiel
+* Yussel
+
+=== Female First Names ===
+* Alessa
+* Alejandra
+* Alessandra
+* Andrea
+* Anita
+* Alice 
+* Alicia 
+* Alma
+* Azucena
+* Angelica 
+* Ana Sofia 
+* Ana Lucia
+* Ana Maria
+* Ana
+* Anna
+* Beatriz
+* Carito
+* Chio
+* Cristina
+* Cynthia
+* Daniela
+* Elena
+* Esperanza
+* Evelyn
+* Elizabeth 
+* Eliza
+* Emma
+* Fiorella
+* Florencia
+* Gabriela
+* Gina
+* Gladys
+* Hilda
+* Irene
+* Isabel
+* Jahaira
+* Karen
+* Kelly
+* Karla
+* Katharin
+* Katia
+* Keyla
+* Liliana
+* Lina
+* Lisbeth
+* Lorena
+* Lucia
+* Marcielo
+* Michelle
+* Mara
+* Maria
+* Maria Alejandra
+* Marcia 
+* Noelia
+* Pilar
+* Raquel
+* Rebecca 
+* Rocio
+* Rosa
+* Roseangela
+* Rosemary
+* Sarah
+* Sara
+* Sofia
+* Stephany
+* Veronica
+* Yessica
+* Zoila
+* Zoe
+
+=== Surnames ===
+* Agramonte
+* Alvarez 
+* Aguayo
+* Alcocer
+* Albino 
+* Amengual
+* Andrade
+* Berganza
+* Bacca
+* Castillo 
+* Castro 
+* Chavez 
+* Cadaval
+* Campos
+* Carballar
+* Chicote
+* Costa
+* Cruz
+* Escribano
+* Espina
+* Fonseca
+* Gallo
+* Gayoso
+* Gilabert
+* Guerrero
+* Juderias
+* Lacasa
+* Luque
+* Lopez
+* Mariano
+* Maroto
+* Martin
+* Mazanares
+* Montenegro
+* Morterero
+* Munoz
+* Murillo
+* Ortiz
+* Ocampo
+* Perez
+* Pizarro
+* Pozo
+* Prats
+* Quesada
+* Rouco
+* Rodriguez 
+* Romero 
+* Ruiz
+* Rubio
+* Ramos 
+* Ramirez
+* Santos
+* Saelices
+* Sainz
+* Sarmiento
+* Tafalla
+* Tasis
+* Varela
+* Vazquez 
+* Vega
+* Vargas
+* Yepes
+* de Leon
+* de Los Santos
+
+== Gallery ==
+<gallery>
+File:Peru baby.jpeg|A baby born in Peru.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

@@ -1,0 +1,20 @@
+{
+  "title": "Social Media/Trolling",
+  "pageid": 3507,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Social_Media%2FTrolling",
+  "categories": [
+    "Activities",
+    "Assets",
+    "Careers"
+  ],
+  "links": [
+    "BitLife: Life Simulator"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Social_Media_Trolling/content.html",
+    "wikitext": "pages/Social_Media_Trolling/content.wikitext",
+    "text": "pages/Social_Media_Trolling/content.txt"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Death",
+  "pageid": 110,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Death",
+  "categories": [
+    "BitLife",
+    "Death",
+    "Disambiguations",
+    "Information",
+    "Medical"
+  ],
+  "links": [
+    "Achievements",
+    "Addictions",
+    "Age",
+    "Crime",
+    "Death/Pets",
+    "Diseases",
+    "Enemy encounter",
+    "Ghosts",
+    "God Mode",
+    "Mafia",
+    "Medical Doctor",
+    "Murder",
+    "Pets",
+    "Plastic Surgery",
+    "Prison",
+    "Prison/Gangs",
+    "Ribbons",
+    "Situation/SOS",
+    "Stats",
+    "Wedgies",
+    "Witch Doctor"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Death/content.html",
+    "wikitext": "pages/Death/content.wikitext",
+    "text": "pages/Death/content.txt"
+  }
+}

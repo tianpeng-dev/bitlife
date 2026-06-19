@@ -1,0 +1,14 @@
+{{Under construction}}
+{{Stub}}
+
+{{Infobox_BitLifeApp
+|image1 =[[File:CatLife.png|thumb]]
+|launched_on_ios:=3 Jan 2022
+|launched_on_android:=3 Jan 2022
+|last_updated_on_ios:=TBD
+|last_updated_on_android:=TBD
+}}
+
+
+BitLife Cats — CatLife (often shortened to CatLife) is a mobile life simulator game created by developer Candywriter LLC on January 3rd, 2022. The game utilizes a text-based format to try and create a accurate simulator of how cats live. It is the second spinoff of [[BitLife: Life Simulator|the original game]] after [[DogLife]].
+[[Category:CatLife]]

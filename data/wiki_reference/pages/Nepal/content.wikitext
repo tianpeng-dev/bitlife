@@ -1,0 +1,23 @@
+{{Infobox country
+|title1=Nepal
+|image1=[[File:Nepal.png]]
+|caption1=Nepal's flag.
+|country_name=Nepal
+|number_of_default_cities=1
+|when_was_it_added_to_ios=December 19, 2019
+}}
+'''Nepal''' is a [[Nations|country]] that was on BitLife in December 2019. Its default city is only the capital, Kathmandu.
+
+In December 2019 on iOS; new countries were added. Along with Nepal; there was also Austria, Bahamas, Costa Rica, DR Congo, Kazakhstan, Kenya, Kuwait, Lebanon, Mongolia, Ukraine, and Vietnam. This was added in the ''Friends'' Update.
+
+==Information==
+==Name List==
+==Trivia==
+*In game, Nepal's flag, outside its borders, will have a white background instead of being transparent etc. This is not found in any other flag.
+
+== Gallery ==
+<gallery>
+File:Nepal baby.jpeg|A baby born in Nepal.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

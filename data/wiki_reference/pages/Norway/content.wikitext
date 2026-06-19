@@ -1,0 +1,192 @@
+{{Infobox country
+|title1=Norway
+|image1=[[File:Norway.png]]
+|caption1=Norway's flag.
+|country_name=Norway
+|number_of_default_cities=3
+|when_was_it_added_to_ios=March 2019
+}}
+'''Norway''' is a [[Nations|country]] that was on BitLife in March 2019. Its default cities are the capital, Oslo, along with Bergen and Trondheim.
+
+Norway was part of a March 2019 [[Updates|update]] that added 8 new countries into the game. The other 7 were [[Portugal]], [[Singapore]], [[Indonesia]], [[Denmark]], [[Finland]], [[Estonia]], and [[Romania]]. This update was also the update that brought [[Pets]] for the first time. This update was also the first to have multiple new countries being added other than the ones originally released.
+== Name List ==
+=== Male First Names ===
+* Aksel
+* Anders
+* Arne
+* Bjorn
+* Christian
+* Daniel
+* David 
+* Edvard
+* Einar
+* Eirik
+* Erik
+* Eivind
+* Espen
+* Frode
+* Gabriel 
+* Geir
+* Gunnar
+* Hakon
+* Hans
+* Harald
+* Helge
+* Ivar
+* Ivan
+* Jan
+* Johan
+* John
+* Jon
+* Kare
+* Kjell
+* Knut
+* Kristian
+* Lars
+* Leif
+* Liam
+* Magne
+* Magnus
+* Marius
+* Martin
+* Morten
+* Nicolaj
+* Nils
+* Odd
+* Olav
+* Ole
+* Per
+* Rolf
+* Rune 
+* Samuel 
+* Sigurd
+* Steinar
+* Stian
+* Svein 
+* Tarjei
+* Terje
+* Tom
+* Thomas 
+* Tore
+* Tor
+* Trond
+
+=== Female First Names ===
+* Ann
+* Anna
+* Anne
+* Anita 
+* Ase
+* Astrid
+* Aud
+* Aurora
+* Bente
+* Bjorg
+* Camilla
+* Ellen
+* Elin
+* Elisabeth
+* Eva
+* Emma
+* Ella
+* Ellie
+* Gerd
+* Hanne
+* Hege
+* Heidi
+* Hilde
+* Ida
+* Inger
+* Ingrid
+* Jorunn
+* Kari
+* Karin
+* Kristin
+* Kristine
+* Laila
+* Linda
+* Liv
+* Mari
+* Maria
+* Marianne
+* Marie
+* Marit
+* Mona
+* Monica
+* Michelle 
+* Nina
+* Ragnhild
+* Randi
+* Reidun
+* Ruth
+* Sara 
+* Sarah
+* Silje
+* Sissel
+* Solveig
+* Tone
+* Turid
+* Victoria 
+* Wenche
+
+=== Surnames ===
+* Amundsen
+* Andersen
+* Andreasen
+* Andreassen
+* Andresen
+* Bakke
+* Bakken
+* Berg
+* Berge
+* Christensen
+* Dahl
+* Eide
+* Eriksen
+* Fredriksen
+* Grieg
+* Gundersen
+* Hagen
+* Halvorsen
+* Hansen
+* Haugen
+* Henriksen
+* Holm
+* Husoy
+* Iversen
+* Jacobsen
+* Jensen
+* Johannessen
+* Johansen
+* Johnsen
+* Karlsen
+* Knutsen
+* Kristensen
+* Kristoffersen
+* Larsen
+* Lie
+* Lunde
+* Martinsen
+* Mathisen
+* Moe
+* Moen
+* Nilsen
+* Nygard
+* Olsen
+* Paulsen
+* Pedersen
+* Pettersen
+* Rasmussen
+* Solberg
+* Solheim
+* Sorensen
+* Strand
+* Svendsen
+* Thomsen 
+
+== Gallery ==
+<gallery>
+File:Norway baby.jpeg|A baby born in Norway.
+File:Norwegian royalty.jpeg|A baby born into Norwegian royalty.
+</gallery>{{Nations}}[[Category:BitLife]]
+[[Category:Nations]]

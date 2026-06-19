@@ -1,0 +1,228 @@
+{{Infobox_country|caption1=Algeria's flag.|country_name=Algeria|number_of_default_cities=2|when_was_it_added_to_ios=May 2020|available_on_android_as_well=Yes|image1=Algeria.png}}
+
+'''Algeria''' is a [[Nations|country]] that was added to Bitlife in the May 10, 2020 update, alongside [[Bangladesh]], [[Bolivia]], [[Croatia]], [[Georgia]], [[Hungary]], [[Jordan]], [[Qatar]], [[Slovakia]], and [[Zimbabwe]]. Its default cities are the capital, Algiers, along with Oran.
+
+== Vital Statistics ==
+Currency:  USD ($)
+
+Default Cities: Algiers, Oran
+
+Graduation Age:  18
+
+Minimum Age to Drop out of School:  17
+
+Free University:  No
+
+Minimum Legal Driving Age:  18
+
+Same-Sex Dating Legal:  No
+
+Same-Sex Marriage Legal: No
+
+Changing Last Name After Marriage Permitted: No
+
+Free Healthcare: No
+
+Gambling Legal: No
+
+Death Penalty Legal: Yes
+
+Conjugal Visits Permitted: No
+
+Commercial Surrogacy Legal: Yes
+
+== Name List ==
+
+=== Male First Names ===
+
+* Abir 
+* Akbar
+* Anouar
+* Azzam 
+* Bari
+* Coman
+* Dawud
+* Fadil
+* Fatin
+* Gamal
+* Hadi
+* Harun
+* Imam
+* Jakeem
+* Jaser  
+* Jibril
+* Kadir
+* Kaliq
+* Kasim 
+* Khaldun
+* Mahir 
+* Majed
+* Mubarak
+* Nadir
+* Nas 
+* Nay
+* Nen
+* Omari
+* Qabil
+* Rafi
+* Rahul
+* Reyhan 
+* Riyad
+* Salem
+* Sevilin 
+* Shunnar
+* Suhayb
+* Tahir 
+* Tarif 
+* Taysir
+* Ubaid
+* Utt 
+* Vahe 
+* Wahib 
+* Yahya
+* Zafir
+* Zahi
+* Zaid
+* Ziyan
+
+=== Female First Names ===
+
+* Abeer 
+* Abella
+* Abra 
+* Adara 
+* Adiba 
+* Adila 
+* Adiva
+* Afraima 
+* Buthainah
+* Cala 
+* Caliana
+* Cari
+* Chaka
+* Dalia
+* Eman
+* Fairuza 
+* Fariha 
+* Feryal
+* Ghada 
+* Hadiya
+* Hadya
+* Heba
+* Inara 
+* Jada
+* Jamelia
+* Jayla
+* Jehan 
+* Kadira 
+* Kalilah 
+* Karima 
+* Khadijah
+* Laleh 
+* Lamis
+* Mahalah
+* Maja 
+* Malak 
+* Melek 
+* Nabila 
+* Naimah
+* Najwa
+* Nimah
+* Nyela 
+* Prema 
+* Qadira
+* Qubilah
+* Rahi 
+* Rasha 
+* Sadah 
+* Wahiba 
+* Yusra
+
+=== Surnames ===
+
+* Abbas
+* Abdelli
+* Abdi 
+* Abed
+* Abid
+* Achour 
+* Aissaoui
+* Amara
+* Amari
+* Ameur
+* Amrani
+* Ayad
+* Azzouz
+* Belaid
+* Belarbi
+* Belhadj
+* Belkacem
+* Benaissa
+* Benali
+* Bensalem
+* Benyahia
+* Boukhalfa
+* Bouras
+* Bouziane
+* Bouzid
+* Bouzidi
+* Brahimi
+* Chaib
+* Chergui
+* Cherif
+* Cherifi
+* Dahmani
+* Daoudi
+* Gacem
+* Gasmi
+* Haddad
+* Hadji
+* Hamdi
+* Hamidi
+* Kadi
+* Kadri
+* Khaldi
+* Khelifa
+* Larbi
+* Madani
+* Mahmoudi
+* Mansour
+* Mansouri
+* Mebarki
+* Merabet
+* Messaoudi
+* Meziane
+* Mokhtari
+* Moussaoui
+* Nasri
+* Rahal
+* Rahmani
+* Saadi
+* Sahraoui
+* Sahroui
+* Saidi
+* Salhi
+* Salmi
+* Slimani
+* Soltani
+* Taibi
+* Talbi
+* Taleb
+* Touati
+* Toumi
+* Yahiaoui
+* Yousfi
+* Zaidi
+* Zaoui
+* Ziani
+* Zitouni
+
+
+
+
+== Gallery ==
+<gallery>
+File:Algeria baby.jpeg|A baby born in Algeria.
+</gallery>{{Nations}}
+[[Category:Nations]]
+[[Category:BitLife]]

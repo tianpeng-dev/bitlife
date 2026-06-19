@@ -1,0 +1,36 @@
+{
+  "title": "Diseases",
+  "pageid": 150,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Diseases",
+  "categories": [
+    "BitLife",
+    "Medical",
+    "Under_construction"
+  ],
+  "links": [
+    "Achievements",
+    "Alternative Doctor",
+    "Assets",
+    "BitLife - Life Simulator Wiki",
+    "Cancer",
+    "Death",
+    "Diseases/Childhood diseases and ailments",
+    "Diseases/Deadly diseases",
+    "Doctor (disambiguation)",
+    "Encounter/Sexual",
+    "Game over",
+    "Ghosts",
+    "Medical Doctor",
+    "Ribbons",
+    "Stats",
+    "Treatment",
+    "Zoo"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Diseases/content.html",
+    "wikitext": "pages/Diseases/content.wikitext",
+    "text": "pages/Diseases/content.txt"
+  }
+}

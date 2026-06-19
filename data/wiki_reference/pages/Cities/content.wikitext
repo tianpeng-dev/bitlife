@@ -1,0 +1,1720 @@
+{{Infobox BitLifeApp
+|title1= Cities
+|image1=
+|launched_on_ios:=September 2018 (default)
+|launched_on_android:=February 2019 (default)
+|last_updated_on_ios:=October 2020
+}}'''Cities''' in BitLife are where characters live, work and socialize in the game. Most cities are relatively the same, with the same types of [[Careers/Jobs|jobs]] and [[amenities]]. However, depending on which city you live in can change many factors in the game such as name, race, schooling stages, and nationality. Many things within the city, such as the [[public library]], school district, and [[community college]] are named after whatever city the character is in. It is expensive to move to another city, however, it is possible with the “[[emigrate]]” option. You don’t have any control over what city you go to other than the country it is located in and characters cannot move to another city in the country. Cities can also be traveled to using the “[[vacation]]“ option, however, there is no effect depending on the city and some cities can be vacation spots but not default cities to live in. In June 2019, an option to add custom cities was featured in the game. There is a [[Ribbons|secret ribbon]] called the Teammate ribbon if your character is from either city of the [[United States]] where [[Candywriter]] produces BitLife and your character is an App Developer. There is an [[Achievements|achievement]] if a character visits Winnipeg, [[Canada]], on vacation. The'' Teammate'' [[Ribbons|ribbon]] can be unlocked if a character is an app developer from Tucson or Miami in the [[United States]].
+
+
+
+== Full List of Cities ==
+
+=== Default Cities ===
+These are default cities in the Nations. In a [[Custom]] life, these are chosen by the player. In a random life or while [[Emigration|emigrating,]] the city will come at random.
+
+==== [[Afghanistan]] ====
+
+* Jalalabad
+* Kabul
+* Kandahar
+
+==== [[Algeria]] ====
+
+* Algiers
+* Oran
+
+==== [[Andorra]] ====
+
+* Andorra la Vella
+* Encamp
+* La Massana
+
+====[[Angola]]====
+
+* Benguela
+* Luanda
+* Lubango
+
+==== [[Argentina]] ====
+
+* Buenos Aires
+* Córdoba
+* Rosario
+
+====[[Aruba]]====
+
+* Oranjestad
+
+==== [[Australia]] ====
+
+* Adelaide
+* Brisbane
+* Canberra
+* Gold Coast
+* Hobart
+* Melbourne
+* Newcastle
+* Perth
+* Sydney
+* Townsville
+* Wollongong
+
+==== [[Austria]] ====
+
+* Salzburg
+* Vienna
+
+==== [[Bahamas]] ====
+
+* Nassau
+
+==== [[Bangladesh]] ====
+
+* Chittagong
+* Dhaka
+* Gazipur
+* Khulna
+* Narayanganj
+
+==== [[Belgium]] ====
+
+* Antwerp
+* Bruges
+* Brussels
+* Ghent
+* Ostend
+
+====[[Belize]]====
+
+* Belize City
+* Belmopan
+
+==== [[Bolivia]] ====
+
+* La Paz
+* Sucre
+
+==== [[Brazil]] ====
+
+* Belo Horizonte
+* Brasília
+* Curitiba
+* Fortaleza
+* Goiânia
+* Manaus
+* Porto Alegre
+* Recife
+* Rio de Janeiro
+* Salvador
+* Santos
+* São Paulo
+
+==== [[Canada]] ====
+
+* Calgary
+* Edmonton
+* Halifax
+* Montreal
+* Ottawa
+* Quebec City
+* Regina
+* Saskatoon
+* Toronto
+* Vancouver
+* Winnipeg
+
+==== [[Chile]] ====
+
+* Santiago
+* Valdivia
+
+==== [[China]] ====
+
+* Beijing
+* Guangzhou
+* Shanghai
+* Shenzhen
+* Wuhan
+
+==== [[Colombia]] ====
+
+* Barranquilla
+* Bogotá
+* Cali
+* Medellín
+
+==== [[Costa Rica]] ====
+
+* San José
+
+==== [[Croatia]] ====
+
+* Dubrovnik
+* Split
+* Zagreb
+
+==== [[Cuba]] ====
+
+* Havana
+
+==== [[Czech Republic]] ====
+
+* Brno
+* Ostrava
+* Prague
+
+==== [[Denmark]] ====
+
+* Aarhus
+* Copenhagen
+
+==== [[Djibouti]] ====
+
+* Djibouti City
+
+==== [[Dominican Republic]] ====
+
+* Puerto Plata
+* Punta Cana
+* Santo Domingo
+
+==== [[DR Congo]] ====
+
+* Kinshasa
+* Lubumbashi
+* Mbuji-Mayi
+
+==== [[Ecuador]] ====
+
+* Guayaquil
+* Quito
+
+==== [[Egypt]] ====
+
+* Alexandria
+* Cairo
+* Giza
+* Luxor
+
+====[[El Salvador]]====
+
+* San Miguel
+* San Salvador
+* Santa Ana
+* Soyapango
+
+==== [[Estonia]] ====
+
+* Tallinn
+
+==== [[Ethiopia]] ====
+
+* Addis Ababa
+
+==== [[Finland]] ====
+
+* Helsinki
+
+==== [[France]] ====
+
+* Bordeaux
+* Lyon
+* Marseille
+* Nancy
+* Nantes
+* Nice
+* Paris
+* Perpignan
+* Toulouse
+
+==== [[Georgia]] ====
+
+* Tbilisi
+
+==== [[Germany]] ====
+
+* Berlin
+* Bremen
+* Cologne
+* Dortmund
+* Dresden
+* Dusseldorf
+* Frankfurt
+* Hamburg
+* Hanover
+* Leipzig
+* Munich
+* Stuttgart
+
+==== [[Greece]] ====
+
+* Athens
+* Santorini (Thira)
+
+====[[Guatemala]]====
+
+* Guatemala City
+* Mixco
+* Villa Nueva
+
+====[[Guyana]]====
+
+* Georgetown
+
+====[[Haiti]]====
+
+* Carrefour Quest
+* Delmas Quest
+* Port-au-Prince
+
+==== [[Hong Kong]] ====
+
+* Hong Kong
+* Kowloon
+
+==== [[Hungary]] ====
+
+* Budapest
+* Debrecen
+
+==== [[India]] ====
+
+* Bangalore (Bengaluru)
+* Chennai
+* Delhi
+* Hyderabad
+* Jaipur
+* Kolkata
+* Mumbai
+* Srinagar
+
+==== [[Indonesia]] ====
+
+* Bali (AKA Denpasar)
+* Jakarta
+
+==== [[Iran]] ====
+
+* Tehran
+
+==== [[Iraq]] ====
+
+* Baghdad
+* Erbil
+* Fallujah
+* Mosul
+* Tikrit
+
+==== [[Ireland]] ====
+
+* Cork
+* Dublin
+* Shannon
+
+==== [[Israel]] ====
+
+* Bethlehem
+* Jerusalem
+* Tel Aviv
+
+==== [[Italy]] ====
+
+* Bologna
+* Cagliari
+* Catania
+* Florence
+* Genoa
+* Milan
+* Naples
+* Palermo
+* Pisa
+* Rome
+* Turin
+* Venice
+* Verona
+
+==== [[Jamaica]] ====
+
+* Kingston
+* Montego Bay
+
+==== [[Japan]] ====
+
+* Fukuoka
+* Hiroshima
+* Kobe
+* Kyoto
+* Nagoya
+* Osaka
+* Tokyo
+* Yokohama
+
+==== [[Jordan]] ====
+
+* Amman
+
+==== [[Kazakhstan]] ====
+
+* Almaty
+* Astana
+* Shymkent
+
+==== [[Kenya]] ====
+
+* Mombasa
+* Nairobi
+
+==== [[Kuwait]] ====
+
+* Al Ahmadi
+* Kuwait City
+
+==== [[Lebanon]] ====
+
+* Beirut
+
+==== [[Malaysia]] ====
+
+* George Town
+* Kuala Lumpur
+
+==== [[Mexico]] ====
+
+* Cabo San Lucas
+* Cancún
+* Guadalajara
+* Juárez
+* Mazatlán
+* Mexico City
+* Monterrey
+* Nogales
+* Puerto Vallarta
+* Tijuana
+
+==== [[Monaco]] ====
+
+* Monaco
+* Monte Carlo
+
+==== [[Mongolia]] ====
+
+* Ulaanbaataar
+
+==== [[Morocco]] ====
+
+* Casablanca
+* Fez
+* Marrakesh
+* Tangier
+
+==== [[Nepal]] ====
+
+* Kathmandu
+
+==== [[Netherlands]] ====
+
+* Amsterdam
+* Eindhoven
+* Rotterdam
+* The Hague
+
+==== [[New Zealand]] ====
+
+* Auckland
+* Wellington
+
+====[[Nicaragua]]====
+
+* Leon
+* Managua
+* Masaya
+
+==== [[Nigeria]] ====
+
+* Lagos
+
+==== [[Norway]] ====
+
+* Bergen
+* Oslo
+* Trondheim
+
+==== [[Pakistan]] ====
+
+* Abbotabad
+* Islamabad
+* Karachi
+* Lahore
+* Peshawar
+
+==== [[Panama]] ====
+
+* Panama City
+
+====[[Papua New Guinea]]====
+
+* Lae
+* Wewak
+
+====[[Paraguay]]====
+
+* Asunción
+* Ciudad del Este
+* San Ignacio
+* San Pedro
+
+==== [[Peru]] ====
+
+* Cusco
+* Lima
+* Machu Picchu (Machupicchu)
+
+==== [[Philippines]] ====
+
+* Manila
+* Quezon City
+
+==== [[Poland]] ====
+
+* Krakow
+* Poznan
+* Warsaw
+
+==== [[Portugal]] ====
+
+* Lisbon
+* Porto
+
+==== [[Puerto Rico]] ====
+
+* Ponce
+* San Juan
+
+==== [[Qatar]] ====
+
+* Doha
+
+==== [[Romania]] ====
+
+* Bucharest
+* Transylvania (AKA Cluj-Napoca)
+
+==== [[Russia]] ====
+
+* Moscow
+* St. Petersburg
+
+====[[Samoa]]====
+
+* Apia
+
+==== [[Saudi Arabia]] ====
+
+* Jeddah
+* Mecca
+* Riyadh
+
+==== [[Serbia]] ====
+
+* Belgrade
+
+==== [[Singapore]] ====
+
+* Singapore
+
+==== [[Slovakia]] ====
+
+* Bratislava
+
+==== [[South Africa]] ====
+
+* Cape Town
+* Durban
+* Johannesburg
+* Soweto (Part of Johannesburg)
+
+==== [[South Korea]] ====
+
+* Busan
+* Daegu
+* Gangnam (Part of Seoul)
+* Incheon
+* Seoul
+
+==== [[Spain]] ====
+
+* A Coruña
+* Barcelona
+* Bilbao
+* Granada
+* Madrid
+* Málaga
+* Palma
+* Pamplona
+* Pontevedra
+* Rota
+* San Sebastian
+* Seville
+* Valencia
+* Valladolid
+* Zaragoza
+
+==== [[Sweden]] ====
+
+* Gothenburg
+* Halmstad
+* Malmö
+* Stockholm
+
+==== [[Switzerland]] ====
+
+* Basel
+* Bern
+* Geneva
+* Lausanne
+* Lucerne (Luzern)
+* Lugano
+* Zürich
+
+==== [[Syria]] ====
+
+* Aleppo
+* Damascus
+
+==== [[Taiwan]] ====
+
+* Taipei
+
+==== [[Thailand]] ====
+
+* Bangkok
+* Phuket
+
+====[[Tunisia]]====
+
+* Sfax
+* Sousse
+* Tunis
+
+==== [[Turkey]] ====
+
+* Ankara
+* Istanbul
+* Izmir
+
+====[[Uganda]]====
+
+* Gulu
+* Kampala
+* Lira
+
+==== [[Ukraine]] ====
+
+* Dnipro
+* Donetsk
+* Kharkiv
+* Kyiv
+* Odessa
+
+==== [[United Arab Emirates]] ====
+
+* Abu Dhabi
+* Dubai
+
+==== [[United Kingdom]] ====
+
+* Aberdeen
+* Belfast
+* Birmingham
+* Blackpool
+* Brighton
+* Bristol
+* Cambridge
+* Cardiff
+* Edinburgh
+* Glasgow
+* (Kingston-upon-)Hull
+* Ipswich
+* Leeds
+* Leicester
+* Liverpool
+* London
+* Manchester
+* Milton Keynes
+* Newcastle
+* Norwich
+* Nottingham
+* Oxford
+* Sheffield
+* Southampton
+* Staines(-upon-Thames)
+* Sunderland
+* Swansea
+* Wolverhampton
+
+==== [[United States]] ====
+
+* Anchorage
+* Atlanta
+* Austin
+* Baltimore
+* Biloxi
+* Boston
+* Brooklyn (Part of New York)
+* Buffalo
+* Charleston
+* Charlotte
+* Chattanooga
+* Chicago
+* Cincinnati
+* Cleveland
+* Columbus
+* Compton
+* Dallas
+* Denver
+* Detroit
+* Fargo
+* Hartford
+* Honolulu
+* Houston
+* Indianapolis
+* Jacksonville
+* Kansas City
+* Las Vegas
+* Little Rock
+* Los Angeles
+* Memphis
+* Miami
+* Milwaukee
+* Minneapolis
+* Nashville
+* New Orleans
+* New York
+* Newark
+* Oakland
+* Oklahoma City
+* Orlando
+* Philadelphia
+* Phoenix
+* Pittsburgh
+* Portland
+* Raleigh
+* Sacramento
+* Salt Lake City
+* San Antonio
+* San Diego
+* San Francisco
+* San Jose
+* Scranton
+* Seattle
+* St. Louis
+* Tampa
+* Tucson
+* Washington
+* Wichita
+
+==== [[Uruguay]] ====
+
+* Montevideo
+* Punta del Este
+* Salto
+
+==== [[Venezuela]] ====
+
+* Caracas
+
+==== [[Vietnam]] ====
+
+* Bien Hoa
+* Can Tho
+* Da Nang
+* Hai Phong
+* Hanoi
+* Ho Chi Minh City
+
+==== [[Zimbabwe]] ====
+
+* Harare
+
+=== Custom Cities ===
+NOTE: This is a page for ideas of cities that would be included as custom and ARE NOT default. Feel free to edit this section.
+
+*Afghanistan - Baghlan
+*Afghanistan - Balkh
+*Afghanistan - Bamyan
+*Afghanistan - Farah
+*Afghanistan - Ghazni
+*Afghanistan - Herat
+*Afghanistan - Khost
+*Afghanistan - Kunduz
+*Afghanistan - Lashkar Gah
+*Afghanistan - Mazari Sharif
+*Algeria - Adrar
+*Algeria - Bechar
+*Algeria - Constantine
+*Algeria - Ghardaia
+*Algeria - Hassi Messaoud
+*Algeria - In Salah
+*Algeria - Msila
+*Algeria - Ouargla
+*Algeria - Tamanrasset
+*Algeria - Tindouf
+*Argentina - Bahía Blanca
+*Argentina - Bariloche
+*Argentina - Bella Vista
+*Argentina - Bragado
+*Argentina - Camarones
+*Argentina - Catamarca
+*Argentina - Comodoro Rivadavia
+*Argentina - Corrientes
+*Argentina - El Calafate
+*Argentina - Esquel
+*Argentina - Facundo
+*Argentina - Formosa
+*Argentina - Gualeguaychú
+*Argentina - Jujuy
+*Argentina - Junín
+*Argentina - La Plata
+*Argentina - La Rioja
+*Argentina - Mar del Plata
+*Argentina - Neuquén
+*Argentina - Paraná
+*Argentina - Posadas
+*Argentina - Puerto Deseado
+*Argentina - Rawson
+*Argentina - Resistencia
+*Argentina - Rosario
+*Argentina - Río Gallegos
+*Argentina - Río Grande
+*Argentina - Salta
+*Argentina - San José de Jáchal
+*Argentina - San Juan
+*Argentina - San Luis
+*Argentina - Santa Fe
+*Argentina - Santa Rosa
+*Argentina - Santiago del Estero
+*Argentina - Tandil
+*Argentina - Tucumán
+*Argentina - Ushuaia
+*Argentina - Viedma
+*Argentina - Zárate
+*Australia - Alice Springs
+*Australia - Broome
+*Australia - Cairns
+*Australia - Darwin
+*Australia - Kalgoorlie
+*Australia - Maitland
+*Australia - Queanbayan
+*Australia - Sunshine Coast
+*Australia - Townsville
+*Australia - Tweed Heads
+*Austria - Eisenstadt
+*Austria - Graz
+*Austria - Innsbruck
+*Austria - Klagenfurt
+*Austria - Linz
+*Bahamas - Coopers Town
+*Bahamas - Freeport
+*Bahamas - Marsh Harbour
+*Bahamas - West End
+*Bangladesh - Barisal
+*Bangladesh - Bogra
+*Bangladesh - Chandpur
+*Bangladesh - Comilla
+*Bangladesh - Dinajpur
+*Bangladesh - Ishwardi
+*Bangladesh - Jessore
+*Bangladesh - Mymensingh
+*Bangladesh - Pabna
+*Bangladesh - Rajshahi
+*Bangladesh - Saidpur
+*Bangladesh - Sunamganj
+*Bangladesh - Sylhet
+*Bangladesh - Tangail
+*Belgium - Anderlecht
+*Belgium - Charleroi
+*Belgium - Liège
+*Belgium - Schaerbeek
+*Bolivia - Cobija
+*Bolivia - Cochabamba
+*Bolivia - Oruro
+*Bolivia - Potosi
+*Bolivia - Riberalta
+*Bolivia - San Ignacio de Velasco
+*Bolivia - Santa Cruz
+*Bolivia - Tarija
+*Bolivia - Trinidad
+*Brazil - (State of) Bahia
+*Brazil - Belem
+*Brazil - Campinas
+*Brazil - Campo Grande
+*Brazil - Caxias do Sul
+*Brazil - Cuiabá
+*Brazil - Duque de Caxias
+*Brazil - Florianópolis
+*Brazil - Goiania
+*Brazil - Guarulhos
+*Brazil - Joinville
+*Brazil - João Pessoa
+*Brazil - Maceió
+*Brazil - Natal
+*Brazil - Niterói
+*Brazil - Nova Iguaçu
+*Brazil - Porto Alegre
+*Brazil - Porto Velho
+*Brazil - Salvador
+*Brazil - Santo André
+*Brazil - São Bernardo do Campo
+*Brazil - São Goncalo
+*Brazil - São José dos Campos
+*Brazil - São Luis
+*Brazil - Uberlândia
+*Canada - Charlottetown
+*Canada - Gatineau
+*Canada - Iqaluit
+*Canada - London
+*Canada - Markham
+*Canada - Mississauga
+*Canada - Moncton
+*Canada - Niagara Falls
+*Canada - Possum Lake
+*Canada - Richmond
+*Canada - St. Catharines
+*Canada - St. Johns
+*Canada - Surrey
+*Canada - Vaughan
+*Canada - Victoria
+*Canada - Whitehorse
+*Canada - Yellowknife
+*Chile - Antofagasta
+*Chile - Arica
+*Chile - Calama
+*Chile - Concepción
+*Chile - Copiapó
+*Chile - Coquimbo
+*Chile - Iquique
+*Chile - La Serena
+*Chile - Puerto Montt
+*Chile - Punta Arenas
+*Chile - Rancagua
+*Chile - Talca
+*Chile - Talcahuano
+*Chile - Temuco
+*Chile - Valparaíso
+*Chile - Viña del Mar
+*China - Changchun
+*China - Changsha
+*China - Chengdu
+*China - Chongqing
+*China - Dalian
+*China - Dongguan
+*China - Foshan
+*China - Fuzhou
+*China - Harbin
+*China - Hefei
+*China - Hefei
+*China - Jinan
+*China - Kunming
+*China - Lhasa
+*China - Nanjing
+*China - Nanning
+*China - Nanping
+*China - Ningbo
+*China - Ordos
+*China - Qingdao
+*China - Shantou
+*China - Shenyang
+*China - Shijiazhuang
+*China - Suzhou
+*China - Taiyuan
+*China - Tianjin
+*China - Urumqi
+*China - Wenzhou
+*China - Wuxi
+*China - Xi'an
+*China - Xiamen
+*China - Yinchuan
+*China - Zhengzhou
+*China - Zhongshan
+*Colombia - Armenia
+*Colombia - Bello
+*Colombia - Bucaramanga
+*Colombia - Buenaventura
+*Colombia - Cartagena
+*Colombia - Cúcuta
+*Colombia - Floridablanca
+*Colombia - Ibagué
+*Colombia - Itagüí
+*Colombia - Manizales
+*Colombia - Montería
+*Colombia - Neiva
+*Colombia - Palmira
+*Colombia - Pasto
+*Colombia - Pereira
+*Colombia - Popayán
+*Colombia - Riohacha
+*Colombia - Santa Marta
+*Colombia - Sincelejo
+*Colombia - Soacha
+*Colombia - Soledad
+*Colombia - Valledupar
+*Colombia - Villavicencio
+*Costa Rica - Alajuela
+*Costa Rica - Cartago
+*Costa Rica - Heredia
+*Costa Rica - Puerto Limón
+*Costa Rica - Puntarenas
+*Costa Rica - Tamarindo 
+*Croatia - Bjelovar
+*Croatia - Gospic
+*Croatia - Karlovac
+*Croatia - Osijek
+*Croatia - Porec
+*Croatia - Pula
+*Croatia - Rijeka
+*Croatia - Rovinj
+*Croatia - Sibenik
+*Croatia - Sisak
+*Croatia - Slavonski Brod
+*Croatia - Varazdin
+*Croatia - Zadar
+*Cuba - Birán
+*Cuba - Camagüey
+*Cuba - Cienfuegos
+*Cuba - Guantánamo
+*Cuba - Holguín
+*Cuba - Santiago de Cuba
+*Czech Republic - Liberec
+*Czech Republic - Olomouc
+*Czech Republic - Plzeň
+*DR Congo - Beni
+*DR Congo - Kananga
+*DR Congo - Kisangani
+*DR Congo - Kolwezi
+*DR Congo - Likasi
+*DR Congo - Masina
+*DR Congo - Tshikapa
+*Denmark - Aalborg
+*Denmark - Esbjerg
+*Denmark - Odense
+*Denmark - Randers
+*Djibouti - Ali Sabieh
+*Djibouti - Dikhil
+*Dominican Republic - La Vega
+*Dominican Republic - San Cristóbal
+*Dominican Republic - Santiago
+*Ecuador - Ambato
+*Ecuador - Cuenca
+*Ecuador - Durán
+*Ecuador - Loja
+*Ecuador - Machala
+*Ecuador - Portoviejo
+*Ecuador - Santo Domingo
+*Egypt - 6th of October
+*Egypt - Aswan
+*Egypt - Mansoura
+*Egypt - New Cairo
+*Egypt - Port Said
+*Egypt - Shubra El Kheim
+*Egypt - Suez
+*Estonia - Kohtla-Järve
+*Estonia - Narva
+*Estonia - Pärnu
+*Estonia - Tartu
+*Estonia - Võru
+*Ethiopia - Adama
+*Ethiopia - Dallol
+*Ethiopia - Dire Dawa
+*Ethiopia - Gondar
+*Ethiopia - Mekelle
+*Finland - Espoo
+*Finland - Lahti
+*Finland - Oulu
+*Finland - Tampere
+*Finland - Turku
+*Finland - Vantaa
+*France - Brest
+*France - Dijon
+*France - Le Havre
+*France - Le Mans
+*France - Lille
+*France - Metz
+*France - Montpellier
+*France - Orléans
+*France - Perpignan
+*France - Rennes
+*France - Saint-Denis
+*France - Saint-Étienne
+*France - Strasbourg
+*Georgia - Batumi
+*Georgia - Kutaisi
+*Georgia - Poti
+*Georgia - Rustavi
+*Georgia - Sukhumi
+*Georgia - Tskhinvali
+*Germany - Amberg
+*Germany - Bochum
+*Germany - Bonn
+*Germany - Duisburg
+*Germany - Erfurt
+*Germany - Essen
+*Germany - Karlsruhe
+*Germany - Mannheim
+*Germany - Nuremburg
+*Germany - Rostock
+*Germany - Weiden in der Oberpfalz
+*Germany - Wuppertal
+*Greece - Heraklion
+*Greece - Larissa
+*Greece - Patras
+*Greece - Piraeus
+*Greece - Sparta
+*Greece - Thessaloniki
+*Hungary - Baja
+*Hungary - Balatonfüred
+*Hungary - Békéscsaba
+*Hungary - Cegléd
+*Hungary - Csopak
+*Hungary - Dunaújváros
+*Hungary - Eger
+*Hungary - Esztergom
+*Hungary - Fertőd
+*Hungary - Gyula
+*Hungary - Gyöngyös
+*Hungary - Győr
+*Hungary - Hajduszoboszló
+*Hungary - Hévíz
+*Hungary - Hódmezővásárhely
+*Hungary - Jósvafő
+*Hungary - Kalocsa
+*Hungary - Kaposvár
+*Hungary - Kecskemét
+*Hungary - Kiskőrös
+*Hungary - Kőszeg
+*Hungary - Makó
+*Hungary - Mezőkövesd
+*Hungary - Miskolc
+*Hungary - Mohács
+*Hungary - Nagykanizsa
+*Hungary - Nyíregyháza
+*Hungary - Pannonhalma
+*Hungary - Pécs
+*Hungary - Sajókaza
+*Hungary - Salgótarjan
+*Hungary - Sarród
+*Hungary - Siklós
+*Hungary - Siófok
+*Hungary - Sopron
+*Hungary - Szarvas
+*Hungary - Szeged
+*Hungary - Szekszárd
+*Hungary - Szentendre
+*Hungary - Szerencs
+*Hungary - Szolnok
+*Hungary - Szombathely
+*Hungary - Székesfehérvár
+*Hungary - Sárospatak
+*Hungary - Sümeg
+*Hungary - Tatabánya
+*Hungary - Tiszafüred
+*Hungary - Tokaj
+*Hungary - Tápiószentmárton
+*Hungary - Veszprém
+*Hungary - Visegrád
+*Hungary - Zalaegerszeg
+*Hungary - Zirc
+*Hungary - Érd
+*Hungary - Őriszentpéter
+*India - Agra
+*India - Ahmedabad
+*India - Bengaluru
+*India - Kanpur
+*India - Lucknow
+*India - Madurai
+*India - Nagpur
+*India - Pune
+*India - Thiruvananthapuram
+*India - Varanasi
+*Indonesia - Balikpapan
+*Indonesia - Bandar Lampung
+*Indonesia - Bandung
+*Indonesia - Banjarmasin
+*Indonesia - Batam
+*Indonesia - Bekasi
+*Indonesia - Bogor
+*Indonesia - Cirebon
+*Indonesia - Depok
+*Indonesia - Jambi
+*Indonesia - Jayapura
+*Indonesia - Makassar
+*Indonesia - Medan
+*Indonesia - Palembang
+*Indonesia - Pekanbaru
+*Indonesia - Purwokerto
+*Indonesia - Semarang
+*Indonesia - Serang
+*Indonesia - Surabaya
+*Indonesia - Surakarta
+*Indonesia - Tangerang
+*Indonesia - Yogyakarta
+*Iran - Ahvaz
+*Iran - Dasht-e-lut
+*Iran - Isfahan
+*Iran - Karaj
+*Iran - Mashhad
+*Iran - Qom
+*Iran - Shiraz
+*Iran - Tabriz
+*Iraq - Hilla
+*Iraq - Karbala
+*Iraq - Ramadi
+*Iraq - Sulaymaniya
+*Ireland - Galway
+*Ireland - Limerick
+*Ireland - Waterford
+*Israel - Ashkelon
+*Israel - Beersheva
+*Israel - Bnei Brak
+*Israel - Eilat
+*Israel - Haifa
+*Israel - Netanya
+*Israel - Petah Tikva
+*Israel - Rishon LeZion
+*Italy -  L'Aquila
+*Italy - Alessandria
+*Italy - Ancona
+*Italy - Aosta
+*Italy - Bari
+*Italy - Benevento
+*Italy - Bologna
+*Italy - Bolzano
+*Italy - Brescia
+*Italy - Brescia
+*Italy - Cagliari
+*Italy - Campobasso
+*Italy - Cosenza
+*Italy - Ferrara
+*Italy - Foggia
+*Italy - Livorno
+*Italy - Lucca
+*Italy - Messina
+*Italy - Padua
+*Italy - Palermo
+*Italy - Palma
+*Italy - Perugia
+*Italy - Pordenone
+*Italy - Potenza
+*Italy - Reggio Calabria
+*Italy - Salerno
+*Italy - Sanremo
+*Italy - Siena
+*Italy - Sondrio
+*Italy - Syracusia
+*Italy - Taranto
+*Italy - Trento
+*Italy - Trieste
+*Italy - Verona
+*Italy - Viareggio
+*Jamaica - Portmore
+*Jamaica - Spanish Town
+*Japan - Chiba
+*Japan - Fukushima
+*Japan - Hakodate
+*Japan - Hamamatsu
+*Japan - Kagoshima
+*Japan - Kanazawa
+*Japan - Kawasaki
+*Japan - Kitakyushu
+*Japan - Kumamoto
+*Japan - Nagasaki
+*Japan - Niigata
+*Japan - Okayama
+*Japan - Saitama
+*Japan - Sapporo
+*Japan - Sendai
+*Japan - Shizuoka
+*Japan - Toyama
+*Japan - Toyota
+*Jordan - Al Karak
+*Jordan - Irbid
+*Jordan - Ma'an
+*Jordan - Madaba
+*Jordan - Zarqa
+*Kazakhstan - Aktobe
+*Kazakhstan - Karaganda
+*Kazakhstan - Semey
+*Kazakhstan - Taraz
+*Kenya - Eldoret
+*Kenya - Garissa
+*Kenya - Kehancha
+*Kenya - Kisumu
+*Kenya - Lodwar
+*Kenya - Nakuru
+*Kuwait - As Salimiyah
+*Kuwait - Hawalli
+*Lebanon - Jounieh
+*Lebanon - Tripoli
+*Lebanon - Tyre
+*Lebanon - Zahle
+*Malaysia - Ipoh
+*Malaysia - Johor Bahru
+*Malaysia - Kajang
+*Malaysia - Klang
+*Malaysia - Kuantan 
+*Malaysia - Kota Kinabalu
+*Malaysia - Kuching
+*Malaysia - Labuan
+*Malaysia - Malacca City
+*Malaysia - Miri
+*Malaysia - Petaling Jaya
+*Malaysia - Putrajaya
+*Malaysia - Seberang Perai
+*Malaysia - Seremban
+*Malaysia - Shah Alam 
+*Mexico - Acapulco
+*Mexico - Acapulco
+*Mexico - Aguascalientes
+*Mexico - Chihuahua
+*Mexico - Culiacán
+*Mexico - Durango
+*Mexico - Ecatepec
+*Mexico - Hermosillo
+*Mexico - Leon
+*Mexico - López Mateos
+*Mexico - Matamoros
+*Mexico - Mexicali
+*Mexico - Morelia
+*Mexico - Mérida
+*Mexico - Nezahualcóyotl
+*Mexico - Puebla
+*Mexico - Querétaro
+*Mexico - Reynosa
+*Mexico - Saltillo
+*Mexico - San Luis Potosí
+*Mexico - Toluca de Lerdo
+*Mexico - Torreón
+*Mexico - Tuxtla Gutiérrez
+*Mexico - Veracruz
+*Mongolia - Choibalsan
+*Mongolia - Darkhan
+*Mongolia - Erdenet
+*Morocco - Chefchaouen
+*Morocco - Meknes
+*Morocco - Rabat
+*Morocco - Salé
+*Nepal - Bharatpur
+*Nepal - Biratnagar
+*Nepal - Birganj
+*Nepal - Janakpur
+*Nepal - Lalitpur
+*Nepal - Pokhara
+*Netherlands - Almere
+*Netherlands - Groningen
+*Netherlands - Haarlem
+*Netherlands - Tilburg
+*Netherlands - Utrecht
+*New Zealand - Christchurch
+*New Zealand - Dunedin
+*New Zealand - Hamilton
+*New Zealand - Rotorua
+*New Zealand - Taruanga
+*Nigeria - Benin City
+*Nigeria - Enugu
+*Nigeria - Ibadan
+*Nigeria - Jos
+*Nigeria - Kaduna
+*Nigeria - Kano
+*Nigeria - Lagos
+*Nigeria - Owo
+*Nigeria - Port Harcourt
+*Nigeria - Warri
+*Nigeria - Zaria
+*Nigeria- Abuja
+*Norway - Drammem
+*Norway - Fredrikstad
+*Norway - Sandnes
+*Norway - Stavanger
+*Pakistan - Bahawalpur
+*Pakistan - Faisalabad
+*Pakistan - Gujranwala
+*Pakistan - Hyderabad
+*Pakistan - Multan
+*Pakistan - Quetta
+*Pakistan - Rawalpindi
+*Panama - Bocas del Toro
+*Panama - Colón
+*Panama - David
+*Panama - La Chorrera
+*Panama - Santiago
+*Papua New Guinea - Port Moresby
+*Peru - Arequipa
+*Peru - Ate
+*Peru - Ayacucho
+*Peru - Cajamarca
+*Peru - Callao
+*Peru - Chiclayo
+*Peru - Chimbote
+*Peru - Comas
+*Peru - Huancayo
+*Peru - Iquitos
+*Peru - Piura
+*Peru - San Juan de Lurigancho 
+*Peru - San Martín de Porres
+*Peru - Tacna
+*Peru - Trujillo
+*Peru - Villa El Salvador
+*Philippines - Angeles
+*Philippines - Antipolo
+*Philippines - Butuan
+*Philippines - Cagayan de Oro
+*Philippines - Caloocan
+*Philippines - Cebu
+*Philippines - Daraga
+*Philippines - Davao
+*Philippines - Makati
+*Philippines - Pasig
+*Philippines - Taguig
+*Philippines - Valenzuela
+*Philippines - Vigan
+*Philippines - Zamboanga
+*Poland - Białystok
+*Poland - Bydgoszcz
+*Poland - Gdańsk
+*Poland - Katowice
+*Poland - Kielce
+*Poland - Koszalin
+*Poland - Lublin
+*Poland - Olsztyn
+*Poland - Opole
+*Poland - Rzeszów
+*Poland - Szczecin
+*Poland - Toruń
+*Poland - Wrocław
+*Poland - Zakopane
+*Poland - Zielona Góra
+*Poland - Łódź
+*Portugal - Braga
+*Portugal - Cascais
+*Portugal - Loures
+*Portugal - Sintra
+*Portugal - Vila Nova de Gaia
+*Puerto Rico - Bayamón
+*Puerto Rico - Caguas
+*Puerto Rico - Carolina
+*Qatar - Al Khor
+*Qatar - Al-Jamiliyah
+*Qatar - Lusail
+*Romania - Alba Iulia
+*Romania - Botoșani
+*Romania - Brașov
+*Romania - Constanța
+*Romania - Craiova
+*Romania - Deva
+*Romania - Hunedoara
+*Romania - Iași
+*Romania - Oradea
+*Romania - Piatra Neamț
+*Romania - Sibiu
+*Romania - Suceava
+*Romania - Timișoara
+*Romania - Târgu Mureș
+*Russia - Chelyabinsk
+*Russia - Irkutsk
+*Russia - Kaliningrad
+*Russia - Kazan
+*Russia - Krasnoyarsk
+*Russia - Nizhny Novgorod
+*Russia - Norilsk
+*Russia - Novgorod
+*Russia - Novosibirsk
+*Russia - Omsk
+*Russia - Perm
+*Russia - Samara
+*Russia - Sochi
+*Russia - Tura
+*Russia - Vladivostok
+*Russia - Volgograd
+*Russia - Yekaterinburg
+*Saudi Arabia - Dammam
+*Saudi Arabia - Dhahran
+*Saudi Arabia - Medina
+*Saudi Arabia - Ta'if
+*Serbia - Kragujevac
+*Serbia - Kruševac
+*Serbia - Leskovac
+*Serbia - Niš
+*Serbia - Novi Sad
+*Serbia - Subotica
+*Slovakia - Humenne
+*Slovakia - Kosice
+*Slovakia - Nitra
+*Slovakia - Piestany
+*Slovakia - Poprad
+*Slovakia - Presov
+*Slovakia - Prievidza
+*Slovakia - Trebisov
+*Slovakia - Zilina
+*South Africa - Benoni
+*South Africa - Bloemfontein
+*South Africa - Boksburg
+*South Africa - Durban
+*South Africa - East London
+*South Africa - Newcastle
+*South Africa - Pietermaritzburg
+*South Africa - Port Elizabeth
+*South Africa - Pretoria
+*South Africa - Soshanguve
+*South Africa - Tembisa
+*South Africa - Vereeniging
+*South Korea - Ansan
+*South Korea - Bucheon
+*South Korea - Changwon
+*South Korea - Daejeon
+*South Korea - Goyang
+*South Korea - Gwangju
+*South Korea - Jeju
+*South Korea - Seongnam
+*South Korea - Suwon
+*South Korea - Ulsan
+*South Korea - Yongjin
+*Spain - Albacete
+*Spain - Alicante
+*Spain - Almería
+*Spain - Badalona
+*Spain - Bilbao
+*Spain - Cartagena
+*Spain - Cádiz
+*Spain - Córdoba
+*Spain - Elche
+*Spain - Gijón
+*Spain - Granada
+*Spain - Granada
+*Spain - Hospitalet de Llobregat
+*Spain - Ibiza
+*Spain - Jérez de la Frontera
+*Spain - La Coruña
+*Spain - Las Palmas de Gran Canaria
+*Spain - Murcia
+*Spain - Oviedo
+*Spain - Oviedo
+*Spain - Palma de Mallorca
+*Spain - Pamplona
+*Spain - Sabadell
+*Spain - San Sebastián
+*Spain - Santa Cruz de Tenerife
+*Spain - Santander
+*Spain - Tarragona
+*Spain - Tarrasa
+*Spain - Valladolid
+*Spain - Vigo
+*Spain - Vitoria
+*Sweden - Helsingborg
+*Sweden - Jönköping
+*Sweden - Linköping
+*Sweden - Sollentuna
+*Sweden - Södertälje
+*Sweden - Upplands Väsby
+*Sweden - Uppsala
+*Sweden - Västerås
+*Sweden - Örebro
+*Switzerland - St. Gallen
+*Switzerland - Winterthur
+*Syria - Deir-ez-Zor
+*Syria - Douma
+*Syria - Hama
+*Syria - Homs
+*Syria - Latakia
+*Syria - Qamishli
+*Syria - Raqqa
+*Taiwan - Chiayi
+*Taiwan - Hsinchu
+*Taiwan - Kaohsiung
+*Taiwan - Keelung
+*Taiwan - New Taipei
+*Taiwan - Taichung
+*Taiwan - Tainan
+*Taiwan - Taoyuan
+*Thailand - Ayutthaya
+*Thailand - Bueng Kan
+*Thailand - Buriram
+*Thailand - Chanthaburi
+*Thailand - Chiang Mai
+*Thailand - Chiang Rai
+*Thailand - Chonburi
+*Thailand - Chumphon
+*Thailand - Hat Yai
+*Thailand - Kalasin
+*Thailand - Kanchanaburi
+*Thailand - Loei
+*Thailand - Maha Sarakham
+*Thailand - Mukdahan
+*Thailand - Nakhon Pathom
+*Thailand - Nakhon Phanom
+*Thailand - Nakhon Ratchasima
+*Thailand - Nakhon Sri Thammarat
+*Thailand - Narathiwat
+*Thailand - Nong Khai
+*Thailand - Nonthaburi
+*Thailand - Pattani
+*Thailand - Pattaya
+*Thailand - Phang Nga
+*Thailand - Phayao
+*Thailand - Phetchabun
+*Thailand - Phetchaburi
+*Thailand - Phitsanulok
+*Thailand - Phrae
+*Thailand - Prachuap Khiri Khan
+*Thailand - Prathumthani
+*Thailand - Ranong
+*Thailand - Ratchaburi
+*Thailand - Rayong
+*Thailand - Roi Et
+*Thailand - Samut Phrakan
+*Thailand - Satun
+*Thailand - Singburi
+*Thailand - Songkhla
+*Thailand - Sukhothai
+*Thailand - Suphanburi
+*Thailand - Surat Thani
+*Thailand - Tak
+*Thailand - Trang
+*Thailand - Trat
+*Thailand - Ubon Ratchathani
+*Thailand - Udon Thani
+*Thailand - Uthai Thani
+*Thailand - Yala
+*Thailand - Yasothon
+*Turkey - Adana
+*Turkey - Antalya
+*Turkey - Batman
+*Turkey - Bursa
+*Turkey - Eskişehir
+*Turkey - Gaziantep
+*Turkey - Igdir
+*Turkey - Kayseri
+*Turkey - Konya
+*Turkey - Mersin
+*Turkey - Van
+*Ukraine - Alushta
+*Ukraine - Cherkasy
+*Ukraine - Chernobyl
+*Ukraine - Kherson
+*Ukraine - Khmelnytskyi
+*Ukraine - Kryvyi Rih
+*Ukraine - Luhansk
+*Ukraine - Lviv
+*Ukraine - Pavlograd
+*Ukraine - Sevastopol
+*Ukraine - Simferopol
+*Ukraine - Sumy
+*Ukraine - Ternopil
+*Ukraine - Uzhgorod
+*Ukraine - Yalta
+*Ukraine - Zaporizhia
+*United Arab Emirates - Ajman
+*United Arab Emirates - Al Ain
+*United Arab Emirates - Fujairah
+*United Arab Emirates - Ras Al Khaimah
+*United Arab Emirates - Sharjah
+*United Arab Emirates - Umm Al Quwain
+*United Kingdom - Plymouth
+*United Kingdom - Southend On Sea
+*United Kingdom Southampton
+*United States - Albuquerque
+*United States - Anaheim
+*United States - Arlington
+*United States - Asheville
+*United States - Aurora
+*United States - Bakersfield
+*United States - Barhamsville
+*United States - Birmingham
+*United States - Boise
+*United States - Bridgeport
+*United States - Charleston
+*United States - Cherokee
+*United States - Chula Vista
+*United States - Colorado Springs
+*United States - Corpus Christi
+*United States - Des Moines
+*United States - Durham
+*United States - El Paso
+*United States - Fort Wayne
+*United States - Fort Worth
+*United States - Fresno
+*United States - Gatlinburg
+*United States - Greensboro
+*United States - Greenville
+*United States - Hartford
+*United States - Henderson
+*United States - Indianapolis
+*United States - Irvine
+*United States - Jackson
+*United States - Jersey City
+*United States - Lexington
+*United States - Lincoln
+*United States - Long Beach
+*United States - Louisville
+*United States - Manchester
+*United States - Mesa
+*United States - Montgomery
+*United States - New Haven
+*United States - Newark
+*United States - Niagara Falls
+*United States - North Las Vegas
+*United States - Omaha
+*United States - Plano
+*United States - Providence
+*United States - Raleigh
+*United States - Reno
+*United States - Riverside
+*United States - Sacramento
+*United States - Saint Louis
+*United States - Saint Paul
+*United States - Salem
+*United States - Santa Ana
+*United States - Scottsdale
+*United States - Sioux Falls
+*United States - Springfield
+*United States - Stockton
+*United States - Tallahassee
+*United States - Tenafly
+*United States - Toledo
+*United States - Tulsa
+*United States - Virginia Beach
+*United States - Waikiki
+*Uruguay - Canelones
+*Uruguay - Maldonado
+*Uruguay - Paysandú
+*Uruguay - Rivera
+*Uruguay - Tacuarembó
+*Venezuela - Barcelona
+*Venezuela - Barquisimeto
+*Venezuela - Catia La Mar
+*Venezuela - Ciudad Bolívar
+*Venezuela - Ciudad Guayana
+*Venezuela - La Guaira
+*Venezuela - Maracaibo
+*Venezuela - Maracay
+*Venezuela - Maturín
+*Venezuela - San Cristóbal
+*Venezuela - Valencia
+*Vietnam - Bac Ninh
+*Vietnam - Buon Ma Thuot
+*Vietnam - Ca Mau
+*Vietnam - Da Lat
+*Vietnam - Ha Long
+*Vietnam - Hai Duong
+*Vietnam - Hue
+*Vietnam - Nam Dinh
+*Vietnam - Nha Trang
+*Zimbabwe - Bulawayo
+*Zimbabwe - Chinhoyi
+*Zimbabwe - Chipinge
+*Zimbabwe - Chitungwiza
+*Zimbabwe - Gweru
+*Zimbabwe - Masvingo
+*Zimbabwe - Mutare
+
+[[Category:BitLife]]
+[[Category:Locations]]

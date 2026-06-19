@@ -1,0 +1,22 @@
+{
+  "title": "Joy (cat)",
+  "pageid": 5635,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Joy_(cat)",
+  "categories": [
+    "Americans",
+    "CatLife",
+    "Cats",
+    "Fan_Characters"
+  ],
+  "links": [
+    "Lil Mountjoy",
+    "Veronica Ryder"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Joy_(cat)/content.html",
+    "wikitext": "pages/Joy_(cat)/content.wikitext",
+    "text": "pages/Joy_(cat)/content.txt"
+  }
+}

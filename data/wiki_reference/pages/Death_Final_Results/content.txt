@@ -1,0 +1,96 @@
+Final Results
+Launched on iOS:
+September 2018 (default)
+Launched on Android:
+February 2019 (default)
+After the player character dies, they will get a grave and a
+ribbon
+. The former is a record of their performance, though players may choose to bulldoze graves if they don't want to keep them. The latter is a symbol of what they did during their life and what the final rank is.
+The player's gravestone is actually from the point of an obituary because it recounts the player's actions and what they did in their life. If the player went to jail, the gravestone will recount the warden's point of view because sometimes it says that they spent "most of their time here in jail".
+After listing the player's final stats (net worth, children, grandchildren, murders, etc.), the gravestone will say how and when the character died, as well as the people who have attended their funeral. A character's funeral is attended by (if appliable) their parent(s), spouses, siblings, children, grandchildren, nephews and nieces, but only if they have good relationships by the time of the character's death, otherwise they'll not attend their funeral. If a character is in
+Royalty
+at the time of their death, there will also be a number of 'loyal followers', which depends on the character's respect stats, ranging from 'a handful' to 'tens of thousands' of loyal followers.
+At the bottom of the grave is a message from the player's anonymous "friends" who recount an event during the player's life, the event can be very minor; such as whether or not the player had their child circumsised or not, to major events such as the player saving a person's life.
+List of possible event recounts (this is a WIP)
+[
+]
+(Company) sent a bouquet of flowers/tropical fruit basket to their funeral.
+A loyal friend, they once staged an intervention to help a friend who struggled with (drug).
+A resilient person, they once won a battle with (disease)
+Clubbers at (club) hold a moment of silence as they mourn their loss. (The player frequently went clubbing)
+Free copies of (book) are handed out at their services. (The player wrote a book)
+Friends and family describe their insatiable generosity.
+Friends and family say they were known to be a mooch at times. (The player often asked for money)
+Friends are proud to recall the time they killed it on (TV show).
+Friends cite their lack of discipline as a defining characteristic of their life.
+Friends couldn't stop laughing when they heard they had a botched (plastic surgery).
+Friends describe them as fiercely loyal to friends and family.
+Friends describe them as having a soft spot for animals of all sizes.
+Friends describe them as often (insult) to individuals that crossed them.
+Friends describe them as often disliked for being righteous and confrontational.
+Friends describe them as someone of strong moral fabric/questionable morals.
+Friends describe them as someone who would do the right thing even when no one was looking.
+Friends describe them as sometimes (insult).
+Friends say they were a loyal child.
+Friends describe them as sometimes confrontational and intimidating individual.
+Friends describe them as a risk taker.
+Friends giggle when recalling the time they bore all for (magazine)
+Friends laugh as they recall the time they called the cops on a (stranger).
+Friends laugh when remembering the time they defrauded a casino.
+Friends recall their family's pride when they joined the school's (club).
+Friends recount the time they fell on their face/threw up after over-indulging on (beverage). (The player tried an alcoholic beverage)
+Friends recount the time they heartlessly abandoned their very own pet (animal) (name) by leaving it at the pet store.
+Friends recount the time they pussed out from trying a glass of (alcoholic beverage). (The player refused to try an alcoholic beverage)
+Friends recount the time they stopped a (random stranger) from (doing crime).
+Friends say they were a person of principles and strong beliefs.
+Friends recount the time they saw them take (drug)
+Friends recount the time they (tried to intervene with someone doing bad things)
+Friends say they always had a special place in their heart for their beloved (pet), (name).
+Friends say they liked circumcised/uncircumcised penises.
+Friends say they often extolled the virtues of having a clean rectum.
+Friends say they once got away with smuggling drugs into (country).
+Friends say they once jacked a (car).
+Friends say they was a generous soul and a loving parent.
+Friends say they were an abject and detestable person.
+Friends say they were known to be an easy lay
+Friends say they were sometimes passive when they were needed the most.
+Friends say they were traumatized for life after once being attacked with a (weapon)
+Friends say they were unlucky to contract (disease).
+Friends say it was a pity that they were blown up by a land mine while serving their country in (military).
+Friends say that becoming (secretary or captain) of the (team or club) was one of the pinnacles of their life.
+Friends say the loss of their (relationship) at a young age greatly impacted them.
+Friends say they'll remember them as a bit on the crunchy/granola side.
+Friends say they suspect they harbored some dark secrets. (if the character gets away with crimes)
+Friends say they had a knack for stealing cars (if the character steals a lot of cars in their life)
+Friends say that they did not suffer fools lightly.
+Friends say they struggled to come to terms with their rejection from (fraternity/sorority)
+Friends say they were terrified to get in a car with them.
+Friends shudder when recalling the time they were attacked by their pet (pet) (Name).
+Friends smile when remembering how they once called (relationship) a/an (compliment).
+Friends still don't believe how they escaped from prison/a feature film was commissioned on the ingenious way they escaped from prison. (The player escaped from jail and didn't return)
+Friends roll their eyes when recalling how they believed in ghosts. (when the character has ghost encounters in a haunted property)
+Friends giggle when recalling how they once claimed to have been assaulted by a ghost. (ditto, but the event is specifically assaulting)
+They once had a problem with (drug)/alcohol.
+They once suffered a crippling addiction to (drug)/alcohol.
+They were once apprehended and deported by (nationality) authorities.
+They were once rejected from joining (military).
+A rumor persists that they were once personally recruited to join the infamous (gang name) prison gang.
+Their best friend, (Name) remembers then as fiercely loyal and supportive
+Their ex says they couldn't believe it when they called them (insult) as they were breaking up with them.
+In one of their darkest hours, they started a prison riot.
+Mourners break into tears when the story is told about how they once saved a person's life.
+One of their bosses recalls fondly the time they went to (spend time) with them.
+Rumor has it they tried eating (exotic food).
+Sadly, they are known for attacking their (relationship).
+School friends say they were more interested in going to a/an (activity) than attending class.
+They were known to throw wild house parties.
+They once fought the law and the law won.
+Someone at their funeral claims they gave them (STD)
+Those in attendance are shocked to hear that they called their very own (relationship) a/an (insult).
+Friends recall the time they cheaped out on a honeymoon. (The player got married and chose "No honeymoon")
+Everyone discovered they were a worthless and loathsome individual after they killed (person).
+Friends were left speechless after they learned that they tried to murder (person).
+Friends say they got what they deserved when they were killed by their (relationship). (The player attempted to murder someone but backfired, causing them to die instead.)
+Friends steered clear of them after they were convicted of murdering their own (relationship).
+An animal lover through and through, it is said they once tamed a (wild animal).
+Friends say they was never able to recover from the loss of their daughter/son, (child's name), who died after (cause of death of child).

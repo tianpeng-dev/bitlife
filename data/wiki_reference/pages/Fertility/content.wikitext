@@ -1,0 +1,30 @@
+{{Infobox BitLifeApp
+|title1=Fertility
+|image1=[[File:P_TJVdWfertility.jpg|thumb]]
+|launched_on_ios:=September 2018 (default)
+}}'''Fertility''' is a section in the [[activities]] bar. There are 6 options.
+# Birth Control (if born female)- A player can decide whether to have their character get on or go off birth control. If they decide to go off birth control, they can choose whether to tell their partner (if they have one) or keep it a secret. Sometimes their lover may argue if they told them that they are not on birth control. After they turn old, it will no longer matter if they are on or off birth control. Birth control is very effective when you are dating someone, but hook-ups who claim they are on birth control may be lying or misusing it and could still get pregnant if your character does not use protection. Babies who start a new life can sometimes have "I was born after the birth control failed" as their conception method at the start of their life. The minimum age for birth control is 14. If your character was born male, usually when the couple turns 18, their partner, if born female, may usually go on birth control. After age 55, AFAB people will no longer need birth control.
+# Artificial Insemination - (Only available for AFAB people) you will be artificially inseminated. If successful, the player becomes pregnant. This also gives a '''much''' higher chance to have twins/triplets. If you have a partner, getting a successful artificial insemination will likely cause an argument with your partner unless you are in a same-sex relationship. After age 50, you will be considered too old for artificial insemination. This option is ''not'' available for AMAB people as they cannot become pregnant themselves, regardless of age.
+# IVF - If you and your partner are having trouble reproducing, you can ask them for IVF. They likely will not accept, but, if they do, it can be successful or fruitless. If successful, the female will become pregnant. This will also give a much higher chance of twins/triplets. If fruitless, you & your partner will have to wait until the next year to try IVF again. After age 50, AFAB people will be considered too old for IVF.
+# Tubal Ligation/Vasectomy - If you do not want any offspring, you can be sterilized by clicking Tubal Ligation (if AFAB) or Vasectomy (if AMAB). But this is not always efficient as in some rare cases, people can still reproduce after a successful sterilization procedure. Babies who start a new life can sometimes have "I was born after a botched vasectomy/tubal litigation procedure" as their conception method at the start of their life.
+# Sperm Donation - (Only available for AMAB people) If you were born male, the option to be artificially inseminated will be replaced with the choice to donate your sperm. You will get a cash reward of 40 - 80$. You can only donate to one fertility lab a year. If you try to donate again after you just donated you will be told to "cum back later". Your sperm will be rejected if your smarts and/or looks are under 30%, if you are too old, if you already donated your sperm in the same year, or if it says “Unspecified”. Unspecified reasons may include having a disease, having a criminal record, having too many children, or having donated too many times in a lifetime. Sometimes the reasoning will simply show up as "No Sperm Needed".
+# Surrogate - If you don't wanna adopt, you can ask a surrogate. When you press Surrogate, a menu will pop up and present you with different women. You can check their stats and choose whether to use their eggs for the baby. Once you decide who will be your surrogate you press "ask her". They might reject you. Married people tend to be more likely to be accepted by a surrogate, but being unmarried or single can still get a surrogate. If they accept, you will have to choose whose eggs to use. Once you do, you will have to wait one year, then you will have your baby (You can name it, of course). If a surrogate fails at getting pregnant, your character can be reimbursed half of the expenses. Some surrogate mothers will keep the baby for themselves and dishonor your contract; should this happen, your character may file a [[Lawsuit]] against them, but sadly they never get the baby back even if they win the suit. In some [[Nations]], the option may be unavailable as it is not legal in all countries.
+# Meditation - Sometimes when you choose the Meditate option under "Mind & Body," there's a chance that your fertility will raise or drop.
+== Trivia ==
+* You cannot visit a fertility clinic if you are transgender. However, this can still work if you are a transgender male.
+* You cannot impregnate females if you are a transgender male; you also cannot get pregnant with a male if you are a transgender female. This used to be possible prior to being patched.
+* To get pregnant you must not use birth control and certain diets or it will prevent pregnancy for females. This does not apply for transgender females.
+* When pregnant, women may not have certain types of [[Plastic Surgery]] and may get Pregnancy massages. Other massages can be done, but run the risk of miscarriage, with Pregnancy the only one fully safe. Pregnancy massages are only available to characters who are female and pregnant.
+*If you’re a homosexual male and have a transgender male as a partner, it is possible for the transgender male to become pregnant like any female (except transgender females).
+*When the character you play as is born, it also might say "I was born/conceived after the fertility doctor told mum she wasn't doing it right."
+
+== Gallery ==
+<gallery>
+File:Fertility tab.jpeg
+File:Surrogates list.jpeg|A list of available surrogates.
+File:Surrogate info.jpeg|Information about the surrogate.
+File:Surrogacy select egg & sperm.jpeg|Selecting the egg donor and the sperm donor for the surrogacy.
+</gallery>
+[[Category:Medical]]
+[[Category:BitLife]]
+[[Category:Activities]]

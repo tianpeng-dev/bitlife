@@ -1,0 +1,19 @@
+{{Template:WIP}}
+{{Infobox_character|name=Thomas Nilsson|image=Thomas Nilsson age0.png|imagecaption=Thomas in 1938|aliases=The inheritor of The Baroness of Kungelv & Lerum|relatives='''Parents:'''<br>
+[[Ella Nilsson|Baroness Ella]] <small>(mother)</small><br>
+<abbr title="William Gustafsson">Baron William</abbr> <small>(father)</small><br>
+'''Aunts and uncles:'''<br>
+[[Matilda Nilsson]] <small>(aunt)</small><br>
+[[Elise Nilsson|Baroness Elise]] <small>(aunt)</small><br>
+<abbr title="William Nilsson">[[William Nilsson|Baron William]]</abbr> <small>(uncle)</small><br>
+'''Siblings:'''<br>
+[[Elias Nilsson]] <small>(brother)</small><br>
+'''Cousins:'''<br>
+[[Elin Nilsson]] <small>(female cousin)</small>|affiliation=Nilsson branch|birthDate=August 3, 1938|birthPlace=Kungelv, Sweden|species=Human|gender=Male|eyes=Brown}}
+'''Thomas Nilsson''' (b. August 3, 1938 — d. ???) is the heir to the family of Swedish barons William and [[Ella Nilsson|Ella]] and the successor of the Nilsson branch. He's born in Kungelv, where the administration of his mother, the city manager, is located.
+[[Category:Nilsson Legacy]]
+[[Category:Swedish]]
+[[Category:Fan Characters]]
+[[Category:BitLife]]
+[[Category:Landlords/Landladies]]
+[[Category:Dialogg's timeline]]

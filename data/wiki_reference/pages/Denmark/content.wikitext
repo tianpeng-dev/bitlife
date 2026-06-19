@@ -1,0 +1,182 @@
+{{Infobox country
+|title1=Denmark
+|image1=[[File:Denmark.png]]
+|caption1=Denmark's flag.
+|country_name=Denmark
+|number_of_default_cities=2
+|when_was_it_added_to_ios=March 2019
+}}'''Denmark''' is a [[Nations|country]] that was on BitLife in March 2019. Its default cities are the capital, Copenhagen, along with Aarhus.
+
+Denmark was part of a March 2019 [[Updates|update]] that added 8 new countries into the game. The other 7 were [[Portugal]], [[Norway]], [[Indonesia]], [[Singapore]], [[Finland]], [[Estonia]], and [[Romania]]. This update was also the update that brought [[Pets]] for the first time. This update was also the first to have multiple new countries being added other than the ones originally released.
+== Name List ==
+=== Male First Names ===
+* Aksel
+* Anders
+* Asger
+* Bertram
+* Christian
+* Daniel
+* David
+* Emil
+* Frederik
+* Henrik
+* Huzaifa
+* Ivan
+* Jeppe
+* Jesper
+* Joar
+* Jonas
+* Kasper
+* Krish
+* Kristian
+* Kristoffer
+* Laurids
+* Laurits
+* Lucas
+* Lukas
+* Mads
+* Magnus
+* Malthe
+* Martin
+* Mathias
+* Mikkel
+* Mille
+* Morten
+* Nicklas
+* Nicolai
+* Niklas
+* Nikolaj
+* Noah
+* Oliver
+* Oskar
+* Poul
+* Rasmus
+* Sebastian
+* Serg
+* Sigurd
+* Silas
+* Simon
+* Thanush
+* Tobias
+* Ulrick
+* Victor
+* Witsel
+
+=== Female First Names ===
+* Alberte
+* Amalie
+* Amanda
+* Anna
+* Astrid
+* Bianca 
+* Camilla
+* Caroline
+* Cecilie
+* Clara
+* Ella
+* Emilie
+* Emily
+* Emma
+* Freya
+* Frida
+* Ida
+* Isabella
+* Johanne
+* Josephine
+* Julie
+* Karoline
+* Kathrine
+* Katrine
+* Laura
+* Lea
+* Line
+* Louise
+* Luna
+* Maja
+* Malou
+* Maria
+* Marie
+* Mathilde
+* Matilde
+* Michelle
+* Mie
+* Mille
+* Nanna
+* Natasja
+* Olivia
+* Sara
+* Sarah
+* Signe
+* Sille
+* Sofie
+* Sofia
+* Stephanie
+* Tanja
+* Trine
+* Victoria
+
+=== Surnames ===
+* Andersen
+* Andreasen
+* Bendtner
+* Bertelsen
+* Bruun
+* Carlsen
+* Christensen
+* Christoffersen
+* Clausen
+* Dahl
+* Eriksen
+* Frandsen
+* Frederiksen
+* Hansen
+* Henriksen
+* Holm
+* Iversen
+* Jacobsen
+* Jakobsen
+* Jeppesen
+* Jepsen
+* Jespersen
+* Jessen
+* Johansen
+* Jorgensen
+* Knudsen
+* Kristensen
+* Kristiansen
+* Larsen
+* Lauridsen
+* Lund
+* Madsen
+* Mikkelsen
+* Mogensen
+* Moller
+* Mortensen
+* Nielsen
+* Nissen
+* Norgaard
+* Olsen
+* Ostergaard
+* Pedersen
+* Petersen
+* Poulsen
+* Rasmussen
+* Schmidt
+* Schmitz 
+* Simonsen
+* Skov
+* Sondergaard
+* Sorensen
+* Svendsen
+* Thomsen
+* Vestergaard
+
+== Gallery ==
+<gallery>
+File:Denmark baby.jpeg|A baby born in Denmark.
+File:Danish Royalty.jpeg|A baby born into Danish royalty.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

@@ -1,0 +1,85 @@
+Encounter
+Scenario Type
+Encounter
+Description
+Your character will have a run-in with a stray or wild animal. What will you do?
+Emoji
+Emoji dependent on animal
+Also on Android?
+Yes
+An
+Encounter
+is a scenario where a character is in close range of an animal, either domestic or wild. The options of how to react are either to rescue/adopt them as a pet, run away, slowly retreat, or pet it. The results of the action are random and may or may not succeed. The player may get attacked and could even
+die
+from the attack. The player could also get
+rabies
+if the animal gives them rabies. Following the
+Pets
+update, animals who are pets can become your character's new pet if the character chooses and the animal is alright with it. An
+achievement
+can be unlocked if your character contracts rabies and another achievement if they get killed by a hippopotamus.
+Types of animals
+[
+]
+Zebra
+Wolf
+Cat
+Dog
+Lion
+Centipede
+Grasshopper
+Sheep
+Crocodile
+Squirrels
+Gorilla
+Tiger
+Cheetah
+Bear
+Eagle
+Goat
+Raccoon
+Hippopotamus
+Sea Lion
+Pig
+Unicorn
+Poison Dart Frog
+Armadillo
+Owl
+Dove
+Hyena
+Mosquito
+Buffalo
+Hedgehog
+Ladybug
+Giraffe
+Rabbit
+Butterfly
+Chicken
+Caterpillar
+Bee
+Black Widow
+Bird
+Fox
+Frog
+Rhinoceros
+Bat
+Donkey
+Camel
+Duck
+Scorpion
+Peacock
+Snake
+Turkey
+Boar
+Flamingo
+Actions animals do
+[
+]
+Become your pet/be rescued by your character
+Kill your character, if they did not successfully evade it, sometimes maul your character.
+Some animals are always deadly if rescued, such as the poison dart frog, as touching it will instantly kill a human.
+Give your character rabies, if rabid
+Refuse to be your pet or bite your character, but with little to no damage to your character
+Attack your character, lowering their
+health.
+Sometimes it can do nothing, but your attempts at catching it will be unsuccessful.

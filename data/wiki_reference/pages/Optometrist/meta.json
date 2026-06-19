@@ -1,0 +1,22 @@
+{
+  "title": "Optometrist",
+  "pageid": 2341,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Optometrist",
+  "categories": [
+    "BitLife",
+    "Medical",
+    "Stubs",
+    "Under_construction",
+    "Updates"
+  ],
+  "links": [
+    "Bitizenship"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Optometrist/content.html",
+    "wikitext": "pages/Optometrist/content.wikitext",
+    "text": "pages/Optometrist/content.txt"
+  }
+}

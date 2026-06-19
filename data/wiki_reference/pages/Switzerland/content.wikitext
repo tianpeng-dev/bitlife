@@ -1,0 +1,19 @@
+{{Infobox country
+|title1=Switzerland
+|image1=[[File:Switzerland.png]]
+|caption1=Switzerland's flag.
+|country_name=Switzerland
+|number_of_default_cities=7
+|when_was_it_added_to_ios=June 2019
+|available_on_android_as_well=
+}}
+'''Switzerland''' is a [[Nations|country]] that was on BitLife in June 2019. Its default cities are the capital, Bern, along with Basel, Geneva, Lausanne, Lucerne, Lugano, and Zurich.
+
+On June 9, 2019 on [[IOS version|iOS]]; new countries were added. Along with Switzerland; there was also [[Afghanistan]], [[Belgium]], [[Djibouti]], [[Dominican Republic]], [[Iraq]], [[Poland]], [[Puerto Rico]], [[Taiwan]], [[Thailand]], [[United Arab Emirates]], and [[Uruguay]]. It was added to Android September 21, 2019.
+
+== Gallery ==
+<gallery>
+File:Switzerland baby.jpeg|A baby born in Switzerland.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

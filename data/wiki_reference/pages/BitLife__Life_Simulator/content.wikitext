@@ -1,0 +1,70 @@
+{{Template:Under construction}}
+
+{{Infobox BitLifeApp
+|title1 = BitLife
+|image1 = File:Babybit.png
+|caption1 = BitLife standard logo
+|launched_on_ios: = September 29, 2018
+|launched_on_android: = February 5, 2019
+|last_updated_on_ios: = June 13, 2020
+|last_updated_on_android: = June 12, 2020
+|reddit: = [[File:CommunityIcon_otxfj4hsc9821.png|32px|thumb|left|http://www.reddit.com/r/BitLifeApp/]]
+|twitter: = [[File:65QFl7B_400x400.png|32px|thumb|left|http://www.twitter.com/BitLifeApp]]
+}}
+'''BitLife: Life Simulator''', usually referred to as '''BitLife''', is a mobile life simulator game created by developer CandyWriter LLC on September 29, 2018. The game utilizes a text-based format to try and create a somewhat accurate simulator while still having a strong level of playability and pessimistic humour. It has risen to be one of the most downloaded apps in both the Google Play Store and App Store in 2019. In October 2018, the app made its official accounts on Twitter and Reddit and in February 2019, it launched a YouTube [https://youtube.fandom.com/wiki/BitLifeApp channel.] On October 18, 2019, BitLife starting selling their [[Merchandise|own merchandise]].
+
+On September 30th, 2021, Candywriter announced BitLife's first spin-off game (indicating that BitLife will be a series of games, not a one-off), called [[DogLife]], which focuses on the player controlling a dog instead of a human character. Candywriter will continue to update both games later on.
+
+== Gameplay ==
+When first playing ''BitLife'', you will see the main menu appearing, consisting of different options: ''"New Life"'', ''"Cemetery"'', ''"Settings"'', ".
+
+[Please insert main menu's image here.]
+
+Tap "New Life" in order to play it. You will be given two options: to start a "Random Life", or to start a "[[Custom]] Life".
+
+[Please insert name thingy image here.]
+
+And now you will see this.
+
+[Please insert image here.]
+
+=== '''Childhood (0 - 18 years old)''' ===
+Once a new life is created, your character (''"you"'') are now in the ''Infant'' stage. The app first displays your character's parents and their occupation, your date of birth, star sign, how you were conceived, and your siblings or [[pets]] if you have any. Your character will start out with a random set of [[Stats]], with happiness and health usually very high. To add one year to your character's life, press the "[[Age]]' button, which is displayed at the middle.
+
+==== Schooling ====
+At age 6, you will begin elementary (or primary) school, also entering the ''Student'' stage. You will attend high (or secondary) school within the age of 10-15, which varies in [[nations]]. Following the School Update of September 2019, characters may interact with school faculty and classmates and can join activities, clubs, cliques, and sororities/fraternities in countries where those appear.
+
+=== '''Adulthood (From 18 years old)''' ===
+A character will graduate and get a driver's licence if they haven't already, depending on where they are from. They can seek higher [[education]], get a [[Careers|job]], join the military, or take time off. The stage of life will say ''Student'' if they chose higher education, ''Unemployed'' if they took time off, or their job position if they got a job or joined the military. If a character is unemployed full-time but has a part-time job, the part-time job will show up as their stage. If they have a part-time job but are not unemployed, it will show their ''Student'' or job/military position.
+
+Adults have more options in the [[Activities]], as many activities require a character to be 18 or over regardless of nation.
+
+While 18 is legal adult age, a character cannot adopt, get sterilised, have a vasectomy, have tubed tied, or have IVF until they are 25. However they can manage [[Fertility|birth control]] as young as 14.
+== Criticism ==
+
+=== '''Inappropriate Content''' ===
+While BitLife is not a children's game; some attributes were lessened. These include changing its primary app logo from a sperm to a baby in the womb (while the sperm remains secondary), removing the "Abort x10" [[Achievements|achievement]] and changing "Get an abortion" to "Don't keep the baby", and changing "assault" to lesser terms such as "charge" or "rumble".
+
+=== '''iOS vs Android versions''' ===
+Being released later than iOS, and with a developer company originally specialising in iOS features, Android users were often very behind in their updates. In addition, BitLife put more focus on their updates to iOS as many things were missing in Android and iOS was being advertised more on social media. However Android has not been ignored as Candywriter has hired new developers to update Android quicker. For the first time ever, an Android update preceded an iOS update when the limited-time Haunted update was released in October 2019.
+
+While the iOS version is more advanced than Android, it is not without criticism. In February 2020, the ''[[Mind & Body]]'' update came out, with new character faces and an updated interface. This was widely criticised among fans on social media, claiming the new faces were "creepy" and the interface was "too big". [[Custom]] scenarios were also discontinued, to users' dismay.
+
+=== '''Purchase of InstLife''' ===
+Candywriter has purchased the rights to InstLife and incorporated it within BitLife. ''Expand this section.''
+=== '''Monthly Bitizenship Subscription''' ===
+On October 1, 2019, BitLife suggested a possibility in the future that [[Bitizenship]] will be a monthly subscription rather than a one-time payment. [https://twitter.com/BitLifeApp/status/1179194875369025536] Demos with a free trial were tested in Canada and Australia. Subscriptions were only for new players and people who didn't have Bitizenship already, those who have already bought it do not have to pay additional fees. Fans criticised the greed this possibility would have and disliked that BitLife was following the idea of apps forcing monthly subscriptions when the one-time payment was seemingly fine enough.
+However the decision on a monthly subscription was reversed [https://twitter.com/bitlifeapp/status/1179817779970445312] and the idea of expansion packs were going to be the likely replacement.
+Since then, [[God Mode]] has been the only expansion pack besides regular Bitizenship.
+
+=== '''[[DogLife]]''' ===
+On September 29, 2021, three years after the app's first release, BitLife presented a new sister app called DogLife, a version of BitLife where players play lives being a dog rather than a human. However responses were mixed to negative, with fans asking why BitLife couldn't add another update that people were asking for. BitLifeApp clapped back at critics but controversially said that Twitter user RoyRMcFreely99 was "being a bitch"[https://twitter.com/BitLifeApp/status/1443306262343553024] when he said that nobody wanted the update. Reactions were polarising, with some who laughed at BitLifeApp for being snarky while others argued that BitLifeApp was being unprofessional to paying customers.
+In addition, at the game's initial release, the dogs were overly sexual, even for the app, where they humped babies and climaxed when humping their owners. The game was released at 12+ which became controversial because the content was deemed too mature for that audience. BitLife would then change the rating to 17+ and remove graphic dialogue.
+
+== Alternate languages ==
+On November 17, 2021, BitLife collaborated with Good Game Studios from Germany to make their first internationally-localized version of BitLife, named ''BitLife: Lebenssimulator'', available in the German language to Germany, Switzerland and Austria. Soon, BitLife started a new poll asking the players what language they can work on next, out of Spanish, French, Portuguese or Icelandic. Unfortunately, languages cannot be changed to something else in the same game so far.
+
+[[Category:Games]]
+[[Category:BitLife]]
+[[Category:Candywriter]]
+[[Category:Under construction]]

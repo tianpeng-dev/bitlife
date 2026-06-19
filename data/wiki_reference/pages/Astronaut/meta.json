@@ -1,0 +1,47 @@
+{
+  "title": "Astronaut",
+  "pageid": 4498,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Astronaut",
+  "categories": [
+    "Careers",
+    "Special_Careers"
+  ],
+  "links": [
+    "Achievements",
+    "Artifacts",
+    "Assets",
+    "Australia",
+    "Canada",
+    "Careers/Jobs",
+    "Crime",
+    "Death",
+    "Education",
+    "Education/Cliques",
+    "Emigration",
+    "France",
+    "Germany",
+    "God Mode",
+    "Heirloom",
+    "Hungary",
+    "India",
+    "Italy",
+    "Japan",
+    "Karma",
+    "Malaysia",
+    "Money",
+    "Nations",
+    "Poland",
+    "Russia",
+    "Sports",
+    "Stats",
+    "United Kingdom",
+    "United States"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Astronaut/content.html",
+    "wikitext": "pages/Astronaut/content.wikitext",
+    "text": "pages/Astronaut/content.txt"
+  }
+}

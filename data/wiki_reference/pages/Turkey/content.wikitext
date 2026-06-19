@@ -1,0 +1,158 @@
+{{Infobox country
+|title1=Turkey
+|image1=[[File:Turkey.png]]
+|caption1=Turkey's flag.
+|country_name=Turkey
+|number_of_default_cities=3
+|when_was_it_added_to_ios=September 2018 (default)
+}}
+'''Turkey''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Ankara, along with Istanbul and Izmir.
+
+There is a Turkey-based [[Achievements|achievement]] called ''"Midnight Express"'' if a character residing in Turkey gets sent to prison. It is based from the 1978 film ''Midnight Express''.
+== Name List ==
+=== Male First Names ===
+* Abdullah
+* Adnan
+* Ahmet
+* Ali
+* Alperen
+* Arda
+* Ayaz
+* Baran
+* Berat
+* Bilal
+* Burak
+* Deniz
+* Elia
+* Emir
+* Emirhan
+* Emre
+* Enes
+* Enver
+* Ertan
+* Ertugul
+* Eymen
+* Furkan
+* Hakan
+* Hamza
+* Hasan
+* Ibrahim
+* Ismail
+* Kerem
+* Mehmet
+* Mehmet Aliv Aras
+* Mert
+* Muhammed
+* Muhammed Emin
+* Muhammed Emir
+* Muhtar
+* Mustafa
+* Omer
+* Poyraz
+* Selim
+* Talha
+* Umut
+* Yagiz
+* Yasin
+* Yigit
+* Yunus Emre
+* Yusuf
+
+=== Female First Names ===
+* Ada
+* Asya
+* Aysin
+* Belinay
+* Beren
+* Buglem
+* Buse
+* Cemre
+* Defne
+* Derin
+* Duru
+* Ela
+* Elanur
+* Elif
+* Elif Nur
+* Emine
+* Erva
+* Esila
+* Eslem
+* Esma
+* Esmanur
+* Ecrin
+* Fatma
+* Guner
+* Hatice
+* Hira
+* Hira Nur
+* Hiranur
+* Irem
+* Kubra
+* Melek
+* Melisa
+* Merve
+* Meryem
+* Nehir
+* Nisa
+* Nisanur
+* Rabia
+* Servet
+* Yagmur
+* Yaren
+* Zehra
+* Zeynep
+
+=== Surnames ===
+* Agca
+* Akinci
+* Altan
+* Arslan
+* Aslan
+* Ates
+* Aydin
+* Bozguney
+* Caglar
+* Cakmak
+* Calik
+* Can
+* Cubukcu
+* Demirtas
+* Dogancay
+* Evren
+* Gulen
+* Kalkan
+* Kara
+* Karakaya
+* Karakus
+* Kazan
+* Kekilli
+* Kent
+* Kizil
+* Kurt
+* Mardin
+* Mehmet
+* Meyrili
+* Mor
+* Nalband
+* Neftici
+* Oktar
+* Ozdemir
+* Pasa
+* Sari
+* Tarhan
+* Tuncer
+* Turan
+* Turker
+* Tuzun
+* Unal
+* Yildirim
+* Yildiz
+* Yilmaz
+
+== Gallery ==
+<gallery>
+File:Turkey baby.jpeg|A baby born in Turkey.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

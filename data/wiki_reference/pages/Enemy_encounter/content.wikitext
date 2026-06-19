@@ -1,0 +1,9 @@
+An '''enemy encounter''' is an encounter in the game where if you have [[Relationships|enemies]], your enemy will come to your house with a weapon, which happens on rare occasions. You can argue with your enemy, reason with your enemy, beg for forgiveness, or run for your life. Enemies with high [[Stats|craziness]] are more likely to do this. Possible scenarios are:
+
+*'''Argue with him/her''': You will always be attacked by your enemy if you choose this.
+*'''Reason with him/her''': Your enemy may either attack you or apologize, depending on the effectiveness bar.
+*'''Beg for forgiveness''': Similar to reasoning, but more effective, depending on the sympathy bar.
+*'''Run for your life''': Your enemy will either attack you or you’ll evade him/her.
+
+== Consequences ==
+Sometimes if the weapon is deadly enough, you can [[Game over|die]] from your injuries. Otherwise, your enemy encounter will cause you high injuries but failed to kill you or miss you, and you have the choices to fight back, call the police, or run away.

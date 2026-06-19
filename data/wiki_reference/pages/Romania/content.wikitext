@@ -1,0 +1,190 @@
+{{Infobox country
+|title1=Romania
+|image1=[[File:Romania.png]]
+|caption1=Romania's flag.
+|country_name=Romania
+|number_of_default_cities=2
+|when_was_it_added_to_ios=March 2019
+}}
+'''Romania''' is a [[Nations|country]] that was on BitLife in March 2019. Its default cities are the capital, Bucharest, along with Transylvania.
+
+Romania was part of a March 2019 [[Updates|update]] that added 8 new countries into the game. The other 7 were [[Portugal]], [[Norway]], [[Indonesia]], [[Denmark]], [[Finland]], [[Estonia]], and [[Singapore]]. This update was also the update that brought [[Pets]] for the first time, and was also the first to have multiple new countries being added other than the ones originally released.
+== Name List ==
+=== Male First Names ===
+* Alin
+* Alex
+* Alexandru
+* Andi
+* Andu
+* Andre
+* Andrei
+* Andrew
+* Andreas
+* Attila
+* Augustin
+* Benjamin 
+* Bogdan
+* Claudiu
+* Cosmin
+* Costin
+* Daniel
+* Dorian
+* David
+* Dorin
+* Dragos
+* Eduard
+* Emanuel
+* Eugen
+* Gabriel 
+* Horia
+* Lonut
+* Luca
+* Lucas
+* Lucian
+* Madalin
+* Marco
+* Marcos
+* Marcu
+* Marius
+* Matyas
+* Michel
+* Mihai
+* Marci
+* Nicholas
+* Octavian
+* Omar
+* Petru
+* Randu
+* Radu
+* Razvan
+* Roland
+* Samuel
+* Sebastian
+* Sebi
+* Sorin
+* Stef
+* Stefan
+* Tudor
+* Vasilache
+* Victor
+* Vlad
+* Zoltan
+
+=== Female First Names ===
+* Adela
+* Adelina
+* Alexandra
+* Alice
+* Alina
+* Ana
+* Anastasia
+* Anca
+* Andra
+* Andrea
+* Andreea
+* Anna
+* Antonia 
+* Bia
+* Bianca
+* Brigitta
+* Carmen
+* Clara
+* Cristina
+* Daniela
+* Daria
+* Denisa
+* Diana
+* Elena
+* Emese
+* Fruzsi
+* Gabriela
+* Geanina
+* Georgiana
+* Ioana
+* Ionela
+* Julia
+* Lena
+* Lina
+* Laura
+* Lavinia
+* Lorena
+* Maria
+* Marie
+* Mihaela
+* Miruna
+* Monica
+* Michelle
+* Oana
+* Orsi
+* Ralu
+* Ramona
+* Rena
+* Sabina
+* Sofia
+* Sara
+* Teodora
+* Timea
+* Timi
+* Vanesa
+
+=== Surnames ===
+* Andrei
+* Anghel
+* Avram
+* Badea
+* Balan
+* Barbu
+* Cojocaru
+* Coman
+* Constantin
+* Craciun
+* Cristea
+* Dinu
+* Dobre
+* Dracula
+* Dragomir
+* Dumitrescu
+* Enache
+* Florea
+* Florena
+* Gheorghe
+* Ilie
+* Ion
+* Ionescu
+* Lazar
+* Lungu
+* Lupu
+* Marin
+* Matei
+* Mihai
+* Mocanu
+* Moldovan
+* Munteanu
+* Muresan
+* Nagy
+* Neagu
+* Nicolae
+* Oprea
+* Pop
+* Popa
+* Popescu
+* Radu
+* Radulescu
+* Rusu
+* Sandu
+* Serban
+* Stefan
+* Stan
+* Stanciu
+* Tanase
+* Toma
+* Tudor
+* Vasile
+* Zoltan 
+
+== Gallery ==
+<gallery>
+File:Romania baby.jpeg|A baby born in Romania.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

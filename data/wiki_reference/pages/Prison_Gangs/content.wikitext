@@ -1,0 +1,35 @@
+{{Infobox BitLifeApp
+|title1 = Gangs 
+|image1 = 
+|launched_on_ios: = August 2019
+|launched_on_android: = February 2020
+}}In August 2019, your character may now join a prison gang if they are a [[Bitizenship|Bitizen]]. Some gangs are very hardcore and require a well-respected convict to join while others require your character to be something before joining. Characters may only join one gang as all the gangs are rivals of each other. The gangs have a special name and emblem and some gang names are gender-specific to your character's gender as the prisons are not co-ed. The gangs have a level of notoriety and unless your character has a [[Stats|stat]] or a special perk that makes them eligible to join a gang, they must be well-respected to join a good gang. High-notoriety gangs are hard to get into and your character could get beat up for trying to join those gangs if they have low respect. Respect by the other inmates is gained when your character fights, starts a prison riot, commits manslaughter, or maintains power in their gang. Characters can also be asked if they want to join a gang and can accept or reject the offer. Characters can also be kicked out of gangs and rejected from returning. The prison must be at least medium or maximum security for gangs to be in prison. Minimum security prison and juvenile hall does not have gangs.
+
+
+
+===Gangs===
+
+* Bitizen Mafia: ''An elite gang''-The roughest gang to get into, requires full respect.
+* Killbillies/Switchblade Sisterhood: ''A violent gang''-Requires very high respect and your character will have to get into lots of fights.
+* Heck's Angels/Harley's Angels: ''A feared gang''-Requires high respect.
+* Cash Money Wreckers: ''A wealthy gang''-Must have high bank balance and net worth to join.
+* Blue Ball Bulls/The Plastics: ''A vicious gang''-Requires good respect.
+* Illegal Jailiens: ''A foreign gang''-Must be born in a different country than the country your character is in to join, you can also join if your parents were born in another country. You do not have to emigrate illegally to join the gang, despite its name.
+* Brain Brothas/ Smart Sistas:''An intelligent gang''-Must have at least 80% high smarts to join this gang.
+* Beefcake Bandits/Sexy Syndicate: ''A good-looking gang''- Must have at least 80% high looks to join this gang.
+* Wrinkly Sneaks/Golden Girls: ''A senior gang''-Must be an elderly character (65+).
+* Tattletale Squad/Pussyfoots: ''An unfeared gang''-The weakest gang in prison. No prerequisite to join this gang, however, it is still possible to be kicked out of the gang or rejected from joining.
+
+===Getting out of a gang===
+There are a few ways to get out of a gang whether by leaving willingly or being kicked out.
+
+*Leaving the gang.
+*Crying in prison and getting caught. Crying lowers respect. However, it is still possible to get kicked out without even getting caught, for some reason.
+*Trying to join another gang.
+*Being mean to your fellow gang inmates.
+*Getting into a fight and getting many people injured or killed can sometimes get your character kicked out especially if they fought against a stronger, more notorious gang.
+*Losing too much respect.
+*Sometimes gangs can kick you out randomly, usually if you haven't fought or interacted with fellow gang members.
+*Escaping or being released from prison will get you out of the gang. If you go back, you will have to regain respect and entrance into the gang.
+[[Category:BitLife]]
+[[Category:Updates]]

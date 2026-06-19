@@ -1,0 +1,74 @@
+{{Infobox country
+|title1=Nigeria
+|image1=[[File:Nigeria.png]]
+|caption1=Nigeria's flag.
+|country_name=Nigeria
+|number_of_default_cities=1
+|when_was_it_added_to_ios=September 2018
+}}
+'''Nigeria''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default city is only the largest Nigerian city, Lagos. Strangely, it's capital, Abuja, isn't a default city, like Rabat for Morocco and Port Moresby for Papua New Guinea.
+
+== Information ==
+
+== Name List ==
+
+=== Female First Names ===
+* Adaeze
+* Amachi
+* Chimaijem
+* Daluchneke
+* Ekenedilichukwu
+* Funanya
+* Ifunanya
+* Iweobeigbulam
+* Maduabuchim
+* Onyekachukwu
+* Uchena
+* Ula
+* Zikoranaudodimma
+
+=== Male First Names ===
+* Adamou
+* Amazu
+* Amobi
+* Bassirou
+*Chi
+* Chikere
+* Chioke
+* Ebele
+* Hassane
+* Jelan
+* Ndulu
+* Obey
+*Okeke
+*Orjee
+
+=== Surnames ===
+* Akumjeli
+*Beluchi
+* Chidea
+* Chidie
+* Chidiegwu
+* Chijioke
+* Chydee
+* Ekwueme
+*Ijendu
+* Jaja
+* Jelanie
+*Obasey
+* Ogbonna
+*Okonkwo
+* Okoye
+* Onuchukwu
+* Onyekachukwu
+* Ozoemena
+* Ugochukwu
+
+== Trivia ==
+* Besides [[Morocco]], Nigeria is the only country to not have a default city that is it's capital in real life.
+
+== Gallery ==
+<gallery>
+File:Nigeria baby.jpeg|A baby born in Nigeria.
+</gallery>{{Nations}}[[Category:BitLife]]
+[[Category:Nations]]

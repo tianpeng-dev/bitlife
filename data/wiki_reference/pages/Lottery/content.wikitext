@@ -1,0 +1,11 @@
+{{Infobox BitLifeApp
+|title1=Lottery
+|image1=[[File:P_TJVdWlottof.jpg|thumb]]
+|caption1=The lottery icon, as seen in ''[[Activities]]''.
+}}
+[[File:Screenshot 20200322-112145 01.jpg|thumb|220x220px|The option of buying a ticket or buying 10 .
+]]
+'''Lottery''' is an [[Activities|activity]] where the player may buy a ticket or 10 tickets to win a lottery jackpot prize. The prize is shown before buying the tickets and is random, but at least 5 figures. An [[Achievements|achievement]] can be unlocked if the player wins the lottery jackpot. Winning the lottery is very rare and does not vary by [[nations|nation]], however all nations allow it unlike nations that ban gambling.
+A popup in [[Notifications]] will sometimes say that "this is a good time" to play the lottery and may automatically win your character the jackpot if they buy a ticket but rarely, it will not.
+[[Category:BitLife]]
+[[Category:Activities]]

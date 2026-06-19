@@ -1,0 +1,121 @@
+{{Infobox BitLifeApp
+|title1=Horse Races
+|image1=[[File:Screenshot 2020-12-25-10-09-51-631 com.candywriter.bitlife.jpg|thumb|A character unable to bet in horse races due to gambling being illegal.]]
+|launched_on_ios:=
+|launched_on_android:=
+|caption1=A character unable to bet in horse races due to gambling being illegal.}}
+The horse races is the seventh choice of the activities section. The admission fee is 10 of any currency. Once you click the choice to pay for the fee, the player is charged instantly. You will also enter this section if the player says yes to joining their friends to here. In some [[Nations|countries]], gambling is illegal so if your character is from one of those countries, selecting "Horse Races" will give a pop-up "Seriously? There are no horse races, in (country) because gambling is illegal." and the character will not be allowed to bet in horse races unless they [[Emigration|emigrate]] to a country that allows it. If a character is trying for the Highroller [[ribbon]], emigrating to a country that bans gambling will not disqualify you from winning that ribbon. [[Notifications]] can hint at which horses are best to bet on during a particular race, but they can be wrong.
+
+
+== Watching ==
+In the section, you can just watch the races. It is not worth it to watch, because the player will have to pay a fee for it (watching does not increase any of the player's stats). It's basically paying 10 pounds/dollars to watch a race, which is really not worth spending.
+
+== Betting ==
+In this section, the player gets to choose one out of five different horses, and the money they want to bet in the drop-down menus (Each option increases its bet money depending on the bank balance of the player) and on iOS, by sliding the amount the player wants to bet. The results are randomized each race and is more luck-based than the [[Casino]]. After that, the player can watch the race. The color the name of the picked horse is highlighted in is the player's chosen horse on the screen. All the horses will leave behind a trail of their color in the screen. There is a chance for one of the horses to fall over. If the player's horse does this, the player is guaranteed to lose. During the end, the player can see what place their horse came in right beside the horse's name. If the horse falls over, it will say DNF, (standing for 'Did Not Finish') beside its name. On the bottom of the screen shown, the player can see which horse they bet on and how much money was bet. In the end, it will say ''You won!'' or ''You lost!'' depending on if they came first or any other place after first. The player may only get cash if the horse they bet on came in first. If they lost, the money bet will be deducted from the player's bank balance. If they won, they would get 5 times as much as the money they bet. In the character's journal, it will say "I won (money amount) at the horse races by betting on (horse name)!" if they win. "(winning horse name) won the race. I lost (money amount) betting on a losing horse!" 
+=== Horse Names ===
+# In the betting section, the player has to choose a horse to represent them. Here are the names of those horses. (Some of these names are references to real life people, etc.) 5 at random will race in every race.
+* Adam Saddler
+* Air Mail
+* Ap
+* Arm in Arm
+* Athena
+* Atlas
+* Belle Jet
+* Bellingham Slim
+* Bitizen
+* Bitten
+* BoJockey Horseman
+* Bold Bandit
+* Bold Myth
+* Born to Win
+* Boy Genius
+* Butterknees
+* Candyrider
+* Commando
+* Cover Up
+* Crusty Toe
+* Daring Spirit
+* Dasher
+* Debonair
+* Diego Garcia
+* Dinner Winner
+*Dorian Hay
+* Dry Bones
+* Fair and Square
+* Fast Cash
+* Flaps Up
+* Flashy Manner
+* Flawless Victory
+* Flying Cloud
+* G Baby
+* Gee Whiz
+* Glory
+* Golden Choice
+* Golden Clover
+* Good Prospect
+* Governess
+* Grand Demand
+* Grandtheft Horsey
+* Hades
+* Happy Devil
+* Hard to Get
+* Hidden Jewel
+* Hoof Hearted
+* Horsey McHorseface
+* Hyacinth Horse
+* Jellybean
+* Jon Bon Pony
+*Juicy Bite
+* Kemper Tantrum
+* Lady Laila
+* Lit Candle
+* Lonesome Gal
+* Lovely Gal
+* Mailing List
+* Matinee Idol
+* Maverick
+* Minerva
+* Miss Broadway
+* Mister Chili
+* Moby Dick
+* Moon Moon
+* Mucho Frio
+* Mumbo Jumbo
+* Mr Fixit
+* My Dixie Wrecked
+* Napoleon
+* Neptune
+* Next Best
+* No Loan
+* Oh Sweetheart
+* Our World
+* Panhandler
+* Patriot
+* Pee Pee Poo Poo
+* Phony Pony
+* Plucky Willie
+* Pony Soprano
+* Poor Sport
+* Red Racer
+* Red Rum
+* Roppongi
+* Simple Simon
+* Sir Edgar
+* Solid Gold
+* Spy Ring
+* Star Nymph
+* Stonewall
+* SuperCorp Will Live On Forever #I Love Lena Luthor
+* Super Lunar
+* Top Foot
+* The Don
+* Two Kevins
+* Ur Mom Running 
+* Wandering Star
+* War Duty
+* Whiz Kid
+* Will Travel
+* Wrecking Ball
+* Yankee Midas
+[[Category:BitLife]]
+[[Category:Activities]]

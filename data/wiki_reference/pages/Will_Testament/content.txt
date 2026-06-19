@@ -1,0 +1,13 @@
+Will/Testament
+Launched on iOS:
+September 2018 (default)
+Launched on Android:
+Not launched
+Will/Testament
+is a document stating who will receive an inheritance from your character when they die. It may be updated at any time as many times as possible.
+Spouses
+and children are eligible to receive an inheritance. Children can use the money to start their own life following the Generations update. If inheritance is going to a child under 18 in the new
+generation
+, houses and cars will be auctioned off. When playing as them, it will begin with how much they inherited following any houses or cars sold, and any money taxed to the country's government in certain countries. If there are no heirs, the money will simply go to Charity. If a spouse divorces your character or a child is adopted out, or if a spouse or child dies before your character, they will no longer be able to receive the inheritance. Inheritance may be divided evenly or given entirely to one person, although it could cause an argument from a character cut out of the will. When starting a new generation, if the person was a child, the game will list them first as they are the heir character, but the player could choose another character, but that non-heir gets nothing. If that person is no longer eligible to receive the inheritance, it will revert back to "Divide evenly" and stay that way unless updated by the player. It is unknown what parents and spouses have in their will/testament, but they will usually leave an inheritance to your character as well. Spouses and parents who die will have the message: "Your (relationship and name of that person) died at the age of (age). They (cause of death). Inheritance: (amount of money)". In the character's journal, it will say how much the character and siblings (if they had any) inherited. Some parents or spouses with a low Money
+stat
+or a low relationship will not give money as inheritance. Having a prenuptial agreement will not affect inheritance given to or received by a spouse.

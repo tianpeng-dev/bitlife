@@ -1,0 +1,4847 @@
+{{Infobox BitLifeApp
+|title1=Updates
+|image1=
+|last_updated_on_ios:=June 27, 2025
+|last_updated_on_android:=June 26, 2025|launched_on_ios:=September 29, 2018|launched_on_android:=February 5, 2019}}'''''Note: '''This is NOT an official page written by Candywriter, and all updates have been sourced from the App Store, Google Play and other websites that show data about apps and games. This is a fan-made page, so it's recommended to ask about what you'd like to see on official forums and BitLife's social media users on Twitter, Reddit and Instagram.''
+
+BitLife has received many updates since launch. A new major update releases each two-weeks to a month, with over 45 major updates having been released for iOS. Here is a list of all the updates for iOS and Android versions, with their respective official descriptions found on Google Play and the App Store. Most recent Android updates are known as Ketchup Updates - a pun on 'catch up' in which Candywriter so far is attempting to make sure Android players have all features from the iOS version. The Code Merge has been consistently updated on social media.
+
+== '''iOS Updates''' ==
+BitLife was released on iOS on September 29, 2018. 47 major updates have released so far.
+
+{| class="sortable mw-collapsible mw-collapsed wikitable" style="text-align:left;" width="100%"
+|+
+!Update Number
+!Release Date
+!Update Name (if applicable)
+!Description
+!New/Tweaked Features
+!App Icon
+!Image (if applicable)
+|-
+|1.0
+|September 29, 2018
+|N/A
+|Original update.
+|N/A
+|
+|N/A
+|-
+|1.1
+|October 5, 2018
+|N/A
+|N/A
+|
+*Sounds & haptics
+*Numerous bug fixes & performance enhancements
+|
+|N/A
+|-
+|1.2
+|October 16, 2018
+|N/A
+|Hi Bitizens! We're thrilled that you are loving BitLife so far. Please let us know via email and review what we should add to the game. We're already hard at work on many of your initial requests!
+|
+* Fixed some crashing trouble
+* Numerous life tweaks and adjustments
+* Numerous bug fixes & performance enhancements
+|
+|N/A
+|-
+|1.3
+|October 16, 2018
+|N/A
+|What's up Bitizens? It's almost Halloween. We've got a bunch of treats in this update and maybe a trick or two. First and foremost, we added automatic saving so there's going to be no more frustration with losing your life's progress. Thanks for your patience on that. Another big thing we added is "custom people" so you can add your friends to the game and they'll show up randomly as characters while you're playing -- super cool.
+|
+*Automatic saving
+*Custom people -- add your friends!
+*Bigger text and brighter colors
+*Overhauled menu navigation
+*BitLife community, starting with Reddit & Twitter
+*Remove the ads (and support us) via in-app purchase
+*Reworked iPad interface
+*Fixed a few crashes
+*Tons of life tweaks and adjustments
+*Numerous bug fixes & performance enhancements
+|
+|N/A
+|-
+|1.4
+|November 10, 2018
+|N/A
+|Bitizens! You all went and made the game viral before we were done adding features to it. Now we're working around the clock on those things you are asking for. There is a ton more stuff in this update and a lot of little glitches have been addressed.
+|
+* Watch your family's careers and love lives unfold
+* Many more life decisions
+* More character emoji variety
+* Many new careers including Orchestra Musician, Midwife, Forensic Scientist, Dance Instructor, Marriage Counselor, etc.
+* More names
+* Tons of life tweaks and adjustments
+* Numerous bug fixes & performance enhancements
+|
+|N/A
+|-
+|1.5
+|November 21, 2018
+|N/A
+|Bitizens! Wow, such love! You made us the #1 overall app on iOS this past week. We're returning the favor by working to deliver everything you are asking for. This update includes a ton of stuff including grandkids, twins & triplets, teen dating, and much more. Don't forget to follow us on our socials for up-to-the-minute BitLife news. You can also contact us directly to tell us what we need to be working on.
+|
+* Your kids can have kids, otherwise knowns as GRANDKIDS
+* Twins and triplets
+* Teen dating
+* Ribbons are awarded at the end of every BitLife! Collect them all!
+* Cemetery
+* Casino (whatever you do, don't squander your fortune)
+* Gambling addiction
+* Tons of life tweaks and adjustments
+* Numerous bug fixes & performance enhancements
+|
+|N/A
+|-
+|1.6
+|December 1, 2018
+|N/A
+|Bitizens! We're back with a FRESH new update. You guys are the best fans ever and we really appreciate all of your great suggestions and feedback. It takes a lot of time to add these features and get them tested but we're moving as fast as we can. This update has a lot, including the first crime activity, a new driving test, even crazier lovers, and much more. Don't forget to follow us on our socials for up-to-the-minute BitLife news. You can also contact us directly to tell us what we need to be working on.
+|
+* Fancy committing a crime?
+* Last will & testament
+* All-new driving test :)
+* Escaping from prison now requires a little bit of skill :)
+* Many more country-specific behaviors
+* Miscarriages
+* LGBTQ edits based on community feedback
+* Crazy boyfriends/girlfriends: now with 50% more craziness :)
+* Get asked on dates, in addition to asking out others
+* User interface updates
+* Tons of life tweaks and adjustments
+* Numerous bug fixes & performance enhancements
+|
+|N/A
+|-
+|1.7
+|December 8, 2018
+|N/A
+|Beloved Bitizens! It's crazy how much work we got done on BitLife this week. We decided to push an update to you now with more stuff even though we're still working on some of the bigger things you want like siblings and a few more surprises. This update is focused on beefing up relationships in order to pave the way for siblings. So enjoy this one and let us know on our socials how you're loving the latest version!
+|
+* Dating app!
+* Have conversations with the other people in your life
+* Offer your children support if they come out of the closet
+* Others people in your life now want to spend time with you
+* Now view relationship bars for all relationships at once
+* Some tweaks to the infamous prison escape mini-game!
+* A new way to evade capture once you do manage to escape -- can you figure it out?
+* All of you on Twitter who asked for your names to be added to the game will be happy :)
+* Added more cities where BitLife is especially hot like Jacksonville, Columbus, Charleston, San Jose, Pittsburgh, & more (we love you guys)
+* Fixed several existing glitches
+* More user interface updates
+* Tons of life tweaks and adjustments
+* Numerous bug fixes & performance enhancements
+|
+|N/A
+|-
+|1.7.1
+|December 11, 2018
+|N/A
+|Hey Bitizens! This is just a quick update to fix a couple of little glitches in this past weekend's update. We're working hard on your next big update now.
+|
+* Bug fixes from 1.7.
+|
+|N/A
+|-
+|1.8
+|December 20, 2018
+|N/A
+|Happy Holidays, Bitizens! Here you go, the top thing you've been asking for: siblings (and nieces & nephews). We took a lot of time on this to make sure the interactions are rich and extra entertaining. Thanks for all of the great support and feedback on our socials. We read every one of your suggestions and put everything that's feasible on our roadmap -- we're here to make the things you ask us for! Have a great week ahead and don't squabble with your new siblings!
+|
+* Siblings & nieces/nephews
+* Have your very own twin brother or sister (if you're lucky)!
+* 14 new ribbons to collect, including "Cunning", "Rowdy", and "Wicked"
+* Horse races: bet or just watch!
+* Racehorses in the game named by many of you on Twitter!
+* Tough holiday choices to make :)
+* Other characters now join and serve in the military
+* A new career: Mobile App Developer
+* Screenshot prompt redesigned with a setting to disable altogether
+* More birth circumstances, conversations, and pastimes
+* Become an official Bitizen by supporting us
+* Fixed a number of existing glitches
+* More user interface updates
+* Tons of life tweaks and adjustments
+* Numerous bug fixes & performance enhancements
+|
+|N/A
+|-
+|1.8.1
+|December 21, 2018
+|N/A
+|Happy Holidays again, Bitizens! This is just a quick update to fix a couple of crashes and an issue where your mother might show up multiple times on your relationships list. :O Thanks for all of the great feedback! Keep it coming...
+|
+* Bug fixes from 1.8.
+|
+|N/A
+|-
+|1.9
+|January 12, 2019
+|N/A
+|Happy New Year, Bitizens! Our resolution for 2019 is to fulfill your wishes for BitLife! We just got back at it this week but already managed to get a lot of the things you've been asking for included. Please keep all of the great feedback coming and thanks so much for all of your kind words on our socials. Much love...
+|
+* Get out on those streets and start stealing cars!
+* But if you get caught (for any crime), you can now hire lawyers to defend you!
+* Tired of having kids? Get a vasectomy or have your tubes tied
+* Tired of not having kids? Get IVF or a sperm donor
+* Have good genes? Donate your sperm (if they'll take it)
+* Change your last name when you get married or divorced, as applicable by country
+* Change your first name after a sex change
+* Boost your happiness and/or intelligence by going to see comedy and/or documentary films
+* Achievements overhauled and accessible from the main menu
+* Support added for our Bitizens who use Accessibility on iOS
+* Tons of little glitches fixed (thanks for all the reports!)
+* More user interface updates
+* Numerous bug fixes & performance enhancements
+|
+|N/A
+|-
+|1.9.1
+|January 14, 2019
+|N/A
+|Hey Bitizens! We experienced an issue with this weekend's release where some iOS 11 users ran into trouble downloading the app. It appears this may have been due to a couple of emoji resources we added to the app. This fix should solve the problem! Have a great week!
+|
+* Bug fixes from 1.9, including fixing the download issues for iOS 11 users.
+|
+|N/A
+|-
+|1.10
+|January 19, 2019
+|N/A
+|We're back, Bitizens, with another update tailored to some of your more popular requests over recent weeks. We've got a lot of big stuff in the works including a few surprises. Watch this space!
+|
+* Prenups! Tired of a cheating spouse taking all your money? Try to make him/her get a prenup before marrying them!
+* Men can now have love children
+* Have a penchant for larceny? Start pickpocketing people today!
+* Misbehaving children! Just wait until you see what they can get up to...
+* Abortion is now available on a country-by-country basis
+* You can now die from assaults (keep your health up if you're going to be aggressive with people)
+* Birthdays and star signs
+* Tons of little glitches fixed (thanks for all the reports!)
+* More user interface updates
+* Numerous bug fixes & performance enhancements
+|
+|N/A
+|-
+|1.11
+|February 6, 2019
+|N/A
+|What's up, Bitizens? We're here to steal your hearts with another new update that adds some fun stuff, reorganizes some existing stuff, and polishes up some rough edges. Keep hitting us up on our socials with your requests--your single most paw-pular request will soon be honored!
+|
+* BURGLARY! So you can steal a tech bro's teddy bear straight out of his house
+* Two surprise new ribbons
+* Feeling blue? Visit the psychiatrist!
+* Work harder at your job or in the military
+* Argue with your children about their college plans
+* Plenty of interface improvements
+* Rough edges polished up
+* Numerous bug fixes & performance enhancements
+|
+|N/A
+|-
+|1.12
+|February 22, 2019
+|N/A
+|It's update time, Bitizens! As always, thanks for your continued support and all of the great ideas you've been voicing to us on our socials. What an amazing community we have built together! Besides all of the stuff in this update, we've also been putting in work on pets and should be bringing them to a device near you very soon! Watch this space.
+|
+* Relationship activities! Interact with your family like never before...
+* Salon & spa: maybe get your nails done or opt for a Bro-zilian body wax?
+* Emergency room: visit it in emergencies!
+* You loved our last two surprise ribbons so much that we added two more!
+* View the journals of your past lives in the cemetery (where available)
+* Stricter adherence to cost-of-living differences between countries
+* Access our new YouTube channel from the BitLife Community page
+* Tons of life tweaks and adjustments
+* Not just a bit, but a bunch of interface improvements
+* A whole slew of bug fixes & performance enhancements
+|
+|N/A
+|-
+|1.13
+|March 17, 2019
+|Pets Update
+|Bitizens! Thanks for bearing with us (no pun intended) while we worked like dogs (!) for the last three weeks to add your most requested feature since we launched BitLife: pets. There are A LOT of pets coming to your device with this update and they do a lot of things. We are still working on adding more pet story lines so keep posting your requests and feedback on our socials. Much love!
+|
+* Pets. Good ones, bad ones, crazy ones. Really crazy ones for official Bitizens :)
+* A new surprise ribbon that is probably related to the pets
+* 8 new countries: Portugal, Singapore, Indonesia, Norway, Denmark, Finland, Estonia, & Romania
+* Lots more textual content
+* Lots of graphical updates
+* Lots of bugs squashed
+* Numerous other fixes & performance enhancements
+|
+|N/A
+|-
+|1.13.1
+|March 19, 2019
+|N/A
+|Hey Bitizens! A few of you reported a crashing issue related to the pets. We tracked it down and fixed it in this update.
+|
+* Bug fixes from 1.9.
+|
+|N/A
+|-
+|1.14
+|April 10, 2019
+|Generations Update
+|Bitizens, Bitizens, Bitizens! Generations have arrived! See how long you can keep your family going by living on as your children after you die. Make sure to teach your children well in order to prepare your legacy! As always, hit us up on our socials and let us know what you think, what we missed, and what you want added!
+|
+* Continue as your child after you die
+* Try the same life over again if you wish
+* Sort your cemetery by things like net worth, age, etc.
+* Bulldoze the graves you no longer want tracked
+* Overhauled ribbon tracking
+* College majors refresh each year
+* Emigration options refresh each year
+* Model career
+* Tons of interface updates
+* Tons of bugs and glitches fixed
+|
+|N/A
+|-
+|1.14.1
+|April 11, 2019
+|N/A
+|We're back, Bitizens, with a quick fix to clean up a few issues you reported in the huge GENERATIONS update this week! We also managed to sneak in a few little things like rewarding your pets with treats and adding back the setting to turn off the screenshot shortcuts.
+|
+* Bug fixes from 1.14.
+* Reward your pets with treats
+* Turning off the screenshot shortcut via settings was added again
+|
+|N/A
+|-
+|1.15
+|April 26, 2019
+|Fame Update
+|Bitizens! Reach for the stars in this much anticipated fame update! A few weeks ago, we asked you what we should work on next and you overwhelmingly requested the ability to become FAMOUS. So go get rich and famous. But watch out, there are pitfalls to fame too. Like paparazzi. And stalkers. And staying famous.
+|
+* Become famous and live your best celebrity BitLife
+* NEW pets: llamas, turtles, guinea pigs, wolves, dingoes, alpacas, etc.
+* We added a TON more dog and cat breeds
+* All-new cat breeders
+* What would you do if your lover was kidnapped and held for ransom?
+* Would you bribe a college official if it meant your kid got into college?
+* Estate taxes where applicable (watch out!)
+* We raised the bank balance cap
+* Lots of new textual content
+* Tons of bugs and glitches cleaned up
+* Tons of interface updates
+|
+|N/A
+|-
+|1.15.1
+|April 29, 2019
+|N/A
+|Hey Bitizens! This is just a quick fix to address a couple of freezing/crashing glitches with the big fame update!
+|
+* Bug fixes from 1.15.
+|
+|N/A
+|-
+|1.16
+|May 11, 2019
+|N/A
+|What up, Bitizens? It's update time again -- where does the time go? We've been listening really closely to your feedback and suggestions on Twitter and Reddit and designed this update around a lot of what we've been hearing from you on there. We've already started work on part-time jobs and side lovers but want to give you some fresh new content to enjoy in the meantime. Much love from BitLife HQ...
+|
+* Lawsuits! Because vengeance is good...sometimes
+* Emoji variety: GINGERS & more! Oh yeah, and no more yellow people
+* Singer career (become a pop star!)
+* Priest career (stay celibate!)
+* Nice parents are ones who buy you a car after you pass your driving test
+* View all of your past legacies and family plots in the cemetery
+* Inherit the houses and cars from your previous life when continuing as a child
+* Better entry-level job selection when you're starting your career
+* All-new boosts system: get a little stats boost when you need it the most!
+* New cities: Anchorage, Honolulu, New Orleans, & Salt Lake City
+* Lots of bug squashed
+* More miscellaneous refinements
+|
+|N/A
+|-
+|1.17
+|May 29, 2019
+|Part-Time Jobs update
+|Bitizens! We spent the last couple of weeks painstakingly building in one of your most requested features: part-time jobs. But we got a little bit carried away so while we were at it, we worked in freelance gigs like babysitting and dog walking. But then we thought, wouldn't it be cool if you could have multiple part-time jobs? But then we realized, that could be stressful. So we added stress. And if you get stressed, you *might* get high blood pressure. And then, who knows, you might die of a sudden heart attack or stroke. So don't work too hard, Bitizens. Not like us or anything.
+|
+* Part-time jobs (starting in high school!)
+* Freelance "gigs" for when you need just a little bit of cash
+* Stress is bad in real life but fun in BitLife
+* Heart attacks are bad in real life and in BitLife
+* Get fired or expelled from school if you take on too many side hustles
+* More situations for lawsuits -- find them all!
+* Some interface reorganization
+* A bunch of glitches fixed thanks to all of your screenshots and reports on Twitter & Reddit!
+|
+|N/A
+|-
+|1.18
+|June 8, 2019
+|N/A
+|It's update time, Bitizens! We got an opportunity to push out an extra update here with some cool new stuff. We're hard at work on larger items but wanted to give you some new content to enjoy in the meantime. As always, keep hitting us up on Twitter and Reddit with your suggestions or to report craziness. We spend a lot of time making changes to the app directly while reading your feedback!
+|
+* Scenario Creator: write your own scenarios to send to friends or suggest ideas to us!
+* New countries: Afghanistan, Belgium, Djibouti, Dominican Republic, Iraq, Poland, Puerto Rico, Switzerland, Taiwan, Thailand, United Arab Emirates, & Uruguay
+* New cities: a bunch of them!
+* New careers: Monk & Nun
+* All-new vacation destinations
+* Overhauled custom life interface
+* Tons of bugs and general life refinements addressed
+|
+|N/A
+|-
+|1.18.1
+|June 9, 2019
+|N/A
+|Hey Bitizens -- this just a quick fix to clean up a couple of glitches you reported on this weekend's update.
+|
+* Bug fixes from 1.18
+|
+|N/A
+|-
+|1.19
+|June 24, 2019
+|Exes Update
+|Bitizens, are you ready for drama? It's crazy all the things you can get up to with your exes. Reconnecting, rekindling, revenge, restraining orders...and that's just the letter 'R'. Enjoy and don't stalk them too hard. They have feelings too. Especially about you.
+|
+* Interact with your exes: ex-wives, ex-husbands, ex-girlfriends, ex-boyfriends, ex-fiancees, ex-flings, everyone!
+* Stalk or be stalked
+* Restraining orders, on you or them
+* Custom cities: add your hometown to the game!
+* Lots more textual content
+* Lots of life refinements
+* Numerous glitches and bugs fixed
+|
+|N/A
+|-
+|1.19.1
+|June 25, 2019
+|N/A
+|Hey Bitizens, this is just a quick fix to clean up a couple of crazy issues you reported on this weekend's update.
+|
+* Bug fixes from 1.19.
+|
+|N/A
+|-
+|1.20
+|July 15, 2019
+|N/A
+|Bitizens! It's already update time again! There is A LOT of new content in this update and also quite a few interface enhancements we've been wanting to get done for a while. Run along now and don't get blown up by a land mine along the way.
+|
+* Military deployments: at land and sea!
+* Birth control means better family planning
+* Pregnancy logic overhauled: men can can now father multiple children a year!
+* Meet and date lovers from different countries!
+* Give gifts to your family
+* Your parents are suddenly interested in family vacations...
+* ...and maybe even emigrating altogether?
+* "Dark Mode" for official Bitizens
+* "Power User" mode for everyone
+* Time Machine: wouldn't it be nice to undo some of your life decisions?
+* Spend time with all relationships at once
+* Customize your favorite activities
+* Much more textual content
+* More new scenarios
+* Many glitches addressed and bugs squashed
+|
+|N/A
+|-
+|1.20.1
+|July 17, 2019
+|N/A
+|Hey Bitizens, a few of you pointed out some imperfections in this weekend's big update so here is a quick fix to address them! Enjoy!
+|
+* Bug fixes from 1.20.
+|
+|N/A
+|-
+|1.21
+|August 8, 2019
+|Prison Update
+|Wow, Bitizens, we've been locked up for three weeks working on this crazy big update for you. Who knew that prison life could be so in depth and complicated? Hopefully you didn't. We certainly didn't, but we do now. And honestly, we're ready to move on to a brighter facet of life on the next update. But this update is a riot, so enjoy it and hit us up on our socials to let us know what you think about our clink!
+|
+* Prison life -- everything you can imagine that happens in the slammer including gangs, interacting with other prisoners, bribing the guards, conjugal visits, crying, care packages, an infirmary, letters home, working out in the yard, parole boards, surly wardens, prison jobs, and more!
+* A whole new prison riot mini-game
+* New prison escape puzzles
+* Family heirlooms -- collect a new one each day!
+* Job interview questions
+* More cost-of-living considerations by country (including full-time salaries)
+* Much more textual content
+* More new scenarios
+* A ton of bugs squashed and grammar/typo fixes (keep reporting them!)
+|
+|N/A
+|-
+|1.21.1
+|August 10, 2019
+|N/A
+|Hey Bitizens, this is just a quick fix to tidy up a couple of issues you reported on this week's Prison Update.
+|
+* Bug fixes from 1.21.
+|
+|N/A
+|-
+|1.22
+|September 2, 2019
+|N/A
+|We're back like school, Bitizens! Our heads are spinning over here from all of the new content in this update. Adding 450 new scenarios to the game involved a ton of writing and editing that has kept us busy since we saw you last. Next up is the School Update.
+|
+* Hundreds of new scenarios including situations specific to every career
+* Start collecting all of the careers in the game!
+* All-new "performance" scores for full-time jobs and the military
+* Retirement plans for deserved employees
+* Adjust the hours you put in at work, or watch your bosses try to adjust them for you!
+* Intelligence test mini-game!
+* Interface improvements
+* A lot more textual content
+* Tons of bugs squashed
+|
+|N/A
+|-
+|1.22.1
+|September 4, 2019
+|N/A
+|Hey Bitizens, this is just a quick fix to clean up a couple of items you reported in this week's update!
+|
+* Bug fixes from 1.22.
+|
+|N/A
+|-
+|1.23
+|September 30, 2019
+|School Update
+|Listen up! Class is in session, Bitizens! This is the much anticipated School Update, otherwise known as the "It's Time to Get Rowdy at School Update", assuming the idea of acting up in class, disrespecting your teachers, and skipping school piques your interest. Or perhaps you'd rather become a conscientious student who leave apples on your teachers' desks, snitches out your misbehaving classmates, and achieves straight A's as the captain of the basketball team. Whatever you decide to do, we can't wait to hear about it so hit us up on our socials and show us what's possible in this huge new version of BitLife!
+|
+* School life -- we took all your best suggestions and put them in the game!
+* Interact with your school classmates!
+* Interact with your school teachers!
+* School activities: from the football team to the marching band
+* School cliques: from the jocks to the band geeks
+* Frats and sororities in the US & Canada
+* Grade school tiers by country, including middle school
+* Scrape you knee on the playground? Good thing there's a school nurse
+* The intelligence test mini-game has been overhauled per your feedback
+* Global leaderboards show you the top BitLife players each day
+* Tons of interface tweaks and bug fixes
+|
+|N/A
+|-
+|1.23.1
+|October 2, 2019
+|N/A
+|Hey Bitizens, this is yet another quick fix to clean up a few crazy issues you reported in this week's School Update.
+|
+* Bug fixes from 1.23.
+|
+|N/A
+|-
+|1.24
+|October 14, 2019
+|Stepfamily Update
+|Calling all Bitizens: Biological Bitizens, Half Bitizens, Adopted Bitizens, & Step-Bitizens! Hot off the compiler is another content-packed update! As you might expect, this Stepfamily Update focuses on stepparents, stepsiblings, and stepchildren but includes a ton of popular requests and ties up a number of loose ends for good measure. As always, tag us with your favorite screenshots on our socials!
+|
+* Stepparents: your parents may now remarry, divorce, or even come out of the closet!
+* Stepsiblings: when they do remarry, you might very well end up with some of these!
+* Stepchildren: your lovers may now come with kids of their own (treat them well)
+* Possibly be born as a first-generation immigrant
+* Possibly be adopted at birth
+* Arranged marriage (beware: especially popular with immigrant parents)
+* Free healthcare now observed in countries that support it
+* Choose your baby's last name at birth
+* A hot new Dating App algorithm for even better matches!
+* A wealth of new textual content & scenarios
+* Interface updates and many bugs fumigated
+|
+|[[File:EHHxulxWwAEBNut.jpg|150px]]
+|-
+|1.25
+|October 29, 2019
+|Haunted Update
+|Bitizens! We worked the graveyard shift this week to deliver this Haunted Update to you! We packed this one with mostly treats but recognized that it wouldn't be in the spirit of Halloween if we didn't include a few tricks too. Find them all, and when you do, tag us on our socials with your favorite screenshots!
+|
+* Haunted houses
+* Poltergeists, phantoms, specters, and the like; some are friendly, some aren't (you've been warned!)
+* Oodles of halloween surprises
+* New countries: Czech Republic, Ecuador, Hong Kong, Malaysia, Monaco, Morocco, Pakistan, & Syria
+* Many spooky stepfamily glitches that haunted the last update have been vanquished
+* Interface tweaks and bug/grammar fixes
+|
+|N/A
+|-
+|1.26
+|November 18, 2019
+|Office Update
+|This is a huge update, Bitizens: the Office Update! You loved the School Update so much that we figured you'd like to take some of that interpersonal drama and spread it out across the course of a career. And now you can. Annoying co-workers, unprofessional supervisors, hostile work environments, inappropriate behavior, HR investigations, reprimands & grievances, office love (and manipulation) all lie within. Enjoy and be sure to follow us on our socials for up-to-the-minute BitLife announcements, news, and happenings!
+|
+* Job/military life overhauled
+* Hundreds of workplace scenarios
+* Manage your relationships with co-workers and supervisors
+* Report troublesome colleagues to HR (but don't get reported yourself!)
+* Beg your supervisor to let you keep your job after being fired
+* Renovate your houses
+* Properties now have street addresses!
+* New processes for selling real estate, cars, and heirlooms
+* Asset interface reorganization
+* A slew of subtle improvements across the game
+* Tons of bug fixes and textual content refinements
+|
+|[[File:Bitlifeoffice.png|150px]]
+|-
+|1.27
+|November 29, 2019
+|Mystery Update
+|Bitizens! Sitting before your very eyes is yet another BitLife update, laced with drama and brimming with some of your more popular requests of recent weeks. We're not going to spoil the fun and tell you exactly what hilarity was added this time, but instead we'll leave it to your own exploratory delight. Hit us up on our socials with your discoveries!<br />
+OK fine, we'll tell you one major thing that is included: multiple save slots! So you can now have unlimited lives going at once.
+
+Much love, BitLife HQ.
+|NOTE: This is a list of what users on BitLife - Life Simulator Wiki have noted from this update.
+
+
+* Multiple save slots
+* Funeral overhaul - choose to bury, cremate, taxidermate or donate their body towards research
+|
+|N/A
+|-
+|1.28
+|December 19, 2019
+|Friends Update
+|What a year, Bitizens! Together, we made BitLife the #5 most downloaded game of the year! Let's celebrate with one of your most popular requests of 2019: FRIENDS. Fair warning though: this Friends Update includes not just friends and best friends but also enemies. We'll leave it up to you as to who you keep closer.
+
+With that, friends, we wish you all a wonderful holiday season filled with hours of BitLife by the fireside.
+|
+* Make friends throughout your life
+* Befriend your classmates, teachers, co-workers, and even your supervisors
+* Turn your friends into best friends or enemies
+* Are you a bad friend? Maybe you'll become someone else's enemy!
+* Prank your friends, start rumors about them, give them advice, go partying, and many more hilarious interactions
+* New countries: Austria, Bahamas, DR Congo, Costa Rica, Kazakhstan, Kenya, Kuwait, Lebanon, Mongolia, Nepal, Ukraine, & Vietnam
+* New childhood scenarios
+* Saving multiple lives is now easier to understand (hopefully!)
+* Burglary and prison riot mini-games now have swipe controls
+* Holiday surprises!
+* The usual gamut of bug fixes, life refinements, and new textual content
+|[[File:Bitlifefriends.png|60px]]
+|N/A
+|-
+|1.28.1
+|December 20, 2019
+|N/A
+|Happy Holidays again, Bitizens! This is a quick update to clean up a few crazy bugs you reported in this week's Friends Update.
+|
+* Bug fixes from 1.28.
+|
+|N/A
+|-
+|1.29
+|January 17, 2020
+|Crime Update
+|Bitizens! While everyone you know is still trying to better themselves with New Year's resolutions, we decided to kick off the new decade by diving straight into mischief and delinquency. In the game, that is. With this fresh new update, you'll be able to mess up the lives of your characters more than ever before...starting at a young age!
+|
+* Juvenile detention, aka "juvie" for young troublemakers
+* Delinquency: act alone or pick an accomplice!
+* Bank robbery: choose your disguise wisely!
+* Shoplifting (beware of the mall cop)
+* Porch piracy: jack your neighbor's mail right off their porch
+* Train robbery! (yes, you read that right)
+* Who might you hire when you're fed up with someone? Like really really fed up with them?
+* Childhood boosts
+* All-new help center full of support articles (not exciting, we know, but real)
+* Countless interface updates and tons of new textual content
+* Bug squashes aplenty
+|
+|[[File:Bitlifecriminal.png|thumb|150px]]
+|-
+|1.30
+|February 8, 2020
+|Mind & Body Update
+|Surprise, Bitizens! Surprises are indeed the theme of this newest BitLife update. We've been working on this MIND & BODY update for several months and are super excited to finally show it off to you. Included are ALL-NEW people, designed exclusively for BitLife. To showcase these interactive new personalities, we've evolved the look and feel of the scenarios and thrown in a surprise new dimension! But, of course, there's much much more...
+|
+* All-new people
+* Redesigned game elements
+* "Surprise me" option allows the game to make tough decisions for you!
+* Brand new disease system with symptoms
+* Martial arts – rank up and learn special moves to use on your enemies!
+* Special diets: become a vegan or go on a tapeworm diet!
+* Read books to get smart fast
+* Go on strolls...or speed walks!
+* Gardening is peaceful, isn't it?
+* New diseases – use your imagination
+* Tons more text
+* Gobs more graphics
+* Blasted more bugs
+* Are we done? There may be more...
+|
+|[[File:Mindbodyfitness.jpg|150px]]
+|-
+|1.30.1
+|February 11, 2020
+|N/A
+|Bitizens! This is a quick fix to address a couple of issues you reported to us in the hot new Mind & Body Update. Enjoy!
+|
+* Bug fixes from 1.30.
+|
+|N/A
+|-
+|1.31
+|February 22, 2020
+|Challenges Update
+|Hey Bitizens, welcome to the 31st major installment of your favorite game! This update adds a whole new dimension to BitLife: CHALLENGES! Every week or so, we're going to launch a new live challenge for you and your friends to try and accomplish. We're kicking things off with the Alphabet Challenge where the goal is to give birth to a baby for every letter in the alphabet! So quit reading and get competing!
+
+If you ignored our advice in the last sentence and are still here, this is the full list of new things in this update:
+|
+* Challenges! Compete, conquer, and collect medals for each one
+* Inaugural challenge: Alphabet Challenge
+* Orphanages now exist in the unfortunate event you lose both of your parents
+* Relationship counseling
+* New crime: Embezzlement!
+* Pleas and plea bargains
+* Give cars & houses to your friends & family
+* Pay off car loans and mortgages
+* 50+ new scenarios
+* Lots of work on the new person emojis
+* Bug fixes, interface improvements, and life refinements
+|
+|[[File:Challenges.png|150px]]
+|-
+|1.31.1
+|February 25, 2020
+|N/A
+|Hello again, Bitizens! This update cleans up a few glitches from your Challenges Update, including some crash issues and the occasional unavailability of the pet shopping activity.
+|
+* Bug fixes from 1.31.
+|
+|N/A
+|-
+|1.32
+|March 8, 2020
+|Luxury Update
+|Bitizens! You asked and we listened: we're proud to present the one & only LUXURY UPDATE! Put that hard-earned money to work in all new ways because BitLife now includes private planes, yachts, helicopters, blimps, hot air balloons, diamonds, and a whole lot more! Oh yeah, and while we were at it, we built in an all-new SALON for you to customize your appearance. Until next time, much love from BitLife HQ...
+|
+* Aircraft ownership (planes, helicopters, etc.)
+* Watercraft ownership (every kind of boat you can imagine!)
+* Jewelers and jewelry (watch out for fakes!)
+* All-new salon: customize your appearance!
+* Flight school & pilot's test
+* Earn your boating license
+* Engagement rings & proposals (men: don't propose to your ladies with fake diamonds – just don't)
+* Children now hang on to hard assets for future generations
+* Car maintenance – vehicles can be kept for generations if properly cared for!
+* Shopping interface overhaul
+* More textual content
+* Tons of life refinements, interface tweaks, and bug fixes
+|
+|N/A
+|-
+|1.32.1
+|March 9, 2020
+|N/A
+|We're back with another quick update to tidy up a few bugs from the Luxury Update. Thank you as always, dear Bitizens, for reporting the issues so quickly!
+|
+* Bug fixes from 1.32.
+|
+|N/A
+|-
+|1.33
+|March 26, 2020
+|God Mode Update
+|Beloved Bitizens, we hope you are staying safe and fighting the unique combination of boredom and anxiety that we all find ourselves in. Our whole team has been working from home and it's been tougher than usual to keep to our aggressive update schedule (imagine people in parking lots wearing face masks to exchange test devices once a day, and you will picture what it's been like for us). Still, here we are with a fresh new update, so let's get on with it.
+|
+* God Mode! Edit anyone you want in the game as you're playing! Set up your own stats and appearance on custom lives!
+* Eye exams and resulting prescriptions
+* Visit the optometrist to pick out your own designer eyewear (or contacts!)
+* People in the game suffering from vision impairment may now wear eyeglasses
+* Adoption has been overhauled to let you select a child to adopt (including foreign children!)
+* Fly your own private planes when you go on vacation
+* We stuffed the game with fresh challenges for you to enjoy over the coming weeks
+* Challenges now show green checkmarks next to the requirements you have fulfilled
+* The usual assortment of bug fixes and miscellaneous refinements
+|
+|[[File:God_Mode.png|150px]]
+|-
+|1.34
+|April 4, 2020
+|Achievements Update
+|Bitizens! We want to dedicate this update to all of you staying safe at home and looking for ways to escape reality! Given the circumstances, we decided you could all do with an update that packs a ton more content in the form of new ribbons, achievements, and challenges. In fact, we added a back catalog of challenges so you can have another opportunity to complete ones you may have missed. Enjoy, Bitizens, and we'll be back again soon with a huge new update that many of you have been asking for!
+|
+* New achievements – 88 of them in fact
+* 10 new ribbons including Tarzan, Influencer, and Barbie Girl
+* Challenge back catalog includes Alphabet Challenge, Ghostbusters Challenge, and Shamrock Challenge
+* New scenarios for every day of the year
+* Cheating parents
+* Vacations and cruises are open for business again
+* You might win the sweepstakes!
+* Enemies can no longer be unfriended
+* Improved voiceover support
+* Emoji work, text work, interface work
+* Many bugs eradicated
+|[[File:Surprises.png|60px]]
+|N/A
+|-
+|1.34.1
+|April 4, 2020
+|N/A
+|Hey Bitizens! This is a quick update to tidy up a few bugs from v1.34!
+|
+* Bug fixes from 1.34.
+|
+|N/A
+|-
+|1.35
+|April 19, 2020
+|Politics Update
+|Well, Bitizens, we were going to save this POLITICS UPDATE for later in the US election season but apparently you wanted it so badly that we decided to go ahead and make it for you now. What else were we going to do in quarantine, right? We had an absolute blast designing, writing, developing, and testing this one and we think you're going to love it too. Just remember, absolute power corrupts absolutely. Look after your citizens. And each other. Stay safe.
+|
+* Run for political offices – pick your party, platform, and budget and face off against your opponent on the campaign trail!
+* Work your way up from School Board Director to President (or Prime Minister!)
+* Keep your approval ratings up by focusing your time on the most hot topic issues!
+* Read the newspaper to stay abreast of the public's concerns
+* Pass or veto new laws
+* Broadcast speeches on the issues dear to your heart
+* Stage political rallies
+* Avoid (or accept) political favors!
+* Avoid impeachment at all costs!
+* If your constituents still love you at the end of your term, run for reelection!
+* Your usual assortment of bug fixes and text and life refinements
+|
+|[[File:Politicking.jpg|150px]]
+|-
+|1.35.1
+|April 19, 2020
+|N/A
+|Bitizens! This is a quick fix to squash a couple of bugs in the all-new Politics Update!
+|
+* Bug fixes from 1.35.
+|
+|N/A
+|-
+|1.36
+|May 10, 2020
+|N/A
+|Hey, Bitizens! We have our heads down working on some exciting new content for you but it's taking a long time and we wanted to give you a little something fresh in the meantime. So here's a surprise new update with a special new challenge: the Tiger King Challenge! This challenge is a little different though: we're not going to tell you the requirements. Let's see how clever all you cool cats and kittens really are!
+|
+*Tiger King Challenge
+*All pets are FREE for a limited time (no [[Bitizenship]] required!)
+*10 new countries: [[Algeria]], [[Bangladesh]], [[Bolivia]], [[Croatia]], [[Georgia]], [[Hungary]], [[Jordan]], [[Qatar]], [[Slovakia]], & [[Zimbabwe]]
+*Legal name changing (as requested on Reddit)
+*Sweepstakes activity
+*Two new [[achievements]]: Goat Grabber & Sweepstakes
+*New [[Challenges|challenge]] back catalog additions: Gold Digger Challenge & Black Widow Challenge
+*A lot of unglamorous behind-the-scenes maintenance that you won't appreciate but has to get done
+*Tons of bug fixes, life refinements, and new textual content
+|
+|
+|-
+|1.36.1
+|May 12, 2020
+|N/A
+|Hello again, Bitizens – we're back with a quick update to fix a couple of glitches in your latest update!
+|Bug fixes from 1.36.
+|
+|
+|-
+|1.36.2
+|May 23, 2020
+|N/A
+|Hey Bitizens! This is but a small update to tie up some loose ends and fix some things that were broken. See you again soon.
+|
+|
+|
+|-
+|1.37
+|June 12, 2020
+|Social Media Update
+|Bitizens! It's time. Time for SOCIAL MEDIA. This update takes social media to the next level and paves the way for a career as an influencer! We've got a lot of exciting content coming up in the weeks ahead – don't forget to follow us on our real life socials to be the first to learn about it!
+|
+*[[Social Media]] now includes five platforms
+*Monetize your account through ads or product promotions and become a professional influencer!
+*Pick your posts carefully and try to go viral!
+*Beware of trolls...or make trolls beware of you!
+*Collect celebrity followers
+*Buy followers, but be careful: doing so may land you in trouble
+*Watch out for hackers
+*Account suspensions and appeals
+*Challenge UI redesigned in preparation for upcoming rewards
+*Many smaller life refinements, textual updates, and bug fixes
+|
+|
+|
+|-
+|1.37.1
+|June 13, 2020
+|N/A
+|Bitizens! This is a quick fix to address a couple of small bugs in your Social Media Update. Enjoy and remember to share your favorite screenshots with us on our socials!
+|
+|
+|
+|-
+|1.38
+|June 30, 2020
+|Pride Update
+|It's update time again, Bitizens! We're celebrating Pride Month and spreading awareness for LGBT rights with this very special Pride Update. It wasn't easy to tear up some of the foundational assumptions of the game surrounding gender and sexuality but the end result is that your favorite game is now more inclusive than ever! If you see anything that we missed, including misused pronouns, hit us up on our socials and let us know! Much love from BitLife HQ!
+|
+* Accessories: introducing hats/headwear and sunglasses! Everyone starts out with a surprise selection!
+* Win new accessories by completing live challenges!
+* Be born to same sex parents
+* Define your gender identity: cisgender, transgender, non-binary, or genderqueer!
+* Gay dating app
+* Gender dysphoria
+* Surrogacy is a new fertility option for couples of all types! Choose wisely!
+* Better support for same sex parents in generational lives
+* New textual content
+* Many tweaks and refinements across the game
+* A healthy dose of bug fixes
+|
+|
+|-
+|1.38.1
+|July 5, 2020
+|
+|Well, we kinda predicted that we were going to need to do this. Here's your update to fix the bugs and pronoun issues you've reported so far in this week's Pride Update. Thanks as always, Bitizens! Sending love from the quiet and empty BitLife HQ...
+|Bug fixes from 1.38.
+|
+|
+|-
+|1.38.2
+|July 6, 2020
+|
+|Bitizens! Here's another quick update that fixes a glitch with the Surprise Millionaire Challenge. Now, go win that accessory. One per customer, please :) This update is not to overshadow 1.38.1 where we fixed a bunch of pronouns and other issues with the Pride Update. Keep your reports coming!
+|
+*Fixed glitch with [[Challenges|Surprise Millionaire Challenge]].
+*Fixed other bugs from 1.38.
+|
+|
+|-
+|1.38.3
+|
+|
+|Hey Bitizens, this is just a quick update to fix a few new bugs that have popped up in the last week. See you again soon!
+|Even more bug fixes from 1.38.
+|
+|
+|-
+|1.39
+|July 23, 2020
+|N/A
+|Hey Bitizens! We've been wanting to work on an update like this for a while. In the last couple of weeks, we focused entirely on adding a whole bunch of smaller features that together add up to a lot. We think you'll find this latest version of BitLife is better and funnier than ever! Let us know on our socials how you're liking it and if you want to see us do more of these types of updates in the future!
+|
+*Your friends and relatives now get sick – take your kids and parents to the doctor!
+*Switch to your child's life before you die to build better legacies
+*All-new arrest system
+*Men: paternity tests keep you honest (watch out!)
+*Not feeling a fancy wedding? Get eloped!
+*Your stylish relatives can now accessorize!
+*10 new careers: Baker, Blacksmith, Carpenter, Casino Worker, Fashion Designer, Horse Jockey, Jeweler, Nail Technician, Private Investigator, and Wedding Planner
+*13 new college majors: Accounting, Anthropology, Archaeology, Architecture, Communications, Criminal Justice, Economics, Graphic Design, Journalism, Marketing, Philosophy, Physics, and Religious Studies
+*Crazy lovers: now with even more craziness!
+*We've reinstated the tombstone as the first thing you see after you die
+*A super convenient new Back button helps you quickly navigate back to your last viewed list
+*Onboarding flow for new players
+*Release notes are now displayed when you update the game
+*Many smaller refinements and new textual content
+*Lots of bugs smashed
+|
+|
+|-
+|1.39.1
+|July 24, 2020
+|
+|Thanks for the incredible support, Bitizens! This update addresses your bug reports from v1.39.
+|Bug fixes from 1.39.1.
+|
+|
+|-
+|1.40
+|August 11, 2020
+|
+|Bitizens! This update adds an option to age up half a year at a time and overhauls a few important aspects of the game. A bunch of work had to get done to pave the way for your much anticipated Royalty Update. And rather than leave you hanging for an extra long time, we wanted to cut you an update now because, well, you are all fiends for BitLife updates. Admit it! Enjoy your fix, Bitizens, and let us know on our socials how you are liking the new features!
+|
+*Age up half a year at a time – turn it on in your settings to try it out!
+*Shared finances with your spouse: share your incomes, bank balances, expenses, and more!
+*Partner up with your husband or wife on those big ticket items, like houses and cars!
+*Lovers may now come with their own houses
+*Child support payments split between parents – see your monthly expenses for each child
+*Prenups, divorce settlements, and inheritance overhauled
+*A couple of weeks worth of critical backend work to prepare for future versions of BitLife
+*Almost all known bugs in the game have been cleared
+*Setting to disable NPC accessories
+*New textual content and life refinements
+|
+|
+|-
+|1.40.1
+|August 12, 2020
+|
+|Bitizens! This is a quick update to squash a few of the bugs you reported from v1.40. Keep the reports coming!
+|Bug fixes from 1.40.
+|
+|
+|-
+|1.41
+|September 7, 2020
+|Royal Update
+|Long live the ROYAL UPDATE! Behold, Bitizens, an update that is fit for a king (or queen). It is our duty, honor, and privilege to deliver this king sized update to you today, our dear subjects.
+|
+*Hold hundreds of royal titles in monarchies all over the world
+*Be born into [[Royalty|royalty]] or find your prince charming and marry into it!
+*If you're lucky, succeed your parent to become king or queen of your kingdom!
+*Did someone look at you the wrong way? Execute them!
+*Or are you a more modern royal who exploits your fame and frolics with celebrities in LA?
+*Maybe you do that because the tabloid newspapers drove you away?
+*Your teachers and classmates always treated you differently in school, didn't they?
+*Royal weddings are a blast though
+*Especially ones at your very own royal palace
+*Don't forget to perform public services
+*Why would you ever perform public disservices?
+*Fulfill your duties by supporting or denouncing new laws
+*Because they're paying you an awful lot of money to be royal
+*So keep your respect high – one must avoid revolt, banishment, exile, or even execution!
+*This was fun – you're going to love it (does this count as a feature?)
+*We fixed some bugs too – some were a royal pain, but your favorite game is better than ever!
+|
+|
+|-
+|1.41.1
+|September 8, 2020
+|
+|Bitizens! This is a quick update to fix a few of the bugs you so dutifully pointed out to us in this week's huge ROYAL UPDATE. Keep your reports coming!
+|Bug fixes from 1.41.
+|
+|
+|-
+|1.41.2
+|September 11, 2020
+|
+|Nothing to see here, Bitizens, except more bug fixes. We hope you're loving the Royal Update!
+|More bug fixes from 1.41.
+|
+|
+|-
+|1.42
+|October 5, 2020
+|First Pro Sports Update 
+|Beloved Bitizens! We celebrated our two-year birthday this week! In BitLife's short history, and thanks to you, we spent a few weeks as the #1 overall app in the App Store, became the #5 most downloaded game of 2019, achieved over 1.1 million ratings, simulated half a billion lives, and released 41 substantial updates to your favorite game. Today, we kick off our third year on iOS and honor Jackie Robinson with the 42nd BitLife update: PRO SPORTS!
+|
+* Become a famous athlete!
+* Play professional football, basketball, baseball, soccer, and hockey
+* Hundreds of men's and women's teams from leagues around the world
+* Choose your position and hone your skills and fitness with practice and training
+* Win championships and achieve greatness!
+* Track your stats across your career
+* Declare your eligibility for the pro draft out of college (or high school!)
+* Miss out on a draft? Request a try out!
+* Request a trade or be traded against your will!
+* Don't let your potential, or even your career, be cut short by injury!
+* Physical therapy and surgery exist to address those unfortunate injuries
+* Spicy interactions with fans
+* Listen to your coach...or get sent packing!
+* Pivotal sports moments let you come in clutch for your team
+* Talk trash and be trash-talked to!
+* Numerous bug fixes and other life enhancements
+* See you again soon with even more sports content!
+|
+|
+|-
+|1.43
+|October 10, 2020
+|Second Pro Sports Update
+|Thank you, dear Bitizens, for all of your wonderful feedback following the Pro Sports Update! As promised, we're back with a whole bunch more sports content tailored to your wishes. We've never seen a gaming community so vocal, positive, and involved with the development of a game as we see with you and BitLife. You are a truly special community and we look forward each day to all of your suggestions, concepts, and ideas - it is our goal to continue making your wished a reality. Keep them coming!
+|
+* Bump, set, spike: women's pro volleyball has been added and it is lucrative!
+* Rugby is a hooligan's game played by gentlemen 
+* Earn championship rings and pass them down to your kids!
+* Edit any sports team's name and colors
+* Hall of fame introductions
+* Dozens of individual awards including League MVP, Rookie of the Year, Cy Young, Ballon d'Or, etc.
+* Athletic scholarships
+* Match fixing for unscrupulous athletes
+* All-new sports achievements
+* BitLife Campeonato Brasileiro (Brazilian soccer league!)
+* Tons of bug fixes, textual edits, and miscellaneous refinements
+|
+|
+|-
+|1.44
+|October 24, 2020
+|Halloween Update
+|Happy Halloween, Boo-tizens! Where my ghouls at? We're showing up with a spooky new update to lift your spirits. This version creeps it real with bug fixes, miscellaneous enhancements, and a Halloween treat or two. Hit us up on our socials and tell us what we should work on next – we're dying to hear from you! Bone appetit! Much love, BitLife HQ.
+|
+Re-release of the annual Halloween update.
+|
+|
+|-
+|-
+|1.44.1
+|November 3, 2020
+|
+|Nothing to see here, Bitizens, except that we took our halloween costume off and fixed some bugs. The next time you hear our voice will be when we get on the mic and announce the next big update...it will be music to your ears.
+|
+*Disables Halloween-based features.
+*Bug fixes from 1.44.
+|
+|
+|-
+|1.45
+|November 24, 2020
+|Pop Star Update
+|Bitizens! Have you ever dreamed of becoming a famous musician? A pop star? A rapper? A rock star? We've worked tirelessly to bring that experience to you in this all-new Pop Star Update! Master an instrument, sign your record contract, bank that cash advance, and get poppin' on your first album! As always, tag us with your favorite screenshots on our socials! Enjoy, Bitizens!
+|
+*Become a famous musician!
+*Join bands or sign hot contracts as a solo artist
+*Become a singer, guitarist, bassist, drummer, keyboardist, violinist, and more!
+*Establish yourself in music genres like pop, rap, rock, country, alternative, heavy metal, reggae, and more!
+*Hold concerts in venues ranging from massive stadiums to kids' birthday parties!
+*Take your talents on the road and go on world tours
+*Release all types of albums and earn royalties on them for life!
+*Earn certifications on your records like gold, platinum, double platinum, and diamond
+*Set stage names and band names to anything you like
+*Optimize your popularity and respect attributes across your career
+*Manage relationships with your bandmates – or kick them out of the band!
+*Collect new music-based achievements
+*Start taking voice lessons or studying instruments as a child
+*Set up your custom lives with all-new "special talents" like music or sports to give yourself an edge in those careers
+*Your usual amount of bug squashes, textual updates, and life refinements
+*Happy Thanksgiving, American Bitizens!
+|
+|
+|-
+|1.45.1
+|November 27, 2020
+|N/A
+|Bitizens! This is a quick fix to address a few bugs you reported in this week's Pop Star Update! Keep your feedback coming!
+|
+Bug fixes from 1.45.
+|
+|
+|-
+|1.46
+|December 20, 2020
+|Mafia Update
+|Happy Holidays, dear Bitizens! We're showing up just on time with a festive, heart-warming, cheerful...MAFIA UPDATE. OK, maybe this update doesn't coincide exactly with the holiday spirit but it's what you asked for and so here it is. We had a blast making it. No pun intended.
+
+Jokes aside, we wish you all a wonderful holiday season and thank you for everything that you've done this year to support our small team. We've got huge plans for 2021 and can't wait to share them with you in the new year!
+|• Join all types of global mafia families!
+• Start as an associate and work your way up to godfather (or godmother!)
+
+• Get ordered to pull off hits, shakedowns, and crimes
+
+• Build and manage your notoriety and standing within your family
+
+• Once you've proven yourself, you'll get a chance to become a "made man" (or lady!)
+
+• Get sent for by your superiors
+
+• Busted? Become a confidential informant and collect evidence against the family!
+
+• Get assigned a new identity in the witness protection program!
+
+• Identify snitches in your family and rat them out
+
+• Contribute earnings to your family each year to stay in the godfather's good graces
+
+• Be disloyal to your family...at your own risk!
+
+• Extort local businesses and shake down (or whack) uncooperative individuals
+
+• Manage your relationships with your family – seduce the godfather or whack him out!
+
+• Assign other family members to pull off crimes for you
+
+• Much more – and we're not just saying that, it's almost criminal how much content we've packed in this update (ahem)
+
+• Countless bug fixes and textual refinements
+|
+|
+|-
+|1.46.1
+|December 21, 2020
+|N/A
+|This update fixes a few issues on the Mafia Update. We hope you enjoy it, Bitizens. Happy holidays!
+|Bug fixes from 1.46.
+|
+|
+|-
+|1.46.2
+|January 8, 2021
+|N/A
+|Happy New Year, Bitizens! We wish you all a healthy and happy 2021! Let's take BitLife to the next level this year!
+
+We're getting things started for the year by issuing this update to fix a number of outstanding issues and bugs that you've reported to us in recent weeks. See you again soon!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.47
+|February 6, 2021
+|Bug Fix Update
+|Bitizens! This new version fixes a number of bugs and updates the behind-the-scenes stuff that keeps the game running. Sending love from BitLife HQ...
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.47.1
+|February 7, 2021
+|
+|Bitizens! This update fixes an iOS 14 crash – thanks for your patience!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.47.2
+|February 15, 2021
+|
+|What's up, Bitizens? If you were using a device in Zoomed mode and experienced an issue where part of your screen was cut off, then this bug fix update is for you!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.47.3
+|March 3, 2021
+|
+|*Leprechaun accent* Top o' the morning to ya, Bitizens. This is a wee little update to fix a coupla bugs and wish you all a Happy St. Patty's Day!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.47.4
+|March 23, 2021
+|
+|Bitizens! We're back with another quick update to tighten the nuts and bolts that keep BitLife running behind the scenes.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.47.5
+|April 10, 2021
+|
+|Who knew there was so much stuff to tend to in the inner workings of this app? This is another maintenance update that concentrates on those things. Sending love to all of our beloved Bitizens!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.47.6
+|May 15, 2021
+|
+|Don't mind us, Bitizens, we're just here cleaning the house and performing routine maintenance!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.47.7
+|May 19, 2021
+|
+|This update fixes an issue with the Get Around Challenge. You can get back around to getting around now, Bitizens.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.47.8
+|May 22, 2021
+|
+|Nothing to see here, Bitizens, just more bug fixes and performance enhancements.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.48
+|June 11, 2021
+|
+|We're performing more maintenance behind-the-scenes, Bitizens. See you again soon!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.48.1
+|July 24, 2021
+|
+|We're fixing some bugs and performing routine maintenance in this update, Bitizens! In the background, we're working on something huge! Follow us on our socials to stay up-to-date on all BitLife news and developments.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.49
+|September 8, 2021
+|
+|Bitizens! This new version includes routine maintenance and bug fixes. We're going to be letting the cat out of the bag on some huge BitLife news soon – follow us on our socials to be among the first to know!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.49.1
+|September 18, 2021
+|
+|We're performing more maintenance behind-the-scenes, Bitizens. See you again soon!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.50
+|September 25, 2021
+|
+|Bitizens! This new version includes routine maintenance and bug fixes. We're going to be letting the cat out of the bag on some huge BitLife news soon – follow us on our socials to be among the first to know!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.50.1
+|October 2, 2021
+|
+|Bitizens! We're celebrating our third birthday with a special challenge for you along with this update that includes our usual dose of maintenance.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.50.2
+|October 9, 2021
+|
+|Bitizens! We're putting the "challenge" in the Dangerous Woman Challenge this week. We can't wait to see how many of you can actually pull this one off! Also included in this update: maintenance!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.50.3
+|October 15, 2021
+|
+|We're performing more maintenance behind-the-scenes, Bitizens. See you again soon!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.50.4
+|November 5, 2021
+|
+|Don't mind us, Bitizens, we're just here cleaning the house and performing routine maintenance!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.50.5
+|November 13, 2021
+|
+|We're dressing up the app for a new challenge and performing some routine maintenance, Bitizens! See you again soon!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.50.6
+|November 20, 2021
+|
+|We're fixing some bugs and performing routine maintenance in this update, Bitizens!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.51
+|December 5, 2021
+|
+|We're performing more maintenance behind-the-scenes, Bitizens. See you again soon!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.51.1
+|December 10, 2021
+|
+|Don't mind us, Bitizens, we're just here cleaning the house and performing routine maintenance!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.51.2
+|December 18, 2021
+|
+|Happy Holidays, Bitizens! We're leaving some festive cheer in this update for you as well as performing our usual round of housekeeping, bug fixing, and maintenance!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.51.3
+|January 5, 2022
+|
+|Happy New Year, Bitizens! We're kicking off the new year with bug fixes and maintenance. Follow us on our socials for big news coming soon!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.51.4
+|January 15, 2022
+|
+|We're performing more maintenance behind-the-scenes, Bitizens. See you again soon!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|1.51.5
+|January 22, 2022
+|
+|We're doing some behind-the-scenes preparation for big updates to come, Bitizens!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.0.1
+|February 1, 2022
+|Major Codebase Update
+|Bitizens! We've made some major changes to the architecture of the game in preparation for future content updates. Please note that some features like saved lives may not carry over to this new and improved codebase during this one-time transition. Thanks for all of your incredible support and patience – see you again soon!
+|• Game codebase completely rewritten.
+• All saved slots prior to the update lost.
+
+• Drops support for iOS 8-10, now requires iOS 11 or later
+|
+|
+|-
+|3.0.2
+|February 2, 2022
+|
+|Bitizens! We've made some major changes to the architecture of the game in preparation for future content updates. This update fixes a few issues that were reported with the new architecture as we began rolling it out.
+
+Please note that some features like saved lives may not carry over to this new and improved codebase during this one-time transition. Thanks for all of your incredible support and patience – see you again soon!
+|Bug fixes from 3.0.1.
+|
+|
+|-
+|3.0.3
+|February 3, 2022
+|
+|Bitizens! We've made some major changes to the architecture of the game in preparation for future content updates. This update fixes a few additional issues that were reported with the new architecture as we began rolling it out.
+
+Please note that some features like saved lives may not carry over to this new and improved codebase during this one-time transition. Thanks for all of your incredible support and patience – see you again soon!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.0.4
+|February 4, 2022
+|
+|Bitizens! We've made some major changes to the architecture of the game in preparation for future content updates. This update fixes a few additional issues that were reported with the new architecture as we began rolling it out.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.0.5
+|February 5, 2022
+|
+|Bitizens! We've made some major changes to the architecture of the game in preparation for future content updates. This update fixes a few additional issues that were reported with the new architecture as we began rolling it out.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.0.7
+|February 16, 2022
+|
+|Bitizens! We've made some major changes to the architecture of the game in preparation for future content updates. This update fixes a few additional issues that were reported with the new architecture as we began rolling it out.
+
+Please note that some features like saved lives may not carry over to this new and improved codebase during this one-time transition. Thanks for all of your incredible support and patience – see you again soon!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.0.8
+|February 18, 2022
+|
+|Bitizens! We've made some major changes to the architecture of the game in preparation for future content updates. This update fixes a few additional issues that were reported with the new architecture as we began rolling it out.
+
+Please note that some features like saved lives may not carry over to this new and improved codebase during this one-time transition. Thanks for all of your incredible support and patience – see you again soon!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.0.9
+|February 26, 2022
+|
+|Bitizens! We're doing some behind-the-scenes prep work for the upcoming Movie Star Update including fixing bugs and improving performance. Keep reaching out to us on our socials if you spot anything crazy. See you again very soon!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.1
+|March 11, 2022
+|Movie Star Update
+|And the award goes to...ALL BITIZENS for your immense patience awaiting this first new content update in a while: the MOVIE STAR UPDATE! As some of you know, we have spent recent months creating a whole new BitLife game, DogLife, as well as supporting the development of all-new foreign language versions of BitLife. Now we're back on main BitLife because, as they say, the show must go on! We hope you love this new update as much as we enjoyed making it for you – as always, hit us up on our socials with your favorite screenshots!
+|• Become a movie or television star!
+• Star in a range of genres including Bollywood films and telenovela shows
+
+• Hire a talent agent to find you the best roles
+
+• Start as an extra and work your way up to lead actor, managing your reputation along the way
+
+• Win awards and give acceptance speeches!
+
+• Interact with your co-stars – but watch out for the conceited ones
+
+• Handle all manner of situations on set to the best of your ability
+
+• Practice for your role and develop your character
+
+• Stage publicity stunts to promote your film or show
+
+• Take acting lessons from a young age
+
+• Audition for the roles you want
+
+• All-new acting special talent
+
+• All-new achievements
+
+• A whole bunch of new content outside of acting
+
+• Numerous bug fixes and other life enhancements
+|
+|
+|-
+|3.1.1
+|March 13, 2022
+|
+|Bitizens! This is a quick update to address some of the issues you reported to us in this week's MOVIE STAR UPDATE. Keep your reports, feedback, and suggestions coming!
+|Bug fixes from 3.1.
+|
+|
+|-
+|3.1.2
+|March 19, 2022
+|
+|Bitizens! We're back with some maintenance, bug fixes, and behind-the-scenes prep work for the next big update! Thanks for all of your incredible support and feedback in response to the Movie Star Update! Please keep your reports, feedback, and suggestions coming!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.1.4
+|March 27, 2022
+|
+|Nothing to see here, Bitizens: this update includes routine maintenance and a number of bug fixes. Don't forget to follow us on our socials for up-to-the-minute BitLife news and happenings.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.1.6
+|April 8, 2022
+|
+|Bitizens, this is just a little update to fix bugs and address this and that. Follow us on our socials for sneak peeks of the upcoming Street Hustler Update!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.1.7
+|April 15, 2022
+|
+|More bug fixes and routine maintenance here, Bitizens. You wouldn't believe all of the little things that go into keeping BitLife optimized and stable. We're hard at work on your next big update: the Street Hustler Update!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.1.8
+|April 23, 2022
+|
+|Bitizens, this update includes support for special talents on generational lives along with a round of bug fixes and routine maintenance. We're hard at work on your upcoming Street Hustler Update!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.1.9
+|May 1, 2022
+|
+|Bitizens! This update includes bug fixes, routine maintenance, and preparation for the upcoming Street Hustler Update. Don't forget to follow us on our socials for up-to-the-minute BitLife news and happenings.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.1.10
+|May 8, 2022
+|
+|Nothing to see here, Bitizens, just more bug fixes and routine maintenance. Your Street Hustler Update is up next!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.1.11
+|May 18, 2022
+|
+|Bitizens! This update includes voice-supported accessibility features for our loyal vision impaired community!
+|Accessibility features re-added.
+|
+|
+|-
+|3.2
+|May 31, 2022
+|Street Hustler Update
+|Bitizens! Who's ready to hit the streets and get their hustle on? Do you have the street smarts to scam, busk, and panhandle your way to a decent living? It's time to find out in this all-new STREET HUSTLER UPDATE!
+|• Become a full-fledged scam artist
+
+• Master scams like Three Card Monte, shell games, and selling counterfeit merchandise
+
+• Buy an instrument, master it, and then take it on the streets to busk!
+
+• Is music not your thing? How about becoming a fire eater, mime, or sword swallower?
+
+• Still too much work? Get on your knees, pick a prop, and beg instead
+
+• Find the best street to work
+
+• Configure your hustle for the best possible outcome
+
+• Interact with street life but stay clear of the cops
+
+• All-new achievements
+
+• A bunch of random new content
+
+• Numerous bug fixes and other life enhancements
+|
+|
+|-
+|3.2.1
+|June 2, 2022
+|
+|Bitizens! This is a quick update to address some of the issues you reported to us in this week's STREET HUSTLER UPDATE. Keep your reports, feedback, and suggestions coming!
+|Bug fixes from 3.2.
+|
+|
+|-
+|3.2.2
+|June 8, 2022
+|
+|Bitizens! This update fixes a few bugs and refines some aspects of the all-new Street Hustler Update! Don't forget to follow us on our socials for up-to-the-minute BitLife news and happenings.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.2.3
+|June 10, 2022
+|
+|Nothing to see here, Bitizens: this update includes routine maintenance and a number of bug fixes. Don't forget to follow us on our socials for up-to-the-minute BitLife news and happenings.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.2.4
+|June 18, 2022
+|
+|We're getting down to business with more bug fixes and routine maintenance. Your next big update will be announced soon on our socials!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.2.5
+|June 26, 2022
+|
+|Nothing to see here, Bitizens, just more bug fixes and routine maintenance. Your next big update will be announced soon on our socials!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.2.6
+|July 2, 2022
+|
+|Bitizens, this update includes bug fixes and routine maintenance. Follow us on our socials for up-to-the-minute news on the development of your upcoming Business Update!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.2.7
+|July 9, 2022
+|
+|Besides for our usual round of bug fixes, this week's update also adds a bunch of new countries to the game: Andorra, Angola, Aruba, Belize, El Salvador, Guatemala, Guyana, Haiti, Nicaragua, Papua New Guinea, Paraguay, Samoa, Tunisia, and Uganda!
+|14 new countries added:
+[[Andorra]], [[Angola]], [[Aruba]], [[Belize]], [[El Salvador]], [[Guatemala]], [[Guyana]], [[Haiti]], [[Nicaragua]], [[Papua New Guinea]], [[Paraguay]], [[Samoa]], [[Tunisia]], and [[Uganda]]
+|
+|
+|-
+|3.2.8
+|July 17, 2022
+|
+|Nothing to see here, Bitizens…we’re just taking care of business as usual with another round of bug fixes and tweaks! Follow us on our socials for updates and previews of the upcoming Business Update!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.2.10
+|July 29, 2022
+|
+|Bitizens, this update includes bug fixes and routine maintenance. Follow us on our socials for up-to-the-minute news on the development of your upcoming Business Update!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.2.11
+|August 5, 2022
+|
+|What’s up, Bitizens! This update is just another round of maintenance and bug squashing. Keep an eye on our socials for more news about the Business Update!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.2.12
+|August 12, 2022
+|
+|More bug fixes and routine maintenance this week, Bitizens. We’re still hard at work on the upcoming Business Update! Are you ready to become a titan of industry?
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.2.13
+|August 19, 2022
+|
+|Bitizens, this update includes bug fixes and routine maintenance. The Business Update is just around the corner! What business will you own first?
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.2.14
+|August 27, 2022
+|
+|We’re fixing more bugs and performing routine maintenance in this update, Bitizens! Check out our socials for more Business Update info!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.2.15
+|August 31, 2022
+|
+|Bug fixes and routine maintenance lie within. The Business Update is next, Bitizens!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.3
+|September 12, 2022
+|Business Update
+|Finally, what took us so long? You were right, Bitizens: BitLife is infinitely better with a full-fledged business simulator inside of it. Welcome to the Business Update! Show us how big you can grow YOUR business. And, as always, hit us up on our socials and let us know what you like and what we can still improve!
+|• Start up your dream business in 25 different industries!
+
+• Build your company from a feisty startup into an empire
+
+• Got enough cash? Acquire an existing business!
+
+• Add, manage, and retire different product lines
+
+• Calibrate production to meet ever-changing demand and competition
+
+• Deal with the consequences of excess inventory
+
+• Open and close facilities to meet your changing fortunes
+
+• Negotiate shrewd contracts with suppliers to keep costs low and quality high
+
+• Manage payroll and determine how to best staff your business
+
+• Make the right decisions to keep workforce morale high
+
+• Interview and hire the best job candidates
+
+• Interact with your employees and sponsor team building activities
+
+• Know who (and when) to fire
+
+• Ready to exit? Sell your company to the highest bidder
+
+• Got the right resume? Get appointed CEO of someone else's company
+
+• All-new business achievements
+
+• A few new surprises outside of business
+
+• Numerous bug fixes and performance enhancements
+|
+|
+|-
+|3.3.1
+|September 17, 2022
+|
+|Bitizens! This is a quick update to address some of the issues you reported to us in this week's BUSINESS UPDATE. Keep your reports, feedback, and suggestions coming!
+|Bug fixes from 3.3.
+|
+|
+|-
+|3.4
+|September 18, 2022
+|Business Update Part 2
+|Hey Business-zens, thanks for all of your incredible feedback on the BUSINESS UPDATE so far! We've aggregated your top suggestions, along with some ideas of our own, and packaged them up in this PART 2 update hot off the press. Keep hitting us up on our socials and let us know what YOU want to see next!
+|• Inheritance: keep the family business going for generations!
+
+• Venture funding can help you get your startup off-the-ground with less upfront investment
+
+• Consultant: visit the business consultant for advice on how to improve your business
+
+• Don't like your results? Cook the books!
+
+• All-new business content
+
+• A fresh look for business scenarios
+
+• A ton of bug fixes and performance enhancements
+|
+|
+|-
+|3.4.1
+|September 22, 2022
+|
+|Bitizens, thanks for all of your great feedback on the Business Update! This update includes a round of bug fixes and various refinements based on your suggestions and observations. Post your Business Update success stories on social media and be sure to follow us for tips, tricks, and news!
+|Bug fixes from 3.4.
+|
+|
+|-
+|3.5
+|October 2, 2022
+|Challenge Vault Update
+|Bitizens, by popular demand we're introducing the Challenge Vault where you can play virtually the entire back catalog of our immensely popular weekly challenges! Let us know on our socials which new old challenges you are enjoying the most!
+|Introduces Challenge Vault, containing the majority of all previous challenges. Costs $4.99.
+|
+|
+|-
+|3.5.1
+|October 10, 2022
+|
+|Nothing to see here, Bitizens…we’re just taking care of business as usual with another round of bug fixes and tweaks! Don't forget to follow us on our socials for up-to-the-minute BitLife news and happenings.
+|Introduces the ability to use the Time Machine for an unlimited amount of times without paying, for $14.99.
+|
+|
+|-
+|3.6
+|October 23, 2022
+|
+|Introducing the all-new Superstar Mode as a reward for completing 100 challenges along with a few other surprises! Don't forget to follow us on our socials for up-to-the-minute BitLife news and happenings.
+|Introduces [[SuperStar Mode]], a paid theme that can be unlocked by completing 100 [[Challenges]] or paying $4.99
+|
+|
+|-
+|3.6.1
+|October 27, 2022
+|
+|What's up Bitizens? It's almost Halloween. Our treat for you is a new round of bug fixes. Hit us up on our socials and tell us what big update you want next!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.6.2
+|November 5, 2022
+|
+|Nothing but bug fixes and performance enhancements in this update, Bitizens. Oh, and some clues about your next big update.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.6.4
+|November 19, 2022
+|
+|Bitizens, this update includes bug fixes and routine maintenance. Don't forget to follow us on our socials for up-to-the-minute BitLife news and happenings.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.7
+|December 12, 2022
+|Stock Market Update
+|Bitizens! You asked for it, we’re delivering it: the STOCK MARKET UPDATE! Get ready to grab the bull by the horns and navigate your way through the ups and downs of the stock market. Show us your biggest returns and flex your most valuable portfolios! And, as always, hit us up on our socials and let us know what you like and what we can still improve!
+|• Buy and sell different investment assets including stocks, crypto, bonds, penny stocks, and funds
+
+• Hire a financial advisor to manage your investments
+
+• Financial advisor not meeting your needs? Give ‘em the boot!
+
+• Enjoy the thrill of risky investing? Hop on the crypto hype train!
+
+• Looking for a more stable investment? Check out the bond market.
+
+• Worried the market might crash? Liquidate your assets before you lose a fortune.
+
+• Not sure about a particular asset? Ask your family and friends for their opinions!
+
+• Seeking solid investment advice? Scan the Financial News headlines for clues!
+
+• Want to take a risk and score a big reward? Try insider trading!
+
+• Track your investments over time and view your lifetime stats!
+|
+|
+|-
+|3.7.1
+|December 13, 2022
+|
+|Bitiz-investors, this is just a quick update to address some of the issues you pointed out in this week’s STOCK MARKET UPDATE! Keep your reports, suggestions, and screenshots coming!
+|Bug fixes from 3.7.
+Drops support for iOS 11-12.4, now requires iOS 12.5 or later.
+|
+|
+|-
+|3.7.3
+|December 16, 2022
+|
+|Bitiz-investors, thanks so much for your invaluable feedback on this week's STOCK MARKET UPDATE! This is another quick update full of bug fixes and refinements based on that feedback! As always, please keep your reports, suggestions, and screenshots coming!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.7.4
+|December 21, 2022
+|
+|Happy Holidays, Bitizens! We're leaving some festive cheer in this update for you as well as performing our usual round of housekeeping, bug fixing, and maintenance! See you in 2023!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.7.5
+|January 6, 2023
+|
+|Happy New Year, Bitizens! Our first update of the year includes routine maintenance and bug fixes. We’re excited for all of the content coming your way in 2023, so stay tuned by checking us out on social media!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.7.6
+|January 13, 2023
+|
+|Hey, Bitizens! Just another round of maintenance and bug fixes! Don't forget to follow us on social media to stay in the loop about what exciting new features are coming your way!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.7.7
+|January 20, 2023
+|
+|Hey, Bitizens! Just another round of maintenance and bug fixes! Don't forget to follow us on social media to stay in the loop about what exciting new features are coming your way!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.7.8
+|January 26, 2023
+|
+|Hey, Bitizens! Just another round of maintenance and bug fixes! Don’t forget to follow us on social media to stay in the loop about what exciting new features are coming your way!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.7.9
+|January 31, 2023
+|
+|Hey, Bitizens! Just another round of maintenance and bug fixes! Don’t forget to follow us on social media to stay in the loop about what exciting new features are coming your way!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.7.10
+|February 3, 2023
+|
+|Hey, Bitizens! Just another round of maintenance and bug fixes! Don’t forget to follow us on social media to stay in the loop about what exciting new features are coming your way!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.7.11
+|February 5, 2023
+|
+|Hey, Bitizens! Just another round of maintenance and bug fixes! Don’t forget to follow us on social media to stay in the loop about what exciting new features are coming your way!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.7.12
+|February 10, 2023
+|
+|No major renovations in this update, Bitizens! We're just conducting some routine bug fixes and housekeeping. Stay tuned on our socials for news regarding upcoming content!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.7.13
+|February 23, 2023
+|
+|What's up, Bitizens? This update introduces another round of bug fixes and tweaks! We're in the middle of working on our next big update. Are you excited? Catch us on our socials for more information and updates!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.7.14
+|February 24, 2023
+|
+|Don't mind us, Bitizens! This update offers another round of bug fixes and routine maintenance. The Landlord Expansion Pack is just around the corner! What are you going to do for your first act as a landlord? Hit us up on social media and let us know!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.7.15
+|March 2, 2023
+|
+|We're cleaning house again this week, Bitizens, with another round of routine bug fixes and maintenance. Don't forget to check our social media pages for up-to-date information about the upcoming Landlord Expansion Pack!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.8
+|March 8, 2023
+|Landlord Expansion Pack Update
+|Bitizens! The LANDLORD EXPANSION PACK has moved in! Become the best (or worst) landlord you can be. Hit us up on our socials and share your favorite screenshots!
+|• Enjoy access to brand-new EXCLUSIVE property types!
+
+• Add amenities to upgrade your homes (such as a home theater, infinity pool, hot tub, panic room, or even an outhouse)!
+
+• Use your amenities to boost your stats!
+
+• Rent your properties to eligible tenants!
+
+• Run background checks on applicants!
+
+• Date or marry your tenants!
+
+• Drop in on your tenants to make sure they’re not doing anything crazy!
+
+• Evict tenants for not paying rent, damaging your property, or acting a fool!
+
+• Much more!
+
+We’ve also included FREE content for ALL users with this update!
+
+Here’s what we’ve added:
+
+• Twitch is now a social media platform!
+
+• Monetize your Twitch account through ads or product promotions and become a professional influencer!
+
+• Choose your streams carefully and try to go viral!
+|
+|
+|-
+|3.8.1
+|March 10, 2023
+|
+|Bitizens! The LANDLORD EXPANSION PACK has moved in! Become the best (or worst) landlord you can be. Hit us up on our socials and share your favorite screenshots!
+|Bug fixes from 3.8.
+|
+|
+|-
+|3.8.2
+|March 17, 2023
+|
+|What’s up, Bitizens? We hope you’re enjoying the Landlord Expansion Pack! Keep those social media posts and screenshots coming. This update includes some routine maintenance and bug fixes to keep the game running smoothly as you deal with those pesky tenants. Check our socials for more information and updates!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.8.3
+|March 25, 2023
+|
+|Bitizens! This is a quick update to address some of the issues you reported to us this week. Keep your reports, feedback, and suggestions coming!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.8.4
+|April 1, 2023
+|
+|We're taking care of business as usual this week, Bitizens, with another update full of bug fixes and routine maintenance. In this update, we're also introducing the BitLife Marketplace! Think of this as your hub for all of our in-game purchases. Check it out and see if something catches your eye. Check out our socials for more information and updates!
+|Introduces the BitLife Marketplace, which offers all in-app purchases in one section.
+|
+|
+|-
+|3.8.5
+|April 7, 2023
+|
+|Greetings Bitizens! We're back with another update. We've fixed some pesky bugs and added a fun new item: The Promiscuity Potion! Give your love life a boost and try it out today. Don't forget to follow us on socials for more info and updates. As always, keep sending us your feedback and bug reports. Happy BitLifing! #BitLife
+|Introduces the Promiscuity Potion, which allows a character to be immune from any STD.
+|
+|
+|-
+|3.8.6
+|April 16, 2023
+|
+|Greetings, Bitizens! We've been hard at work exterminating the bugs you've reported this week. We've also added the Billionaire's Bundle to the BitLife Marketplace! This bundle unlocks ALL of the content in the Business Update, the Investor Expansion Pack, AND the Landlord Expansion Pack.
+
+As always, keep an eye on our socials for announcements and updates. Stay stellar, Bitizens!
+|Introduces the Billionaire's Bundle, which unlocks all content in the Business Update, the Investor Expansion Pack, and the Landlord Expansion Pack.
+|
+|
+|-
+|3.8.7
+|April 21, 2023
+|
+|Bitizens! We've got another update for you that'll take care of those pesky bugs you've been reporting on our socials. Thanks for looking out! Additionally, we've added another item to the BitLife Marketplace: the Golden Passport. With this, you can choose your destination when you emigrate! We hope you'll carry it with you wherever your BitLife takes you. Check out our socials for information about upcoming features and content!
+|Introduces the Golden Passport, which allows users to emigrate to any country in the game instead of a selection.
+|
+|
+|-
+|3.8.8
+|April 25, 2023
+|
+|What's up, Bitizens? This update's just a hotfix to address some of the bugs you reported over the weekend. Thanks for catching those! As always, share your favorite screenshots with us on our socials. While you're there, keep an eye out for announcements and updates!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.8.9
+|April 28, 2023
+|
+|Bitizens! Another update this week to clean up a few more bugs and provide even more support for some back-end processes. The Astronaut Job Pack is on the horizon! What are you hoping to discover first? Let us know on our socials!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.8.10
+|May 5, 2023
+|
+|This week, we're rolling out some bug fixes for you, Bitizens! We're hard at work getting things ready to launch the Astronaut Job Pack! What's your first act as an astronaut going to be? Tell us what you're hoping to see on our socials!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.8.11
+|May 13, 2023
+|
+|Twinkle, twinkle, Bitizens! This week, we're deploying an update with some routine maintenance and bug fixes as we prepare the Astronaut Job Pack for liftoff! Check out our socials for more information and updates.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.8.12
+|May 19, 2023
+|
+|It's T-Minus almost time for the Astronaut Job Pack to launch, Bitizens! We've done some more tinkering to fix the bugs you've reported across social media. We're hyped for this update and we hope you are, too! What are you going to name the first planet you discover? Let us know on our socials!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.9
+|May 23, 2023
+|Astronaut Job Pack Update
+|We have liftoff, Bitizens! The ASTRONAUT JOB PACK has been deployed and now joins our constellation of content at your fingertips!
+|• Attend space camp!
+
+• Train to become an astronaut at space academy!
+
+• Climb through the ranks at a space agency!
+
+• Navigate your shuttle through asteroid fields!
+
+• Discover and name distant planets, stars, galaxies and more!
+
+• Transmit messages into space and decrypt alien transmissions!
+
+• Repair busted satellites!
+
+• Conduct research in space!
+
+• Publish articles about your discoveries!
+
+• Explore the Moon and Mars!
+
+• Much more!
+|
+|
+|-
+|3.9.1
+|May 28, 2023
+|
+|Incoming transmission, Bitizens! We're grateful for all the love the Astronaut Job Pack has received on social media. Keep those screenshots coming! This update introduces some additional Astronaut Job Pack content as well as bug fixes and maintenance. We would also like to introduce new Marketplace features:
+
+• The Assassin's Knife: A one-time purchase that lets you get away with murder–literally.
+
+• The Marketplace Sale: This weekend only, we're offering certain Marketplace items at a discount! Snipe the savings while you can!
+|Bug fixes from 3.9.
+Introduces Assassin's Blade.
+Limited-time discount for certain Marketplace items.
+|
+|
+|-
+|3.9.2
+|June 2, 2023
+|
+|Greetings, Bitizens! This week's update features some bug fixes and routine maintenance. Keep those astronaut screenshots coming. We love seeing all the cool stuff you've discovered! As always, check out our socials for more information and updates.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.9.3
+|June 10, 2023
+|
+|Bitizens, this update includes routine bug fixes and maintenance. Keep those reports and gameplay screenshots coming on social media! While you're there, check out our pages for more information and updates!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.9.4
+|June 19, 2023
+|Hollywood Star Update
+|What's up, Bitizens! This week, we've got some special features included in the update along with some bug fixes!
+|You can now become famous as an Astronaut!
+
+A new Item in the BitLife Marketplace: the Hollywood Star! This allows you to become instantly famous in fame-related careers! This applies to:
+
+Actor
+
+App Developer
+
+Writer
+
+Chef
+
+DJ
+
+Magician
+
+Reporter
+
+Model
+
+Singer
+
+Politician
+
+Royal
+
+Musician
+
+Athlete
+
+CEO
+
+Astronaut & more!
+
+Keep checking out our socials for more info & updates.
+|
+|
+|-
+|3.9.5
+|June 23, 2023
+|
+|Greetings Bitizens! This week's update is a round of routine maintenance and bug fixes! Some of you have asked about the careers in which you can become famous. For your convenience, here's the list:
+
+Actor
+
+App Developer
+
+Writer
+
+Chef
+
+DJ
+
+Magician
+
+Reporter
+
+Model
+
+Singer
+
+Governor/President
+
+Royal
+
+Musician
+
+Athlete
+
+CEO
+
+Astronaut
+|Bug fixes from 3.9.4.
+|
+|
+|-
+|3.9.6
+|June 30, 2023
+|
+|What's up Bitizens? We've got some more bug fixes and maintenance coming your way in this update. Make sure you're keeping a watchful eye on our socials for updates and announcements! There's bound to be something that snatches your attention.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.9.7
+|July 8, 2023
+|Daily Quest Update
+|Hey Bitizens! This week, in addition to the usual round of bug fixes and maintenance, we'd like to introduce you to an ALL-NEW FREE feature: the Daily Quest system!
+
+Here's how it works:
+
+Check out the BitLife Marketplace each day, tap on the Daily Quest activity, and complete the quest to receive a mystery reward once you're done!
+
+As always, check out our socials and drop in your screenshots and favorite moments! Happy questing!
+|Introduction of the "Daily Quest" system.
+|
+|
+|-
+|3.9.8
+|July 13, 2023
+|
+|Another day, another update, Bitizens! We hope you've been having fun with the new Daily Quest system. Drop us a screenshot on our socials and tell us what your favorite reward has been so far! In this update, we've got some bug fixes and routine maintenance that address issues you've reported.
+
+Keep a lookout on our socials for more information and updates about the upcoming Black Market Expansion Pack!
+|Bug fixes from 3.9.7.
+|
+|
+|-
+|3.9.9
+|July 22, 2023
+|
+|Greetings Bitizens! This week, we're serving up some more routine maintenance and bug fixes! The Black Market Expansion Pack is just around the corner. What're you hoping to see on the market? Let us know on our socials! Stay tuned for more information soon!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.10
+|July 28, 2023
+|Black Market Expansion Pack Update
+|Greetings, Bitizens! Things just got a little shadier–THE BLACK MARKET EXPANSION PACK has come to town!
+
+Here's the full list of new features in this expansion pack:
+|• Purchase valuable items in high-stakes auctions!
+• Collect 300+ unique items, including rare cars and artifacts!
+
+• Open your own museums and show off your collections!
+
+• Visit the Black Market and purchase items from vendors!
+
+• Updates to the taxidermy system!
+
+• Own 6 new unique species of pets!!
+
+• Much more!
+|
+|
+|-
+|3.10.1
+|August 1, 2023
+|
+|Greetings, Bitizens! In this update, we're addressing some bugs you spotted in our recent BLACK MARKET EXPANSION PACK! Keep playing and adding those screenshots–we love to see it!
+|Bug fixes from 3.10.
+|
+|
+|-
+|3.10.2
+|August 5, 2023
+|
+|Greetings, Bitizens! This update contains some bug fixes and maintenance to support our BLACK MARKET EXPANSION PACK!
+
+We've also added a few new features to the expansion pack:
+|• New achievements!
+
+• Use weapons purchased from the Black Market!
+
+• Visit the Auction Houses by opening the Assets menu!
+
+• Rename your museum whenever you want!
+
+• Much more!
+
+Keep those screenshots and bug reports coming and, as always, check out our socials for more information and updates!
+|
+|
+|-
+|3.10.3
+|August 12, 2023
+|
+|What's up, Bitizens–we've got another round of bug fixes and maintenance for y'all in this update. Check out our socials for updates and information about upcoming events (including future Twitch Livestreams and giveaways)!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.10.4
+|August 18, 2023
+|
+|Hey there, Bitizens! This week, we've got the usual bug fixes and routine maintenance on deck for you. We've also added another bundle to the BitLife Marketplace: the Crime Pays Bundle! This unlocks the Black Market Expansion Pack, the Mafia Job Pack, and the Assassin's Blade. Check it out if you feel like taking a walk on the wild side of BitLife.
+
+As always, keep an eye on our socials for more information and updates!
+|Addition of Crime Pays Bundle, containing the Black Market Expansion Pack, the Mafia Job Pack, and the Assassin's Blade.
+|
+|
+|-
+|3.10.5
+|August 22, 2023
+|
+|Hey there, Bitizens! This week, we've got the usual bug fixes and routine maintenance on deck for you. We've also added another bundle to the BitLife Marketplace: the Crime Pays Bundle! This unlocks the Black Market Expansion Pack, the Mafia Job Pack, and the Assassin's Blade. Check it out if you feel like taking a walk on the wild side of BitLife.
+
+As always, keep an eye on our socials for more information and updates!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.10.6
+|August 26, 2023
+|
+|Bitizens! This week, in addition to our regular bug fixes and maintenance, we've added something else to the BitLife Marketplace: the Spiked Brass Knuckles! With this item, you'll win every. single. fight. The best part? Your opponent won't ever be able to fight back! IT'S GO TIME! Get out there and show 'em who's boss!
+
+Share your favorite screenshots on our socials and while you're there, be on the lookout for more information and updates!
+|Adds the Spiked Brass Knuckles.
+|
+|
+|-
+|3.10.7
+|September 2, 2023
+|
+|What's up, Bitizens? We've got another round of bug fixes and maintenance for you this week. We've also added another FREE feature: the Quest Chest! This lets you bank your rewards from completing Daily Quests and claim them on other characters! Just complete your quest, send your reward to the Chest, and claim it later when you're on a character who needs it!
+
+Keep an eye on our socials for upcoming updates and information! We've already posted a teaser on our socials–have you seen it?
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.10.8
+|September 9, 2023
+|
+|What's up, Bitizens? This week's update is another round of bug fixes and maintenance, but we're hard at work CULTivating new content for you as we speak! Are you pumped?!
+
+Visit our socials for more information and updates and keep those screenshots coming!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.10.9
+|September 13, 2023
+|
+|Greetings, salutations, and well met, Bitizens! We've been busy with housekeeping, so this update contains a number of bug fixes and some routine maintenance.
+
+Keep your eyes on our socials for more news and information. While you're there, share some of your favorite moments and screenshots with us. We love seeing what shenanigans you guys get into!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.10.10
+|September 14, 2023
+|
+|Greetings, salutations, and well met, Bitizens! We've been busy with housekeeping, so this update contains a number of bug fixes and some routine maintenance.
+
+Keep your eyes on our socials for more news and information. While you're there, share some of your favorite moments and screenshots with us. We love seeing what shenanigans you guys get into!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.10.11
+|September 16, 2023
+|
+|Greetings, Bitizens! This week's update includes a TON of bug fixes and maintenance. Most importantly, we've addressed a bug that caused the game to crash when pressing the Main Menu button and a more recent bug that caused some of you guys to lose your lives and game data. Moving forward, this shouldn't be an issue, so thank you for your patience while we resolved it!
+|Miscellaneous bug fixes, including a bug which caused the game to crash when pressing the Main Menu button and another causing users to lose game data.
+|
+|
+|-
+|3.10.12
+|September 16, 2023
+|
+|Greetings, Bitizens! This week's update includes a TON of bug fixes and maintenance. Most importantly, we've addressed a bug that caused the game to crash when pressing the Main Menu button and a more recent bug that caused some of you guys to lose your lives and game data. Moving forward, this shouldn't be an issue, so thank you for your patience while we resolved it!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.10.13
+|September 19, 2023
+|
+|Hey, Bitizens! We've got an early update for you this week! We're adding a few more bug fixes and some routine maintenance to improve a few things under the hood. Thanks for your patience and as always, keep an eye on our socials for more information!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.10.14
+|September 22, 2023
+|
+|What's up, Bitizens? We've done a bit more work under the hood this week, including adding new challenges to the Challenge Vault and squashing a few bugs. Are you excited for the upcoming CULT Expansion Pack? What kind of leader are you going to be? What do you want your followers to do for you? Hit us up on our socials and let us know!
+
+As always, stay tuned for more info and updates!
+|New challenges added to the Challenge Vault.
+Miscellaneous bug fixes.
+|
+|
+|-
+|3.10.15
+|September 27, 2023
+|
+|Hey Bitizens! We're temporarily disabling the Daily Quest feature while we perform some routine maintenance.Thanks for your patience, Bitizens! You rock! Stay tuned on our social media pages for updates and information!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.10.16
+|September 29, 2023
+|
+|What's up, Bitizens! This week, we're bringing you another round of routine maintenance and bug fixes as we prepare for the C.U.L.T. Expansion Pack. If you're not excited, you better GET excited! Keep an eye on our socials for more information and updates!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.10.17
+|October 3, 2023
+|
+|How's it hanging, Bitizens? We've called the exterminator and have eliminated a few bugs we spotted over the weekend. This should help optimize the main menu function! Keep your eyes on our socials for more info and updates about the upcoming CULT Expansion Pack!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.10.18
+|October 7, 2023
+|
+|What's up, Bitizens?! We're bringing you another round of bug fixes and maintenance to improve your quality of life while playing! Keep us posted on any issues you spot--it's super helpful when you let us know what's up! The CULT Expansion Pack is just around the corner! Keep your eyes on our socials for more information and updates!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.10.19
+|October 11, 2023
+|
+|Greetings and salutations, Bitizens! This week's update includes another round of routine maintenance and bug extermination as we prepare for the launch of the CULT Expansion Pack! We're super excited to get it to you guys as soon as possible, so be on the lookout for more info and updates on our socials!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.10.20
+|October 13, 2023
+|
+|What's up, Bitizens? We've got another round of bug fixes and maintenance for you this week! Stay tuned for a more...enlightened...update next week, and check out our socials for more information and news while you wait!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.11
+|October 17, 2023
+|C.U.L.T Expansion Pack Update
+|The C.U.L.T. Expansion Pack is currently recruiting faithful Bitizens capable of leading the masses!
+Here's the full list of new features in this update, in addition to quality of life changes:
+| -Buy your own plot of land and start a cult!
+-Recruit followers for your cult!
+
+-Move your followers into your commune!
+
+-Give your followers face tattoos!
+
+-Extort offerings from your followers!
+
+-Hold ceremonies for your followers!
+
+-Build structures in your commune!
+
+-Punish dissenters and non-believers!
+
+-MUCH MORE
+|
+|
+|-
+|3.11.1
+|October 19, 2023
+|
+|v3.11.1
+Blessed day to you, Cultizens! We'd like to bestow upon you some additions and bug fixes to the brand-new CULT Expansion Pack.
+
+Here are some of the things we've added:
+| -New face tattoos!
+-Gain followers after writing a book!
+
+-Quality of life fixes and updates!
+
+-MUCH MORE!!!
+
+Gather your followers and hit our socials with your favorite screenshots from the Expansion Pack! As always, stay tuned for more updates and info!
+|
+|
+|-
+|3.11.2
+|October 21, 2023
+|
+|3.11.2
+Greetings, Bitizens! This week, we've got bug fixes and maintenance for the CULT Expansion Pack as well as a FREE special treat for EVERYONE!
+
+Here are some of the things we've added:
+| -New CULT Achievements!
+-New FREE Item: Plastic Vampire Teeth!
+
+-Claim in the Marketplace!
+
+-Adds a new murder method: Suck
+
+-Successful kills give Health and might even cure a disease!
+
+-Only around for a limited time–claim yours ASAP!
+
+Hit us up on our socials with your favorite CULT Expansion Pack moments!
+|
+|
+|-
+|3.11.3
+|October 28, 2023
+|
+|Peace and blessings be upon you, Cultizens! In addition to our usual round of bug fixes and maintenance this week, we've added some new features, including the ability to recruit your friends and family members into your cult with the "Recruit" activity!
+Hit us up on our socials with your favorite CULT Expansion Pack moments and keep your eyes peeled for more information and updates! We love our fans!
+|Bug fixes from 3.11, 3.11.1 and 3.11.2.
+Adds "Recruit" activity, allowing the player to recruit friends and family
+|
+|
+|-
+|3.11.4
+|October 31, 2023
+|
+|What's up, Bitizens! We've got an early update this week containing some bug fixes and routine maintenance! Keep an eye on our socials for more updates and information!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.11.5
+|November 4, 2023
+|
+|v3.11.5
+
+Bitizens! This week, we've got some new features for you in addition to our usual bug fixes and routine maintenance.
+
+What's new:
+
+• The Golden Piggy Bank is now available for purchase in the BitLife Marketplace! With this item, you can start a life with a bank balance of $1,000,000 whenever you'd like, as often as you'd like!
+
+• Brand-new achievements!
+
+We're cooking up something special for our biggest fans, so check out our socials and share some of your favorite BitLife moments!
+|Adds the Golden Piggy Bank as a new item.
+|
+|
+|-
+|3.11.6
+|November 6, 2023
+|
+|v3.11.6
+
+Bitizens! This week, we've got some new features for you in addition to our usual bug fixes and routine maintenance.
+
+What's new:
+
+• The Golden Piggy Bank is now available for purchase in the BitLife Marketplace! With this item, you can start a life with a bank balance of $1,000,000 whenever you'd like, as often as you'd like!
+
+• Brand-new achievements!
+
+We're cooking up something special for our biggest fans, so check out our socials and share some of your favorite BitLife moments!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.11.7
+|November 10, 2023
+|
+|v3.11.7
+Greetings Bitizens! This week, in addition to routine maintenance and bug fixes, we've added FREE content for ALL users!
+
+What's new:
+
+-We've added an all-new social media platform!
+
+-Charge subscribers a fee to access your content!
+
+-Collaborate with other content creators!
+
+-Establish a Wishlist!
+
+-Receive tips from your subscribers!
+
+-New achievements!
+
+-MUCH MORE!
+
+Hit us up on our socials and let us know what spicy content you create and how many subscribers you're able to entertain!
+|Adds OnlyFans as a new social media platform.
+|
+|
+|-
+|3.11.8
+|November 18, 2023
+|
+|v3.11.8
+Hello to our model Bitizens–and ONLY our model Bitizens! This week, we've got a round of bug fixes and maintenance to clean up some issues you found with our recent update. We hope you're enjoying the newest social media craze–what's your follower count like? Hit us up on our socials and let us know what you think! While you're there, keep an eye out for more information and updates.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.11.9
+|November 23, 2023
+|
+|Happy Thanksgiving, Bitizens! We're so grateful for all of your support! Keep it coming, 'cuz it keeps us going! This week, we've just got a round of routine maintenance and bug fixes for you guys! Keep an eye on our socials for more announcements and updates!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.11.10
+|November 29, 2023
+|
+|v3.11.10
+
+Greetings, Bitizens! This week, we're just conducting some routine maintenance and bug fixes. The Model Job Pack is just around the corner...are you excited to strut your stuff on the runway? Let us know what you're excited to see in the update on our socials, and while you're there, read up on all the latest news and info!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.11.11
+|December 8, 2023
+|
+|v3.11.11
+
+Happy Holidays, Bitizens! It's the season of giving, so we are giving EVERYONE access to a new, FREE holiday item: Santa's Sack!
+
+This unlocks special holiday-themed gifts that you can give to the people in your Bitizens' lives–whether they've been naughty or nice! It's only available for a limited time, so grab your sacks while you can!
+
+We've also included a round of bug fixes and maintenance in this update. Keep your eyes peeled on our socials for more information, news, and GIVEAWAYS!
+|Adds Santa's Sack as a new item.
+|
+|
+|-
+|3.11.12
+|December 14, 2023
+|
+|v3.11.12
+
+What's up, Bitizens! This week, we've just got another round of bug fixes and maintenance for you guys! We hope you're excited for the upcoming model update! Hit us up on our socials and let us know what kind of model you're going to be first! As always, keep your eyes peeled for more info and updates while you're there.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.12
+|December 22, 2023
+|Model Job Pack Update
+|3.12
+
+Greetings, Bitizens! This week, the Model Job Pack is hitting the runway and taking BitLife by storm!
+
+Here are the features in the update:
+| -Have your headshot taken!
+-Audition for freelance modeling gigs!
+
+-Join a modeling agency!
+
+-Walk the runway in fashion week!
+
+-Receive gifts from fashion designers!
+
+-Sabotage other models' careers!
+
+-MUCH MORE!
+|
+|
+|-
+|3.12.1
+|December 22, 2023
+|
+|3.12.1
+
+Greetings, Bitizens! This week, the Model Job Pack is hitting the runway and taking BitLife by storm!
+
+Here are the features in the update:
+
+-Have your headshot taken!
+
+-Audition for freelance modeling gigs!
+
+-Join a modeling agency!
+
+-Walk the runway in fashion week!
+
+-Receive gifts from fashion designers!
+
+-Sabotage other models' careers!
+
+-MUCH MORE!
+|Bug fixes from 3.12.
+|
+|
+|-
+|3.12.2
+|January 11, 2024
+|
+|3.12.2
+
+Happy 2024, Bitizens! In our first update of the year, we've done some bug squashing and routine maintenance, but we've also made it so that your parents can encourage you to take modeling lessons! Hit us up on our socials with your favorite supermodel moments and, as always, stay on the lookout for more information and updates while you're there!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.12.3
+|January 18, 2024
+|
+|3.12.3
+
+What's up, Bitizens! This week, we've got another round of bug fixes and routine maintenance for you all. We're also adding a new bundle to the BitLife Marketplace this week: the Fame & Fortune Bundle!
+
+This bundle includes:
+
+-The Golden Piggy Bank
+
+-The Hollywood Star
+
+-The Golden Passport
+
+With this bundle, a life of luxury is at your fingertips, so be sure to check it out!
+|Introduces the Fame & Fortune Bundle.
+|
+|
+|-
+|3.12.4
+|January 25, 2024
+|
+|v3.12.4
+How’s it going, Bitizens? We’ve got another round of bug fixes and maintenance for you all this week.
+
+Here’s a list of what we’ve added support for:
+|ALL-NEW Celebrities will appear in scenarios
+ALL-NEW Calendar Holiday scenarios
+
+Taco Tuesday Achievement bug fix
+
+Murder on the Dancefloor Challenge bug fix
+
+BLNTM Challenge bug fix
+
+Material Girl Challenge bug fix
+
+Murder royal siblings bug fix
+
+As always, visit our socials for more information and updates about upcoming content!
+|
+|
+|-
+|3.12.5
+|February 2, 2024
+|
+|v3.12.5
+Greetings, Bitizens! This week, in addition to our regular bug fixes and maintenance, we've added some new, FREE content for ALL users!
+
+Here's a list of what's been added:
+| -You can now toggle the Golden Passport on and off in the Main Menu!
+-You can now take krav maga lessons!
+
+-New books have been added to the Library!
+
+-You'll now Collect the Model career via the Model Job Pack!
+
+As always, hit us up on our socials and while you're there, see if you can spy some info about upcoming updates!
+|
+|
+|-
+|3.12.6
+|February 9, 2024
+|
+|v3.12.6
+
+Initiating contact with Subject_Bitizens. Hello. This week, our agents have been sweeping through the game to eradicate bugs and perform maintenance. We have also developed a new Item for the BitLife Marketplace: The Get Out of Jail Free Card!
+
+What it does:
+
+-Allows you to instantly escape ANY prison
+
+-Immediately expunges your record upon release
+
+-Adds value as a museum exhibit
+
+This briefing is over. To learn more, visit our social media pages ASAP.
+|Adds the Get Out of Jail Free Card.
+|
+|
+|-
+|3.12.7
+|February 13, 2024
+|
+|v3.12.7
+
+What's up, Bitizens? Happy Valentine's Day! In this week's update, we've got a round of bug fixes and routine maintenance for you all! We're hard at work pumping as much love as we can into our next big content update, so don't forget to visit our socials for more information!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.12.8
+|February 16, 2024
+|
+|v3.12.8
+
+Greetings Bitizens! This update includes some routine bug fixes and maintenance. We hope you're excited for the Secret Agent Expansion Pack!! What feature are you most looking forward to? Hit us up on our socials and let us know!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.12.9
+|February 23, 2024
+|
+|v3.12.9
+
+Hello, Bitizens.
+
+This briefing is meant to inform you that there is an update available. It contains important bug fixes and routine maintenance. The package labeled "secret_agent" is almost ready. Prepare to receive it soon. Don't forget to visit our social media pages for further details about this and other briefings. This concludes the current briefing.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.12.10
+|March 1, 2024
+|
+|v3.12.10
+
+Greetings, Bitizens! This week, we've got a round of bug fixes and routine maintenance as we prepare for the upcoming launch of the SECRET AGENT EXPANSION PACK! Let us know what you're hoping to see on our socials. While you're there, catch up on all the latest updates and info.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.13
+|March 8, 2024
+|Secret Agent Expansion Pack Update
+|v3.13
+
+Greetings, Spymaster Bitizen. The purpose of this briefing is to inform you that this update contains the SECRET AGENT EXPANSION PACK. Your mission, should you choose to accept, is to gather an elite team of agents to execute missions.
+
+What's new:
+| -Start your own spy agency!
+-Recruit agents!
+
+-Send agents out on a variety of missions!
+
+-Use your agents to assassinate people!
+
+-Infiltrate databases!
+
+-Spy on your friends!
+
+-Expose double agents!
+
+-Purchase spy gadgets!
+
+-Achievements!
+
+-SO MUCH MORE!
+|
+|
+|-
+|3.13.1
+|March 15, 2024
+|
+|v3.13.1
+
+Hello Bitizens. Our operatives have informed us that you've all been enjoying the SECRET AGENT EXPANSION PACK. We, and you, have identified some bugs and have eliminated them accordingly in this update. Keep your eyes peeled for others that might be lurking in dark corners. As always, post your favorite moments from the expansion pack on our socials and stay tuned for more information and updates!
+
+This concludes this week's briefing.
+|Bug fixes from 3.13.
+|
+|
+|-
+|3.13.2
+|March 22, 2024
+|
+|v3.13.2
+Greetings, Bitizens! This week's update contains bug fixes and routine maintenance. We've loved seeing all of your screenshots from the Secret Agent Expansion pack on our socials! Keep 'em coming! What's the craziest thing your agents have done on a mission? For more information and updates, visit our socials!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.13.4
+|March 30, 2024
+|
+|v3.13.4
+
+What's up, Bitizens! This week, in addition to our usual round of bug fixes and maintenance, we're kicking off the first-ever BITLIFE EASTER EGG SCAVENGER HUNT!
+
+Scattered around the game are 20 UNIQUE Easter Eggs. You will find them after completing certain activities in the game! View your collection in the Main Menu under the "Seasonal Events" section. Tap "Scavenger Hunts" to bring up the list!
+
+Check out our socials during the event if you need a hint! Happy hunting!
+|Introduces Scavenger Hunts.
+|
+|
+|-
+|3.13.5
+|April 4, 2024
+|
+|v3.13.5
+
+Hoppy April, Bitizens! We've just got a round of routine maintenance and bug fixes in this week's update. The BitLife Easter Egg Hunt is still underway, so if you haven't found all 20 eggs and claimed your reward yet, there's still time to do so! Hop to it before they're gone!
+
+As always, check out our socials for more updates and information…and perhaps a hint or two about where to find those eggs!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.13.6
+|April 12, 2024
+|
+|v3.13.6
+
+Greetings, Bitizens! This week, we are squashing bugs and making some small adjustments to the game as we work on the next expansion pack!
+
+Don't forget, the 2024 BitLife Easter Egg Hunt is ending on 4/15! Be sure to complete the scavenger hunt and find all 20 eggs AND claim your reward before then! Hints are available across our socials, so if you need help finding one, two, or twenty, check 'em out! While you're there, read up on the latest news and updates.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.13.7
+|April 17, 2024
+|
+|v3.13.7
+
+Greetings, Bitizens! This week, we are squashing bugs and making some small adjustments to the game as we work on the next expansion pack!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.13.8
+|April 18, 2024
+|
+|v3.13.8
+
+How's it hanging, Bitizens? This week, we've got another round of routine maintenance and bug-stomping for ya to make life easier as you play! Keep an eye on our socials for more information and updates on all of the exciting things that are coming to the game soon! What do you think our next expansion pack will be?
+
+Hit us up and tell us what you hope it is!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.13.9
+|April 26, 2024
+|
+|v3.13.9
+What's up, Bitizens! This week, in addition to routine bug fixes and maintenance, we've added a NEW ITEM to the BitLife Marketplace!
+
+Introducing: THE GOLDEN PACIFIER
+
+What it lets you do:
+| -Have a baby at ANY age!
+-Choose the gender of your babies
+
+-Choose the number of babies you have at once!
+
+-Give your babies a Special Talent!
+
+With this item, only a few taps separate you from the legacy of your dreams!
+
+As always, hit us up on our socials for more info and news.
+|
+|
+|-
+|3.13.10
+|April 27, 2024
+|
+|v3.13.10
+
+What's up, Bitizens! This week, in addition to routine bug fixes and maintenance, we've added a NEW ITEM to the BitLife Marketplace!
+
+Introducing: THE GOLDEN PACIFIER
+
+What it lets you do:
+
+-Have a baby at ANY age past 18
+
+-Choose the gender of your kids
+
+-Choose a Special Talent for your kids
+
+-Choose the number of kids you'll have--up to triplets!
+
+With this item, only a few taps separate you from the legacy of your dreams!
+
+As always, hit us up on our socials for more info and news.
+|Bug fixes from 3.13.9.
+|
+|
+|-
+|3.13.11
+|May 4, 2024
+|
+|v3.13.11
+
+What's up, Bitizens? This week, we've got a round of bug fixes and routine maintenance! We're excited that the BitLife baby boom has officially launched and that so many of you are enjoying the Golden Pacifier! Keep those legacies alive! As always, report any problems or issues and keep checking our socials for upcoming news and information. Be careful–it's a jungle out there.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.13.12
+|May 9, 2024
+|
+|v3.13.12
+
+Greetings, Bitizens! On deck this week is another round of maintenance and pest control. We even pulled out our trusty BitLife HQ anteaters to help sniff 'em out! By the way, what do you think our next expansion pack is going to be? Hop on over to our social media channels and let us know what you think! While you're there, stay updated on all of the latest news and information.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.13.13
+|May 17, 2024
+|
+|v3.13.13
+
+How's it hanging, Bitizens? On deck this week is a round of bug fixes and routine maintenance as we hammer away at the next expansion pack! As always, keep checking our socials for more information and updates!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.13.14
+|May 24, 2024
+|
+|v3.13.14
+
+Whale hello there, Bitizens! This week, we've got some bug fixes and maintenance for you as we wrap up the development of the ZOO EXPANSION PACK! Don't get caught lion around on this one. Keep your eyes peeled on our socials for more information and updates.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.14
+|May 30, 2024
+|Zoo Expansion Pack Update
+|v3.14
+
+Welcome to the jungle, Bitizens! The ZOO EXPANSION PACK is now available on the BitLife Marketplace! Run your very own zoo and collect, breed, and show off all of your favorite animals in this expansion pack!
+
+What's included:
+| -Start your own zoo
+-Purchase or trade animals on the Trading Post
+
+-Build and maintain habitats for your animals
+
+-Raise and breed dozens of new animals
+
+-Find rare and mysterious animals
+
+-Manage a team of animal experts
+
+-Earn ALL-NEW rewards and achievements
+
+-SO MUCH MORE!!
+|
+|
+|-
+|3.14.1
+|May 31, 2024
+|
+|v3.14.1
+
+Welcome to the jungle, Bitizens! The ZOO EXPANSION PACK is now available on the BitLife Marketplace! Run your very own zoo and collect, breed, and show off all of your favorite animals in this expansion pack!
+
+What's included:
+
+-Start your own zoo
+
+-Purchase or trade for animals
+
+-Build & maintain habitats for your animals
+
+-Raise & breed dozens of NEW animals
+
+-Find rare & mythical animals
+
+-Manage a team of animal experts
+
+-Earn ALL-NEW rewards & achievements
+
+-SO MUCH MORE!!
+|Bug fixes from 3.14.
+|
+|
+|-
+|3.14.2
+|June 6, 2024
+|
+|v3.14.2
+
+Meowdy, Bitizens! The ZOO EXPANSION PACK is available! This week, we've added NEW CONTENT to the expansion pack.
+
+What's included:
+
+-Start your own zoo
+
+-Buy, sell, and trade over 100+ different animals
+
+-Raise & breed your zoo animals
+
+-Find rare & mythical animals
+
+-Run your zoo's gift shop
+
+-Earn ALL-NEW rewards & achievements
+
+-SO MUCH MORE!!
+
+We're also kicking off the PRIDE MONTH SCAVENGER HUNT! Find all 11 objects to win an EXCLUSIVE prize! Check our socials if you need a hint or two.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.14.3
+|June 14, 2024
+|
+|v3.14.3
+
+Greetings, Bitizens! We've fixed a bug that kept you from collecting your EXCLUSIVE accessory after completing the Pride Scavenger Hunt. You'll get the reward after updating! We've also spruced up Early Childhood with some FRESH content, so be on the lookout for that, too!
+
+If you haven't found everything yet, don't worry! The Scavenger Hunt ends on 6/30! Check out our socials for a hint or two if you're stuck! While you're there, be on the lookout for news and information!
+|Miscellaneous bug fixes. including a bug fix for obtaining an accessory after completing the Pride Scavenger hunt.
+|
+|
+|-
+|3.14.4
+|June 21, 2024
+|
+|v3.14.4
+
+What's up, Bitizens! This week, we've got another round of bug fixes and routine maintenance coming your way.
+
+Remember: the Pride Month Scavenger Hunt is LIVE until 6/30! You still have time to track down those objects if you haven't completed the hunt already.
+
+We're regularly posting hints on our socials if you're stumped–hit those up if you need a hand. While you're there, be on the lookout for updates and information!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.14.5
+|June 28, 2024
+|
+|v3.14.5
+
+Hey, Bitizens! In this week's build, we've adjusted the requirements for being an Astronaut! Now, you only need a college degree in order to apply to a Space Academy! We've also been fixing bugs and performing routine maintenance throughout the app.
+
+Keep your eyes peeled on our socials–we've got a HUGE announcement coming soon! While you're there, catch the hints for the Pride Month Scavenger Hunt. It ends on 6/30, so complete it and claim your FREE reward before then!
+|Adjusted requirements for becoming an [[Astronaut]], requiring only a college degree to apply to a Space Academy.
+|
+|
+|-
+|3.14.6
+|July 4, 2024
+|
+|v3.14.6
+
+What's up, Bitizens? This week, you'll be seeing stars, because we've added a FREE new feature for ALL players: the long-awaited CELEBRITY DATING APP! You can find this activity under the "Love" menu.
+
+What it does:
+
+-Find and date a famous celebrity!
+
+-Find and date royalty!
+
+-Become a famous socialite!
+
+Start your star-studded romances and let us know what you think on our socials! While you're there, be sure to keep your eyes peeled for information on our upcoming Job Pack.
+|Introduces the Celebrity Dating app
+|
+|
+|-
+|3.14.7
+|July 16, 2024
+|
+|v3.14.7
+
+Greetings, Bitizens! This week, in addition to our usual bug fixes and maintenance, we're rolling out a BRAND-NEW ITEM: the Golden Diploma!
+
+What it does:
+
+-Instantly receive ANY degree in ANY field!
+
+-Ensures you get a job in that field after receiving the degree!
+
+Additionally, we've made it so that ANY user can acquire UP TO TWO degrees in EVERY life, whether you own the Golden Diploma or not!
+
+Keep your eyes on our socials–we've got some AMAZING DEALS in store for y'all in the near future!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.14.8
+|July 19, 2024
+|
+|3.14.8
+
+What's up, Bitizens! In addition to our usual round of bug fixes and maintenance, we're kicking off another event--the 7 Deadly Sins Scavenger Hunt! From now until 8/6, we've hidden 7 SIN-SATIONAL totems hidden throughout the game. Can you find them all? Do so before the event ends and you'll earn an EXCLUSIVE, FREE accessory!
+
+Hit us up on our socials if you're stuck. We'll post hints regularly to help you out!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.14.9
+|July 23, 2024
+|
+|3.14.9
+
+Hello, Bitizens! We've got a hotfix on deck this week to address some issues you guys reported in our recent update. Keep your eyes peeled for more updates and info on our socials--ESPECIALLY with news about our upcoming Dealer Job Pack!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.14.10
+|July 26, 2024
+|
+|3.14.10
+
+What’s up, Bitizens! This week, we’ve got a round of bug fixes and maintenance! Keep hunting down those items for our Seven Deadly Sins Scavenger Hunt! It ends on 8/4 and you win a FREE accessory for completing the event! Keep checking our socials for updates and information!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.14.11
+|August 3, 2024
+|
+|3.14.11
+
+How's it going, Bitizens? This week, we've got a round of bug fixes and routine maintenance for y'all. We are hard at work getting ready for the DEALER JOB PACK release! What features are you hoping to see in the update? Hit us up on our socials and let us know!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.14.12
+|August 8, 2024
+|
+|3.14.12
+
+What's up, Bitizens? We've got another round of routine maintenance and bug fixes coming your way as we put the FINISHING TOUCHES on the DEALER JOB PACK! It's almost ready to hit the streets--are you excited?! Let us know on our socials what you're gonna do as a dealer first!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.15
+|August 17, 2024
+|Dealer Job Pack Update
+|3.15
+
+What's up, Bitizens! The wait. Is. OVERRR! The Dealer Job Pack is LIVE. If you have Boss Mode, you can access this new content by tapping "Special Career" and then selecting the Dealer Special Career. What kind of kingpin (or queenpin) will you be?
+
+Here's what's included:
+| -Join a cartel!
+-Deal to your friends and family!
+
+-Start gang wars!
+
+-Make your own products!
+
+-Become a kingpin!
+
+-New achievements!
+
+-SO MUCH MORE!
+
+Ready to rule the underworld? Let us know your wildest cartel moments on our socials!
+|
+|
+|-
+|3.15.1
+|August 19, 2024
+|
+|3.15.1
+
+What's up, Bitizens! The wait. Is. OVERRR! The Dealer Job Pack is LIVE. If you have Boss Mode, you can access this new content by tapping "Special Career" and then selecting the Dealer Special Career. What kind of kingpin (or queenpin) will you be?
+
+Here's what's included:
+
+-Join a cartel!
+
+-Deal to your friends and family!
+
+-Start gang wars!
+
+-Make your own products!
+
+-Become a kingpin!
+
+-New achievements!
+
+-SO MUCH MORE!
+
+Ready to rule the underworld? Let us know your wildest cartel moments on our socials!
+|Bug fixes from 3.15.
+|
+|
+|-
+|3.15.2
+|August 23, 2024
+|
+|What's up, Bitizens! The wait. Is. OVERRR! The Dealer Job Pack is LIVE. If you have Boss Mode, you can access this new content by tapping "Special Career" and then selecting the Dealer Special Career. What kind of kingpin (or queenpin) will you be?
+
+Here's what's included:
+
+-Join a cartel!
+
+-Deal to your friends and family!
+
+-Start gang wars!
+
+-Make your own products!
+
+-Become a kingpin!
+
+-New achievements!
+
+-SO MUCH MORE!
+
+Ready to rule the underworld? Let us know your wildest cartel moments on our socials!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.15.3
+|August 30, 2024
+|
+|3.15.3
+
+Greetings, Bitizens! This week, in addition to some routine maintenance and bug fixes, we're kicking off the Zodiac Scavenger Hunt! Follow the stars' signs and find all 12 items to unlock an EXCLUSIVE accessory!
+
+This event will run until 9/15, so you better hustle! As always, we'll be posting hints on our socials if you get stuck, so keep an eye on our pages throughout the event. While you're there, be sure to be on the lookout for important info and updates!
+|Introduces the Zodiac Scavenger Hunt.
+|
+|
+|-
+|3.15.4
+|August 31, 2024
+|
+|3.15.4
+
+Greetings, Bitizens! This week, in addition to some routine maintenance and bug fixes, we're kicking off the Zodiac Scavenger Hunt! Follow the stars' signs and find all 12 items to unlock an EXCLUSIVE accessory!
+
+This event will run until 9/15, so you better hustle! As always, we'll be posting hints on our socials if you get stuck, so keep an eye on our pages throughout the event. While you're there, be sure to be on the lookout for important info and updates!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.15.5
+|September 6, 2024
+|
+|3.15.5
+
+Hey Bitizens! We've got another round of maintenance and bug fixes coming your way in this week's update. How's the Zodiac Scavenger Hunt treating you? If you're stuck, here're a couple of hints:
+
+-Be the best violinist you can be!
+
+-Caught any crabs lately, sailor?
+
+Hurry and complete the hunt by 9/15 or you'll miss out on an EXCLUSIVE accessory! Hit us up on our socials for more hints--and to show off your bling!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.15.6
+|September 13, 2024
+|
+|3.15.6
+
+Greetings, Bitizens! This week, we're bringing you another round of bug fixes and routine maintenance. We are also offering a new bundle in the BitLife Marketplace: the Party Animal Bundle! Ready to unleash your wild side? This bundle includes the Zoo Expansion Pack, Superstar Mode, and the Get Out of Jail Free Card!!
+|Introduces the Party Animal Bundle.
+|
+|
+|-
+|3.15.7
+|September 19, 2024
+|
+|What's up, Bitizens! This week, in addition to bug fixes and maintenance, we're dropping a brand-new Item in the Marketplace: the Golden Neko Statue. This item increases the salary you earn in regular careers and Special Careers by 20%!! Be sure to check it out!
+
+As always, keep an eye on our socials for important updates and information--and to show off your favorite moments in the comments!
+|Introduces the Golden Neko Statue.
+|
+|
+|-
+|3.15.8
+|September 26, 2024
+|
+|v3.15.8
+
+What’s up, Bitizens? This week, we’ve got some bug fixes and routine maintenance for you. We’re also dropping a FREE new item in the BitLife Marketplace: a bag of Pixie Dust.
+
+What it does:
+
+Unlocks the “Fantasy Vacation” activity
+
+Allows you to go on vacation to fantasy destinations FOR FREE
+
+Head to the Marketplace to claim this FREE item ASAP! Don’t forget to share your adventures with us on our socials! While you’re there, be sure to check up on the latest news and info.
+|Introduces the Pixie Dust.
+|
+|
+|-
+|3.15.9
+|October 4, 2024
+|
+|v3.15.9
+
+What’s up, Bitizens? It’s officially spooky season and we’re going to be celebrating it BitLife-style all month long. Starting this week, you’ll see some spooktacular things pop up in the game!
+
+Here’s what’s up:
+
+The FREE Plastic Vampire Teeth item is available again in the Marketplace
+
+You can moonlight as a witch, zombie, or vampire
+
+Get into the spirit of the season by showing off your spooky Bitizen on our socials, and keep your eyes peeled for more holiday content later this month!
+|The Plastic Vampire Teeth is reintroduced for a limited time.
+|
+|
+|-
+|3.15.10
+|October 12, 2024
+|
+|v3.15.10
+
+What’s up, Bitizens? We’ve been exorcizing some ghastly bugs and performing maintenance throughout the app. This week, we’re launching the first-ever Halloween Scavenger Hunt! Find all 11 spooktacular totems in the game to claim a FREE accessory. The event will run until 11/4. If you get stuck, be sure to check our socials throughout the event for hints, tips, and tricks!
+
+Here’s one to get you started:
+
+- Poor Mummy
+
+Stay tuned for more info and updates on our socials!
+|Introduces the Halloween Scavenger Hunt.
+|
+|
+|-
+|3.15.11
+|October 18, 2024
+|
+|v3.15.11
+
+Greetings, Bitizens! We’re sending another round of bug fixes and routine maintenance this week. Are you enjoying the Halloween Scavenger Hunt? Remember: you only have until 11/4 to find all of the items and claim your FREE accessory! If you need some hints, check out our socials! While you’re there, read up on any new important news or updates!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.15.12
+|October 24, 2024
+|
+|v3.15.12
+
+Hey Bitizens! How’s the Halloween Scavenger Hunt (trick or) treating you guys? Remember to finish our haunted hunt by 11/4 to claim your FREE accessory!
+
+This week, we’ve got a new item hitting the BitLife Marketplace, dedicated to all of our besties: the Friendship Bracelet!
+
+What it does:
+
+- Guarantees people will befriend you when you ask
+
+- Guarantees enemies will become friends when you ask
+
+- Boosts relationships with new friends
+
+Hit us up on our socials and show us how many friends you’ve made!
+|Introduces the Friendship Bracelet.
+|
+|
+|-
+|3.15.13
+|October 25, 2024
+|
+|v3.15.13
+
+Hey Bitizens! How’s the Halloween Scavenger Hunt (trick or) treating you guys? Remember to finish our haunted hunt by 11/4 to claim your FREE accessory!
+
+This week, we’ve got a new item hitting the BitLife Marketplace, dedicated to all of our besties: the Friendship Bracelet!
+
+What it does:
+
+- Guarantees people will befriend you when you ask
+
+- Guarantees enemies will become friends when you ask
+
+- Boosts relationships with new friends
+
+Hit us up on our socials and show us how many friends you’ve made!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.15.15
+|October 31, 2024
+|
+|v3.15.15
+
+Happy Halloween, Bitizens! This week, we’ve been exorcising a few ghastly bugs that have been creeping around our attic. Just a reminder: the Halloween Scavenger Hunt is ENDING SOON on 11/4! Finish the hunt and claim your stylish shades before then! If you’re still stuck on a few of the requirements, here are a few hints:
+
+- Become a mortician
+
+- Fly a plane
+
+- Compliment a ghost
+
+Btw…got any guesses what our latest announcement post is about? Could it be the next expansion pack?
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.15.16
+|November 7, 2024
+|
+|v3.15.16
+
+What’s up, Bitizens? This week, we’ve got a round of bug fixes and routine maintenance for you all as we’re hard at work on our upcoming expansion pack! This one’s for all of the high rollers--bet it all on BITLIFE, baby! Check our socials for more updates and information!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.16
+|November 16, 2024
+|Casino Expansion Pack Update
+|v3.16
+
+What's up, high rollers!? The CASINO EXPANSION PACK is now available on the BitLife Marketplace! Run your very own casino, unlock mini-games, and more in this expansion pack!
+
+What's included:
+|<nowiki>-8 NEW casino games, including Texas hold'em!</nowiki>
+
+-Open your own casino!
+
+-Install game rooms!
+
+-Construct casino amenities!
+
+-Hire performers and celebrities to entertain at your casino!
+
+-Hang out with your celebrity artist-in-residence!
+
+-Discover ALL-NEW collectibles AND accessories!
+
+-SO MUCH MORE!!
+|
+|
+|-
+|3.16.1
+|November 17, 2024
+|
+|v3.16.1
+
+What's up, high rollers!? The CASINO EXPANSION PACK is now available on the BitLife Marketplace! Run your very own casino, unlock mini-games, and more in this expansion pack!
+
+What's included:
+
+-8 NEW casino games, including Texas hold'em!
+
+-Open your own casino!
+
+-Install game rooms!
+
+-Construct casino amenities!
+
+-Hire performers and celebrities to entertain at your casino!
+
+-Hang out with your celebrity artist-in-residence!
+
+-Discover ALL-NEW collectibles AND accessories!
+
+-SO MUCH MORE!!
+|Bug fixes from 3.16.1.
+|
+|
+|-
+|3.16.2
+|November 23, 2024
+|
+|Hey Bitizens! The CASINO EXPANSION PACK is now available! Run your own casino, unlock mini-games, and MORE!
+
+What's included:
+
+-8 NEW casino games, including Texas hold'em!
+
+-Open your own casino!
+
+-Hire celebrities to sing at your casino!
+
+-Date your celebrity performers!
+
+-ALL-NEW collectibles AND accessories!
+
+-AND MORE!!
+
+This week, we’re also launching the Thanksgiving Scavenger Hunt! Get all 10 items before it ends on 12/2 to receive a FREE accessory! Check out our socials for hints during the event!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.16.3
+|November 27, 2024
+|
+|v3.16.3
+
+What’s up, Bitizens! This week, we’ve got a round of bug fixes and routine maintenance heading your way. Don’t forget that the Thanksgiving Scavenger Hunt is LIVE until 12/2! Collect all 10 items to receive a FREE accessory!
+
+Here are some hints if you’re stuck:
+
+- Rob a bank dressed as Mrs. Doubtfire
+
+- Emigrate to Turkey
+
+- Taxidermy a bird
+
+We’re also dropping hints on our socials, so hit us up there if you need more help! Gobble up this free content!
+|Introduces the Thanksgiving Scavenger Hunt.
+|
+|
+|-
+|3.16.5
+|December 7, 2024
+|
+|v3.16.5
+
+Greetings, Bitizens! This week, we’ve got a round of bug fixes and routine maintenance. What have been some of your favorite BitLife moments this year? What would you like to see us release in 2025?? Hit us up on our socials and let us know! While you’re there, catch up with the latest news and info from BitLife HQ!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.16.6
+|December 16, 2024
+|
+|v3.16.6
+
+Season’s greetings, Bitizens! This week, in addition to our usual bug fixes and maintenance, we’re rolling out a new feature: BitLife Wrapped! Hit up the main menu to see the status of your personalized “Wrapped” video. Once it’s ready, tap on the button to watch a video summarizing your playstyle over the last year, including:
+
+How many people you’ve loved
+
+How many people you’ve offed
+
+How many babies you’ve had
+
+AND MORE
+
+Remember to share your video on social media! We LOVE OUR Bitizens!
+|Introduces "BitLife Wrapped", a video summarizing the player's progress throughout the year.
+|
+|
+|-
+|3.17
+|December 21, 2024
+|Luxury Lifestyle Update
+|v3.17
+
+Happy holidays, Bitizens! This week, we’re dropping the Luxury Lifestyle, an exclusive purchase that is available to players who’ve made at least $5M in a single life! This unlocks an all-new area of the game that allows you to enjoy the finer things in BitLife.
+
+What’s included:
+
+Own private islands!
+
+Purchase and customize luxury vehicles!
+
+Join elite secret societies!
+
+Attend VIP events!
+
+SO MUCH MORE!!
+
+Let your wealth work for you, and share how you choose to luxuriate with us on our socials!
+|Own private islands!
+Purchase and customize luxury vehicles!
+
+Join elite secret societies!
+
+Attend VIP events!
+
+SO MUCH MORE!!
+
+Let your wealth work for you, and share how you choose to luxuriate with us on our socials!
+|
+|
+|-
+|3.17.1
+|December 22, 2024
+|
+|v3.17.1
+
+Happy holidays, Bitizens! This week, we’re dropping the Luxury Lifestyle, an exclusive purchase that is available to players who’ve made at least $5M in a single life! This unlocks an all-new area of the game that allows you to enjoy the finer things in BitLife.
+
+What’s included:
+
+Own private islands!
+
+Purchase and customize luxury vehicles!
+
+Join elite secret societies!
+
+Attend VIP events!
+
+SO MUCH MORE!!
+
+Let your wealth work for you, and share how you choose to luxuriate with us on our socials!
+|Bug fixes from 3.17.
+|
+|
+|-
+|3.17.2
+|December 28, 2024
+|
+|v3.17.2
+
+Happy holidays, Bitizens! The Luxury Lifestyle, an exclusive purchase that is available to players who’ve made at least $5M in a single life, is LIVE! This unlocks an all-new area of the game that allows you to enjoy the finer things in BitLife.
+
+What’s included:
+
+Own private islands!
+
+Purchase and customize luxury vehicles!
+
+Join elite secret societies!
+
+Attend VIP events!
+
+SO MUCH MORE!!
+
+Let your wealth work for you, and share how you choose to luxuriate with us on our socials!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.17.3
+|January 10, 2025
+|
+|v3.17.3
+
+Happy New Year, Bitizens! We hope your holiday season has been very demure, very LUXURIOUS. This year, we’re cruising straight into gear with a fresh round of bug fixes and maintenance. We’re excited for what we have in store for BitLife this year and hope you’ll enjoy the ride. Keep an eye on our socials for important updates and information!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.17.4
+|January 17, 2025
+|
+|v3.17.4
+
+What’s up, Bitizens? This week, we’re bringing you another round of bug fixes and routine maintenance. Don’t forget that the BitLife Wrapped event is ending on 1/31! Be sure to download your personalized video before it ends.
+
+We’ve got some new features in the works, so stay tuned and keep an eye on our socials for more information and updates!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.17.5
+|January 24, 2025
+|
+|v3.17.5
+
+Greetings, Bitizens! We’ve got a lot going into this week’s update, starting with our first Lunar New Year Scavenger Hunt! Find all 10 lanterns hidden in the game during the event to earn a FREE accessory.
+
+Here are some hints to get you started:
+
+Adopt a pet
+
+Go to the gym
+
+We’ve also added:
+
+20 new heirlooms
+
+The ability to request a different heirloom to buy from the Luxury Lifestyle’s Curiosity Shop
+
+Check out our socials for more info and updates, as well as more hints for the scavenger hunt!
+|Introduces the Lunar New Year Scavenger Hunt.
+|
+|
+|-
+|3.17.6
+|February 3, 2025
+|
+|v3.17.6
+
+What’s up, Bitizens! This week, we’ve got a round of bug fixes and routine maintenance. Don’t forget that the Lunar New Year Scavenger Hunt is ongoing! Find all 10 lanterns hidden in the game to earn a FREE accessory!
+
+Don’t forget to check our socials for important news and updates!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.17.7
+|February 7, 2025
+|
+|What's up, Bitizens? This week, we've got another round of bug fixes and routine maintenance for you. Don't forget the Lunar New Year Scavenger Hunt is ending on 2/13! Be sure to find all 10 lanterns before then to claim your FREE accessory!
+
+If you need some hints:
+
+Learn a martial arts move
+
+Pray
+
+Adopt a pet
+
+If you need any more hints, hit us up on our socials! While you're there, keep an eye out for important info and updates!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.17.8
+|February 14, 2025
+|
+|v3.17.8
+
+Greetings, Bitizens! In addition to bug fixes and maintenance, we’ve got a few new things going into the game. First, our Valentine’s Day Scavenger Hunt is LIVE and will run until 2/28. Find all 10 candy hearts to receive a FREE accessory!
+
+We’re also introducing a new Item to the Marketplace: the Golden Wrench! This bad boy automatically maintains and repairs ALL of your vehicles. This covers all cars, watercraft, AND aircraft!
+
+Check out our socials for more info and updates! We LOVE our Bitizens!
+|Introduces the Valentine's Day Scavenger Hunt.
+|
+|
+|-
+|3.17.9
+|February 19, 2025
+|
+|v3.17.9
+What's up, Bitizens! This week, we've got a round of bug fixes and routine maintenance for you all. Don't forget to round up those candy hearts for the Valentine's Day Scavenger Hunt, and be sure to check out the Golden Wrench in the Marketplace! Keep an eye on our socials for news and important updates that might be cruising your way.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.17.10
+|February 23, 2025
+|
+|v3.17.10
+What's up, Bitizens! This week, we've got a round of bug fixes and routine maintenance for you all. Don't forget to round up those candy hearts for the Valentine's Day Scavenger Hunt, and be sure to check out the Golden Wrench in the Marketplace! Keep an eye on our socials for news and important updates that might be cruising your way.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.17.12
+|March 1, 2025
+|
+|v3.17.12
+What’s up, Bitizens! This week, we’ve got a round of bug fixes and maintenance heading your way as we continue to work on our next update! You’ll definitely want to make sure you’re keeping up with the news and info on our socials, so check us out when you can.
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.17.13
+|March 6, 2025
+|
+|3.17.13
+
+What's up, Bitizens? This week, our pit crew's been working hard fixing all sorts of bugs and performing routine maintenance. We like to keep our engine well-lubricated over here at BitLife HQ.
+
+Be sure to check out our socials for any news and important info. Our next update is coming down the pike, almost at the finish line. Are you excited?
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.17.14
+|March 16, 2025
+|
+|What’s up, Bitizens? This week, we’ve got another round of bug fixes and maintenance. We’re also putting the pedal to the metal as we work to release our next expansion pack as soon as possible for you guys--are you PUMPED?!
+
+Check out our socials for important updates and information! While you’re there, drop us a screenshot or two of your favorite moments! We love seeing what y’all get up to!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.17.15
+|March 21, 2025
+|
+|How’s it going, Bitizens? This week, we’re bringing you a round of bug fixes and maintenance. We’re so close to being done with our next big update--the finish line is in sight! Hang in there just a little while longer.
+
+Check our socials for more updates and important information! While you’re there, drop a screenshot of your favorite BitLife moment from the past week. We love seeing what y’all get up to!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.17.16
+|March 28, 2025
+|
+|v3.17.16
+
+Greetings, Bitizens! This week, we’re working hard at the pit stop to get the Racing Expansion Pack out to you as soon as possible. That means there’s another round of bug fixes and routine maintenance in this week’s update. What do you hope to see in the new expansion pack? What are you excited about? Hit us up on our socials and let us know!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.17.17
+|April 2, 2025
+|
+|v3.17.17
+
+What's up, Bitizens! This week, we've got another round of bug fixes and routine maintenance for you. The Racing Expansion Pack is JUST about to reach the finish line--are you excited?! Are you more of a street racing fan or a Formula One racing fan? We're just wondering.
+
+Head over to our socials for important information and updates! While you're there, let us know what you hope to see in this expansion pack!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.18
+|April 12, 2025
+|Racing Expansion Pack Update
+|What’s up, speed demons! The Racing Expansion Pack is now LIVE! We’ve also included some FREE content for ALL users!
+
+Here’s what’s free:
+
+- Drive around in your cars!
+
+- Place bets on F1 races!
+
+Here’s what’s in the expansion pack:
+
+- Get a FREE race car with purchase!
+
+- Compete in F1 races!
+
+- Burn rubber in illegal street races!
+
+- Trash cars in demo derbies
+
+- SO MUCH MORE!
+
+Hit us up on our socials with your favorite moments from the update! While you’re there, keep your eyes peeled for important updates and information!
+| - Drive around in your cars!
+- Place bets on F1 races!
+
+Here’s what’s in the expansion pack:
+
+- Get a FREE race car with purchase!
+
+- Compete in F1 races!
+
+- Burn rubber in illegal street races!
+
+- Trash cars in demo derbies
+|
+|
+|-
+|3.18.1
+|April 15, 2025
+|
+|What's up, racers?! The Racing Expansion Pack is now LIVE! We've also included some FREE content for ALL users!
+
+Here's what's free:
+
+- Drive around in your cars!
+
+- Place bets on F1 races!
+
+Here's what's in the expansion pack:
+
+- Get a FREE race car with purchase!
+
+- Compete in F1 races!
+
+- Burn rubber in illegal street races!
+
+- Trash cars in demo derbies
+
+- SO MUCH MORE!
+
+Hit us up on our socials with your favorite moments from the update! Keep looking out for important updates and information!
+|Bug fixes from 3.18.1.
+|
+|
+|-
+|3.18.2
+|April 18, 2025
+|
+|What's up, racers?! The Racing Expansion Pack is now LIVE! We've also included some FREE content for ALL users!
+
+Here's what's free:
+
+- Drive around in your cars!
+
+- Place bets on F1 races!
+
+Here's what's in the expansion pack:
+
+- Get a FREE race car with purchase!
+
+- Compete in F1 races!
+
+- Burn rubber in illegal street races!
+
+- Trash cars in demo derbies
+
+- SO MUCH MORE!
+
+Hit us up on our socials with your favorite moments from the update! Keep looking out for important updates and information!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.18.3
+|April 25, 2025
+|
+|What's up, racers! The Racing Expansion Pack is LIVE! There’s also some new FREE content for you to check out!!
+
+Here's what's free:
+
+Drive around in your cars!
+
+Place bets on F1 races!
+
+Here's what's in the expansion pack:
+
+Get a FREE race car with purchase!
+
+Compete in F1 races!
+
+Burn rubber in illegal street races!
+
+Trash cars in demo derbies
+
+SO MUCH MORE!
+
+Hit us up on our socials with your trophy cases and crazy moments from the update! Keep looking out for important updates and information!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.18.4
+|April 29, 2025
+|
+|What's up, racers! The Racing Expansion Pack is LIVE! There’s also some new FREE content for you to check out!!
+
+Here's what's free:
+
+Drive around in your cars!
+
+Place bets on F1 races!
+
+Here's what's in the expansion pack:
+
+Get a FREE race car with purchase!
+
+Compete in F1 races!
+
+Burn rubber in illegal street races!
+
+Trash cars in demo derbies
+
+SO MUCH MORE!
+
+Hit us up on our socials with your trophy cases and crazy moments from the update! Keep looking out for important updates and information!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.18.5
+|May 2, 2025
+|
+|What's up Bitizens! We hope you've been loving the Racing Expansion Pack! This week, we've got a round of bug fixes and routine maintenance for all of you. What do you think our next update's gonna be? What do you want to see? Hit us up on our socials and let us know! While you're there, drop in screenshots of your favorite moments from the Racing Expansion Pack!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.18.6
+|May 10, 2025
+|
+|What’s up, Bitizens?! This week, we’ve been doing some spring cleaning and have a round of bug fixes and routine maintenance headed your way.
+
+What’s new this week:
+
+Go to the Zoo! 50+ different animal species are just a couple taps away!
+
+New Challenges have been added to the Vault!
+
+Old Challenge bug fixes
+
+There’s a TON of new stuff coming soon, so just sit tight! Head over to our socials to catch the latest news and updates.
+|New challenges added to the Challenge Vault, including bug fixes for older ones.
+|
+|
+|-
+|3.18.7
+|May 16, 2025
+|
+|What’s up, Bitizens? This week, in addition to our usual bug fixes and routine maintenance, we’ve added some new achievements for you to earn! Check out the list in the Main Menu! Can you get 'em all?
+
+Quick question: what achievements would YOU like to see added to the game in the future? What are you most proud of doing in BitLife? Hit us up on our socials and let us know! While you’re there, read up on the latest news and info about our upcoming content drops.
+|Adds new achievements
+|
+|
+|-
+|3.18.8
+|May 23, 2025
+|
+|What’s up, Bitizens! This week, we’ve got a round of spring cleaning coming your way with some bug fixes and routine maintenance. Exciting things are just around the corner--what do you think we’re coming out with next? Hit us up on our socials and let us know!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.18.9
+|May 29, 2025
+|
+|Greetings Bitizens! This week, we’ve got a round of bug fixes and routine maintenance heading your way. We’re hard at work getting everything ready for you to touch grass in the Outdoor Lifestyle! What do you think will be in the update? Hit us up on our socials and let us know! While you’re there, be sure to catch up on the latest news and important updates!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.18.10
+|June 4, 2025
+|
+|Greetings, Bitizens! This week, we've got a new feature coming your way! You can now commit cybercrimes! Hack your friends, family members, and other randos who might just have it coming! You can access this feature from the "Crime" menu. We've got a lot more coming your way, so hit us up on our socials for all of the latest news and important updates.
+|Introduces cybercrime as a new option in the [[Crime]] menu.
+|
+|
+|-
+|3.19
+|June 13, 2025
+|Outdoors Lifestyle Pack Update
+|Get ready to touch grass, Bitizens! The Outdoors Lifestyle Pack is now available! We’ve also added Bicycles as a new feature for ALL users!
+
+Here’s what’s in the Lifestyle:
+
+Buy ATVs and dirt bikes!
+
+Go off-roading with friends!
+
+Camp with friends, family members, and pets!
+
+Hike and visit famous landmarks!
+
+Catch 45+ different types of fish!
+
+Encounter 30+ different animals, birds, and sea creatures!
+
+SO MUCH MORE!
+
+Hit us up on our socials for more info and updates! We hope you enjoy what we have in store!
+|Buy ATVs and dirt bikes!
+Go off-roading with friends!
+
+Camp with friends, family members, and pets!
+
+Hike and visit famous landmarks!
+
+Catch 45+ different types of fish!
+
+Encounter 30+ different animals, birds, and sea creatures!
+
+|
+|
+|-
+|3.19.1
+|June 14, 2025
+|
+|Get ready to touch grass, Bitizens! The Outdoors Lifestyle Pack is now available! We’ve also added Bicycles as a new feature for ALL users!
+
+Here’s what’s in the Lifestyle:
+
+Buy ATVs and dirt bikes!
+
+Go off-roading with friends!
+
+Camp with friends, family members, and pets!
+
+Hike and visit famous landmarks!
+
+Catch 45+ different types of fish!
+
+Encounter 30+ different animals, birds, and sea creatures!
+
+SO MUCH MORE!
+
+Hit us up on our socials for more info and updates! We hope you enjoy what we have in store!
+|Bug fixes from 3.19.
+|
+|
+|-
+|3.19.2
+|June 19, 2025
+|
+|Get ready to touch grass, Bitizens! The Outdoors Lifestyle Pack is now available! We’ve also added Bicycles as a new feature for ALL users!
+
+Here’s what’s in the Lifestyle:
+
+Buy ATVs and dirt bikes!
+
+Go off-roading with friends!
+
+Camp with friends, family members, and pets!
+
+Hike and visit famous landmarks!
+
+Catch 45+ different types of fish!
+
+Encounter 30+ different animals, birds, and sea creatures!
+
+SO MUCH MORE!
+
+Hit us up on our socials for more info and updates! We hope you enjoy what we have in store!
+|Miscellaneous bug fixes.
+|
+|
+|-
+|3.19.3
+|June 27, 2025
+|
+|What’s up, Bitizens! This week, in addition to our bug fixes and routine maintenance, we’re launching our Independence Day Scavenger Hunt! Collect all 10 ‘Murrica Badges we’ve hidden throughout the game to win an EXCLUSIVE accessory! The event ends on 7/10, so get to huntin'!
+
+Hints to get you started:
+
+- Buy an American car
+
+- Ask to be blessed
+
+- Flip burgers
+
+Hit us up on our socials for more hints throughout the event--good luck!
+|Introduces the Independence Day Scavenger Hunt.
+|
+|
+|}
+
+== '''Android Updates''' ==
+BitLife was released on Android on February 4, 2019. 39 major updates have released so far.
+{| class="sortable mw-collapsible mw-collapsed wikitable" style="text-align:left;" width="100%"
+|+
+
+!Update Number
+!Release Date
+!Update Name (if applicable)
+!Description
+!New/Tweaked Features
+!App Icon
+!Image (if applicable)
+|-
+|1.0
+|February 4, 2019
+|N/A
+|(Original version)
+|N/A
+|
+|
+|-
+|1.1.0
+|
+|
+|What's up, Android Bitizens? We're here with the first of MANY updates. This one is just a simple one that fixes some behind-the-scenes things you may not even notice. We also fixed a number of bugs that you so diligently reported to us.
+
+We're busy working around the clock on adding all of those features from iOS that you are asking for! Let us know via email or on our socials which ones you want first!
+
+Much love to our Android Bitizens!
+|Bug fixes
+|
+|N/A
+|-
+|1.1.3
+|
+|
+|Android Bitizens: wow, thanks for all of the incredible support! This update includes Social Media and the Movie Theater. It also includes a bunch of refinements and bug fixes you can't see but that will make your game run smoother.
+
+We're here prioritizing all of the features you are asking for. Keep hitting us up on our socials and telling us what we should be adding to the game. You want crime, right? Right??
+|Added Social Media
+|
+|N/A
+|-
+|1.2
+|
+|
+|Android Bitizens! You made us the #1 game in the United States this week and we are eternally grateful! So grateful, in fact, that here for you in this update is your most requested feature: MURDER. And pick-pocketing. And the driving test. And as much other stuff as we could humanly pack into a work week and keep our sanity.
+
+Thanks for your patience as we play catch up over the weeks ahead. Don't forget to hit us up on Twitter and Instagram to tell us what we should be prioritizing next.
+|
+*Added murder, pickpocketing and driving tests
+*Bug fixes
+|
+|N/A
+|-
+|1.3
+|
+|
+|We're back, Bitizens! Fresh out of BitLife HQ, here is another content update just for you! As always, keep letting us know on our socials what features you'd like us to be working on next.
+|
+*Grand theft auto!
+*View your past lives in the cemetery
+*Men can now father children outside of relationships
+*Practice safe sex, always
+*Miscarriages
+*Birthdays and star signs
+*Tons of little glitches fixed
+*More user interface updates
+|
+|N/A
+|-
+|1.4.0
+|
+|
+|What up, Android Bitizens? We've been working nonstop behind-the-scenes on your version of BitLife and are prepping a number of fun mini-games and your other most requested items. In the meantime, here is a new version with a number of graphical and interface updates, along with the DATING APP. So go get those sugar daddies/mommies. Oh yeah, we added eight more countries to the game where BitLife is HOT: we love you Portugal, Indonesia, Estonia, Norway, Finland, Romania, Denmark and Singapore!
+|
+*Improved GUI
+*Added dating app
+*Added [[Portugal]], [[Indonesia]], [[Estonia]], [[Norway]], [[Finland]], [[Romania]], [[Denmark]] and [[Singapore]]
+|
+|N/A
+|-
+|1.4.1
+|
+|
+|Android Bitizens: this is just a quick midweek update that fixes a couple of bugs! Meanwhile, we're hard at work on your most requested features like siblings and grandchildren. Watch this space...
+|Bug fixes
+|
+|N/A
+|-
+|1.5.0
+|
+|
+|Beloved Bitizens! It's only been a couple of weeks but we just added months worth of updates to your version of BitLife. Thanks for all of your amazing support on our socials. Keep your feedback coming!
+|
+*Grandchildren
+*Siblings
+*Nieces & nephews
+*Relationship activities
+*Watch your family's careers and love lives unfold
+*Bug squashing, including the issue that prevented custom names from coming through
+*More user interface updates
+|
+|N/A
+|-
+|1.5.1
+|
+|
+|We're back, Bitizens, and have fixed a few bugs from yesterday's update! Thanks for all of your support!
+|Bug fixes
+|
+|N/A
+|-
+|1.5.2
+|
+|N
+|We're back, Bitizens, and have fixed a few bugs from yesterday's update! Thanks for all of your support!
+|More bug fixes
+|
+|N/A
+|-
+|1.5.3
+|
+|
+|We.....................fixed.........some...more.lag!
+|Even more bug fixes
+|
+|N/A
+|-
+|1.6
+|
+|
+|Bitizens! We put in a ton of work on performance optimizations in this version to speed things up. We also cleaned up a number of reported glitches and added more relationship scenarios. This update will pave the way for us to add pets next!
+
+Thanks for all of your incredible support! Keep watching our socials for up-to-the-minute BitLife announcements, news, and happenings.
+|
+*Performance optimizations
+*Bug fixes
+*More relationship scenarios
+|
+|N/A
+|-
+|1.7.1
+|
+|Minigames Update
+|Bitizens! Mini-games have arrived for Android! Next up: pets...
+|
+* Prison escape mini-game
+* Burglary mini-game
+* Casino blackjack!
+* Horse races
+|
+|N/A
+|-
+|1.7.2
+|
+|
+|Bitizens! This is just a quick fix to address a couple of bugs in this week's mini-games update!
+|Bug fixes
+|
+|N/A
+|-
+|1.8.1
+|
+|Pets Update
+|Bitizens! We've been working like dogs to get PETS in for you! This has been by far your most popular request and we are delighted to deliver hundreds of them from alpacas to alley cats and lions to labradors! Take them to the vet, or the park, or on a stroll through the neighborhood. Or just cuddle up and spend time with them -- they won't bite. OK, maybe they'll bite.
+|Added pets
+|
+|N/A
+|-
+|1.8.2
+|
+|
+|Nothing to see here, Bitizens -- this is just a quick update to address a couple of bugs you've reported with the pets! We're hard at work on bringing you ribbons next! Much love from BitLife HQ...
+|Bug fixes
+|
+|N/A
+|-
+|1.8.3
+|
+|
+|Fewer bugs lie within! We're hard at work on bringing you ribbons next! Much love from BitLife HQ...
+|More bug fixes
+|
+|N/A
+|-
+|1.9.1
+|May 29, 2019
+|Ribbons/Fertility Update
+|Bitizens! At the end of each life you will now be rewarded with a special ribbon that commemorates that life. There are 30 ribbons to collect including Rich, Fertile, Scandalous, Jailbird, Wicked, Rowdy, Family Guy, Cat Lady, and many more! Also in this fertile new update are FERTILITY activities including sperm donation, vasectomy, and IVF! We'll be back soon with a bunch more features that are already in progress...
+|
+*Added 30 [[Ribbon|ribbons]]
+*Added fertility activities such as sperm donation, vasectomies & IVF
+|
+|N/A
+|-
+|1.10.1
+|
+|
+|What's up Bitizens? Some of your most requested features recently have been pre-nups, name changing (after marriage), salon and spa, and, of course, one of the hottest new items from iOS: lawsuits! We're thrilled to have gotten all of these in here for you on this update in addition to a ton of bug fixes and stability enhancements. Keep letting us know on our socials what you'd like us to focus on next!
+|
+*Added prenuptial agreements, marital name changing and lawsuits
+|
+|N/A
+|-
+|1.11.1
+|
+|
+|Hey Bitizens, this is a hugely important update that paves the way for all of the exciting features to come like ex-lovers, fame, and generations. There are a ton of visual refinements, organization work, and bug fixes included in this update. Thanks for all of your amazing patience and support!
+|
+*Added ex-lovers, fame and generations
+*Improved GUI
+*Bug fixes
+|
+|[[File:Generations_update_for_Android_announcement.jpg|95x95px]]
+|-
+|1.12.1
+|July 17, 2019
+|Drama Update
+|Bitizens, are you ready for drama? It's crazy all the things you can get up to with your exes. Reconnecting, rekindling, revenge, restraining orders...and that's just the letter 'R'. Enjoy and don't stalk them too hard. They have feelings too. Especially about you.
+|
+*Added more functions for exes
+|
+|N/A
+|-
+|1.13.1
+|August 16, 2019
+|Fame Update
+|Bitizens! Reach for the stars in this much anticipated Fame Update! This is one of your most popular requests and we're thrilled to deliver it to you now! So go get rich and famous. But watch out, there are pitfalls to fame too. Like paparazzi. And stalkers. And staying famous.
+|Added fame
+|
+|N/A
+|-
+|1.13.2
+|August 17, 2019
+|
+|Bitizens! This is just a quick update to address a couple of issues in this week's Fame Update!
+|Bug fixes
+|
+|N/A
+|-
+|1.14.1
+|September 23, 2019
+|Ketchup Update #1
+|Android Bitizens! We are overhauling our development of the app to bring you faster updates! Expect a lot more content in the weeks ahead. This is Ketchup Update #1!
+
+Keep watching our socials for up-to-the-minute BitLife announcements, news, and happenings.
+|
+* 500+ new scenarios
+* Achievements
+* Career collecting
+* More person emoji variety
+* Tons of smaller items
+* 12 new countries
+|
+|N/A
+|-
+|1.14.3
+|September 26, 2019
+|
+|Looks like the last update included an infinite aging vampire bug! This update should fix it -- thanks for your patience!
+|Fixed the infinite aging vampire bug
+|
+|N/A
+|-
+|1.15.1
+|October 16, 2019
+|Ketchup Update #2
+|Bitizens! We're back with another huge update that includes some of your most popular requests, including part-time jobs! This is Ketchup Update #2!
+
+Keep watching our socials for up-to-the-minute BitLife announcements, news, and happenings.
+|
+* Part-time jobs
+* Heirlooms
+* Military deployments
+* Job interviews
+* Pensions
+* Hoards of smaller items
+|
+|N/A
+|-
+|1.16
+|October 28, 2019
+|Haunted Update
+|Bitizens! We worked the graveyard shift this week to deliver this Haunted Update to you! We packed this one with mostly treats but also included a few tricks! Find them all and tag us on our socials with your favorite screenshots.
+|
+* Haunted houses
+* Poltergeists, phantoms, specters, and the like
+* Oodles of Halloween surprises
+* Time Machine
+* War zones
+* Interface tweaks & bug fixes
+|
+|N/A
+|-
+|1.17
+|November 22, 2019
+|School Update
+|Listen up! Class is in session, Bitizens! This is the much anticipated School Update and so much more!
+|
+* School life: activities, sports, cliques, school nurse, principal, etc.
+* Interact with your school classmates & teachers!
+* School tiers by country
+* Frats & sororities in The US & Canada
+* 8 new countries
+* Journals on graves
+* Bulldoze graves in the cemetery
+* More textual content & scenarios
+* Tons of bug fixes and refinements
+|
+|N/A
+|-
+|1.18
+|December 21, 2019
+|Generations Update
+|Bitizens! Here is one of the most popular requests since the release: GENERATIONS! Enjoy and be sure to follow us on socials for up-to-the-minute BitLife announcements!
+|
+* Continue as your child after you die
+* Try the same life over again if you wish
+* Arranged Marriages (beware: especially popular with immigrant parents!)
+* Will & Testament
+* Bug Squashes
+|
+|N/A
+|-
+|1.20
+|January 25, 2020
+|Office Update
+|This is a huge update, Bitizens: the Office Update! You loved the School Update so much that we figured you'd like to take some of that interpersonal drama and spread it out across the course of a career. And now you can. Annoying co-workers, unprofessional supervisors, hostile work environments, inappropriate behavior, HR investigations, reprimands & grievances, office love (and manipulation) all lie within. Enjoy and be sure to follow us on socials for up-to-the-minute BitLife announcements!
+|
+* Hundreds of workplace scenarios
+* Manage your relationships with co-workers and supervisors
+* Report troublesome colleagues to HR (but don't get reported yourself!)
+* Beg your supervisor to let you keep your job after being fired
+* New countries: [[Austria]], [[Bahamas]], [[DR Congo]], [[Costa Rica]], [[Kazakhstan]], [[Kenya]], [[Kuwait]], [[Lebanon]], [[Mongolia]], [[Nepal]], [[Ukraine]], & [[Vietnam]]
+* New childhood scenarios
+* Childhood boosts
+* All-new help center full of support articles (not exciting, we know, but real)
+* Bug squashes aplenty
+|
+|N/A
+|-
+|1.21
+|February 12, 2020
+|Prison Update
+|It's the PRISON UPDATE, Bitizens! Included are gangs, bribing the guards, conjugal visits, crying, care packages, an infirmary, juvenile detention, letters home, working out in the yard, parole boards, surly wardens, prison jobs, a prison riot mini-game, and much more! We've also caught up a bunch of other miscellaneous areas of the game and fixed a number of bugs. Don't forget to follow us on our socials for all of the latest BitLife news and happenings!
+|
+* Prison life -- everything you can imagine that happens in the slammer including gangs, interacting with other prisoners, bribing the guards, conjugal visits, crying, care packages, an infirmary, letters home, working out in the yard, parole boards, surly wardens, prison jobs, and more!
+* A whole new prison riot mini-game
+* New prison escape puzzles
+* Much more textual content
+* More new scenarios
+* A ton of bugs squashed and grammar/typo fixes (keep reporting them!)
+|
+|N/A
+|-
+|1.22
+|February 23, 2020
+|Crime Update
+|Bitizens! You've been asking for more crime and we've been listening. NEW in this update: bank robbery, shoplifting (beware of the mall cop!), train robbery, hitmen, delinquency, and more! We've also caught up a bunch of other miscellaneous areas of the game and fixed a number of bugs. So what are you waiting for? It's time to start messing up the lives of your characters more than ever before! Don't forget to follow us on our socials for all of the latest BitLife news and happenings!
+|
+* Bank robberies
+* Shoplifting
+* Train robberies
+* Hitmen
+* Delinquency
+* Bug fixes
+|
+|N/A
+|-
+|1.23
+|March 4, 2020
+|Mind & Body Update
+|It's update time AGAIN, Bitizens! This MIND & BODY update is jam-packed with new content! Included: Martial arts, diets, books, walks, gardening, disease symptoms, emergency room, psychiatrists, free healthcare by country, and more! We've also caught up a bunch of miscellaneous areas of the game and fixed a number of bugs. Don't forget to follow us on our socials for all of the latest BitLife news and happenings!
+|
+*Martial arts
+*Diets
+*Books
+*Walks
+*Gardening
+*Disease symptoms
+*Emergency room
+*Psychiatrists
+*Free healthcare (for certain countries)
+*Bug fixes
+|
+|N/A
+|-
+|1.24
+|March 22, 2020
+|Challenges Update
+|Bitizens! This update adds a whole new dimension to BitLife: CHALLENGES! Every week or so, we're going to launch a new live challenge for you and your friends to try and accomplish. You can also now make love to your significant other, go on birth control or ask your partner to do that, choose your baby's last name and circumcise your male children (both at birth) and have twins... or even triplets! We're kicking things off with the Alphabet Challenge, so quit reading and get competing!
+|
+* Challenges
+* Making love
+* Birth control
+* Choosing your baby's last name
+* Circumcising your male children
+* Have twins or triplets
+* Job Recruiter
+|
+|N/A
+|-
+|1.25
+|April 8, 2020
+|Stepfamily Update
+|Calling all Bitizens: Biological Bitizens, Half Bitizens, Adopted Bitizens, & Step-Bitizens! Hot off the compiler is another content-packed update! This Stepfamily Update focuses on stepparents, stepsiblings, stepchildren and everything in between. Family drama will never be the same! Also included in this update are multiple save slots so you can have as many concurrent lives going as you wish. Stay safe and relaxed, Bitizens!
+|
+*Stepfamilies
+*Multiple lives at the same time
+|
+|N/A
+|-
+|1.26
+|April 17, 2020
+|
+|Bitizens! We want to dedicate this update to all of you staying safe at home and looking for ways to escape reality! Given the circumstances, we decided you could all do with an update that packs a ton more content in the form of new ribbons and achievements. Enjoy Bitizens, and we'll be back again soon with a huge new update that many of you have been asking for!
+|Added more ribbons and achievements
+|
+|N/A
+|-
+|1.27
+|May 11, 2020
+|Luxury Update
+|Bitizens! You asked and we listened: we're proud to present the one & only LUXURY UPDATE! Put that hard-earned money to work in all new ways because BitLife now includes private planes, yachts, helicopters, blimps, hot air balloons, diamonds, and a whole lot more!
+|
+* Aircraft ownership 
+* Watercraft ownership
+* Jewelers and jewelry
+* Flight school & pilot's test
+* Earn your boating license
+* Engagement rings & proposals
+* Much more!
+|
+|N/A
+|-
+|1.28
+|June 13, 2020
+|God Mode Update
+|Bitizens! We've been hard at work grinding on your biggest update yet and are delighted to present it to you.
+|
+* God Mode! Edit anyone you want in game as you're playing! Set up your own stats and appearance on custom lives!
+* All-new person emojis
+* All-new salon: customize your appearance
+* Optometrist + eyes exam mini game
+* Dark Mode
+* Redesigned game elements
+* Tons of bugs fixed and misc improvments
+|
+|N/A
+|-
+|1.29
+|July 10, 2020
+|Social Media Update
+|Bitizens! It's time. Time for SOCIAL MEDIA. This update takes social media to the next level and paves the way for a career as an influencer! We've got a lot of exciting content coming up in the weeks ahead – don't forget to follow us on our real life socials to be the first to learn about it!
+|
+* Social Media now includes five platforms
+* Monetize your account through ads or product promotions
+* Pick your posts carefully and try to go viral!
+* Beware of trolls...or make trolls beware of you!
+* Collect celebrity followers
+* Buy followers, but be careful: doing so may land you in trouble
+* Watch out for hackers
+* Account suspensions and appeals
+* 10 new countries
+|
+|N/A
+|-
+|1.30
+|August 7, 2020
+|Friends Update
+|Bitizens! Here is one of your most popular requests: FRIENDS. Fair warning though: this Friends Update includes not just friends and best friends but also enemies. We'll leave it up to you as to who you keep closer.
+|
+*Make friends throughout your life
+* Befriend your classmates, teachers, co-workers, and even your supervisors
+* Turn your friends into best friends or enemies
+* Are you a bad friend? Maybe you'll become someone else's enemy!
+* Prank your friends, start rumors about them, give them advice, go partying, and many more hilarious interactions
+*Much more!
+|
+|N/A
+|-
+|1.32
+|August 28, 2020
+|Surprise Me Update
+|Hey Bitizens! We spent a lot of time cleaning up known bugs and improving the performance of the app. We also stacked it full of future challenges and added a "Surprise Me!" option for an exciting new twist to gameplay! We'll be back again soon with your Politics Update.
+|
+* "Surprise me" option allows the game to make tough decisions for you!
+|
+|N/A
+|-
+|1.33
+|September 15, 2020
+|Politics Update
+|It's POLITICS UPDATE time! Look after your citizens like we look after our Bitizens!
+|
+*Run for office – pick your party, platform, and budget
+*Work your way up from School Board Director to President
+*Keep your approval ratings up
+*Read the newspaper to stay abreast of the public's concerns
+*Pass or veto new laws
+*Broadcast speeches on the issues dear to your heart
+*Stage political rallies
+*Avoid (or accept) political favors!
+*Avoid impeachment at all costs!
+*Run for reelection!
+|
+|N/A
+|-
+|1.35 
+|February 6, 2021
+|
+|Bitizens! This new version fixes a number of bugs and updates the behind-the-scenes stuff that keeps the game running. Sending love from BitLife HQ...
+|Bug fixes
+|
+|N/A
+|-
+|2.1.1
+|April 19, 2021
+|Royalty Update
+|Long live the ROYAL UPDATE! Long live the BITLIFE CODE MERGE! Behold, Bitizens, an update that is fit for a king (or queen). It is our duty, honor, and privilege to deliver this king sized update to you today — the biggest BitLife update in history!
+|
+*Added Royalty
+*Temporarily removed [[Challenges]]
+|[[File:Android Royalty Icon.jpg|95px]]
+|[[File:Code_Merge_1.jpeg|95px]]
+|-
+|2.1.2
+|April 24, 2021
+|
+|Thank you, Bitizens, for your incredible reaction to this week's "Code Merge". In addition to all of the incredible Royal Update content, we love hearing about all of the features and details that you are now able to enjoy like gender identification, neopronouns, switching to your kids' lives before you die, half year age ups, the new font, custom cities, sharing finances with your spouses, and much more.
+
+This update adds back in Challenges and fixes a ton of issues that you've reported!
+|
+*Bug fixes
+*Re-added challenges
+|
+|N/A
+|-
+|2.2
+|April 30, 2021
+|Pro Sports Update
+|Bitizens: PRO SPORTS has arrived! Live the life of a pro athlete in this latest and greatest "Code Merge" update! Pick your sport, practice, try out with teams from leagues around the world, negotiate contracts, avoid injuries, resist temptations to cheat, rack up your stats, win championships, make millions, become famous, and maybe even earn an individual award or two as well! If you've ever fantasized about becoming a famous athlete, this is the BitLife update for you!
+|
+*Added professional sports leauges and championships
+*Added sports scholarships
+*Added doping
+*Added sports Hall of Fame and other awards
+*Added "sports" Special Ability
+|[[File:Android Pro Sports Icon.jpg|95px]]
+|[[File:Code Merge 2.jpg|95px]]
+|-
+|2.2.1
+|May 7, 2021
+|
+|This update includes a number of bug fixes to last week's PRO SPORTS Update along with a few new features such as the ability to import your address book contacts so that your friends and family appear as characters in the game! See you again next week, Bitizens, for the Pop Star Update!
+|
+*Bug fixes
+*Added import contacts feature
+|
+|
+|-
+|2.3
+|May 14, 2021
+|Pop Star Update
+|Bitizens! Have you ever dreamed of becoming a famous musician? A pop star? A rapper? A rock star? We've worked tirelessly to bring that experience to you in this all-new Pop Star Update! Master an instrument, sign your record contract, bank that cash advance and get poppin' on your first album! As always, tag us with your favorite screenshots on our socials! Enjoy, Bitizens!
+|
+*Added music career
+*Added record contracts
+*Added bands and solo careers
+*Added tours
+|[[File:Android Pop Star Icon.jpg|95px]]
+|[[File:Code Merge 3.jpg|95px]]
+|-
+|2.4
+|May 28, 2021
+|Mafia Update
+|The MAFIA UPDATE has arrived! Start your career as an associate and work your way up to godfather in this final "Code Merge" update!
+|
+*Join all types of global mafia families!
+*Get ordered to pull off hits, shakedowns, and crimes
+*Build and manage your notoriety and standing within your family
+*Become a "made man" (or lady!)
+*Rat out snitches
+*Extort local businesses and contribute to your family
+*Busted? Become a confidential informant!
+*Join the witness protection program!
+*MUCH more!
+|
+|
+|}<br />
+[[Category:Features]]
+[[Category:BitLife]]
+[[Category:Browse]]
+[[Category:Under construction]]
+[[Category:Updates]]

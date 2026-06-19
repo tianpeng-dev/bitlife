@@ -1,0 +1,23 @@
+{
+  "title": "Centenarian (Achievement)",
+  "pageid": 2649,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Centenarian_(Achievement)",
+  "categories": [
+    "BitLife",
+    "Life_Achievements"
+  ],
+  "links": [
+    "Achievements",
+    "Death",
+    "Nonagenarian (Achievement)",
+    "Octogenarian (Achievement)",
+    "Ribbon"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Centenarian_(Achievement)/content.html",
+    "wikitext": "pages/Centenarian_(Achievement)/content.wikitext",
+    "text": "pages/Centenarian_(Achievement)/content.txt"
+  }
+}

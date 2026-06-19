@@ -1,0 +1,182 @@
+Assets
+Launched on iOS:
+September 2018 (default)
+Launched on Android:
+February 2019 (default)
+In BitLife,
+assets
+are things you can buy and sell in the game. So far, there are only six types of assets you can get, which are cars, houses, jewellery, instruments, aircraft and boats. Once you turn 18, you can purchase them, although cars require a driver’s license, aircraft require a pilot's license and boats require a boating license to purchase. The age that you can get a license differs by country for drivers license. You can hold house parties at your houses you own to increase happiness. There is a chance that your spouse may pressure you into purchasing an asset if you lack either a house or car. When a character goes down a new
+generation
+, they will inherit any houses and cars owned by their late parent, unless the new character is under 18, then they will have the assets auctioned off, but will keep the profits.
+Contents
+1
+Houses
+1.1
+Investing Your Wealth
+2
+Amenities
+3
+Cars
+4
+Instruments
+5
+Jewelry
+6
+Aircraft & Boats
+Houses
+[
+]
+Houses can be as small and cheap as a trailer home or as giant and expensive as a ranch acreage. When getting a house, a player may buy it or get a mortgage. Houses are listed by price, have their own street address, and will say how many years old it is and what its condition is. Haunted houses will have a Hauntedness stat, meaning the more haunted it is, the more likely paranormal activities are to occur and usually has a higher number of
+Ghosts
+. The game will warn you before buying a haunted house. If all spirits are exorcised out of a haunted house, the haunted house will become a regular house. After selling a house, it will say how much money you made or lost on the property, with lots of earned money giving the
+Monopoly
+ribbon. A house is required to
+adopt
+.
+With houses, you can host a house party. Certain events might occur if a party is hosted.
+Everyone will have a great time.
+The police will show up because of a noise complaint. You can either apologize or argue. If the right choice is made, you are only left with a warning. Repeated complaints will make your characters' guests more likely to consume drugs or underage guests at the party might drink alcohol.
+There is a very high chance that the party guests are consuming drugs. If the police find out about it, you will be sent to jail for
+drug possession
+if guilty.
+Several of your party guests are underage drinkers and you will be sent to jail for supplying alcohol to minors if found guilty.
+One of your guests suffers has an accident, usually a drug overdose. You can either kick them out or carry them to the hospital. Your character will not be charged for this.
+Nobody will attend the party if you don't let a year pass first after the recent one.
+Investing Your Wealth
+[
+]
+Did you know that your assets can generate you a (somewhat) passive income? No? Well now you do!
+Of course you will need to have money in order to be able REALLY turn a profit, but given enough of it things can become quite valuable. Do keep in mind that real estate is the only asset you can make a profit on, so that may be a barrier for your Character depending on it's financial situation. One other thing to note, jewelry may seem like a decent place to invest your money if you are planning on storing your money to be handed down to your bitizen's child when you switch to them. But unlike houses, jewelry decreases in value each year, even if you constantly maintain them each year.
+When buying houses, there are 4 things to make note of:
+Cost (obviously)
+Quality
+Mortgage Rate
+Whether or not it's haunted
+With the cost you want to buy as high as your bitizen can afford (becoming an actor for a generation or two is very nice, because you can make millions rather easily). Although the exact percentage increase per year of the houses value is currently unknown, but the higher the base cost, the more the value will increase each year. If you can't afford a million dollar house, don't worry about it, you can buy multiple properties. The longer you keep the house in your family the more profit you will gain, so be patient. The quality also has a play in the value of the house, but at the very least it makes the property easier to sell.
+The higher quality of a house the better. Not only does that mean you don't need to renovate it so that you don't lose it, but it also means the mortgage rate won't increase as a result of renovating; More details on this will be given in the next paragraph. Plus it will make it easier to sell the house if you are in a pinch.
+Mortgage Rate is a bit annoying, because even if you buy the house with cash you still need to pay for the property each month. So you will need to
+pay that cost * 12 each year
+. When your assets are passed down to your children as a result of switching lives, you will be charged that fee regardless of your age, so make sure you are able to pay it off until your bitizen hits 18/finishes school and can manage the upkeep. These rates add up quick, so if you plan on buying an $8 million mansion that you plan on passing down and it's upkeep is 20k, you may want to wait for another one to come onto the market. Be careful renovating your homes, that will increase the mortgage rate for the house, which is less than desirable for a 3-year old bitizen with no money to their name. Spending more money on renovating a house when it's low rather than renovating it little by little in order to keep it in tip top shape should help mitigate the ever increasing mortgage rate.
+A property being haunted shouldn't matter too much as far as I, the writer of the investing segment, am aware of. It will decrease the value of your house, and it would make sense if it caused the quality of the house to deteriorate quicker if the ghost is a poltergeist or something. But it will annoy your neighbors, and they will most likely file complaints against you.
+Amenities
+[
+]
+There are a number of amenities you can use to raise your property's value or for the character to use, as long as they aren't rented out. While constructing amenities, reputation of the Project's Contractor determines whether the contractor complete the project with all the budget, under the badget or over the budget in which you have to pay the excess budget.
+Amenity
+Value
+Increase
+Price
+Range
+Sauna
+5%
+7.5k - 10.2k
+Swimming Pool
+4%
+47.7k - 58.3k
+Patio
+4%
+13.1k - 16.5k
+Observatory
+3.5%
+39.3k - 49k
+Cryo Chamber
+3%
+31.1k - 38.2k
+Infinity Pool
+3%
+100.6k - 122.8k
+Vineyard
+3%
+Wine Cellar
+2%
+Panic Room
+2%
+25.1k - 32.1k
+Tennis Court
+2%
+Bioluminescent
+Landscaping
+1.5%
+Housekeeping
+Robot
+1.5%
+109.9k - 122k
+Pottery Studio
+1%
+42.8k - 56.5k
+Adult Playroom
+1%
+22.2k - 27.5k
+Sweat Lodge
+1%
+38.1k - 50.3k
+Gym
+1%
+12.9k - 16.4k
+Panoramic Reading Room
+1%
+37.2k - 44.5k
+Yoga Studio
+1%
+27.6k - 33.3k
+Hot Tub
+0.6%
+6.6k - 8.8k
+Cocktail Bar
+0.5%
+14.2k - 18.1k
+Smokehouse
+0.5%
+Photography
+Darkroom
+0.5%
+20k - 28.5k
+Outhouse
+0.5%
+4.2k - 5.3k
+Koi Pond
+0.3%
+10k - 12.9k
+Game Room
+0.25%
+10k - 12.3k
+Selfie Studio
+0.15%
+6.2k - 6.8k
+Fire Pit
+0.1%
+2.5k - 3.1k
+Tetherball Court
+0.1%
+1.7k - 2.2k
+Cars
+[
+]
+If the character passes their driver's test, they can shop for cars when turn 18. Depending on the parent(s)
+generosity and money
+they can buy the player a car. They can either accept or deny the car or ask for a more expensive car. If they ask for a more expensive car, their parents will either agree to buy them a more expensive car, tell them it's the car they are offered or nothing, or call the player an insult and not buy them a more expensive car, and also deny them the car that was offered first. Cars may also be purchased at a car dealership and can be new or used. Cars may also be stolen via Grand Theft Auto in the
+Crime
+tab and a successful steal will get your character a car, however it can be tracked down by the cops. Occasionally if the player does not have
+Notifications
+turned on, the BitLife devs may offer them a free car if they turn them on. The three methods of ownership are Outright, Bought, or Stolen. Your character can sell cars for money and may set their own prices in the
+IOS version
+and
+customers
+may haggle the price.
+In random events you can get in an accident and have to get the car repaired. If the car is stolen, the repair shop may be able to mark it as stolen and you will be
+arrested
+. If a car is old enough, especially if its not given a routine maintenance, it will shut down and the player will be forced to scrap it. Unlike houses and jewelry, however, the car's condition bar does not raise and it's condition will still deteriorate as you age, no matter how many times you maintain it. Characters can also sell their cars and can sell stolen cars through the black market, but the latter may run the risk of selling stolen cars to an undercover cop. In other random events, another driver can make you angry if you try to run them off the road you most likely will fail or get in a accident which can be fatal. But if you succeed the driver will either go off a cliff or get into a nasty accident. You can now give cars to family and friends which will usually have them compliment you and improve relationship. However in unfortunate cases, they could crash the car and even die in the crash. They may turn you to the police if they find out the car was stolen.
+Instruments
+[
+]
+You can purchase up to 20 instruments, some of them will be used and some of them will be in brand-new condition. Parents may also offer you one when you take lessons during your childhood. You can sell them, tune them, polish them, discard them, play with them and donate them to charity.
+Jewelry
+[
+]
+There are currently 4 types of jewellery that you can own in BitLife. These are rings, earrings, pendants and charms. There are 2 different jewellers. Real and fake. Real jewellery will cost higher than fake ones since they are legitimate. But fake ones will cost much lower because they are fake. You can appraise, gift, discard, sell and donate (to charity) jewellery. Appraising a jewel gives a value for the jewel you own. You can also propose to lovers with rings which will increase the chances that they will accept it. Note that if you are caught gifting(or selling) fake jewellery, you will get charged with fraud.
+Aircraft & Boats
+[
+]
+In order to own an aircraft, you must have a pilot's license. You can sell, gift, scrap, or go for a ride in your aircraft. The scrapyard will give you some money when you scrap the aircraft. You might encounter problems with your aircraft (mostly crashes) if they are in poor condition. You can survive but end up dying too, or manage to wake up from it after discovering that it is a nightmare and earn an
+achievement
+. Just like aircraft, you must have a boating license in order to acquire boats. Currently, boats don't function much differently than aircraft.

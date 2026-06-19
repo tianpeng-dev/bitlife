@@ -1,0 +1,172 @@
+{{Infobox country
+|title1=Hong Kong
+|image1=[[File:Hong Kong.png]]
+|caption1=Hong Kong's flag.
+|country_name=Hong Kong
+|number_of_default_cities=2
+|when_was_it_added_to_ios=October 2019
+}}
+'''Hong Kong''' is a [[Nations|nation]] that was on BitLife in October 2019. Its default cities are the capital, Hong Kong, along with Kowloon.
+
+Hong Kong was added as a new country to BitLife in late October 2019 during the Haunted Update, as the only non-Haunted addition to the game. [[Czech Republic]], [[Ecuador]], [[Malaysia]], [[Monaco]], [[Morocco]], [[Pakistan]], and [[Syria]] were also added at the same time.
+
+== Name List ==
+
+=== Male First Names ===
+* Aiguo
+* Bojing
+* Bolin
+* Da
+* Delun
+* Deming
+* Dong
+* Donghai
+* Fa
+* Fang
+* Fu
+* Gang
+* Gen
+* Gui
+* Guoliang
+* Hai
+* Han
+* Jiayi
+* Jing
+* Junjie
+* Kang
+* Lei
+* Liu
+* Liwei
+* Longwei
+* Nianzu
+* Peng
+* Ping
+* Qing
+* Qiu
+* Quan
+* Renshu
+* Rong
+* Shanyuan
+* Shi
+* Shirong
+* Song
+* Tengfei
+* Weimin
+* Wenyan
+* Xiaoli
+* Yanlin
+* Ye
+* Ying
+* Yingpen
+* Yong
+* Yun
+* Yunru
+* Zihao
+* Zixin
+
+=== Female First Names ===
+* Ai
+* Ah Kum
+* Bai
+* Bi
+* Chang
+* Chyou
+* Diu
+* Fan
+* Fung
+* Guang
+* Huian
+* Huifang
+* Huilang
+* Jiahui
+* Jiao
+* Jingfei
+* Kwong
+* Li qin
+* Lian
+* Liling
+* Linqin
+* Luli
+* Meiying
+* Mingmei
+* Niu
+* Nuo
+* Peizhi
+* Qiang
+* Rong
+* Shan
+* Shuchun
+* Teegan
+* Ting
+* Wan
+* Wei
+* Xiang
+* Xiaofan
+* Xiaohui
+* Xiu
+* Yan
+* Yanyu
+* Yingtai
+* Yuan
+* Yubi
+* Yuke
+* Yun
+* Zhilan
+* Zhu
+* Zi
+* Zongying
+
+=== Surnames ===
+* Biao
+* Chan
+* Cheung
+* Choi
+* Chong
+* Chun
+* Dai
+* Ding
+* Duen
+* Fok
+* Fu
+* Fung
+* Go
+* Heung
+* Ho
+* Hon
+* Hui
+* Kwan
+* Kwok
+* Lam
+* Lau
+* Li
+* Man
+* Ng
+* Pang
+* Poon
+* Sung
+* Tang
+* Tong
+* Tsang
+* Tse
+* Tsui
+* Tung
+* Wah
+* Wang
+* Wing
+* Wong
+* Wu
+* Yan
+* Yat
+* Yau
+* Yeoh
+* Yeung
+* Yuen
+* Zhang 
+* Zhou
+
+== Gallery ==
+<gallery>
+File:Hong Kong baby.jpeg|A baby born in Hong Kong.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

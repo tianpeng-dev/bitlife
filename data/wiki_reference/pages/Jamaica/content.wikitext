@@ -1,0 +1,18 @@
+{{Infobox country
+|title1=Jamaica
+|image1=[[File:Jamaica.png]]
+|caption1=Jamaica's flag.
+|country_name=Jamaica
+|number_of_default_cities=2
+|when_was_it_added_to_ios=September 2018 (original)
+}}
+'''Jamaica''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Kingston, along with Montego Bay.
+
+== Gallery ==
+<gallery>
+File:Jamaica baby.jpeg|A baby born in Jamaica.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

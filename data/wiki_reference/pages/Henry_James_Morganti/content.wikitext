@@ -1,0 +1,19 @@
+{{infobox character
+ | name         =Henry James Morganti
+ | image        =
+ | imagecaption =
+ | aliases      =
+ | relatives .  =
+ | affiliation  =
+ | marital      =
+ | birthDate    =
+ | birthPlace   =
+ | deathDate    =
+ | deathPlace   =
+ | species      =
+ | gender       =
+ | height       =
+ | weight       =
+ | eyes         =
+}}
+[[Category:Fan Characters]]

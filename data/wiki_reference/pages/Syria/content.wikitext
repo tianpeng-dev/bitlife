@@ -1,0 +1,23 @@
+{{Infobox country
+|title1 = Syria
+|image1 = [[File:Syria.png]]
+|caption1 = Syria's flag.
+|country_name = Syria
+|number_of_default_cities = 2
+|when_was_it_added_to_ios = October 2019
+|available_on_android_as_well = Yes
+}}'''Syria''' is a [[Nations|country]] that was on BitLife in October 2019. Its default cities are the capital, Damascus, along with Aleppo.
+
+Syria was added as a new country to BitLife in late October 2019 during the Haunted Update, as the only non-Haunted addition to the game. [[Czech Republic]], [[Ecuador]], [[Hong Kong]], [[Malaysia]], [[Monaco]], [[Morocco]], and [[Pakistan]] were also added at the same time.
+
+==Information==
+Despite being an Islam-based country, female characters in BitLife will not wear hijabs when they are adults, unlike [[Afghanistan]], [[Iran]], [[Iraq]], [[United Arab Emirates|UAE]], or [[Saudi Arabia]]. If a female does not originally have one before emigrating, her emoji will be replaced with one that does. If she emigrates to a non-Islam based country, her hijab may be removed. Female lovers or hook-ups who originate from one of these countries will have her hijab.
+
+Syria, along with [[Afghanistan]], [[Angola]], [[Belize]], [[El Salvador]], [[Guatemala]], [[Guyana]], [[Haiti]]. [[Iraq]], [[Pakistan]], [[Papua New Guinea]] and [[Venezuela]], are the 12 countries in the game where [[Death|deaths]] are influenced by the country a character is from, in this case, characters can die from unexpected terrorist or battlefield attacks. Being killed by an attack under the age of 30 will give your character the ''Unlucky'' ribbon, making it easier to obtain (though there is a chance that they may end up getting a different ribbon besides ''Unlucky''). [[Family]] members can also die from these as well and it is likely that a parent or parents will die while your character is still very young.
+
+== Gallery ==
+<gallery>
+File:Syria baby.jpeg|A baby born in Syria.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

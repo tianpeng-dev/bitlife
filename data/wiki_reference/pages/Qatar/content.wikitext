@@ -1,0 +1,11 @@
+{{Infobox_country|caption1=Qatar's flag.|country_name=Qatar|number_of_default_cities=1|when_was_it_added_to_ios=May 2020|available_on_android_as_well=Yes|image1=Qatar.png}}
+
+'''Qatar''' is a [[Nations|country]] that was added to [[BitLife: Life Simulator|BitLife]] in the May 10, 2020 update, alongside [[Algeria]], [[Bangladesh]], [[Bolivia]], [[Croatia]], [[Georgia]], [[Hungary]], [[Jordan]], [[Slovakia]], and [[Zimbabwe]]. The only default city is its capital, Doha.
+
+== Gallery ==
+<gallery>
+File:Qatar baby.jpeg|A baby born in Qatar.
+File:Qatari royalty.jpeg|A baby born into Qatari royalty.
+</gallery>{{Nations}}
+[[Category:Nations]]
+[[Category:BitLife]]

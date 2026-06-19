@@ -1,0 +1,290 @@
+{{Infobox country
+|title1=Cuba
+|image1=[[File:Cuba.png]]
+|caption1=Cuba's flag.
+|country_name=Cuba
+|number_of_default_cities=1
+|when_was_it_added_to_ios=September 2018 (default)
+}}
+'''Cuba''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are only the capital, Havana.
+
+== Name List ==
+=== Male First Names ===
+* Adniel 
+* Alberto 
+* Alejandro 
+* Alessandro 
+* Alexey
+* Alfredo 
+* Aliet 
+* Amel 
+* Andy 
+* Aniel 
+* Angel
+* Antonio 
+* Antual 
+* Antuan 
+* Arabel 
+* Arezki 
+* Arian 
+* Alani 
+* Armando 
+* Arnaldo 
+* Aroldis 
+* Arturo 
+*
+* Alex
+* Andre
+* Andrew
+* Alberto
+* Alejandro
+*
+* Amel
+* Andy
+* Antonio
+* Ary
+* Aziel 
+* Antual
+* Arezki
+* Arian
+* Aroldis
+* Arturo
+* Adriel 
+*
+* Aniel
+* Angel
+*
+* Benito
+* Bruno
+* Camilo 
+* Carlos
+* Cristian
+* Christian 
+* Daris
+* Dayron
+* Deylert
+* Dezi
+* Desi
+* Daniel 
+* David 
+* Diego 
+* Alejandro
+*
+* Edel
+* Edward
+* Ernesto
+* Emmanuel 
+* Esteban 
+* Ezequiel 
+* Francisco 
+* Fernando 
+* Franco
+* Felix
+* Fidel
+* Floro
+* Guillermo
+* Haniel
+* Isidoro
+* Jasiel
+* Jamie
+* Joel
+* Jesus
+* Josue
+* Jayden
+* Jorge
+* Jose
+* Juan
+* Juan Diego 
+* Juan Jose 
+* Juan Pablo
+* Juan Sebastian 
+* Julian 
+* Karel
+* Luis
+* Marco
+* Marcos
+* Maikel
+* Miguel
+* Noslen
+* Odel
+* Orlando
+* Osmany
+* Pablo
+* Paulo
+* Raul
+* Reinier
+* Roberto
+* Ruslan
+* Simon
+* Sebastian 
+* Samuel
+* Sammy
+* Thiago 
+* Tomas
+* Yadiel
+* Yaniel
+* Yasiel 
+* Yanko
+* Yasmani
+* Yoenis
+* Yonder
+* Yoel
+* Yudel
+
+=== Female First Names ===
+* Adamina
+* Aleid
+* Aleida
+* Aleyna
+* Ana
+* Ana Sofia 
+* Alianne
+* Aliet
+* Anay
+* Anna
+* Annalie
+* Annia
+* Arianna
+* Maria
+* Anna
+* Antonella 
+* Annalisse 
+*
+* Bianca 
+* Carolina
+* Claudia
+* Daimy
+* Daisy
+* Daylen
+* Daylin
+* Diana
+* Daniela 
+* Dianelys
+* Elianne
+* Elienay
+* Elizabeth
+* Emely
+* Fernanda 
+* Gabriela
+* Gillian
+* Hanny
+* Idania
+* Irela
+* Irena
+* Ivet
+* Ivia
+* Kamila
+* Keilan
+* Karen 
+* Kelly
+* Laritza
+* Lucia
+* Laura
+* Lauren
+* Lili
+* Lilliam
+* Liset
+* Lismary
+* Lissandra
+* Lissette
+* Liz
+* Loraine
+* Malu
+* Maria
+* Maria Fernanda 
+* Marcia 
+* Michelle
+* Mariam
+* Marise
+* Marlene
+* Maydelis
+* Maylin
+* Odalys
+* Rachel
+* Sofia 
+* Sara
+* Vida
+* Yadira
+* Yanara
+* Yvette
+
+=== Surnames ===
+* Abasto
+* Acosta
+* Aguinaldo
+* Alcocer
+* Alonso
+* Alvarez
+* Arenas
+* Arnaz
+* Arnau
+* Arnal
+* Barrueco
+* Batista
+* Cadaval
+* Capmany
+* Castro
+* Colon
+* Cotilla
+* Castillo 
+* Cruz
+* Diaz
+* Dominguez
+* Estefan
+* Fernandez
+* Fuentes
+* Flores 
+* Garcia
+* Gil
+* Gomez
+* Gonzalez
+* Gutierrez
+* Hernandez
+* Jimenez
+* Lopez
+* Madrid
+* Mariano
+* Martin
+* Martinez
+* Mina
+* Moreno
+* Munoz
+* Navarro
+* Obregon
+* Palacio
+* Pareja
+* Perez
+* Pousa
+* Prieto
+* Puig
+* Ramirez 
+* Ramos
+* Rios
+* Rodrgieuz
+* Romero
+* Ramirez 
+* Rouco
+* Ruiz
+* Salazar
+* Sanchez
+* Santos 
+* Tafalla
+* Tasis
+* Tenorio
+* Torres
+* Valerio
+* Vanegas
+* Vazquez
+* Vera
+* Xirau
+* de Leon
+* de Los Santos 
+
+== Gallery ==
+<gallery>
+File:Cuba baby.jpeg|A baby born in Cuba.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

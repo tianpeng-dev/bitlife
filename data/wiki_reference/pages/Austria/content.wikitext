@@ -1,0 +1,196 @@
+{{Infobox country
+|title1=Austria
+|image1=[[File:Austria.png]]
+|caption1=Austria's flag.
+|country_name=Austria
+|number_of_default_cities=2
+|when_was_it_added_to_ios=December 19, 2019
+}}'''Austria''' is a [[Nations|country]] that was on BitLife in December 2019. Its default cities are the capital, Vienna, along with Salzburg.
+
+In December 2019 on iOS; new countries were added. Along with Austria; there was also Bahamas, Costa Rica, DR Congo, Kazakhstan, Kenya, Kuwait, Lebanon, Mongolia, Nepal, Ukraine, and Vietnam. This was added in the ''Friends'' Update.
+== Name List ==
+=== Male First Names ===
+* Adam
+* Adrian 
+* Alex
+* Alexander
+* Andreas
+* Arnold 
+* Ben
+* Benjamin
+* Bruno
+* Christoph
+* Clemens
+* Daniel
+* David
+* Dominik
+* Elias
+* Erik
+* Fabian
+* Felix
+* Florian
+* Gabriel
+* Jakob
+* Johannes
+* Jonas
+* Julian
+* Kilian
+* Konstantin
+* Lenny
+* Leo
+* Leon
+* Lorenz
+* Luca
+* Lucas
+* Lukas
+* Marco
+* Marcos 
+* Marcel
+* Markus
+* Martin
+* Matteo
+* Matthias
+* Maximilian
+* Michael
+* Moritz
+* Nico
+* Niklas
+* Nikola
+* Noah
+* Paul
+* Philipp
+* Raphael
+* Samuel
+* Sebastian
+* Sigmund
+* Stefan
+* Tobias
+* Tom
+* Valentin
+* Vincent 
+* William 
+* Wolfgang
+
+=== Female First Names ===
+* Alina
+* Amelie 
+* Angela 
+* Angelica 
+* Angelina
+* Anna
+* Anne
+* Annika
+* Bettina
+* Carian
+* Chiara
+* Clara
+* Elena
+* Elisa
+* Emilia
+* Emily
+* Emma
+* Ella
+* Eva
+* Hannah
+* Helena
+* Isabel
+* Isabell
+* Isabella 
+* Isabelle
+* Jana
+* Jasmin
+* Johanna
+* Julia
+* Katharina
+* Lara
+* Laura
+* Lea
+* Lena
+* Leonie
+* Lily
+* Lilly
+* Lisa
+* Luisa
+* Magdalena
+* Maja
+* Maria
+* Marie
+* Marlene
+* Melanie
+* Mia
+* Natalie
+* Nina
+* Nora
+* Paula
+* Pia
+* Sara
+* Sarah
+* Selina
+* Sophia
+* Sophie
+* Valentina
+* Vanessa
+* Viktoria
+
+=== Surnames ===
+* Aigner
+* Abel
+* Auer
+* Bauer
+* Bach 
+* Balsiger 
+* Beethoven
+* Binder
+* Brunner
+* Ebner
+* Egger
+* Fischer
+* Freud
+* Fritz
+* Fuchs
+* Gruber
+* Haas
+* Heilig
+* Hofmann
+* Kainz
+* Koller
+* Konig
+* Lechner
+* Lehner
+* Leitner
+* Lindner
+* Maier
+* Mayer
+* Mayr
+* Moser
+* Mozart
+* Muller
+* Martin
+* Pichler
+* Schmid
+* Schmidt
+* Schmitz 
+* Schneider
+* Schuster
+* Schwartz
+* Schwartzenegger
+* Samuel
+* Tesla
+* Unger
+* Wagner
+* Weber
+* Wiesinger
+* Wimmer
+* Winter 
+* Wolf
+* Zimmer 
+* Zimmermann 
+
+== Gallery ==
+<gallery>
+File:Austria baby.jpeg|A baby born in Austria.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

@@ -1,0 +1,21 @@
+{
+  "title": "Anna Bauer",
+  "pageid": 5548,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Anna_Bauer",
+  "categories": [
+    "Criminals",
+    "Fan_Characters",
+    "Germans"
+  ],
+  "links": [
+    "Eberhard Werner",
+    "Mattis Bauer"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Anna_Bauer/content.html",
+    "wikitext": "pages/Anna_Bauer/content.wikitext",
+    "text": "pages/Anna_Bauer/content.txt"
+  }
+}

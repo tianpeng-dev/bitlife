@@ -1,0 +1,24 @@
+{
+  "title": "Challenges",
+  "pageid": 2060,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Challenges",
+  "categories": [
+    "BitLife",
+    "Features",
+    "Life_Achievements",
+    "Updates"
+  ],
+  "links": [
+    "Accessories",
+    "Age",
+    "Android version",
+    "IOS version"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Challenges/content.html",
+    "wikitext": "pages/Challenges/content.wikitext",
+    "text": "pages/Challenges/content.txt"
+  }
+}

@@ -1,0 +1,70 @@
+{{Infobox country
+|title1=Guatemala
+|image1=[[File:Guatemala.png]]
+|caption1=Guatemala's flag.
+|country_name=Guatemala
+|number_of_default_cities=
+|when_was_it_added_to_ios=July 8, 2022
+}}'''Guatemala''' is a [[Nations|country]] that was added to [[BitLife: Life Simulator|BitLife]] in July 8, 2022.
+
+On July 8, 2022, new countries were added to both iOS and Android. Along with Guatemala, there was also [[Andorra]], [[Angola]], [[Aruba]], [[Belize]], [[El Salvador]], [[Guyana]], [[Haiti]], [[Nicaragua]], [[Papua New Guinea]], [[Paraguay]], [[Samoa]], [[Tunisia]], and [[Uganda]]. This was added in a bug fix update prior to the upcoming Business Update.
+
+==Information==
+
+Guatemala, along with [[Afghanistan]], [[Angola]], [[Belize]]. [[El Salvador]], [[Guyana]], [[Haiti]], [[Iraq]], [[Pakistan]], [[Papua New Guinea]], [[Syria]] and [[Venezuela]], are the 12 countries in the game where [[Death|deaths]] are influenced by the country a character is from, in this case, characters can die from unexpected terrorist or battlefield attacks. Being killed by an attack under the age of 30 will give your character the ''Unlucky'' ribbon, making it easier to obtain (though there is a chance that they may end up getting a different ribbon besides ''Unlucky''). [[Family]] members can also die from these as well and it is likely that a parent or parents will die while your character is still very young.
+
+==Vital Statistics==
+
+Currency:  USD ($)
+
+Default Cities: Guatemala City, Mixco, Villa Nueva
+
+Graduation Age:  18
+
+Minimum Age to Drop out of School:  12
+
+Free University:  No
+
+Minimum Legal Driving Age:  19
+
+Same-Sex Dating Legal:
+
+Same-Sex Marriage Legal:  No
+
+Changing Last Name After Marriage Permitted:  Yes
+
+Free Healthcare:  Yes
+
+Gambling Legal:  No
+
+Death Penalty Legal:  No
+
+Conjugal Visits Permitted:  Yes
+
+Commercial Surrogacy Legal:  Yes
+
+
+==Name List==
+
+===First Names===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Name
+! Gender
+! Meaning
+|-
+|}
+
+===Surnames===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Surname
+! Meaning
+|-
+|}
+
+== Gallery ==
+[[File:Screenshot 20230816 212104 com.candywriter.bitlife~2.jpg|left|thumb|A baby born in Guatemala.]]
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

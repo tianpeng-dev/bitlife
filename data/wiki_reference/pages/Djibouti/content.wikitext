@@ -1,0 +1,23 @@
+{{Infobox country
+|title1=Djibouti
+|image1=[[File:Djibouti.png]]
+|caption1=Djibouti's flag.
+|country_name=Djibouti
+|number_of_default_cities=1
+|when_was_it_added_to_ios=June 2019
+|available_on_android_as_well=Yes
+}}'''Djibouti''' is a [[Nations|country]] that was on BitLife in June 2019. Its default cities are only the capital, Djibouti.
+
+On June 9, 2019 on [[IOS version|iOS]]; new countries were added. Along with Djibouti; there was also [[Afghanistan]], [[Belgium]], [[Dominican Republic]], [[Iraq]], [[Poland]], [[Puerto Rico]], [[Switzerland]], [[Taiwan]], [[Thailand]], [[United Arab Emirates]], and [[Uruguay]]. It was added to Android September 21, 2019.
+
+== Trivia ==
+* When the player has a conversation with another NPC, one of the topics they can discuss about is the size of Djibouti. This is probably a reference to the small size of the country.
+
+== Gallery ==
+<gallery>
+File:Djibouti baby.jpeg|A baby born in Djibouti.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

@@ -1,0 +1,71 @@
+<mainpage-leftcolumn-start />
+{{Background|
+<center><big>We're a collaborative community website dedicated to BitLife-Life Simulator, where anyone, including you, can contribute and help it grow!</big></center>
+[[File:Bitlife_Welcome.png|center|600px]]
+<center><small>[[Special:AllPages|{{NUMBEROFARTICLES}} pages]], [[Special:NewFiles|{{NUMBEROFFILES}} files]] and [[Special:ListUsers|{{NUMBEROFACTIVEUSERS}} active users]] since November 24 2018 .</small>
+
+{{Header|text=About The Wiki}}
+This unofficial wiki is dedicated to the Mobile game, {{Topic}}. It contains detailed information about the game's Features and other important information! Feel free to expand any page, but be sure to use reliable sources for your contributions!}}
+
+{{Background|
+{{Header|text=Navigation}}
+<gallery position="center"; captionalign="center"; mode="nolines" navigation="true"; width="10%";>
+JoyProfile.png |link=Profile |[[Profile]]
+ChildrenEx.png |link=Relationships |[[Relationships]] 
+EFg0bMdU8AA6KwJ.png |link=Education |[[Education]]
+Bitlifeoffice.png |link=Careers |[[Careers]]
+Achievements.png |link=Achievements |[[Achievements]]
+CustomLife.PNG |link=Characters |[[Characters]]
+Nationsdragdown.png |link=Nations | [[Nations]] 
+Ribbons.png |link=Ribbons |[[Ribbons]] 
+Challenges.png |link=Challenges |[[Challenges]]
+WhatsApp Image 2022-12-06 at 19.35.53.jpg |link=Shopping |[[Shopping]]
+</gallery>}}
+
+
+{{Background|
+{{About Bitlife}}
+BitLife: Life Simulator, or simply called BitLife, (known as BitLifeApp on social media) is a text-based simulator video game originally made for iOS by developer Candywriter. The game utilizes a text-based format to try and create a somewhat accurate simulator while still having a strong level of playability. The objective of the game is to live a digital life without struggles and difficulties, depicted with cartoons and humorous scenarios.
+The app was released for iOS platform users on September 29, 2018. Since its release, it has received several updates to improve the game. After the iOS existed a couple of months earlier, the Android version of BitLife was released on February 5, 2019. The game was ranked as the most popular game on the website and mobile app of Google Play Store and later the iOS App Store.
+
+In addition, on January 3rd, 2022, another BitLife spin-off by Candywriter was created called [[CatLife]], which focuses on the player controlling a cat instead of a human character.
+
+As of August 18, 2023, there are numerous updates that have already come in BitLife. These updates are consisting of both major and minor updates.}}
+
+<mainpage-endcolumn />
+<mainpage-rightcolumn-start />
+
+{{Background|
+{{Header|text=Featured Article}}
+{{Front Page Featured Article}}
+
+{{Header|text=Wiki Statistics}}
+Currently, our wiki has:
+
+*{{NUMBEROFARTICLES}} articles;<br />
+*{{NUMBEROFEDITS}} edits;<br />
+*{{NUMBEROFACTIVEUSERS}} active users;<br />
+*{{NUMBEROFFILES}} files.<br />
+
+Join us and help grow the community!
+
+{{Header|text=Want to help Contribute?}}
+*[[Twilight's Zone Wiki: Wiki rules|Rules of this wiki]];
+*[[Manual of Style]];
+*[[w:c:community:Help:Getting Started|Getting Started]];
+*[[w:c:community:Help:Contributing|How to Contribute]];
+*[[w:c:community:Help:Contents|Guides]];
+*[[w:c:community:Help:Index|All Help articles]].
+
+<mainpage-endcolumn />
+[[Category:Browse]]
+[[Category:BitLife]]
+[[Category:Updates]]
+[[Category:Features]]
+[[Category:Jobs in Bitlife Wiki Fandom]]
+[[Category:Main Page with Rule Link]]}}
+{{Background|
+{{Header|text=Wish to Follow the BitLife Twitter Account?}}
+You can find the link right here!
+* [[File:Community-header-background|30px]] [[File:Twitter Icon.png|30px]] [https://x.com/BitLifeApp Link to the BitLife Twitter Account]
+}}

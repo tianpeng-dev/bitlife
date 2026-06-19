@@ -1,0 +1,23 @@
+“ Under construction! ”
+“ Under construction! ”
+⬇
+[[File:{{{image}}}|90x90px|link=]]
+This article is a
+stub
+! Help outBitLife - Life Simulator Wiki by adding more information.
+Orphanage
+Scenario Type
+Event
+Description
+With no surviving parents, you have been sent to an orphanage for the remainder of your childhood.
+Emoji
+🥣
+Orphanage is a place that your character can be taken to at the age between 1-17. This only happens when you have no more surviving parents left in your family, Once this happens you and/or your brothers and sisters will be taken there for the rest of the childhood. All of your pets will be seized by the animal control meaning that you won't have them anymore. Sadly, there is no option to interact with other fellow, orphaned children.
+Effect on stats
+[
+]
+There is a stat bar titled “love” in the orphanage menu, representing the amount of love you receive from orphanage staff. Love can affect your happiness, health, and even grades in school. If the love stat is low, scenarios will occur within the orphanage. These scenarios can also decrease or increase the love stat, depending on what you choose.
+Being Released
+[
+]
+You can be released from the orphanage once you're 18 or if someone adopts you (although that rarely happens to the kids). You will also be temporarily released if you go to juvie, then resume your childhood at the orphanage (unless you are in juvie for the rest of your childhood).

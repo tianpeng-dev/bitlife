@@ -1,0 +1,196 @@
+{{Infobox country
+|title1=Netherlands
+|image1=[[File:Netherlands.png]]
+|caption1=The Netherlands' flag.
+|country_name=Netherlands
+|number_of_default_cities=4
+|when_was_it_added_to_ios=September 2018
+}}
+'''Netherlands''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Amsterdam, along with Eindhoven, Rotterdam, and The Hague.
+== Name List ==
+=== Male First Names ===
+* Adam
+* Antoine
+* Arjen
+* Benjamin
+* Boaz
+* Bram
+* Cas
+* Cornelis
+* Daniel
+* David
+* Dex
+* Floris
+* Gijs
+* Guus
+* Gerard
+* Hugo
+* Jack
+* James
+* Jan
+* Jayden
+* Jens
+* Jesse
+* Joep
+* Johan
+* Julian
+* Lars
+* Levi
+* Liam
+* Luca
+* Lucas
+* Luuk
+* Martin
+* Mason
+* Mats
+* Max
+* Mees
+* Mehmet
+* Milan
+* Nikolaas
+* Noud
+* Olivier
+* Ruben
+* Ruud
+* Ryan
+* Sam
+* Samuel
+* Sem
+* Siem
+* Stijn
+* Sven
+* Teun
+* Thijs
+* Tim
+* Tom
+* Thomas
+* Tygo
+* Vince
+* Vincent
+
+=== Female First Names ===
+* Amy
+* Anna
+* Anne
+* Benthe
+* Charlotte
+* Daisy
+* Doutzen
+* Elin
+* Emily
+* Emma
+* Esmee
+* Eva
+* Evelien
+* Evi
+* Feline
+* Femke
+* Fenna
+* Fleur
+* Hannah
+* Hilde
+* Isa
+* Jasmijn
+* Jill
+* Julie
+* Lauren
+* Lianne
+* Lieke
+* Lisa
+* Liv
+* Liz
+* Lois
+* Lotte
+* Marta
+* Maud
+* Mila
+* Milou
+* Naomi
+* Nikkie
+* Nina
+* Noa
+* Noor
+* Norah
+* Nova
+* Olivia
+* Roos
+* Saar
+* Sanne
+* Sara
+* Sarah
+* Sascha
+* Sophie
+* Veerle
+* Yara
+* Zoe
+
+=== Surnames ===
+* Baas
+* Bakker
+* Beek
+* Beenhouwer
+* Bijl
+* Citroen
+* Coevorden
+* Cornelissen
+* De Jager
+* Dekker
+* Dijk
+* Graaf
+* Groot
+* Haan
+* Haas
+* Hari
+* Heide
+* Hendriks
+* Heuvel
+* Hoebee
+* Hoff
+* Jaager
+* Jansen
+* Jong
+* Kleij
+* Koning
+* Kroes
+* Lange
+* Leeuwen
+* Linden
+* Meer
+* Meijer
+* Mesman
+* Meulenbelt
+* Molen
+* Muis
+* Mulder
+* Peters
+* Prins
+* Rijkaard
+* Robben
+* Ruis
+* Rynsburger
+* Sittart
+* Smit
+* Spaans
+* Steganga
+* Teuling
+* Timmerman
+* Tuinstra
+* Van Basten
+* Van Breemen
+* Van Buuren
+* Van Elderen
+* Van Gogh
+* Van Halen
+* Van Riebeeck
+* Van Nistelrooy
+* Verhoeven
+* Visser
+* Vliet
+* Vinke
+
+== Gallery ==
+<gallery>
+File:Netherlands baby.jpeg|A baby born in the Netherlands.
+File:Dutch royalty.jpeg|A baby born into Dutch royalty.
+</gallery>{{Nations}}[[Category:BitLife]]
+[[Category:Nations]]

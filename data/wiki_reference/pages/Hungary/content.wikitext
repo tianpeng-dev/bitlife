@@ -1,0 +1,20 @@
+{{Infobox country
+|title1=Hungary
+|image1=[[File:Hungary.png]]
+|caption1=Hungary's flag.
+|country_name=Hungary
+|number_of_default_cities=2
+|when_was_it_added_to_ios=May 9, 2020
+}}
+'''Hungary''' is an original [[Nations|country]] that was added to BitLife in version 1.36. Its default cities are the capital, Budapest, along with Debrecen.
+
+Alongside with [[Vietnam]] and [[South Korea]], the bitizen's last name go first (eg. Horthy Miklos) (last, first)
+
+== Gallery ==
+<gallery>
+File:Hungary baby.jpeg|A baby born in Hungary.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

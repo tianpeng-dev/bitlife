@@ -1,0 +1,224 @@
+{{Infobox BitLifeApp
+|title1 = Job
+|image1 = [[File:Bitlifeoffice.png|thumb]]
+|last_updated_on_ios: = November 18, 2019
+|last_updated_on_android: = 
+}}Since the Part-Time jobs update, characters may have more to do at their jobs. Following the November 2019 [[Careers]] [[Updates|update]], there are new things that characters can do while at work. There are 6 activities they can try. Some have existed before, while some activities are entirely new at the time of the update.
+
+== Jobs ==
+{| class="article-table"
+!Activity
+!Description
+!Possible actions
+!Notes
+|-
+|Co-Workers
+|Interact with your supervisor or other employees
+|Dependent on the actions below.
+|Your character has a "Popularity" bar depending on how well your co-workers like them.
+|-
+|Hours
+|Adjust your hours
+|Raise hours to as high as 70 hour or as low as 38 hours per week.
+|Your character's supervisor could tell them to put in more hours at random times, adjusting the hours for you if you agree. While the hours are adjusted, you may not be able to adjust them yourself until your supervisor resets them.
+|-
+|Human Resources
+|Report someone to HR
+|They may ignore the report, warn or reprimand the co-worker, dock their wages, or fire them. If you make too many complaints, they will reprimand you for wasting their time and launch an investigation into you.
+|Your character may not report without a reason to do so.
+|-
+|Resign
+|Tender your resignation
+|You will leave your job.
+|This activity will become unavailable after you have worked for 20 years or more.
+|-
+|Retire
+|Consider retirement
+|If they are old enough and/or have worked at least 20 years, they may retire and take pension. If they are not old enough and/or have not worked at least 20 years, they will be ineligible to do so and will not retire.
+|Starting a new job will not carry over the years worked. Retiring and starting a new job will void that pension, unless you leave that new job.
+|-
+|Work Harder
+|Put in some extra effort
+|They will work harder, improving performance by a short burst.
+|
+|}
+
+== Military ==
+{| class="article-table"
+!Activity
+!Description
+!Possible actions
+!Notes
+|-
+|Co-Workers
+|Interact with your commanding officer or other employees
+|Dependent on the actions below.
+|Your character has a "Relationship" bar depending on how well your co-workers like them.
+|-
+|Desert
+|Desert your post
+|You may get busted or could get away with it
+|'''Warning:''' This is a [[crime]]. Getting away with it in the moment does not guarantee getting away with it for life.
+|-
+|Discharge
+|Request a discharge
+|You may or may not be discharged from your duties.
+|This is the only time a discharge is an honourable discharge.
+|-
+|Report Misconduct
+|File a grievance against someone
+|They may ignore the report, warn or reprimand the co-worker, give extra duties, or dishonourably discharge them.
+|Your character may not report without a reason to do so.
+|-
+|Retire
+|Consider retirement
+|If they have worked at least 20 years, they may retire and take a pension. If they have not worked at least 20 years, they will be ineligible to do so and will not retire.
+|At the age of 62, if they have not chosen to retire sooner, they will retire at this age as it is the mandatory retirement age.
+|-
+|Work Harder
+|Put in some extra effort
+|They will work harder, improving performance by a short burst.
+|The journal may say what rank they need to get to next and that working harder will help them get there.
+|}
+
+== Co-worker actions ==
+
+{| class="article-table"
+!Action
+!Description
+!Possible results
+|-
+|Ask Out
+|Ask them out on a date
+|They may accept or reject, with relationship bar adjusting accordingly.
+|-
+|Befriend
+|Befriend them
+|They may accept or reject, with relationship bar adjusting accordingly.
+|-
+|Compliment
+|Compliment them
+|They may return one or not, or insult your character, depending on how well they like you.
+|-
+|Conversation
+|Have a conversation with them.
+|They will have the conversation with you, tell you to leave them alone, or tell you to shut up.
+|-
+|Gift
+|Give them a gift
+|Have them accept the gift, have them refuse the gift and/or be reported to HR
+|-
+|Hook-up/Seduce (Seduce is for bosses only)
+|Have a one-night stand with them
+|Get rejected, rejected and reported, have a hook-up with them
+|-
+|Insult
+|Call them a bad name
+|Be insulted back, attacked, or reported to HR, unless the worker does nothing
+|-
+|Prank
+|Play a trick on them
+|They will do nothing, insult you, attack you, or report you
+|-
+|Promotion (bosses only)
+|Ask your boss for a promotion
+|They will accept or decline
+|-
+|Rumor
+|Start a rumor about them
+|They will do nothing, attack you, start a rumor about you, or report you, depending on whether or not they know you started it.
+|-
+|Spend Time
+|Spend time with the co-worker
+|They will accept or refuse the time
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:left;" width="100%"
+|-
+!List of Pranks
+|-
+|
+* Changing the password on your co-worker's computer when they stepped away and forgot to lock it
+* Changing your co-worker's desktop background to a picture of [name]
+* Changing your co-worker's email signature to "[name]" when they weren't paying attention
+* Filling hundreds of mini disposable cups with water and covering your co-worker's desk with them
+* Giving your co-worker a caramel covered onion and telling them it was a caramel apple
+* Giving your co-worker a secret glitter bomb package that blew up in their face
+* Going into the bathroom and taking all of the toilet paper while your co-worker was using the toilet
+* Hacking into your co-worker's Spotify account and adding bad songs to his playlist
+* Hacking into your co-worker's social media account and posting a bunch of embarrassing pictures/liking a bunch of random people's photos
+* Hiding all of your co-worker's personal belongings
+* Leaving a box of quinoa chips/rice cakes/carrots in the breakroom disguised as donuts
+* Locking your co-worker in the bathroom while they were using the toilet
+* Logging into your co-worker's email account and sending a resignation email to the entire staff
+* Placing a sticker over your co-worker's mouse sensor
+* Planting some chia seeds in your co-worker's keyboard
+* Posting an online ad for free Super Bowl tickets/ golden retriever puppies using their phone number
+* Pranking your co-worker by offering them some Reece's Pieces, Skittles, and M&M'S mixed together in a candy dish
+* Putting "for rectal use only" stickers on all of your co-worker's personal belongings
+* Putting a dead fish in one of your co-worker's desk drawers
+* Putting a laminated photo of your co-worker inside a urinal
+* Putting melted chocolate/tacks on you co-worker's chair and watching them sit on it
+* Relocating your co-worker's desk to the inside of the bathroom
+* Replacing the Diet Pepsi in your co-worker's bottle with a mixture of Sprite and soy sauce
+* Replacing your co-worker's office chair with a toilet because they are always in the bathroom
+* Scaring your co-worker by placing a cardboard cutout of [name] behind the bathroom door
+* Scaring your co-worker by placing a fake cockroach/mouse on their desk
+* Supergluing all of your co-worker's belongings to their desk
+* Taking a picture of your co-worker when they dozed off at work, then made copies of the pic and posted them around the office
+* Taking your co-worker's personal belongings and putting them up for sale inside a vending machine
+* Unloading an entire bottle of Febreze near where your co-worker was working
+* Waking your co-worker up from a nap using an air horn
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:left;" width="100%"
+|-
+!List of Rumors
+|-
+|
+* Your co-worker always takes the last of the coffee without making a new pot
+* Your co-worker believes the earth is flat
+* Your co-worker eats cereal with water
+* Your co-worker has [number] pet cats
+* Your co-worker has a [fetish] fetish
+* Your co-worker has a crush on their cousin
+* Your co-worker has an enormous dildo in their desk
+* Your co-worker has bowel incontinence, but they are trying desperately to keep it a secret
+* Your co-worker has filmed gang bang porn movies
+* Your co-worker has not just one, but many venereal diseases
+* Your co-worker has pica and is addicted to eating [object]
+* Your co-worker hosts orgies at their house every week/third Thursday of the month
+* Your co-worker is a cuckold
+* Your co-worker is a cyborg designed by [person]
+* Your co-worker is a pioneer in the anti-vaccination movement
+* Your co-worker is a serial murderer who targets [job]
+* Your co-worker is a spy from [country
+* Your co-worker is a vampire who preys on co-workers in the night
+* Your co-worker is always shaving/doing yoga/eating/sleeping in the bathroom
+* Your co-worker is an alien from Mars, disguised as a human
+* Your co-worker is deeply involved in a cocaine smuggling ring
+* Your co-worker is homeless
+* Your co-worker is in a drug cartel
+* Your co-worker is in the CIA
+* Your co-worker is pregnant with a married man's baby
+* Your co-worker leaves the toilet seat up
+* Your co-worker moonlights as an escort/exotic dancer
+* Your co-worker once went to the emergency room because they got a [object] stuck up their butt
+* Your co-worker performed sexual favors during their interview in order to secure the position
+* Your co-worker pooped their pants earlier in the day
+* Your co-worker secretly practices voodoo
+* Your co-worker secretly practices witchcraft
+* Your co-worker sees dead people
+* Your co-worker slept with a drug dealer in exchange for drugs
+* Your co-worker slept with a homeless man
+* Your co-worker slept with half the staff
+* Your co-worker steals co-workers' food out of the refrigerator
+* Your co-worker wants to fight the boss in a match
+* Your co-worker's father is also their uncle
+* Your co-worker's favorite musician is [name]
+* Your co-worker's middle name is actually "Savage/Danger/Gassy"
+*Your co-worker is the biggest gossiper on staff
+|}
+
+[[Category:BitLife]]
+[[Category:Under construction]]

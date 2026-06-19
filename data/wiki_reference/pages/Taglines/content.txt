@@ -1,0 +1,684 @@
+Taglines
+appear on the top of
+BitLife
+scenarios after the player has made a choice, showing how the character feels about it. These are often realistic to how they would feel about a situation, or they can be more humerous and have references to popular culture.
+They said yes
+Tagline
+Trigger
+Notes
+Image
+Companionless
+From failing to befriend someone.
+Dirty denial
+Friendly reject
+I'm not salty
+No new friends
+Let's talk
+From having a conversation with someone.
+So it's like that
+From being refused to have a conversation with someone.
+Good times
+From spending time with someone.
+Time well spent
+Big fan
+From complimenting someone.
+So sweet
+That's nice
+It's mutual
+From being complimented back after complimenting someone.
+Dang I wish I could
+From making an excuse to not spend time with someone.
+Busy buddy
+From a friend refusing to spend time with you.
+Next time...
+Preoccupied pal
+With friends like these...
+Sneak into another?
+From going to see a movie in the neighborhood as a child.
+The main character was hot
+The soundtrack though
+Yea that was cool, I guess
+5 stars
+From going to the movie theatre, either by themself or with someone.
+Bravo
+Bonding together
+From a friend partying with you.
+C'mon, it'll be fun!
+From a friend refusing to party with you.
+Don't be boring
+First round's on me?
+Party pooper
+Did someone record that?
+From pranking a friend.
+Get wrecked lol
+"Get wrecked" is a common gamer term.
+Gottem!
+Shoulda seen your face!
+The prank legend
+Chill!
+From being insulted after pranking a friend.
+It was a joke...
+It wasn't personal
+In good faith
+From spreading a rumor to a friend.
+No bad publicity
+Spread the word
+This is hilarious
+We joke, we joke
+Fair play
+From a friend spreading a rumor back to you.
+Stay classy
+From disrespecting (school teacher) or insulting someone.
+Take that
+That's right
+You heard me
+Not taking that
+From being insulted by someone.
+Be that way
+From becoming best friends with someone being rejected.
+I just thought...
+Not there yet huh?
+Only FF's
+Frenemies
+From becoming enemies with a friend.
+A frenemy is someone who is friendly to you, but they are also in a rivalry.
+Friend Status: NONE
+Keep enemies closer
+"Keep your friends close; keep your enemies closer." was said by Sun-Tzu, in his writing 'The Art of War'.
+No love for fakes
+So it's come to this
+More where that came from
+From attacking someone.
+Ouch
+Try me again
+Assault
+From being attacked.
+I'm in pain
+Oh no you didn't
+Somebody help!
+Yikes!
+Aggravated Assault
+From being attacked fatally.
+Holy s*@&!
+Due to the second word being a swearing word, it has been censored.
+WTF
+An acronym for "What the ****". The phrase has been shortened due to the third word being a swearing word.
+Begone
+From unfriending someone.
+Left on read
+In internet slang, a person is left on read when a recipient has read, but not responded to, a sender's message. The expression is often used to express feeling ignored.
+See ya
+They're too toxic
+People being toxic is often expressed in friendships and online relationships.
+Weeding 'em out
+Forgiven
+From successfully salvaging a friendship.
+This isn't Facebook
+Under the bridge
+Bye then
+From failing to salvage a friendship.
+It's not me it's you
+Not happening
+Stale mate
+Done for good
+From insulting a friend right after they unfriend you.
+Irreparable
+Nail in the coffin
+No going back
+Forever alone
+From being rejected to start dating with someone.
+I'm super busy anyways
+Ouch
+Request: Denied
+Going steady
+From accepting/being accepted to start dating with someone.
+Let's give it a try
+My 1 out of 7.422 billion
+True love
+Afternoon delight
+From making love to someone.
+Good work all around
+Rinse, lather, repeat?
+So what's for dinner?
+Woohoo!
+From letting your character's lover take their virginity.
+I'm happy, what's the problem
+From arguing back to your character's parents after being disapproved of their lover.
+Love is love
+From an engagement to a lover being accepted.
+How could I say no?
+From accepting an engagement from a lover.
+Oh, it is love
+No looking back
+From having a wedding.
+Shackled
+Begone
+From breaking up/divorcing.
+See ya
+Just for tonight
+From hooking up with someone.
+Quickie
+We all got needs
+Came to say hello
+From visiting the school nurse without any symptoms.
+Can I stay until the bell rings?
+Can't be too sure
+Check my temperature again
+Does heartache count?
+Nurse Not Nice
+From being reprimanded by the school nurse for wasting her time (visiting too much).
+See you tomorrow
+Where else would I skip?
+Beefing up my college application
+From joining a school activity club.
+Extracuricular
+Persuing personal interests
+For my best interest
+From leaving a school activity club.
+I need personal time
+My heart's not in it
+Quitting, but no quitter
+This isn't fun anymore
+Academic amateur
+From being rejected to try out for a sports activity at school due to grades.
+C's get degrees, not activities
+Fix those grades first
+Scholastically lacking
+I'll try until I die
+From being rejected to try out for a sports activity at school more than once in a year.
+Give me a chance
+Let me join and I'll stop
+You'll regret that
+Didn't make the roster
+From failing to join a school sport team.
+I came, I saw, I failed
+Now the hustle begins
+From succeeding to join a school sport team.
+Of course I made it!
+Tryouts were a formality
+When do we start?
+Ask and you shall receive
+From being accepted into a school clique.
+I've been chosen
+One of us. One of us.
+The in-crowd
+Access denied
+From being rejected from a school clique.
+Not a chance
+Not a right fit
+You can't sit with us
+By association
+From hanging out successfully with a school clique.
+Natural progression
+You are who you hang out with
+After all we've been through
+From being rejected to continue hanging out with a school clique.
+I thought we were friends
+It's not you, it's our reputation
+Okay, ouch
+Wallflower
+A little brown-nosing never hurt
+From being invited into a school clique via complimenting their leader.
+Invitation by appreciation
+Praise goes a long way
+Compliment ill-received
+From being ignored by a school clique's leader after complimenting them.
+Deaf ears
+Notice me senpai
+Talking to the hand
+Clique bait
+From insulting a school clique's leader.
+Loser leader
+Nobody likes you
+To you & all yours
+A fair fight?
+From being attacked by a school clique after insulting their leader.
+Cowardly clique
+Jumped
+Power in numbers
+Branching out
+From leaving a school clique.
+New perspectives
+Picky posse
+Dream come true
+From going to the school dance with someone.
+Good times
+Humiliated
+From being rejected to go to the school dance with someone.
+I was asking for a friend...
+Oh, okay, cool
+They smell anyways
+Whatever
+Shy guy
+From going to the school dance by themself.
+Wallflower
+AWOL
+From skipping school.
+"AWOL" stands for "absent without leave".
+Bueller?...Bueller?...
+Playing hooky
+Shoddy skipper
+From being turned back in after skipping school.
+Up a creek without a hallpass
+Classmate courtesy
+From complimenting a classmate.
+Any bites?
+From flirting to a classmate.
+Hubba hubba
+Shooting my shot
+Feeling antsy
+From messing with a classmate.
+Fresh pickings
+I couldn't resist
+It's not that deep
+From being insulted after flirting or messing with a classmate.
+Charmed, I'm sure
+From complimenting a teacher at school.
+Looking for that A
+Teacher's pet
+Aren't we friends too?
+From being told it's not appropriate to compliment teachers at school.
+Just say thank you, sheesh
+Why so stiff?
+About last night's homework...
+From sucking up to a teacher at school.
+Pupil praised
+*The class groans*
+Actin' a fool
+From acting up in a school class.
+I have too much energy they say
+Troublemaker
+Truly unruly
+Did I hear something?
+From being warned at school.
+I do what I want here
+I don't think I will
+If I feel like it
+Ooh, I'm scared now
+Or what?
+Shaking in my boots
+What's gonna happen?
+Okay, I deserved that
+From being insulted by a teacher for acting up at school.
+Before or after school?
+From being given detention at school.
+I'd rather be there than with you
+Are you kidding me
+From being snitched to the principal's office by a student at school.
+They won't survive outside of here
+Witto baby went to the pwincipal?
+Shut up
+From arguing with a parent after being sent to the principal's office at school.
+No wonder the school’s a sham
+From insulting the principal when in their office.
+Waste of my time
+You're in charge here?
+A free vacation
+From being suspended from school.
+Don't gotta tell me twice
+For how long?
+Are you done yet?
+From being verbally abused by the principal at school, leading to being expelled.
+Shaking in my boots
+Yeah yeah
+Fresh start
+From being enrolled in a new school after being expelled.
+Let's try this again
+My next playground
+Not yet
+From being too young to drop out of school.
+Am I smart yet
+From starting university or another post-school education.
+Fresh meat
+Scholar
+Busy bee
+From having a full schedule, making your character unable to get a new career, new activity, etc.
+Full plate
+Overbooked
+Too busy
+Up to my ears already
+Disappointing
+From failing to get a part-time job.
+Thanks for your time
+Their loss
+They'll regret this
+Gotta start somewhere
+From joining a new career.
+Let's do this
+The grind begins
+When do we start?
+Working class
+Maybe it's for the better
+From failing to arrange an interview for a new career.
+Rejected
+Time for my backup plan
+All work, no play
+From working harder in a career.
+Priorities tho
+Werk. werk. werk.
+A slave to my craft
+From accepting to work extra hours, as requested by their supervisor.
+Just because I'm nice
+Paid with love
+Whatever it takes
+Afraid not
+From explaining your character cannot put in extra hours to their supervisor.
+Maybe next time
+Nothing in life is free
+Time = Money
+Don't ask me again
+From your character insulting their supervisor after being asked to put in extra hours.
+How dare you ask me that?
+Should I lick the floors too?
+Who do you look like?
+All work, a little pay
+From accepting to hook up with a co-worker at work.
+Down to business
+Drama fuel
+I need lots of supervision
+If we're on company time
+Let's shoot for a promotion soon
+Securing my position here
+This is between you and me
+Do I have to report you?
+From rejecting someone's sexual advance at work.
+Give me a raise then we'll talk
+Out of my hands now
+From reporting someone at work to HR, or the principal at school.
+Report: Filed
+Snitch
+Someone's getting in trouble
+Added to the résumé
+From leaving a career.
+Chasing a different bag
+Clocked out
+Now I have...free time?
+On to bigger & better things
+Spreading my wings
+Unshackled
+Done and done
+From claiming a driver's license.
+Piece of cake
+Pull up, skrrt
+A common type of parking that's especially used for car racing.
+Too easy
+Better hitchhike
+From failing to claim a driver's license.
+Hitchhiking is where you ask someone to give you a ride in someone else's car, usually a stranger.
+Whatever
+Who gets it first try?
+#Blessed
+From getting a car from your character's parent after claiming a driver's license.
+I got the keys keys keys
+This is a lyric said in DJ Khaled's song, "I Got The Keys".
+I'm free
+Should I name it?
+Mmm, that repaired car smell
+From repairing a car.
+Need a little more elbow grease
+Nicely detailed
+Gotta need a Lyft
+From not repairing a car.
+Learn the bus routes
+Out of order
+Parked until further notice
+Car for parts
+From scrapping a car.
+Good riddance
+I need it gone
+High hopes
+From a doctor treatment being administered to your character.
+Idk if I feel anything
+Thank you
+Ill-advised
+From a doctor treatment ending unsuccessful.
+On to the witch doctor...
+*Status: still sick
+Part of the system
+From joining Facebook.
+*thumbs up*
+Do it for the Gram
+From joining Instagram.
+Gram is often a shortened version of Instagram.
+Start with a selfie!
+A selfie is often the first picture new Instagram users do on their page.
+I gave in...
+From joining TikTok.
+Searching #fyp
+FYP stands for the “For You” page on the massively popular short video app, TikTok. FYP acts like an individual landing page for users which showcases curated videos that TikTok thinks they might watch or like.
+Get tweeting
+From joining Twitter.
+The best news platform
+Twitter is well-known for showing various news for users, besides chatting with people.
+Building a community
+From joining YouTube.
+Check my channel!
+How to get subscribers now...
+The start of something you
+A treat for my followers
+From uploading an Instagram post.
+...aaaand, uploaded!
+From uploading a YouTube video.
+Never heard of you
+From an application to be verified on a social media platform rejected.
+Um, no
+Who are you?
+Calm down
+From an application to be verified on a social media platform rejected more than one time.
+Try later
+Look at me
+From an application to be verified on a social media platform accepted.
+Almost big enough...
+From an application to monetize videos on YouTube being rejected.
+Gotta get more views!
+Just keep filming
+Need more subs
+Not in the money, yet
+I got a meme for this
+From trolling someone on social media.
+I hope I'm not reported
+Lolololol
+Such noobs
+They mad lol
+For how long?!
+From a social media account being suspended.
+Appeal: Denied
+From a social media account continuing to be suspended.
+Are you serious?!
+Can't believe this
+No so appealing
+I demand justice
+From choosing to act confused to appeal a social media suspension.
+Mysterious charges
+Unfairly suspended
+What was so bad?
+I sincerely apologize
+From choosing to apologize to appeal a social media suspension.
+I take full responsibility
+It was all my fault
+My bad
+Very deeply sorry
+Classic mixup
+From choosing to claim a misunderstanding to appeal a social media suspension.
+Easy misunderstanding
+It was out of context
+Let me see this straight
+I will find you
+From choosing to threaten them to appeal a social media suspension.
+I've got somethin for ya
+If I'm not unsuspended rn...
+Who reported me?!
+Baby can't handle the heat
+From choosing to write an angry email to appeal a social media suspension.
+Get a life!
+What a clown
+You're a disgrace to the app
+Done seeking validation
+From deleting a social media account.
+Going offline
+Time to say goodbye
+20/20
+From succeeding in an optometrist test.
+A blessing
+Clear eyes
+Good genes
+0/20
+From failing an optometrist test.
+Did we start?
+Eye can't see
+A pun on the phrase "I can't see".
+I don't see any letters...
+Should I get transitions?
+From choosing a new set of glasses.
+Transition lenses, or photochromic lenses, are the lenses that darken in the sunlight and lighten in softer light or the dark.
+Absolutely not
+From being rejected to start taking instrument or voice lessons.
+"Choose a hobby that makes money"
+I'll be tone deaf!
+Money > Music they always say
+Music's too expensive
+Music is an expensive thing to pay for, especially for a child.
+But it's my passion...
+From being rejected to start taking instrument or voice lessons more than once.
+C'mon, please?!
+"Doctors don't play music"
+Get in line
+From failing to arrange an interview to become a musician or sports player.
+In your dreams
+Nope, next!
+Whenever you're free...
+Curse this uncreative town!
+From failing to find a band to become a musician.
+To make the game more friendly for all ages, the word 'curse' is used instead of a swearing word.
+Error: None found
+Gotta think better
+Is my sound too niche?
+Nobody?
+Not a single one?!
+Gave it my all
+From auditioning to become a musician.
+Oh, the suspense
+Don't lose hope!
+From failing to get a musician contract after auditioning.
+They weren't listening well
+Let's see if it sticks
+From your character changing their stage name.
+Rolls off the tongue
+They will refer to me as...
+Crank those songs out!
+From signing a new contract to continue making music.
+Doin' good on my own!
+Sign here. And here.
+There goes my masters
+A label that gets it
+From a new single or album being approved.
+It's going to be great
+My blood, sweat and tears
+They appreciate the vision
+This'll change the world
+Even better live
+From performing at a concert as a musician.
+Great crowd
+Great show everybody!
+Mic check, 1, 2
+Put your hands up!
+An experience of a lifetime
+From going on a world tour as a musician.
+Beyond grateful
+*Sings the continent song*
+Damn, that's a nice pen
+From accepting a new contract to stay on a sports team.
+Here to stay
+Making more memories
+Sticking with the city
+True to this
+Phew
+From not having any injuries at a physical therapy appointment in a sports league.
+Do I look bigger yet?
+From taking a round of performance-enhancing drugs in a sports league.
+Juiced up
+Strength: +3
+Whatever it takes
+Can't stand the heat?
+From trash-talking back to someone who did it to you in a sports league.
+The term "If you can't stand the heat, get out of the kitchen." was popularized by U. S. President Harry Truman, who was in office from 1945-1953.
+I KNOW you're not talkin'
+Say it to my face
+Speak up, I can't hear you
+We can do this
+Not on my watch
+From reporting a gambling tycoon from another team to the authorities in a sports league.
+People like him ruin the sport
+The AUDACITY
+Highlight reel baby!
+From winning a sports match in a pivotal moment.
+Put the team on my back
+Better luck next time
+From losing a sports match in a pivotal moment.
+Boo! Boooo!
+I had it...
+Don't forget me!
+From no longer being famous.
+Let's go
+From successfully stealing a car.
+That was easy
+Uh oh
+From being caught while stealing a car.
+Yikes
+Alone time
+From successfully causing mischief as a solo act.
+Lone ranger
+Me, myself, and crime
+Solo dolo delinquent
+In deep together
+From successfully causing mischief as a solo act.
+Mischief makers
+Our dirty secret
+Mystery box
+From successfully stealing mail from a house's porch.
+No camera in sight
+Porch pirate
+Show me something good!
+The box is heavy!
+Don't mind me
+From failing to steal mail from a house's porch.
+I was gonna wrap it
+Keep it walking will ya
+Mind your business!
+Nosey people around here!
+Please sign here...
+...RUN
+Thought it was mine
+We can split the loot!
+You saw nothing ya hear
+Five finger discount
+From successfully shoplifting an item.
+I'll be taking that
+Outta here
+Stuck it to the Man
+What's yours is mine
+Filthy pig!
+From insulting the police while under arrest.
+Freedom of speech
+Insult to injury
+I'll use my words
+They didn't like that
+Add that to the charges
+From failing to run away from the police while under arrest.
+Almost got away with it too
+Man, they're quick
+Not my best performance
+Not today, coppers
+From succeeding to run away from the police while under arrest.
+Put the jukes on 'em
+Smooth criminal
+What, you want more?
+From failing to bribe the police while under arrest.
+Double whammy
+From successfully bribing the police while under arrest, but got arrested anyway.
+My money & dignity, gone
+I'm in the will
+From inheriting money from a late family member after they died.
+To help the healing
+Be strong
+From mourning someone's death.

@@ -1,0 +1,17 @@
+Nightlife
+Launched on iOS:
+September 2018 (default)
+Launched on Android:
+February 2019 (default)
+Nightlife
+is an
+activity
+that the player can do when their character is 18 or older. When this option is selected, the player can choose between three different discos where you can go. The character's happiness bar will rise a little if the player goes to disco, however they can be forbidden from entering if their character is too old or has a low look.
+When the player goes to the disco, a random event could take place:
+Someone can offer alcohol or drugs to the player. If you accept, your health bar can be lowered, you can develop an addiction and/or you can die from an overdose, getting the
+Stupid
+ribbon if the latter happens. Certain types of drugs, like marijuana or magic mushrooms, can sometimes "enlighten" the character and increase the player's smart bar.
+Someone can get angry at the player (you made eye-contact with their partner, you bumped into them...). The player can argue back to them, assault them or walk away. If the player argues back, the other person can either leave you alone or assault you. If the player decides to assault them, the other person can either assault you back or call the police on you, but sometimes they won't fight back. It is possible either one of you can
+die
+from injuries.
+The player has the possibility to hook up with another person. As usual, the player must decide whether or not to use a condom or not (unless the character and the other person are both female). If the player practises unsafe sex, STDs and/or pregnancy can occur.

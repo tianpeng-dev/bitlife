@@ -1,0 +1,20 @@
+{
+  "title": "Age",
+  "pageid": 348,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Age",
+  "categories": [
+    "BitLife"
+  ],
+  "links": [
+    "Death",
+    "Ribbons",
+    "Situation/SOS"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Age/content.html",
+    "wikitext": "pages/Age/content.wikitext",
+    "text": "pages/Age/content.txt"
+  }
+}

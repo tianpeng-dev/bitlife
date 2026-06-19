@@ -1,0 +1,35 @@
+= Acting =
+Acting is a feature from the Movie Star Update. Released on March 2022, it comes with the ability to act in a movie or TV show. This feature, along with the "job pack" comes with a price as of right now, up to $5 per item or $10 for the Job Pack.
+
+As of December 2022, the new "Stock Market Update" will be released this month.
+
+== Starting to Act ==
+If you have [[God Mode]], you are able to choose "Acting" from the Special Talents tab.
+
+If you choose "Acting" or able to get the acting special talent, then a symbol (🎭) will appear next to the [[characters]] name.
+
+Up to the age of 12, you can ask your parents for them to pay for your Acting Lessons.
+
+Past the age of 18, you must buy your own. The price varies by country.
+
+Participating in Drama Club in school will boost your acting ability for free.
+
+=== Selecting A TV Show/Movie ===
+When you reach 18, you are able to act as an extra, cast on a TV show/Movie, or find an agent.
+
+'''EXTRA'''
+
+When casting an extra, you'll see some information, like what the title of the movie/TV show is, how much is the budget, and what is your role. You can choose to accept or deny the extra roll.
+
+This will increase your chance to be noticed by an agent. 
+
+If an agent notices you during your extra role, you have the opportunity to join.
+
+'''AGENT'''
+
+TBA
+
+'''CAST ON A TV SHOW/MOVIE'''
+
+TBA
+[[Category:Careers]]

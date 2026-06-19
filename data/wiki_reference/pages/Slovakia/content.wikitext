@@ -1,0 +1,10 @@
+{{Infobox_country|caption1=Slovakia's flag.|country_name=Slovakia|number_of_default_cities=1|when_was_it_added_to_ios=May 2020|available_on_android_as_well=Yes|image1=Slovakia.png}}
+
+'''Slovakia''' is a [[Nations|country]] that was added to [[BitLife: Life Simulator|BitLife]] in the May 10, 2020 update, alongside [[Algeria]], [[Bangladesh]], [[Bolivia]], [[Croatia]], [[Georgia]], [[Hungary]], [[Jordan]], [[Qatar]], and [[Zimbabwe]]. The only default city is its capital, Bratislava.
+
+== Gallery ==
+<gallery>
+File:Slovakia baby.jpeg|A baby born in Slovakia.
+</gallery>{{Nations}}
+[[Category:Nations]]
+[[Category:BitLife]]

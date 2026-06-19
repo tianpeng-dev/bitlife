@@ -1,0 +1,23 @@
+{{Infobox country
+|title1=Monaco
+|image1=[[File:Monaco.png]]
+|caption1=Monaco's flag.
+|country_name=Monaco
+|number_of_default_cities=2
+|when_was_it_added_to_ios=October 2019
+}}'''Monaco''' is a [[Nations|country]] that was on BitLife in October 2019. Its default cities are the capital, Monaco, along with Monte Carlo.
+
+Monaco was added as a new country to BitLife in late October 2019 during the Haunted Update, as the only non-Haunted addition to the game. [[Czech Republic]], [[Ecuador]], [[Hong Kong]], [[Malaysia]], [[Morocco]], [[Pakistan]], and [[Syria]] were also added at the same time.
+
+==Information==
+Monaco is a tax haven, meaning you don't get taxed while living there. Very helpful for residents who want to save money for something special. It also has the highest paying "Royal Salary" of all the countries with royalty with a salary of +/-€40 million. 
+
+The salary here is higher than most countries and the cost of items like Properties are higher. 
+
+== Gallery ==
+<gallery>
+File:Monaco baby.jpeg|A baby born in Monaco.
+File:Monegasque royalty.jpeg|A baby born in Monegasque royalty.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

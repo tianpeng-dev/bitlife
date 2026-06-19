@@ -1,0 +1,21 @@
+{
+  "title": "Time Machine",
+  "pageid": 437,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Time_Machine",
+  "categories": [
+    "BitLife",
+    "Updates"
+  ],
+  "links": [
+    "Prison",
+    "Relationships",
+    "Situation/SOS"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Time_Machine/content.html",
+    "wikitext": "pages/Time_Machine/content.wikitext",
+    "text": "pages/Time_Machine/content.txt"
+  }
+}

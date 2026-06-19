@@ -1,0 +1,20 @@
+{
+  "title": "Lilova Pavlovna",
+  "pageid": 4360,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Lilova_Pavlovna",
+  "categories": [
+    "Fan_Characters",
+    "Russians",
+    "Truckers"
+  ],
+  "links": [
+    "Nikita Pavlovna"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Lilova_Pavlovna/content.html",
+    "wikitext": "pages/Lilova_Pavlovna/content.wikitext",
+    "text": "pages/Lilova_Pavlovna/content.txt"
+  }
+}

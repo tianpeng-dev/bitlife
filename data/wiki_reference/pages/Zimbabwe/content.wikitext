@@ -1,0 +1,16 @@
+{{Infobox country
+|title1=Zimbabwe
+|image1=[[File:Zimbabwe.png]]
+|caption1=Zimbabwe's flag.
+|country_name=Zimbabwe
+|number_of_default_cities=1
+|when_was_it_added_to_ios=May 10, 2020
+}}
+'''Zimbabwe''' is a [[nations|country]] that was on BitLife in May 2020. Its default cities are only the capital, Harare.
+
+== Gallery ==
+<gallery>
+File:Zimbabwe baby.jpeg|A baby born in Zimbabwe.
+</gallery>
+[[Category:Nations]]
+[[Category:BitLife]]

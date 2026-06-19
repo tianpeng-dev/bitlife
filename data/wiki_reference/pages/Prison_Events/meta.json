@@ -1,0 +1,30 @@
+{
+  "title": "Prison/Events",
+  "pageid": 4494,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Prison%2FEvents",
+  "categories": [
+    "Prison"
+  ],
+  "links": [
+    "Achievements",
+    "Activities",
+    "Addictions",
+    "Assault",
+    "Death/Family",
+    "Game over",
+    "Lawsuit",
+    "Notifications",
+    "Prison",
+    "Prison/Gangs",
+    "Relationships",
+    "Stats",
+    "Updates"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Prison_Events/content.html",
+    "wikitext": "pages/Prison_Events/content.wikitext",
+    "text": "pages/Prison_Events/content.txt"
+  }
+}

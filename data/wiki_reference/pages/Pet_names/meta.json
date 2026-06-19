@@ -1,0 +1,29 @@
+{
+  "title": "Pet names",
+  "pageid": 4374,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Pet_names",
+  "categories": [
+    "Female_Birds",
+    "Female_Cats",
+    "Female_Dogs",
+    "Female_Fish",
+    "Female_Rodent",
+    "Female_Snake",
+    "Female_Turtle",
+    "Male_Birds",
+    "Male_Cats",
+    "Male_Dogs",
+    "Male_Fish",
+    "Male_Rodent",
+    "Male_Snake",
+    "Male_Turtle"
+  ],
+  "links": [],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Pet_names/content.html",
+    "wikitext": "pages/Pet_names/content.wikitext",
+    "text": "pages/Pet_names/content.txt"
+  }
+}

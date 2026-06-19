@@ -1,0 +1,19 @@
+{
+  "title": "Acting",
+  "pageid": 4076,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Acting",
+  "categories": [
+    "Careers"
+  ],
+  "links": [
+    "Characters",
+    "God Mode"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Acting/content.html",
+    "wikitext": "pages/Acting/content.wikitext",
+    "text": "pages/Acting/content.txt"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Assets",
+  "pageid": 96,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Assets",
+  "categories": [
+    "Assets",
+    "Assets_with_Social_Media",
+    "BitLife",
+    "Features",
+    "Information",
+    "Items"
+  ],
+  "links": [
+    "Achievements",
+    "Adoption",
+    "Crime",
+    "Generations",
+    "Ghosts",
+    "IOS version",
+    "Jail",
+    "Notifications",
+    "Random strangers",
+    "Stats"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Assets/content.html",
+    "wikitext": "pages/Assets/content.wikitext",
+    "text": "pages/Assets/content.txt"
+  }
+}

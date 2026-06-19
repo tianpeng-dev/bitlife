@@ -1,0 +1,199 @@
+{{Infobox country
+|title1=Costa Rica
+|image1=[[File:Costa Rica.png]]
+|caption1=Costa Rica's flag.
+|country_name=Costa Rica
+|number_of_default_cities=1
+|when_was_it_added_to_ios=December 19, 2019
+}}'''Costa Rica''' is a [[Nations|country]] that was on BitLife in December 2019. Its default cities are only the capital, San Jose.
+
+In December 2019 on iOS; new countries were added. Along with Costa Rica; there was also Austria, Bahamas, DR Congo, Kazakhstan, Kuwait, Lebanon, Mongolia, Nepal, Ukraine, and Vietnam. This was added in the ''Friends'' Update.
+== Name List ==
+=== Male First Names ===
+* Alejandro 
+* Alberto 
+* Abdiel
+* Adrian
+* Adriel
+* Alfredo
+* Aloisius
+* Armando
+* Arturo 
+* Alonso
+* Angelo
+* Ariana
+* Arjan
+* Allam
+* Alex
+* Ary
+* Asdrubal
+* Aurelio
+* Aziel
+* Alexander 
+* Bernal
+* Braulio
+* Carlos
+* Christian
+* Daniel
+* David
+* Diego
+* Dymar
+* Eitan
+* Estevan
+* Ezequiel
+* Fernando
+* Geovanny
+* Gerardo 
+* Gabriel 
+* Gabriel Alberto 
+* Hector
+* Izak
+* Jairo
+* Javier
+* Johanny
+* Juan Jose
+* Juan Pablo 
+* Jose
+* Leonardo
+* Luis
+* Manuel
+* Marcel
+* Marc
+* Marco
+* Marcos
+* Miguel
+* Pablo
+* Paul
+* Rafael
+* Raul
+* Ricardo
+* Sander
+* Sebastian
+* Sergio
+* Silvano
+* Victor
+* Vinicio
+* Xander
+* Xavier
+* Yared
+
+=== Female First Names ===
+* Alejandra
+* Aracely
+* Arsenia
+* Asuncion
+* Ana Lucia 
+* Ana Sofia
+* Ana
+* Anna
+* Benita
+* Bianka
+* Bianca
+* Blanca
+* Blanka
+* Camila
+* Cecy
+* Ciara
+* Dara
+* Deysi
+* Eida
+* Elena
+* Estefania
+* Eva
+* Fabiola
+* Fernanda
+* Gabriela
+* Geovana
+* Isabel
+* Isamar
+* Ivania
+* Ivelis
+* Jazmin
+* Joselyn
+* Josette
+* Karina
+* Lizbeth
+* Lola
+* Lucia
+* Luciana
+* Luisa
+* Marcela
+* Maria
+* Maria Fernanda 
+* Marie
+* Marisol
+* Nathanly
+* Pamela
+* Paola
+* Pilar
+* Rosa
+* Sofia
+* Teresa
+* Ximena
+* Yaritza
+* Yoselin
+* Yuliana
+
+=== Surnames ===
+* Aguilar
+* Acosta 
+* Albino 
+* Alvarado
+* Alvarez 
+* Araya
+* Calderon
+* Castillo
+* Cruz
+* Diaz
+* Escobar
+* Estrada
+* Fernandez
+* Garcia
+* Garza
+* Gomez
+* Guerrero
+* Gutierrez
+* Guzman
+* Hernandez
+* Herrera
+* Juarez
+* Leon
+* Lopez
+* Madrigal
+* Martinez
+* Mendez
+* Mendoza
+* Morales
+* Munoz
+* Ortega
+* Perez
+* Portillo
+* Ramirez
+* Ramos
+* Reyes
+* Rivas
+* Rivera
+* Rodriguez
+* Rojas
+* Romero
+* Santos
+* Salas
+* Salazar
+* Sanchez
+* Segura
+* Torres
+* Valverde
+* Vargas
+* Vasquez
+* Villalobos
+* de Leon
+* de Los Santos
+
+== Gallery ==
+<gallery>
+File:Costa Rica baby.jpeg|A baby born in Costa Rica.
+</gallery>
+
+{{Nations}}
+[[Category:Nations]]
+[[Category:BitLife]]

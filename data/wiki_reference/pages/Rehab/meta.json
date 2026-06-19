@@ -1,0 +1,20 @@
+{
+  "title": "Rehab",
+  "pageid": 2475,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Rehab",
+  "categories": [
+    "BitLife",
+    "Medical"
+  ],
+  "links": [
+    "Activities",
+    "Mind & Body"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Rehab/content.html",
+    "wikitext": "pages/Rehab/content.wikitext",
+    "text": "pages/Rehab/content.txt"
+  }
+}

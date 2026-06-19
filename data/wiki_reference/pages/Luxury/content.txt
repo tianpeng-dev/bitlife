@@ -1,0 +1,45 @@
+This page is under construction.
+This page is currently undergoing a major renovation or cleanup.
+To-do: Add the other options
+To access the
+Luxury
+tab, the player must buy
+Gated Community
+. In order to buy it, the player must have at least 5 million in in-game money in their current life. The caption for the tab is
+Enjoy the perks of being a VIP
+.
+Options
+[
+]
+Charity Donation -
+Buy yourself some karma
+- Allows you to donate money to charity and increase your karma. Each time the player selects this option, two organizations will be shown with differing reputation.
+Luxury Spa -
+Pamper yourself
+- Opens a new menu. Its options are:
+Luxury Spa options
+[
+]
+Bathhouse Services -
+Luxuriate in a specialty bath
+- Lets you choose what to bathe in, each option costs a different amount, ranging from $150,000 to $700,000. May trigger an
+event
+afterward.
+Body Wraps -
+Wrap yourself in pure luxury
+Energy Therapies -
+Cleanse your aura
+Facials -
+Receive a luxury facial
+Specialty Therapies -
+Rejuvenate your body
+Upscale Massage -
+Receive a luxurious massage
+Secret Societies -
+Join a secret society
+- Opens a new menu.
+Secret Societies
+[
+]
+TBA
+Please finish adding options, thanks

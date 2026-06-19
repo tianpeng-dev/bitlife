@@ -1,0 +1,23 @@
+{
+  "title": "Ali Marie",
+  "pageid": 5152,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Ali_Marie",
+  "categories": [
+    "Athletes",
+    "Australians",
+    "Engineers",
+    "Fan_Characters",
+    "French_People"
+  ],
+  "links": [
+    "Ambre Marie",
+    "Luka Marie"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Ali_Marie/content.html",
+    "wikitext": "pages/Ali_Marie/content.wikitext",
+    "text": "pages/Ali_Marie/content.txt"
+  }
+}

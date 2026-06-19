@@ -1,0 +1,285 @@
+{{Infobox country
+|title1=France
+|image1=[[File:France.png]]
+|caption1=France's flag.
+|country_name=France
+|number_of_default_cities=9
+|when_was_it_added_to_ios=September 2018 (default)
+|when_was_it_added_to_android=February 2019 (default)
+}}'''France''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Paris, along with Bordeaux, Lyon, Marseille, Nancy, Nantes, Nice, Perpignan, and Toulouse.
+== Name List ==
+=== Male First Names ===
+* Aaron
+* Adam
+* Adrien
+* Alexandre
+*Alexis
+*Ali
+*Amir
+* Antoine
+* Arthur
+* Augustine
+* Axel
+* Ayden
+* Baptiste
+* Basil
+* Camille
+* Charles
+* Claude
+* Clement
+* David
+* Eden
+* Eliott
+* Enzo
+* Esteban 
+* Ethan
+* Evan
+* Francois
+* Gabin
+* Gabriel
+* Gaspard
+* Henri
+* Hugo
+* Ibrahim 
+* Imran
+* Isaac
+* Ismael
+* Jean Claude
+* Jean Paul
+* Joseph
+* Jules
+* Kais
+* Kylian
+* Leandre
+* Lenny
+* Leo
+* Leon
+* Leonard
+* Leonie 
+* Liam
+* Lorenzo 
+* Louis
+* Louise 
+* Lucas
+* Luka
+* Lyam 
+* Mael
+* Malo
+* Marceau
+* Marius
+* Martin
+* Matheo
+* Mathis
+* Mathys
+* Maxime
+* Milo
+* Mohamed
+* Nael
+*Naim
+* Napoleon
+* Nathan
+* Nino
+* Noa
+* Noah
+* Noam
+* Noe
+* Nolan
+* Oliver
+* Oscar
+* Paul
+* Raphael
+* Rayan
+* Robin
+* Sacha
+* Samuel 
+* Simon
+* Soan
+* Sohan
+* Theo
+* Thierry
+* Thomas
+* Tiago
+* Timeo 
+* Timothee
+* Tom 
+* Valentin
+* Victor
+* Vincent
+* William 
+* Yanis
+* Youssef
+
+=== Female First Names ===
+* Adele
+* Agathe
+* Alice
+* Alicia 
+* Alix
+* Alya
+* Ambre
+* Amelia 
+* Anais
+* Anna
+* Apolline
+* Assia
+* Ava
+* Avril
+* Aya
+* Brigitte
+* Camille
+* Candice
+* Capucine 
+* Celia
+* Charlie 
+* Charlotte
+* Chloe
+* Clara
+* Clemence 
+* Coco
+* Constance
+* Elena
+* Elise
+* Elsa
+* Emma
+* Emmy 
+* Emy 
+* Eva
+* Faustine
+* Gabrielle
+* Giulia
+* Heloise
+* Inaya
+* Ines
+* Iris
+* Isabella
+* Jade
+* Jeanne
+* Josephine
+* Julia
+* Juliette
+* Lana 
+* Laura 
+* Lea
+* Leana
+* Leonie 
+* Lilou
+* Lily
+* Lina
+* Lisa
+* Livia
+* Lola
+* Lou
+* Louane 
+* Louise
+* Louna
+* Lucie
+* Luna
+* Lya
+* Lyana
+* Lyna
+* Maelle
+* Maelys 
+* Manon
+* Margaux
+* Margot
+* Maria
+* Marie
+* Mathilde
+* Maya 
+* Meline
+* Mia
+* Mila
+* Mya 
+* Natalie
+* Nina
+* Noemie
+* Nour
+* Olivia
+* Romane
+* Romy
+* Rose
+* Roxane
+* Salome
+* Sara
+* Sarah
+* Sofia
+* Suzanne
+* Thais
+* Thea
+* Valentine
+* Victoire 
+* Victoria
+* Yasmine
+* Zelie
+* Zoe
+
+=== Surnames ===
+* Andre
+* Antoinette
+* Bardot
+* Bernard
+* Blanc
+* Bonaparte
+* Bonnet
+* Chanel
+* Chevalier
+* Clement
+* David
+* Debussy
+* Dubois
+* Dumont
+* Durand
+* Faure
+* Fontaine
+* Fournier
+* Francois
+* Garcia
+* Garnier
+* Gauthier
+* Girard
+* Giroud
+* Henry
+* Lambert
+* Laurent
+* Lavigne
+* Lefebrve
+* Lefvre
+* Legrand
+* Leroy
+* Lopez
+* Martin
+* Martinez
+* Mathieu
+* Mercier
+* Michel
+* Monet
+* Moreau
+* Morel
+* Morin
+* Muller
+* Nicolas
+* Paquin
+* Pasteur
+* Perrin
+* Petit
+* Pinault
+* Richard
+* Robert
+* Robicheau
+* Robin
+* Rose
+* Rousseau
+* Roussel
+* Roux
+* Simon
+* Thomas
+* Vincent
+* Vuitton
+* de Gaulle
+
+== Gallery ==
+<gallery>
+File:France baby.jpeg|A baby born in France.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

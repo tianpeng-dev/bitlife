@@ -1,0 +1,907 @@
+[[Category:BitLife]]
+[[Category:Updates]]
+[[Category:Expansion Packs]]
+[[Category:Under construction]]
+
+{{Infobox BitLifeApp
+|title1=Zoo
+|image1=[[File:Zoo Expansion Pack.png|thumb]]
+|launched_on_ios:=May 2024
+|launched_on_android:=May 2024}}The '''Zoo''' expansion pack was released along with BitLife Version 3.14.1 and allows players to purchase, own and run their own zoo.
+
+'''This page is under construction!'''
+
+==Animals==
+{| class="sortable mw-collapsible wikitable" style="text-align:left;" width="100%"
+|'''Animal'''
+|'''Rarity'''
+|'''Habitats'''
+|'''Breeding Age'''
+|'''Life Expectancy'''
+|'''Additional Notes'''
+|-
+|Wooly Mammoth
+|Rare
+|Arctic
+|10
+|70
+|
+|-
+|Yeti
+|Rare
+|Arctic
+|15
+|100
+|
+|-
+|Dodo
+|Rare
+|Aviary
+|3
+|20
+|
+|-
+|Sabertooth Tiger
+|Rare
+|Rainforest, Desert, Savanna
+|4
+| 25
+|
+|-
+|Candykiller
+|Rare
+|Rainforest, Savanna, Arctic, Desert, Temperate
+|8
+|70
+|Play on words based off [[Candywriter|CandyWriter]]
+|-
+|Unicorn
+|Rare
+|Rainforest, Savanna, Temperate
+|2
+|250
+|May unlock an animal cap
+|-
+|Basilisk
+|Rare
+|Reptile
+|5
+|45
+|
+|-
+|Dragon
+|Rare
+|Reptile, Aviary, Desert
+|4
+|100
+|
+|-
+|Pegasus
+|Rare
+|Savanna, Aviary, Temperate
+|5
+|50
+|
+|-
+|Kitsune
+|Rare
+|Temperate
+|7
+|75
+|
+|-
+|Griffin
+
+|Rare
+|Temperate, Aviary
+|5
+|50
+|
+|-
+|Phoenix
+|Rare
+|Temperate, Aviary, Desert
+|4
+|250
+|May unlock an animal cap
+|-
+|Cockatrice
+|Rare
+|Temperate, Savanna, Rainforest, Aviary
+|2
+|100
+|
+|-
+|Arctic Fox
+|Common
+|Arctic
+|1
+|14
+|
+|-
+|Arctic Wolf
+|Common
+|Arctic
+|2
+|20
+|
+|-
+|Elk
+|Common
+|Arctic
+|2
+|20
+|
+|-
+|Moose
+|Common
+|Arctic
+|3
+|20
+|
+|-
+|Penguin
+|Common
+|Arctic
+|5
+|30
+|
+|-
+| Polar Bear
+|Common
+|Arctic
+|4
+|30
+|
+|-
+|Reindeer
+|Common
+|Arctic
+|2
+| 15
+|
+|-
+|Sea Lion
+|Common
+|Arctic
+|5
+|30
+|
+|-
+|Seal
+|Common
+|Arctic
+|6
+|35
+|
+|-
+|Siberian Tiger
+|Common 
+|Arctic
+|4
+|20
+|Big Cat<ref>BitLifeApp. (2024, July 28). ''Ultimate Cat Lady Challenge''. x.com. <nowiki>https://x.com/BitLifeApp/status/1817273885009612844</nowiki></ref>
+|-
+|Snow Leopard
+|Common
+|Arctic
+| 3
+|25
+|Big Cat 
+|-
+|Walrus
+|Common
+|Arctic
+|7
+|45
+
+|
+|-
+|Snowy Owl
+|Common
+|Nocturnal
+|3
+|28
+|
+|-
+|African Grey Parrot
+|Common
+|Aviary
+|5
+|75
+|
+|-
+| Albino Peacock
+|Common
+|Aviary
+|3
+|40
+|May unlock an animal cap
+|-
+|Bald Eagle
+|Common
+|Aviary
+|5
+|40
+|
+|-
+|Cassowary
+|Common
+|Aviary
+|4
+|50
+|
+|-
+|Flamingo
+|Common
+|Aviary
+|4
+|50
+|May unlock an animal cap
+|-
+|Great Crested Grebe
+|Common
+|Aviary
+|2
+|15
+|
+|-
+|Harpy Eagle
+|Common
+|Aviary
+|4
+|45
+|
+|-
+|Kiwi
+|Common
+|Aviary
+|2
+|50
+|
+|-
+|Macaw
+|Common
+|Aviary
+|5
+|60
+|
+|-
+|Motmot
+|Common
+|Aviary
+|2
+|20
+|
+|-
+|Parrot
+|Common
+|Aviary
+|3
+|60
+|
+|-
+|Peacock
+|Common
+|Aviary
+|3
+|40
+|May unlock an animal cap
+|-
+|Peregrine Falcon
+|Common
+|Aviary
+|3
+|25
+|
+|-
+|Scarlet Macaw
+|Common
+|Aviary
+|4
+|75
+|May unlock an animal cap
+|-
+|Shoebill
+|Common
+|Aviary
+|4
+|35
+|
+|-
+|Toucan
+|Common
+|Aviary
+|2
+|25
+|
+|-
+|Armadillo
+|Common
+|Desert
+|1
+|20
+|
+|-
+|Camel
+|Common
+|Desert
+|5
+|50
+|
+|-
+|Caracal
+|Common
+|Desert
+|2
+|17
+|Big Cat
+|-
+|Fennec Fox
+|Common
+|Desert
+|1
+|14
+|
+|-
+|Ibex
+| Common
+|Desert
+|2
+|20
+|
+|-
+|Kangaroo Rat
+|Common
+
+|Desert
+|1
+|5
+|
+|-
+|Aye-Aye
+|Common
+|Nocturnal
+|3
+|24
+|
+|-
+|Barn Owl
+|Common
+|Nocturnal
+|1
+|20
+|
+|-
+|Chinchilla
+|Common
+|Nocturnal
+|1
+|15
+|
+|-
+|Elf Owl
+|Common
+|Nocturnal
+|1
+|10
+|
+|-
+|Pangolin
+|Common
+|Nocturnal
+|2
+|20
+|
+|-
+|Porcupine
+|Common
+|Nocturnal
+|2
+|20
+|
+|-
+|Slow Loris
+|Common
+|Nocturnal
+|2
+|25
+|
+|-
+|Vampire Bat
+|Common
+|Nocturnal
+|1
+|20
+|
+|-
+|Capybara
+|Common
+|Rainforest
+|1
+|10
+|
+|-
+|Chimpanzee
+|Common
+|Rainforest
+|11
+|60
+|
+|-
+|Gorilla
+|Common
+|Rainforest
+|9
+|50
+|
+|-
+|Lemur
+|Common
+|Rainforest
+|1
+|20
+|
+|-
+|Macaque
+|Common
+|Rainforest
+|5
+|30
+|
+|-
+|Mandrill
+|Common
+|Rainforest
+|6
+|30
+|May unlock an animal cap
+|-
+|Orangutan
+|Common
+|Rainforest
+|11
+|55
+|
+|-
+| Sloths
+|Common
+|Rainforest
+|3
+|25
+|
+|-
+|Squirrel Monkey
+|Common
+|Rainforest
+|3
+|25
+|
+|-
+|Tapirs
+|Common
+|Rainforest
+|4
+|35
+|
+|-
+|Jaguar
+|Common
+|Rainforest, Savanna
+|3
+|15
+|Big Cat
+|-
+|Leopard
+|Common
+|Rainforest, Savanna, Desert
+|2
+|23
+|Big Cat
+|-
+|Red Panda
+|Common
+|Temperate
+|1
+|15
+|May unlock an animal cap
+|-
+|African Spurred Tortoise
+|Common
+|Reptile
+|15
+|100
+|
+|-
+|Aldabra Giant Tortoise
+|Common
+|Reptile
+|25
+|120
+|
+|-
+|Alligator
+|Common
+|Reptile
+|10
+|80
+|
+|-
+|Anaconda
+|Common
+|Reptile
+|4
+|27
+|
+|-
+|Ball Python
+|Common
+|Reptile
+|3
+|25
+|
+|-
+|Bearded Dragon
+|Common
+|Reptile
+|2
+|10
+|
+|-
+|Black Mamba
+|Common
+|Reptile
+|6
+|15
+|May unlock an animal cap
+|-
+|Boa Constrictor
+|Common
+|Reptile
+|4
+|30
+|
+|-
+| Box Turtle
+|Common
+|Reptile
+|8
+|35
+|
+|-
+|Burmese Python
+|Common
+|Reptile
+|4
+|23
+|
+|-
+|Chameleon
+|Common
+|Reptile
+|1
+|10
+|
+|-
+|Crocodile
+|Common
+|Reptile
+|10
+|70
+|
+|-
+|Desert Tortoise
+|Common
+|Reptile
+|20
+|80
+|
+|-
+| Gaboon Viper
+|Common
+|Reptile
+|5
+|20
+|
+|-
+|Gila Monster
+|Common
+|Reptile
+|3
+|30
+|
+|-
+|Green Tree Python
+|Common
+|Reptile
+|2
+|20
+|
+|-
+|Iguana
+|Common
+|Reptile
+|2
+|20
+|
+|-
+| King Cobra
+|Common
+|Reptile
+|6
+|20
+|
+|-
+|African Elephant
+|Common
+|Savanna
+|10
+|70 
+|
+|-
+|Albino Lion
+|Common
+|Savanna
+|3
+|23
+|Big Cat; May unlock an animal cap
+|-
+|Antelope
+|Common
+|Savanna
+|5
+|20
+|
+|-
+|Bengal Tiger
+|Common
+|Savanna
+|4
+|20
+| Big Cat; May unlock an animal cap
+|-
+|Cheetah
+|Common
+|Savanna
+|2
+|15
+|Big Cat
+|-
+|Emu
+|Common
+|Savanna
+|3
+|28
+|
+|-
+|Gazelle
+|Common
+|Savanna
+|2
+|15
+|
+|-
+|Giraffe
+|Common
+|Savanna
+|4
+|27
+|
+|-
+|Hippopotamus
+|Common
+|Savanna
+|8
+|40
+|
+|-
+|Komodo Dragon
+|Common
+|Savanna 
+|8
+|30
+|
+|-
+|Lion
+|Common
+|Savanna
+|3
+|23
+|Big Cat; May unlock an animal cap
+|-
+|Meerkat
+|Common
+|Savanna
+|1
+|12
+|
+|-
+|Ostrich
+|Common
+|Savanna
+|3
+|70
+|
+|-
+|Secretary Bird
+|Common
+|Savanna
+|3
+|19
+|
+|-
+|Warthog
+|Common
+|Savanna
+|2
+|18
+|
+|-
+|Zebra
+|Common
+|Savanna
+|2
+|40
+|May unlock an animal cap
+|-
+|Deer
+|Common
+|Temperate
+|2
+|14
+|
+|-
+|Agouti
+|Common
+|Temperate
+|2
+|15
+|
+|-
+|Beaver
+|Common
+|Temperate
+|3
+|19
+|
+|-
+|Cougar
+|Common
+|Temperate
+|3
+|20
+|Big Cat
+|-
+|Degu
+|Common
+|Temperate
+|1
+|9
+|
+|-
+|Grizzly Bear
+|Common
+|Temperate
+|5
+|25
+|
+|-
+|Kangaroo
+|Common
+|Temperate
+|2
+|20
+|
+|-
+|Koala
+|Common
+|Temperate
+|2
+|20
+|
+|-
+|Lynx
+|Common
+|Temperate
+|2
+|24
+|Big Cat
+|-
+|Otter
+|Common
+|Temperate
+|3
+|20
+|
+|-
+|Panda Bear
+|Common
+|Temperate
+|5
+|20
+|May unlock an animal cap
+|-
+| Platypus
+|Common
+|Temperate
+|2
+|17
+|
+|-
+|Prairie Dog
+|Common
+|Temperate
+|2
+|8
+|
+|-
+|Red Fox
+|Common
+|Temperate
+| 1
+|12
+|
+|-
+|Rhinoceros
+|Common
+|Temperate
+|7
+|40
+|
+|-
+|Wolf
+|Common
+|Temperate
+|2
+| 16
+|
+|-
+|Coyotes
+|Common
+|Temperate, Desert
+|1
+|20
+|
+|}
+'''Rare Animals''' can only be obtained from existing offers in the Trading Post or when Trading a common animal, whereas '''Common Animals''' are obtainable by both posting an ad on the Trading Post and existing offers in the Trading Post.
+
+===Animal Hats===
+Some animals may unlock an animal hat with the purchase of an animal. These animal hats are collectible [[accessories]] that your character and NPCs may equip under the Main Menu. There are a total of 13 animal caps and obtaining all caps unlocks the Cap-ybara [[Achievements|achievement]].
+
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+'''List of Animal Caps:'''
+<div class="mw-collapsible-content"> 
+#Between the Lines Cap
+#Big Red Cap
+#BitFu Panda Cap
+#Divine Flamboyance Cap
+#Eye of the Tiger Cap
+#Eternal Flame Cap
+#Lion Sleeps Tonight Cap
+#My Little Unicorn Cap
+#Proud Peacock Cap
+#Real Macaw Cap
+#Sinister Scales Cap
+#Sky High Cap
+#War Paint Cap
+</div>
+
+==Habitats==
+Zoos can be purchased in 3 sizes: small, medium and large. A small zoo can accommodate up to 4 habitats, a medium zoo 6 habitats and a large zoo 8 habitats. Small and medium zoos can be upgraded to medium and large zoos via the Expand Zoo button, though the application may be denied if the zoo is on a government stipend. Each habitat can accommodate up to 20 animals and 1 feature, there are a total of 8 unique habitats.  
+
+===Arctic Habitat===
+
+===Aviary===
+
+===Desert Habitat===
+
+===Nocturnal House===
+
+===Rainforest Habitat===
+
+===Reptile Room===
+
+===Savanna Habitat===
+
+===Temperate Habitat===
+<references />

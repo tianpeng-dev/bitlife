@@ -1,0 +1,892 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.bitlife/schema/bitlife-core-v0.1.json",
+  "title": "BitLife-like Core Config and Save-State Schema",
+  "description": "Schema for validating rules/config and runtime save-state of a text life simulation game.",
+  "type": "object",
+  "required": [
+    "version",
+    "config",
+    "state"
+  ],
+  "properties": {
+    "version": {
+      "type": "string",
+      "pattern": "^v[0-9]+\\.[0-9]+(\\.[0-9]+)?$"
+    },
+    "config": {
+      "$ref": "#/$defs/config"
+    },
+    "state": {
+      "$ref": "#/$defs/state"
+    }
+  },
+  "$defs": {
+    "statValue": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "boundedInt": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "effect": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "stats": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "number",
+            "minimum": -100,
+            "maximum": 100
+          }
+        },
+        "cashDelta": {
+          "type": "number"
+        },
+        "addTags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "removeTags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "healthCondition": {
+          "type": "string"
+        },
+        "prisonDeltaYears": {
+          "type": "integer",
+          "minimum": -200,
+          "maximum": 200
+        },
+        "relationshipDelta": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "number",
+            "minimum": -100,
+            "maximum": 100
+          }
+        },
+        "setFlag": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "boolean"
+          }
+        }
+      }
+    },
+    "choice": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "text",
+        "effects"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9_\\-]+$"
+        },
+        "text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "effects": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/effect"
+          }
+        },
+        "weight": {
+          "type": "number",
+          "minimum": 0
+        },
+        "nextEventIds": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "event": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "domain",
+        "title",
+        "prompt",
+        "weight",
+        "choices"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9_\\-]+$"
+        },
+        "domain": {
+          "type": "string",
+          "enum": [
+            "childhood",
+            "education",
+            "relationship",
+            "career",
+            "health",
+            "crime",
+            "prison",
+            "assets",
+            "fame",
+            "misc"
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "prompt": {
+          "type": "string",
+          "minLength": 1
+        },
+        "weight": {
+          "type": "number",
+          "minimum": 0
+        },
+        "minAge": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 130
+        },
+        "maxAge": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 130
+        },
+        "requiresTags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "excludesTags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "choices": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "$ref": "#/$defs/choice"
+          }
+        }
+      }
+    },
+    "action": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "group",
+        "minAge",
+        "effects"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9_\\-]+$"
+        },
+        "name": {
+          "type": "string"
+        },
+        "group": {
+          "type": "string",
+          "enum": [
+            "mind_body",
+            "relationships",
+            "education_work",
+            "crime",
+            "assets",
+            "medical",
+            "prison"
+          ]
+        },
+        "minAge": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 130
+        },
+        "requiresFlags": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "boolean"
+          }
+        },
+        "effects": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/effect"
+          }
+        }
+      }
+    },
+    "config": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "startingRanges",
+        "yearlyDrift",
+        "actions",
+        "events"
+      ],
+      "properties": {
+        "startingRanges": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "happiness",
+            "health",
+            "smarts",
+            "looks"
+          ],
+          "properties": {
+            "happiness": {
+              "$ref": "#/$defs/range"
+            },
+            "health": {
+              "$ref": "#/$defs/range"
+            },
+            "smarts": {
+              "$ref": "#/$defs/range"
+            },
+            "looks": {
+              "$ref": "#/$defs/range"
+            }
+          }
+        },
+        "yearlyDrift": {
+          "type": "object",
+          "additionalProperties": {
+            "$ref": "#/$defs/driftRule"
+          }
+        },
+        "lawsByCountry": {
+          "type": "object",
+          "additionalProperties": {
+            "$ref": "#/$defs/countryLaw"
+          }
+        },
+        "actions": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/action"
+          }
+        },
+        "events": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/event"
+          }
+        },
+        "ribbonRules": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/ribbonRule"
+          }
+        }
+      }
+    },
+    "range": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "min",
+        "max"
+      ],
+      "properties": {
+        "min": {
+          "$ref": "#/$defs/boundedInt"
+        },
+        "max": {
+          "$ref": "#/$defs/boundedInt"
+        }
+      }
+    },
+    "driftRule": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "baseMin",
+        "baseMax"
+      ],
+      "properties": {
+        "baseMin": {
+          "type": "number",
+          "minimum": -50,
+          "maximum": 50
+        },
+        "baseMax": {
+          "type": "number",
+          "minimum": -50,
+          "maximum": 50
+        },
+        "modifiers": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/driftModifier"
+          }
+        }
+      }
+    },
+    "driftModifier": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "when",
+        "deltaMin",
+        "deltaMax"
+      ],
+      "properties": {
+        "when": {
+          "type": "string"
+        },
+        "deltaMin": {
+          "type": "number",
+          "minimum": -50,
+          "maximum": 50
+        },
+        "deltaMax": {
+          "type": "number",
+          "minimum": -50,
+          "maximum": 50
+        }
+      }
+    },
+    "countryLaw": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "drivingAge": {
+          "type": "integer",
+          "minimum": 10,
+          "maximum": 30
+        },
+        "gamblingLegal": {
+          "type": "boolean"
+        },
+        "sameSexMarriageLegal": {
+          "type": "boolean"
+        },
+        "deathPenalty": {
+          "type": "boolean"
+        }
+      }
+    },
+    "ribbonRule": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "priority",
+        "conditionExpr"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "priority": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9999
+        },
+        "conditionExpr": {
+          "type": "string"
+        }
+      }
+    },
+    "state": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "character",
+        "run",
+        "relations",
+        "inventory"
+      ],
+      "properties": {
+        "character": {
+          "$ref": "#/$defs/character"
+        },
+        "run": {
+          "$ref": "#/$defs/run"
+        },
+        "relations": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/relation"
+          }
+        },
+        "inventory": {
+          "$ref": "#/$defs/inventory"
+        },
+        "history": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/historyEntry"
+          }
+        }
+      }
+    },
+    "character": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "country",
+        "city",
+        "age",
+        "alive",
+        "stats",
+        "flags"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        },
+        "city": {
+          "type": "string"
+        },
+        "gender": {
+          "type": "string"
+        },
+        "age": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 130
+        },
+        "alive": {
+          "type": "boolean"
+        },
+        "stats": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "happiness",
+            "health",
+            "smarts",
+            "looks"
+          ],
+          "properties": {
+            "happiness": {
+              "$ref": "#/$defs/statValue"
+            },
+            "health": {
+              "$ref": "#/$defs/statValue"
+            },
+            "smarts": {
+              "$ref": "#/$defs/statValue"
+            },
+            "looks": {
+              "$ref": "#/$defs/statValue"
+            },
+            "fame": {
+              "$ref": "#/$defs/statValue"
+            },
+            "approval": {
+              "$ref": "#/$defs/statValue"
+            },
+            "respect": {
+              "$ref": "#/$defs/statValue"
+            }
+          }
+        },
+        "flags": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "boolean"
+          }
+        },
+        "diseases": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/diseaseState"
+          }
+        },
+        "career": {
+          "$ref": "#/$defs/careerState"
+        },
+        "legal": {
+          "$ref": "#/$defs/legalState"
+        }
+      }
+    },
+    "diseaseState": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "severity",
+        "treated"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "severity": {
+          "type": "string",
+          "enum": [
+            "minor",
+            "moderate",
+            "severe",
+            "critical"
+          ]
+        },
+        "treated": {
+          "type": "boolean"
+        },
+        "yearsActive": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100
+        }
+      }
+    },
+    "careerState": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "jobId": {
+          "type": "string"
+        },
+        "jobTitle": {
+          "type": "string"
+        },
+        "industry": {
+          "type": "string"
+        },
+        "salary": {
+          "type": "number",
+          "minimum": 0
+        },
+        "performance": {
+          "$ref": "#/$defs/statValue"
+        },
+        "yearsInRole": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100
+        }
+      }
+    },
+    "legalState": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "criminalRecord",
+        "incarcerated",
+        "sentenceYearsRemaining"
+      ],
+      "properties": {
+        "criminalRecord": {
+          "type": "boolean"
+        },
+        "incarcerated": {
+          "type": "boolean"
+        },
+        "securityLevel": {
+          "type": "string",
+          "enum": [
+            "none",
+            "juvenile",
+            "minimum",
+            "medium",
+            "maximum"
+          ]
+        },
+        "sentenceYearsRemaining": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 300
+        },
+        "convictions": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/conviction"
+          }
+        }
+      }
+    },
+    "conviction": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "crimeId",
+        "crimeName",
+        "years",
+        "yearOfLife"
+      ],
+      "properties": {
+        "crimeId": {
+          "type": "string"
+        },
+        "crimeName": {
+          "type": "string"
+        },
+        "years": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 200
+        },
+        "yearOfLife": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 130
+        }
+      }
+    },
+    "relation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "kind",
+        "closeness",
+        "trust",
+        "conflict",
+        "alive"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "kind": {
+          "type": "string",
+          "enum": [
+            "parent",
+            "sibling",
+            "lover",
+            "spouse",
+            "child",
+            "friend",
+            "coworker",
+            "classmate",
+            "pet",
+            "ex",
+            "other"
+          ]
+        },
+        "closeness": {
+          "$ref": "#/$defs/statValue"
+        },
+        "trust": {
+          "$ref": "#/$defs/statValue"
+        },
+        "conflict": {
+          "$ref": "#/$defs/statValue"
+        },
+        "alive": {
+          "type": "boolean"
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "inventory": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "cash",
+        "netWorth",
+        "assets"
+      ],
+      "properties": {
+        "cash": {
+          "type": "number"
+        },
+        "netWorth": {
+          "type": "number"
+        },
+        "assets": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/asset"
+          }
+        }
+      }
+    },
+    "asset": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "type",
+        "name",
+        "condition",
+        "marketValue"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "house",
+            "car",
+            "jewelry",
+            "instrument",
+            "aircraft",
+            "boat"
+          ]
+        },
+        "name": {
+          "type": "string"
+        },
+        "condition": {
+          "$ref": "#/$defs/statValue"
+        },
+        "marketValue": {
+          "type": "number",
+          "minimum": 0
+        },
+        "isHaunted": {
+          "type": "boolean"
+        },
+        "yearlyCost": {
+          "type": "number",
+          "minimum": 0
+        }
+      }
+    },
+    "run": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "turn",
+        "yearSeed",
+        "rngState"
+      ],
+      "properties": {
+        "turn": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 200
+        },
+        "yearSeed": {
+          "type": "integer"
+        },
+        "rngState": {
+          "type": "string"
+        },
+        "deceasedSummary": {
+          "$ref": "#/$defs/deceasedSummary"
+        }
+      }
+    },
+    "deceasedSummary": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "ageAtDeath": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 130
+        },
+        "causeOfDeath": {
+          "type": "string"
+        },
+        "ribbonId": {
+          "type": "string"
+        },
+        "ribbonName": {
+          "type": "string"
+        },
+        "totalChildren": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 200
+        },
+        "yearsInPrison": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 130
+        },
+        "murders": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 1000
+        }
+      }
+    },
+    "historyEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "turn",
+        "type",
+        "text"
+      ],
+      "properties": {
+        "turn": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 200
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "event",
+            "action",
+            "outcome",
+            "system"
+          ]
+        },
+        "id": {
+          "type": "string"
+        },
+        "text": {
+          "type": "string"
+        },
+        "data": {
+          "type": "object"
+        }
+      }
+    }
+  }
+}

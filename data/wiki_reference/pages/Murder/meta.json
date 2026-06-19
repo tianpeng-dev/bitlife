@@ -1,0 +1,26 @@
+{
+  "title": "Murder",
+  "pageid": 213,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Murder",
+  "categories": [
+    "BitLife",
+    "Crimes"
+  ],
+  "links": [
+    "Emoji",
+    "Jail",
+    "Lawsuit",
+    "Nations",
+    "Relationships",
+    "Updates",
+    "Wedgies",
+    "Will/Testament"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Murder/content.html",
+    "wikitext": "pages/Murder/content.wikitext",
+    "text": "pages/Murder/content.txt"
+  }
+}

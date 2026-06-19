@@ -1,0 +1,198 @@
+{{Infobox_BitLifeApp|title1=Pop Star Update - V1.45|image1=File:Music.jpg|launched_on_ios:=November 24, 2020|launched_on_android:=May 14, 2021}}
+
+Following the '''Pop Star Update in November 2020''', players can now have their characters become famous musicians— now, they can perform in different genres under contracts from different labels with different bands! Characters can learn several instruments ranging from the guitar to the didgeroo, even from a young age, and can also ask their parents for voice lessons! While everyone can pursue a career in music, not everyone can succeed; this update also introduces the special musical talent, which helps your characters grow their skill and become famous musicians.
+
+'''Comment on this page what other information should be added here. Date of creation: January 10, 2021.'''
+
+[https://www.levelwinner.com/bitlife-pop-star-update-guide-everything-you-need-to-know-about-bitlife-version-1-45-aka-the-pop-star-update/ This LevelWinner article] on the update is a recommended read.
+
+== Starting Your Music Career ==
+[[File:Available Instruments.png|thumb|Instruments you can learn. Some not depicted, but are under the cut.]]
+[[File:Instruments.png|left|thumb|Kid displaying "music/al talent"!]]
+It's highly recommended you start off your career with a character who has the music talent! This is available randomly, but you will start to see indications of it on your character's timeline in the form of text describing your character being curious about sound or having some sort of talent with percussion, keyboard, string, or brass instruments. If you have [[God Mode]], you can manually select for your new character to have the music talent.
+
+You can start taking instrument lessons as soon as you start primary school, usually when you are 6 years old (voice lessons at 8), but this requires your parents to be willing to let you have them. Typically, characters with the music talent will start off their skills at green, while characters with no music talent will start off in the red. It is rumoured that joining a music-related club at school will help grow your skill, but it's never been strictly proven ('''feel free to correct! Haven't looked into this much''').
+
+After graduating, you can access the music career from Job > Special Careers > Musician > Band/Solo Artist. At this point, you should have an instrument at max skill— best ones to master would be the guitar, the keyboard, the bass, or your voice as those all allow you to both join a band and go solo. Other options include the saxophone (solo), the violin (solo), the cello (solo), the piano (solo), and the drum (band). Learning one type of instrument, such as the keyboard, will give you an advantage in learning the piano. This goes as well for similarly related instruments; such as the guitar, the banjo, and the bass.
+
+== Joining a Band & Going Solo ==
+[[File:Join band.jpg|left|thumb|After a successful audition...]]
+
+=== Solo Artistry ===
+When auditioning as a solo artist, you can pick the instrument you've mastered from the list of options, and then a record label. The record label doesn't really seem to matter all that much (comparable to the significance of which club you're going to choose to go to), though refusing an offer from a label once will discourage them from answering your calls in the future. If you do very well in the audition and the label gives you a contract, you get to see the money they're offering upfront, how much money will be distributed over how many years, and which genre your career is going to be heading in.
+
+Take note that it's almost impossible to change genres mid-career, so if you're accepting a contract for worship music, be aware you can't suddenly turn around and produce pop music any time in the future!
+
+=== A Team Effort ===
+When auditioning for a band, things are a little bit different. The selection of instruments is a little smaller (as detailed in the previous section), and you haven't got any bands to pick from— the button is, instead, "Find a band", and sometimes when your skill is too low you'll see a pop-up saying "''You looked for a band in search of a _instrument player_ but couldn't find one.''" When your skill is high enough, though, you'll see something similar to the right!
+
+Joining a band that is very popular, in the genre you'd like to produce music for, has only a couple members, and earned very much in the last year is ideal. This means that your members are very talented, you'll get to make the music you want to, and that band earnings won't be split up as much! However, stars have to start somewhere— you're free to quit your band any time and join a new one if it really isn't for you or if you think your popularity is high enough to continue on your own.
+
+== Band Dynamics & Solo Performances ==
+As soon as you officially start your career, a multitude of options are available to you (solo options first, band-exclusive options in the second half of this section). Unfortunately, it seems you can only record a new album or single once a year. Any more attempts and your record label or your band will refuse.
+[[File:Job screen when band joined.jpg|thumb|Some of the actions available in the music career! This character is in a band and is not a solo artist, FYI.]]
+
+* ''Album'' allows you to record a new album. Options first displayed are ''Compilation, Live, Studio,'' and ''Single''. After that, you can pick the album name, cover, number of tracks, and subgenre. The combination of subgenres and album covers influences the reception of the new album, though not by much.
+* ''Concert'' allows you to hold a live concert. The popup will detail the location of the concert and the amount of people the venue can fit— the latter value, your popularity, and your performance at the concert determines your pay.
+* ''Discography'' allows you to view your previous studio albums and singles, their earnings, the number of records sold, their popularity, and whether or not they earned a certification.
+* ''Practice'' allows you to hone your craft even further.
+* ''Single'' allows you to record a new single. The difference between recording from here and recording from Album > Single isn't really clear, but it seems to be the same thing. After that, you can pick the track name, subgenre, and cover. The combination of subgenres and cover art influences the reception of the new single, though not by much.
+* ''Stage Name'' allows you to adopt a stage name. It will be the name displayed at the top left of your screen from then on, but you're always free to change it and it doesn't change your real name whatsoever.
+* ''Tour'' allows you to ask your label to set up a world tour for you. This seems to bring in the most cash, and is available even in the early stages of stardom.
+
+'''Band-exclusive options:'''
+
+* ''Band'' allows you to interact with your fellow bandmates. Your relationship goes up each time you record a new album or single that becomes very successful, and you may interact with them just like regular coworkers. There's a new option, though— you can kick band members out of the band!
+* ''Band Name'' allows you to change your band's name. This usually does not work but it is possible. Think about this option when you get subjected to the band name "Kittycat Dolls" like I did on my first playthrough of this update.
+* ''Quit'' allows you to walk out on the band and the music scene as a whole. Unlike...
+* ''Solo Artist'', which allows you to ditch your band, too, but you get to continue under a different record label and as a solo artist. You will be playing the same instrument as you were in the band, so drummers unfortunately do not have this option.
+
+== Genres ==
+
+Genres and sub-genres include:
+
+* Alternative
+** Alternative Metal
+** Art Punk
+** Dance-Punk
+** Emo
+** Emo Rap
+** Folk Punk
+** Garage
+** Grunge
+** Indie Folk
+** Neofolk
+** New Wave
+** Punk
+** Steampunk
+** Thrasher
+
+* Country
+** Bluegrass
+** Country Rock
+** Cowboy
+** Dirt Road
+** Hellbilly
+** Hill Country Blues
+** Hillbilly
+** Honky-Tonk
+** Outlaw
+** Rockabilly
+** Southern
+** Urban Cowboy
+
+* Pop
+** Bubblegum
+** Dance
+** Dance-Punk
+** Disco
+** Electro
+** Popera
+** Psychedelic Pop
+** Rock And Roll
+** Sing-Along
+** Ska
+** Space Age
+** Synth
+** Worship Pop
+** (Note: pop in South Korea has its own genres: Anime, Ballad, Bubblegum, Cantopop, Hokkien Pop, J-Pop, Kawaii Metal, Kayokyoku, & Space Age. Other countries may have their own.)
+
+* Rap music
+** Alternative Rap
+** Bounce
+** Conscious Rap
+** Crunk
+** Dirty South
+** Emo Rap
+** Freestyle
+** Gangsta Rap
+** Hip-Hop
+** Mumble Rap
+** Old School Rap
+** Souncloud Rap
+** Trap
+** Urban Cowboy
+** West Coast
+** Worship Hip Hop
+
+* Reggae
+** African Blues
+** Afro-Beat
+** Afro-Punk
+** Caribbean
+** Dancehall
+** Dembow
+** Dub
+** Rasta
+** Reggae Fusion
+** Regaeton
+
+* R&B
+** Alternative Rap
+** Blues
+** Boogie
+** Conscious Rap
+** Contemporary Blues
+** Contemporary R*B
+** Doo Wop
+** Funk
+** Fusion Jazz
+** Groove
+** Jazz
+** Motown
+** Ragtime
+** Smooth Jazz
+** Soul
+
+* Rock
+** Afro-Punk
+** Classic Rock
+** Country Rock
+** Hard Rock
+** Punk
+** Rock And Roll
+** Rockabilly
+** Screamo
+** Ska
+** Southern Rock
+** Worship Rock
+
+* Folk
+** Fable
+** Folk Punk
+** Indie Folk
+** Legend
+** Myth
+** Neofolk
+** Progressive Folk
+** Psychedelic
+** Southern Rock
+
+* Worship
+** Church
+** Gospel
+** Hymn
+** Praise
+** Spiritual
+** Worship Hip Hop
+** Worship Metal
+** Worship Pop
+** Worship Rock
+
+==Achievements==
+With the new update, a new category of [[achievements]] was added: Music. This includes ''Bling Bling, Didgeroo'er, Keep It on the Down Hoe, Lyrical legend,'' and ''Moves Like Jagger.''
+
+The ''Bling Bling'' achievement regards the different certifications detailed in the next section. The ''Didgeroo'er'' achievement regards practising the didgeroo instrument skill until the bar is full. The ''Keep It on the Down Hoe'' achievement regards performing a concert at a hoe down— the venue showing up is mostly chance-based. The ''Lyrical Legend'' regards releasing studio albums regularly for more than 25 years. The ''Moves Like Jagger'' regards maintaining your musical career and going on a tour at 75 years old.
+
+Instructions and more details on completing these achievements are found in the achievements page linked above.
+
+== Miscellaneous Information ==
+As soon as you enter a contract under a record label or with a band, you immediately gain [[Stats/Fame|fame]]. The stat displayed below, however, is the "Popularity" stat, referring to your band or your music's popularity rather than your personal fame.
+
+When your albums or singles sell enough records, you gain different levels of certification. Gold, Platinum, Double Platinum, and then, finally, Diamond. These are based on the real-life certifications given to real-life musicians! [https://en.wikipedia.org/wiki/Music_recording_certification Wikipedia link for the curious.]
+
+Your band may sometimes be the ones to kick you, or may disband. In this case, you are presented with three choices; stop producing music altogether, continue as a solo artist, or find another band to play with. In the latter scenario, you are also given the option to try and get the band back together again. Having them disband is quite rare, though!
+[[Category:Updates]]
+[[Category:BitLife]]
+[[Category:Fame]]
+[[Category:Special Careers]]

@@ -1,0 +1,32 @@
+'''''Note''': This page talks about purchases your CHARACTER does on BitLife. For real-life purchases, check out [[Bitizenship]], [[God Mode]], [[Time Machine]], [[Merchandise]], and other related pages but this page is not related to them.''
+
+'''Shopping ''' for Real Estate, Cars, Planes, Boats, Jewelries, Pets, and Instruments are the only means of purchase for your character in BitLife. Shopping is accessible through the Activities and Assets sections, whereas shopping for [[Assets]] and [[Pets]] are present separately.
+
+== Asset Shopping ==
+[[File:WhatsApp Image 2022-12-06 at 19.35.53.jpg|thumb|441x441px|Asset Shopping]]
+[[Assets|Asset]] Shopping includes Shopping for Real Estate, Cars, Planes, Instruments, Boats, and Jewelry. Keep in mind that [[Heirlooms]], as though a part of assets, can not be shopped. For iOS players, there is a tab for Shopping in the Activities section where you can buy Assets, but you can also shop for assets through the Assets section. You can see the stats before buying. Asset dealers are divided into 5 sections:
+[[File:Pilot License needed.png|thumb|220x220px|You need licenses to buy cars, planes, and boats]]
+* '''Car Dealers''': Shows 3 possible shops to shop for cars. Cars show their condition through a bar if it is used, not if it is new. To shop for Cars, you need to pass your driving license. You can apply for a loan.
+* '''Jewelers''': Shows 2 possible shops to shop for jewelry, 1 of them sells fake jewelry. Before buying it, will show its Quality through a bar. You can buy rings, earrings, and pendants from them. Real rings and earrings show their carats beside them before buying.
+* '''Real Estate Brokers''': Shows 2 shops to shop for real estate. Houses can be as small and cheap as a trailer home or as giant and expensive as a ranch acreage. When getting a house, a player may buy it or get a mortgage. Houses are listed by price, have their own street address, and will say how many years old it is and what its condition is through a bar. Haunted real estate will also have an extra bar for showing their Hauntedness.
+* '''Specialty Vehicle Dealers''': Shows 1 shop to shop for planes, another shop to shop for Aircraft, and 1 more shop to shop for boats, they show their condition through a bar if it is used, not if it is new. To shop for planes and aircraft, you need to attend 40 hours of Flight lessons and then pass the pilot license. For shopping boats, you will need a license too. You can apply for a loan for both of them. You can take boats for Cruise and Planes for Vacations as well. Planes may range from basic guilders to helicopters, or even fighter planes and passenger planes. Boat dealers offer a range of stuff, from cheap and small rafts, paddle boats, and dinghies to jet skis to more expensive yachts and tugboats.
+*'''Instruments:</small>''' Shows 1 shop to shop for instruments.Instruments can be as cheap as a kazoo but as expensive as a flute. You can sell, play, discard, tune, polish, and donate instruments. If you keep playing instruments you might end up damaging them, which decreases condition and value. You can choose to tune or polish instruments, which will increase condition(if not in brand-new condition) and value. When you become a street hustler, you can choose to be a busker which involves you playing instruments. Until a certain age, your parents may ask you to take [instrument] lessons. If you agree, they will buy you the instrument on which you took lessons if they have high generosity.
+
+== Pet Shopping ==
+[[File:Pet_Shopping.png|thumb|275x275px|Pet shopping]]
+[[Pets]] are animal companions in BitLife. You may be asked by your children to take them pet shopping, or buy it yourself. Here are methods of shopping for pets:
+* '''Animal Shelter''': The only method of buying a pet that a non-Bitizen can do. Cats, dogs, and rabbits are found in the shelter.
+* '''Cat breeder''': For those looking for a specific breed of cat.
+* '''Dog breeder''': For those looking for a specific breed of dog.
+* '''Exotic Pet Dealer''': For non-traditional pets, such as big cats, monkeys, or tropical birds. Can also sell some pets at the pet store like a sphynx cat or a snake. The item offered by the exotic pet dealer is always random and changes each year.
+* '''Pet store''': A variety of traditional pets.
+* '''Horse Ranch''':''' '''Only available to Bitizens who own a ranch or farm acreage.
+* '''Llama Farm''': Only available to Bitizens who own a ranch or farm acreage in the [[Nations]] of [[Chile]], [[Peru]], [[Brazil]], or [[Venezuela]] (Basically in all of South America).
+After buying a pet, you can choose to either rename or keep the name. Your character may fail to adopt a pet for one of the following:
+* '''Failed Interview'''.
+* '''Age''': If your character is under 18 years old (unless asking parents to buy a pet).
+* '''Criminal Record''': By committing a crime.
+* '''Finances''': From being unemployed or insufficient funds to pay a monthly payment.
+* '''Unspecified''': Unspecified usually means that you have too many pets, or for another reason.
+[[Category:BitLife]]
+[[Category:Updates]]

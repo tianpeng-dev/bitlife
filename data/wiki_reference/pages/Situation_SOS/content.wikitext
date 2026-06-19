@@ -1,0 +1,75 @@
+''Not to be confused with [[Encounter]].''
+{{Infobox scenario
+|title1=Citizen
+|scenario_type:=Situation
+|description:=Your character will see a stranger in need of help to save their life and your character has to make a decision of what to do.
+|emoji:=🆘
+|also_on_android=Yes
+}}
+A SOS Situation is a problem where a stranger is in distress of some kind and your character will need to decide whether to attempt to rescue the stranger, look the other way, or call for an ambulance/fire/police. If your character successfully attempts to rescue the stranger, they will save their life. If your character unsuccessfully attempts to rescue the stranger, they will die from the situation as well. Either of these will still get them the ''Hero'' [[Ribbons|ribbon]]. If your character calls for emergency, they could be successful and save the stranger's life via their call, or could be unsuccessful and emergency would come too late, having the stranger die. The results are completely random and you will not know whether you chose the correct option until after the option was chosen. Looking the other way will not do anything to help, it will just say "I saw (situation). I couldn't be bothered to do anything." in the character's journal. Saving a stranger's life by rescuing them will get your character a special [[Achievements|achievement]]. Your character will gain [[Karma]] if they chose the correct decision and saved the life. If the character has committed a [[Crime|crime]] or is on the run from a crime and has chosen to call first responders, they will be caught for their crimes but the victim will still be saved if calling first responders was the correct option. There are 15 official SOS Situations. Attempting to rescue will set your karma to 100.
+
+
+
+==Rescue attempts==
+
+{| class="article-table"
+!Situation
+!Successful attempt to rescue
+!Failed attempt to rescue
+|-
+|Neighbor's house on fire with neighbor trapped inside
+| rowspan="17" | You saved their life!
+|Your character will die after being trapped in a burning building.
+|-
+|Someone is drowning in a river.
+|Your character will drown with them.
+|-
+|Person bit by venomous snake.
+|Your character will die from invenomation by sucking out the venom.
+|-
+|Unconscious person at a grocery store.
+|Your character will be bit on the tongue and bleed to death while administering CPR. '''Prior to May 2019, the original ending had characters die contracting AIDS and dying immediately after performing CPR but was edited due to complaints about inaccuracy. However in the Android version, the original ending has not been changed.'''
+|-
+|Very heavy person having heart attack.
+|Your character will die when the heavy person rolls on top of them, crushing them to death.
+|-
+|Child stuck in tree.
+|Your character will die falling out of the tree to their death.
+|-
+|Bank clerk threatened at gunpoint by criminal man.
+|Your character will be fatally shot by the criminal.
+|-
+|Man about to have his throat slit by biker.
+|Your character will be fatally stabbed by the biker.
+|-
+|Man overdosing on opiates
+|Your character will die when the man wakes up and beats them to death while still drugged.
+|-
+|Man is being attacked by a dog.
+|Your character will also be mauled.
+|-
+|Man about to jump off a window ledge.
+|Your character will die after being crushed by the falling man.
+|-
+|Man trapped inside car with leaking fuel
+|Your character will die when the car explodes.
+|-
+|While at the zoo, someone is being attacked by an escaped gorilla.
+|Your character will be decapitated by a gorilla punch. There is a special achievement pertaining to this death called "'''Gorilla and the Fist'''".
+|-
+|Woman tied to railroad tracks.
+|Your character will be run over by a train and die.
+|-
+|Woman held at gunpoint by mugger.
+|Your character will be fatally shot by the mugger.
+|-
+|}
+
+
+== Unofficial Rescue Situations ==
+Some rescue situations that are unrelated to the SOS situations of saving a random citizen are below. These involve saving a loved one rather than a stranger. Choosing correctly will not always get a ribbon and there is no possibility of your character dying from these, but choosing incorrectly will still result in that loved one dying.
+
+*'''Kidnapping''' - A [[Relationships/Spouses|spouse]] or [[Pets|pet]] will be kidnapped and held for ransom for a very high amount. The kidnappers warn your character not to involve the police but they may still do so. The character may either call the police, pay the ransom, or not do anything. If the correct choice was chosen, the spouse or pet will be recovered safely. If the choice was not correct, the spouse or pet will be presumed dead after disappearing. As of November 29, 2019, it is confirmed that they are dead and your character may plan the funeral, in the case of a spouse. This is very rare but usually happens to rich, married characters with small animals. This scenario was added May 2019.
+*'''Choking''' - A family member of your character will suddenly be choking on food and need help right away. Your character may perform the Heimlich maneuver, call an ambulance, or do nothing. If they chose the wrong option, it will say that the Heimlich maneuver was done wrong or the ambulance came too late, having the loved one die and asking them what to do for the [[Funeral]]. If they do nothing, the family member will automatically die and family relationships will lower due to negligence of your character. This scenario was added November 2019. If you successfully rescue them by Heimlich maneuver, you may get the ''Hero'' ribbon.
+[[Category:BitLife]]
+[[Category:Events]]

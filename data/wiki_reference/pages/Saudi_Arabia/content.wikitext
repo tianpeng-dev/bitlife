@@ -1,0 +1,60 @@
+{{Infobox country
+|title1=Saudi Arabia
+|image1=Flag of Saudi Arabia.svg.png
+|caption1=Saudi Arabia's flag.
+|country_name=Saudi Arabia
+|number_of_default_cities=3
+|when_was_it_added_to_ios=September 2018 (Original)
+|available_on_android_as_well=Yes
+}}
+'''Saudi Arabia''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, namely Riyadh, along with Jeddah and Mecca.
+
+== Information ==
+Being an Islam-based country, female characters in BitLife will wear hijabs when they are adults. This is shared with females in [[Afghanistan]], [[United Arab Emirates]], [[Iraq]],  and [[Iran]]. If a female does not originally have one before emigrating, her emoji will be replaced with one that does. If she emigrates to a non-Islam based country, her hijab may be removed. Female lovers or hook-ups who originate from one of these countries will have her hijab.
+
+If you come out as homosexual, you will be arrested.
+
+Saudi Arabia is along with [[Indonesia]], [[Iran]] and [[Singapore]] that [[Crime|Drug trafficking and drug possession]] is punished by death penalty.
+
+== Name List ==
+
+=== Female First Names ===
+* Amatullah
+* Kifaaya
+* Muneefa
+* Muzna
+* Najlaa
+* Rasheeqa
+* Saamiqa
+* Zaahira
+=== Male First Names ===
+* Arshad
+* Hassan
+* Hussam
+* Jalaal
+* Mashal
+* Omar
+* Rasheeq
+
+=== Surnames ===
+* Al Farag
+* Al Mitri
+* Al Iman
+* Al Kaleel
+* Al Murad
+* Al Omar
+* Al Siddique
+* Al Zaman
+* El Jabbour
+* El Javed
+* El Nour
+* El Shariff
+* Saud
+
+== Gallery ==
+<gallery>
+File:Saudi Arabia baby.jpeg|A baby born in Saudi Arabia.
+File:Saudi royalty.jpeg|A baby born into Saudi royalty.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

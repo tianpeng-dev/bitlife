@@ -1,0 +1,117 @@
+The '''Organized Crime''', or a '''Crime Syndicate''' is a special type of career where your character primarily does crimes. There are many kinds of crime syndicates such as Mafia, Irish Mob, Triad or Yakuza, but their functions are identical. In Italy, there's only one crime syndicate, the Sicilian Mafia, which is significantly more notorious than any other crime syndicates. Joining it will unlock an achievement.
+
+==How to Join==
+You are able to join a crime syndicate by requesting to enter in several different ways. Your character must've done at least 5 crimes before joining a syndicate. In rare cases, a crime syndicate will instead ask your character to join themselves. With [[God Mode]] a new life can have ''Crime'' for their special skill, increasing chances of being accepted into the syndicate.
+
+Unlike other careers, the player won't be kicked out by the crime syndicate if they are sent to the jail. A crime syndicate might also help the player join a high-notority gang in the prison (?).
+
+==Rules==
+In every crime syndicate, there's a rule where you must contribute to the family, and in return, get some money back. This reduces your character's usual income but crimes such as Grand Theft Auto will increase your income!
+
+The family may order you to report, which has two options, to report or stay out. The latter has a chance of [[Game over|death]] from being beat by a family member. A common reason is insufficient earnings, although they might also encourage you after doing something good to the family, like doing what the boss told you to do. There are also options where the player is requested by their boss to do something, or take away money that is supposed to be family income, and choosing the option of not reporting to the family can have detrimental results as well.
+
+If the player leaves a crime syndicate after taking the oath, they may be scared by the syndicate members or TBD as this is against their 'made man/woman' promise.
+
+==Crimes==
+The main way of income in a crime syndicate is to contribute to the family by committing crimes. Most are normal crimes, though there's a new option called 'Extortion', where the player forces a business owner to give them money, and if they refuse, the player can choose to scare them, whack them out or shake them down, increasing their notoriety in the way.
+
+*Bank Robbery
+*Burglary
+*Extortion
+*Grand Theft Auto
+*Pickpocket
+*Porch Pirate
+*Shoplift
+*Train Robbery
+
+In both the extortion and some pop-up events, there's the option of whacking someone, scaring them or shaking them down. The former is to kill them in a usually very brutal way, and the latter is to heavily damage them. All have a small chance to be caught by the police, and for the last two, the way the player use may also determine how the target will react. This may also be done to the player if the family or the member from opposite family decides to kill the player.
+
+In some crime syndicate, there is a rat. These rats collect evidence against the family and cause the authorities to launch a sting operation against the family, causing the player to be arrested. Anyone who has a smile can be a rat though this isn't always the case. You can expose anyone as a rat, and if you choose the rat correctly, you will get the "Rat Spotter" achievement and the rat will be killed. On the other hand, if you were wrong, the family will attack you instead.
+
+===Being an Informant===
+You can choose to become a rat but you only have 5 or less years to collect evidence from the family and send it into the police. You must also not be caught doing any crimes. The snitch option is available as a choice when interacting with other members. If you were caught by the Police, they will give you an option to either become a rat or go to [[Prison]].
+
+If the crime syndicate exposes you as a rat, you have an option to kill whoever it was that exposed you, admit it, or deny it. If all the members of the crime syndicate agree with one another that you were the rat, they will beat or kill you (whack you out).
+
+Getting all the evidence within the time will make the Police let you go Scot free no matter what crimes your character did in the past! You can choose to enter the Witness Protection Program where can choose 2 new countries to go to where you will be given a brand new identity, you also bring any children or spouse with you. However, you can opt out of this and take your chances. The big downside is that you can find some object which is the calling card of the crime syndicate you snitched on, a member will confront you and you can choose how to react. Whether it be running away, assaulting him or begging for forgiveness.
+
+==Events==
+Various specific events happen when the player is in a crime syndicate. These include:
+
+* The player is asked by their boss to spy on, scare, shake down, or whack out someone. They can do it, make up an excuse, refuse to do it, or have someone else to do it (only if they have an soldier rank or higher). Doing the thing themselves is the safest option assuming that the action itself does not get noticed by the police. After doing the task, the boss will usually ask the player to report to them, which is usually followed by a compliment if they do.
+* On promotion to a soldier, the player will be presented with a task of murdering a random person. Its mechanics is the same as a normal murder, and the promotion will succeed even if the player is arrested by the police, in which the player can escape from the prison afterwards. Afterwards the character must take the oath to never leave the family.
+* One of the player's family members is whacked out by the opposite family. This will usually be the player's parent(s), siblings, and adult children. Resetting the game doesn't really help with this event, and will instead have another family member getting killed.
+* The player encounters a family member from the opposite family. The can attack them, try to reason with them, beg for forgiveness or run for their life. If any of them fail, the player is very likely to be whacked by the opposite family. To counter this, the 'resetting the game' gimmick can be used here; by assaulting the family member and reset until they die (best if the player has crime talent, as the chance of killing them is higher, but a serious attack on a weak spot works often too), or try to reason with them and reset until they let you go. If they do not die or get reasoned with, quit the game when the 'effectiveness/damage' meter pop-up is still on the screen, as it would be already too late if the '#whacked' pop-up is shown.
+* The player will be presented with a few names to disguise an illegal shop, the methods to deal with people who annoy their boss or the opposite family, to make someone talk, or as the leader, how to deal with the guilt, and so on. Some are specific to each syndicate, such as a Italian speaking event if the player is in the mafia. The impacts of these events are relatively minor to the player.
+
+==Being the Leader==
+As the leader of the crime syndicate (Godfather, Chairman, Padrino, Czar, etc.) the player will have very high annual earning without having to contribute to the family, can easily befriend and increase relationship with everyone else in the syndicate if they wish, and won't have any negative consequences should they fail to identify a rat. However, the stress level will usually be higher than normal, meaning that the risk of getting high blood pressure is also higher. The first time the player becomes a Godfather (or Godmother if the player is a female) they will unlock an achievement.
+
+==Hierarchy==
+Every syndicate has a hierarchy. The most important member is the Godfather (which has different names in other mafias, for example Padrino/a in the Latin Mafia or Chairman in the Yakuza and Triad), however most of the time the player takes orders from the Underboss, unless they're the Underboss themselves.
+
+Here's the hierarchy as follows:
+
+# Godfather/Chairman/Padrino etc.
+# Underboss
+# Caporegime/Captain
+# Soldier
+# Associate
+
+In a Sicilian Mafia, if the player attempts to get promoted by whacking members of higher ranks, they might be discovered and whacked out by their own family.
+
+== Calling Cards ==
+'''Irish Mob'''
+
+* A Daisy With One Petal
+
+'''Latin Mafia'''
+
+* A Peach Cobbler
+
+'''(Italian) Mafia'''
+
+* A Portrait Of The Pope
+* Knitting Needles
+* Adult Molars
+* An Alarm Clock
+* Fingernails
+* Sweaty Jockstraps
+* A Bucket Of Intestines
+* Baby Teeth (?)
+
+'''Russian Mafia'''
+
+* An Empty Perfume Bottle
+
+'''Triad'''
+
+* A Horse Head
+* Rotten Steak Meat
+* A Rusty Coathanger
+
+'''Yakuza'''
+
+* A Baby Shoe
+*A Dead Tuna
+*A Fermented Tofu
+
+== Gallery ==
+<gallery>
+File:Screenshot mafia syndicate.jpeg|A Mafia syndicate
+File:Screenshot irish mob syndicate.jpeg|An Irish Mob syndicate
+File:Screenshot latin mafia syndicate.jpeg|A Latin Mafia syndicate
+File:Screenshot russian mafia syndicate.jpeg|A Russian Mafia syndicate
+File:Screenshot triad syndicate.jpeg|A Triad syndicate
+File:Screenshot yakuza syndicate.jpeg|A Yakuza syndicate
+File:Screenshot extortion tab.jpeg|The extortion tab
+File:Screenshot mafia family.jpeg|Members of a Mafia Family
+File:Screenshot extortion not willing to give money.jpeg|Person refusing to give the player the amount of money demanded.
+File:Screenshot extortion owner giving money first try.jpeg|Person giving the player the money demanded on the first attempt.
+File:Screenshot mafia confirmed join.jpeg|Joining a crime syndicate.
+File:Screenshot mafia boss request.jpeg|Mafia member requesting a favor from the player.
+</gallery>[[File:Screenshot mafia syndicate.jpeg|thumb|2x2px]]
+[[File:Screenshot irish mob syndicate.jpeg|thumb|2x2px]]<br />
+[[Category:Information]]
+[[Category:Careers]]
+[[Category:Special Careers]]

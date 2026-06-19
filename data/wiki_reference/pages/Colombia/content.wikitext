@@ -1,0 +1,210 @@
+{{Infobox country
+|title1=Colombia
+|image1=[[File:Colombia.png]]
+|caption1=Colombia's flag.
+|country_name=Colombia
+|number_of_default_cities=4
+|when_was_it_added_to_ios=September 2018 (default)
+}}'''Colombia''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Bogotá, along with Barranquilla, Cali, and Medellín.
+
+== Name List ==
+
+=== Male First Names ===
+* Adrian
+* Adalberto 
+* Agustin
+* Alejandro
+* Alonso
+*
+* Alfredo
+* Andres
+* Angel
+* Antonio 
+* Alexander 
+* Benjamin
+* Bruno
+* Carlos
+* Daniel
+* David
+* Diego
+* Emiliano
+* Emilio
+* Emmanuel
+* Esteban
+* Ernesto 
+* Felipe
+* Fernando
+* Gabriel
+* Gustavo 
+* Geronimo
+* Hugo
+* Ian
+* Iker
+* Isaac
+* Javier
+* Jeronimo
+* Joaquin
+* Jorge 
+* Jose
+* Juan
+* Juan Diego
+* Juan Jose
+* Juan Pablo
+* Juan Sebastian
+* Julian
+* Leonardo
+* Lucas
+* Luis
+* Manuel 
+* Marco
+* Marcos
+* Martin
+* Mateo
+* Matias
+* Maximiliano
+* Nicolas
+* Pablo
+* Rafael
+* Rodrigo
+* Samuel
+* Sergio 
+* Santiago
+* Sebastian
+* Thiago
+* Tomas
+* Victor 
+* Wilmer 
+* Yadiel
+* Yeriel 
+
+=== Female First Names ===
+* Abril
+* Adriana
+* Alejandra
+* Ana
+* Ana Sofia
+* Andrea
+* Antonella
+* Antonia
+* Angela
+* Ariana
+* Astrid
+* Bianca
+* Camila
+* Catalina
+* Daniela
+* Diana
+* Emilia
+* Emma
+* Fernanda
+* Gabriela
+* Isabella
+* Juliana
+* Julieta
+* Karina
+* Karen 
+* Kelly
+* Lizbeth 
+* Lizeth
+* Ligia 
+* Lilibeth 
+* Litzy 
+* Lucia
+* Luz
+* Luciana
+* Lupe
+* Manuela
+* Maria
+* Maria Fernanda
+* Marcia
+* Mariana
+* Michelle 
+* Martina
+* Mia
+* Natalia
+* Paula
+* Paola
+* Rachel
+* Regina
+* Renata
+*
+* Salome
+* Shakira
+* Sofia
+* Sonia
+* Valentina
+* Valeria
+* Victoria
+* Ximena
+* Zoe
+* Zuleyka 
+
+=== Surnames ===
+* Abasto 
+* Acosta 
+* Amengual 
+* Aguilar 
+* Alvarez
+* Alvarado 
+* Alvar
+* Bacca
+* Castillo
+* Castro
+* Chavez
+* Cruz
+* Delgado
+* Dias
+* Diaz
+* Dominguez 
+* Escobar
+* Fernandez
+* Flores
+* Garcia
+* Garza
+* Gomez
+* Gonzalez
+* Gutierrez
+* Guzman
+* Hernandez
+* Herrera
+* Jimenez
+* Lopez
+* Martin
+* Martinez
+* Medina
+* Mendez
+* Mendoza
+* Molina
+* Montoya
+* Morales
+* Munoz
+* Muriel
+* Ortiz
+* Ortega 
+* Pareja
+* Perez
+* Quintana
+* Ramirez
+* Ramos
+* Reyes
+* Rivera
+* Rodriguez
+* Rojas
+* Romero
+* Ruiz
+* Salazar
+* Sanchez
+* Soto
+* Torres
+* Vargas
+* Vasquez
+* Zapata
+
+== Gallery ==
+<gallery>
+File:Colombia baby.jpeg|A baby born in Colombia.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

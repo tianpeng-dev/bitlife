@@ -1,0 +1,20 @@
+{{Infobox country
+|title1=Kazakhstan
+|image1=[[File:Kazakhstan.png]]
+|caption1=Kazakhstan's flag.
+|country_name=Kazakhstan
+|number_of_default_cities=3
+|when_was_it_added_to_ios=December 2019
+}}'''Kazakhstan''' is a [[Nations|country]] that was on BitLife in December 2019. Its default cities are the capital, Astana (Nur-Sultan), along with Almaty and Shymkent.
+
+On December 19, 2019 on iOS; new countries were added. Along with Kazakhstan; there was also Austria, Bahamas, Costa Rica, DR Congo, Kenya, Kuwait, Lebanon, Mongolia, Nepal, Ukraine, and Vietnam. This was added in the ''Friends'' Update.
+
+==Information==
+Characters graduate at 17 and can legally drive at 18.
+
+== Gallery ==
+<gallery>
+File:Kazakhstan baby.jpeg|A baby born in Kazakhstan.
+</gallery>{{Nations}}
+[[Category:Nations]]
+[[Category:BitLife]]

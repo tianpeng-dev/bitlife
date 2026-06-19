@@ -1,0 +1,135 @@
+{{Infobox BitLifeApp
+|title1= Childhood Diseases/Ailments
+|image1=
+|launched_on_ios:=September 2018 (default)
+|launched_on_android:=February 2019 (default)
+}}'''Childhood diseases''' and childhood ailments are [[Diseases|diseases]] and ailments that can be contracted as a child. Some of the diseases can also be contracted by adults, while others cannot. In the [[Education|School]] Update, school nurses may treat some of these if they are mild enough. Given that the condition is not curable by the school nurse, she will instead advise you to seek medical treatment. Some can be cured by [[Medical Doctor]] while others go away after a few years of [[Age|aging up]]. If the character ages up, they will die in a fatal disease as young as the age of 2. Dying from one of these when the character is under 30 will give the ''Unlucky'' [[Ribbons|ribbon.]]
+
+{| class="article-table"
+!Disease/Ailment
+!Can be contracted by adults?
+!Can be cured by the School Nurse?
+!Average difficulty to cure
+|-
+|Common cold
+|Yes
+|Yes
+|Very Easy
+|-
+|[[Diseases/Cancer|Cancers]]
+|Yes
+|No
+|Medium
+|-
+|Hay fever
+|Yes
+|No
+|Medium (If the medical doctor doesn't cure it, go to the acupuncturist)
+|-
+|Epilepsy
+|No, but characters can suffer it during adult life
+|No
+|Hard
+|-
+|Acne
+|Yes
+|Yes
+|Moderately hard to treat quickly, but goes away on its own after a few years
+|-
+|Chicken pox
+|No
+|Yes
+|Very Easy
+|-
+|Pneumonia
+|Yes
+|No
+|Very Easy
+|-
+|E. coli
+|Yes
+|Yes
+|Very likely
+|-
+|Flu
+|Yes
+|Yes
+|Very Easy
+|-
+|Sickle cell disease
+|No, but characters can suffer it during adult life
+|No
+|Extreme
+|-
+|Measles
+|No
+|No
+|Moderately Easy
+|-
+|Mumps
+|No
+|No
+|Easy
+|-
+|Pink eye
+|Yes
+|Yes
+|Very Easy
+|-
+|Whooping cough
+|No
+|No
+|Easy
+|-
+|Scarlet fever
+|No
+|No
+|Medium
+|-
+|Yellow fever
+|No
+|No
+|Extreme
+|-
+|Tonsillitis
+|No
+|No
+|Varies
+|-
+|Lactose Intolerance
+|No
+|Yes
+|Not possible to be cured by medical doctors
+|-
+|Hives
+|Yes
+|Yes
+|Easy
+|-
+|Diarrhea
+|Yes
+|Yes
+|Very easy
+|-
+|Viral Meningitis
+|Yes
+|Unknown
+|Easy
+|-
+|Croup
+|No
+|Unknown
+|Easy
+|-
+|Middle Ear Infection
+|No
+|Unknown
+|Easy
+|-
+|Lice
+|No
+|Unknown
+|Easy
+|}
+[[Category:BitLife]]
+[[Category:Medical]]

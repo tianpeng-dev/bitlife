@@ -1,0 +1,69 @@
+{{Infobox country
+|title1=Aruba
+|image1=[[File:Aruba.png]]
+|caption1=Aruba's flag.
+|country_name=Aruba
+|number_of_default_cities=
+|when_was_it_added_to_ios=July 10, 2022
+}}'''Aruba''' is a [[Nations|country]] that was added to [[BitLife: Life Simulator|BitLife]] in July 10, 2022.
+
+On July 10, 2022, new countries were added to both iOS and Android. Along with Aruba, there was also [[Andorra]], [[Angola]], [[Belize]], [[El Salvador]], [[Guatemala]], [[Guyana]], [[Haiti]], [[Nicaragua]], [[Papua New Guinea]], [[Paraguay]], [[Samoa]], [[Tunisia]], and [[Uganda]]. This was added in a bug fix update prior to the upcoming Business Update.
+
+==Information==
+Aruba is the west island of the nicknamed 'ABC' islands in the south Carribean, which are owned by the Netherlands. Aruba neighbors Bonaire and Curaçao, but those two islands currently are not in BitLife.
+
+==Vital Statistics==
+
+Currency:  USD ($)
+
+Default Cities: Oranjestad
+
+Graduation Age:  17
+
+Minimum Age to Drop out of School:  Illegal
+
+Free University:  No
+
+Minimum Legal Driving Age:  18
+
+Same-Sex Dating Legal:  Yes
+
+Same-Sex Marriage Legal:  Yes
+
+Changing Last Name After Marriage Permitted:  Yes
+
+Free Healthcare:  Yes
+
+Gambling Legal:  Yes
+
+Death Penalty Legal:  No
+
+Conjugal Visits Permitted:  No
+
+Commercial Surrogacy Legal:  No
+
+==Name List==
+
+===First Names===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Name
+! Gender
+! Meaning
+|-
+|}
+
+===Surnames===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Surname
+! Meaning
+|-
+|}
+
+== Gallery ==
+<gallery>
+File:Aruba baby.jpeg|A baby born in Aruba.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

@@ -1,0 +1,467 @@
+{{Infobox country
+|title1=Canada
+|image1=[[File:Canada.png]]
+|caption1=Canada's flag.
+|country_name=Canada
+|number_of_default_cities=11
+|when_was_it_added_to_ios=September 2018 (default)
+}}
+'''Canada''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Ottawa, along with Calgary, Edmonton, Halifax, Montreal, Quebec City, Regina, Saskatoon, Toronto, Vancouver, and Winnipeg.
+
+On iOS, Canada provides free healthcare, making characters able to consult doctors and treat [[Diseases|diseases and ailments]] free of charge.
+
+Two [[Achievements]] are Canada-based; ''"There's Always Canada,"'' where a non-Canadian citizen emigrates to Canada, and ''"Winnipeg, EH?"'' where a character vacations (by themselves in [[Activities]] or during childhood when parents offer to take them on vacation) to Winnipeg, Canada.
+
+Along with the [[United States]], Canada allows characters in [[Education|University]] to rush a sorority or fraternity.
+== Name List ==
+=== Male First Names ===
+* Adam
+* Alex
+* Alexandre
+* Aiden
+* Avery
+* Arnaud 
+* Arthur 
+* Antonie
+* Anthony
+*
+*
+* BJ
+* Bode
+* Brad
+* Bryce 
+* Buddy 
+* Bentley 
+* Benjamin
+* Cole
+* Caleb
+* Chase
+* Carson
+* Charles
+* Chester
+* Chichi
+* Clement
+* Connor
+* Colin
+* Dick
+* Drake
+* Dylan
+* Daniel 
+* Dickie
+* Edouard
+* Eli
+* Elijah
+* Elliot
+* Emile
+* Ethan
+* Etienne
+* Felix
+* Finn
+* Francis
+* Gabriel
+* George
+* Georges
+* Harry
+* Henri
+* Hugo
+* Hunter
+* Isaac
+* Jace
+* Jake
+* Jacob
+* Jack
+* Jackson 
+* James
+* Jayden
+* Jean Claude 
+* Jean Paul
+* Jeremy
+* Jim
+* Jordan
+* Joshua
+* Joseph
+* Justin
+* Kai
+* Kenneth
+* Landon
+* Laurent
+* Lawrence
+* Leo
+* Liam
+* Lincoln
+* Logan
+* Louis
+* Luca
+* Lucas
+* Luke
+* Malcom
+* Mark
+* Mathis
+* Matthew
+* Max
+* Michael
+* Michele
+* Mike
+* Miles
+* Nathan
+* Nick
+* Nicolas
+* Noah
+* Nolan
+* Oliver
+* Owen
+* Percy
+* Philip
+* Philippe
+* Raphael
+* Robert
+* Ryker
+* Samuel
+* Seth
+* Shawn
+* Simon
+* Sonny
+* Stephan
+* Terrence
+* Theo
+* Thomas
+* Tom
+* Tony
+* Tre
+* Tristan
+* Tyler
+* Victor
+* Vincent
+* Will
+* Willy
+* Woody
+* Wesley
+* William 
+* Zachary
+
+=== Female First Names ===
+* Agnes
+* Abigail 
+* Alanis
+* Alice 
+*Alicia
+* Alyssa
+* Amanda
+* Amber
+* Amelia
+* Amy
+* Andrea
+* Annabelle
+* Aria
+* Ariane
+* Ava
+* Avery
+* Avril
+* Ashley 
+* Audrey 
+* Alexa
+* Alexandra
+* Bianca
+* Brianna
+* Brittany
+* Brooklyn
+* Camille
+* Caroline
+* Catherine
+* Celine
+* Charlotte
+* Chelsea
+* Chloe
+* Claire
+* Claudia
+* Danielle
+* Elizabeth
+* Ella
+* Ellen
+* Emily
+* Emma
+* Erika
+* Evangeline
+* Evelyn
+* Florence
+* Gabrielle
+* Grace
+* Hailey
+* Hannah
+*Isabella
+* Jade
+* Jamie
+* Jenna
+* Jennifer
+* Jessica
+* Jilly
+* Jordan
+* Julianna
+* Justine
+* Kaitlyn
+* Katie
+* Kayla
+* Kim
+* Laura
+* Laurie
+* Lea
+* Leah
+* Lily
+* Madison
+* Marianne
+* Marie
+* Mary
+* Mary Grace 
+* Maude
+* Megan
+* Mei Ling
+* Melanie
+* Melissa
+* Mia
+* Michelle
+* Morgan
+* Myriam
+* Nicole
+* Nina
+* Olivia
+* Pamela
+* Portia
+* Rachel
+* Rebecca
+* Romy
+* Rosalie
+* Roxanne
+* Sabrina
+* Sadie
+* Samantha
+* Sarah
+* Sara 
+* Scarlett
+* Sophia
+* Stephanie
+* Sydney
+* Taylor
+* Traci
+* Vanessa
+* Vicky
+* Victoria 
+* Yvonne 
+
+=== Surnames ===
+* Adams
+* Adams-Anderson
+* Arnett
+* Arnett-Landry
+* Allen
+* Anderson
+* Anderson-Baker
+*
+* Baker
+* Baker-Moore
+* Beaulieu
+* Beaulieu-Love
+* Beaver
+* Belanger
+* Bell
+* Bennett
+* Bergeron
+* Bieber
+* Bouchard
+* Boucher
+* Boucher-Green
+* Bouchier
+* Brown
+* Buble
+* Burger
+* Caron
+* Cameron
+* Campbell
+* Campbell-Green
+* Carrey
+* Champion
+* Chan
+* Clark
+* Clark-Lavoie
+* Cloutier
+* Cobbledick
+* Cockburn
+* Cocker
+* Cockwallace
+* Collins
+* Cook
+* Cote
+* Cote-Anderson
+* Cox
+* Cross
+* Cummings
+* Davis
+* Davis-Tremblay
+* Desjardins
+* Dickinson
+* Dover
+* Dube
+* Evans
+* Felt
+* Felt-Singh
+* Flynn
+* Fortin
+* Fournier
+* Fraser
+* Gagne
+* Gagnon
+* Gauthier
+* Girard
+* Girard-Allen
+* Goff
+* Goff-Tremblay
+* Goff-Moore
+* Grace
+* Graham
+* Graham-Rogen
+* Green
+* Hamilton
+* Harris
+* Harter
+* Hebert
+* Hill
+* Ho
+* Hole
+* Hunt
+* Jackson
+* Johnson
+* Johnson-Graham
+* Jones
+* Jones-Beaver
+* Kelly
+* Kennedy
+* Kennedy-Martin
+* King
+* King-Reid
+* Landry
+* Lapointe
+* Lavoie
+* Leblanc
+* Lee
+* Lefebvre
+* Leon
+* Leon-Wilson
+* Levesque
+* Lewis
+* Longfellow
+* Love
+* Love-Dickinson
+* Martin
+* McDonald
+* McDonald-Hunt
+* Mendes
+* Michaud
+* Miller
+* Mitchell
+* Moore
+* Morin
+* Morrison
+* Murphy
+* Murray
+* Nadeau
+* Ouellet
+* Page
+* Parsons
+* Pearce
+* Pearce-King
+* Pelletier
+* Perry
+* Pickler
+* Poirier
+* Poulin
+* Poulin-Parsons
+* Pound
+* Pound-Goff
+* Poussy
+* Reid
+* Roberts
+* Robertson
+* Robinson
+* Rogen
+* Rogen-Cote
+* Ross
+* Ross-Dover
+* Roy
+* Roy-Lewis
+* Robert 
+* Russell
+* Scott
+* Shaffer
+* Shaffer-Boucher 
+* Simard
+* Simone
+* Singh
+* Singh-Green
+* Smart
+* Smith
+* Smith-Singh
+* Stroker
+* Stroker-Arnett
+* Swallows
+* Swallows-Page
+* Sweat
+* Stewart 
+* Stewart-Morin
+* Taylor
+* Thomas
+* Thompson
+* Tremblay
+* Tremblay-Cox
+* Trudeau
+* Valley
+* Vincent 
+* Wilson 
+* Walker
+* Walsh
+* Watson
+* Weiner
+* White
+* Williams
+* Williams-Hole
+* Wood
+* Wood-Ouellet
+* Young
+* Young-Collins
+* Zimmerman
+
+== '''Vital Statistics''' ==
+Currency: Canadian Dollar ($)
+
+Default Cities: Calgary, Edmonton, Halifax, Montreal, Quebec City, Regina, Saskatoon, Ottawa, Toronto, Vancouver, and Winnipeg.
+
+Graduation Age: 18
+
+Minimum Age to Drop out of School: 17
+
+Free University: No
+
+Minimum Legal Driving Age: 16
+
+Same-Sex Dating Legal: Yes
+
+Same-Sex Marriage Legal: Yes
+
+Changing Last Name After Marriage Permitted: Yes
+
+Free Healthcare: Yes
+
+Gambling Legal: Yes
+
+Death Penalty Legal: No
+
+Conjugal Visits Permitted: Yes
+
+Commercial Surrogacy Legal: No
+
+== Gallery ==
+<gallery>
+File:Canada baby.jpeg|A baby born in Canada.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

@@ -1,0 +1,11 @@
+{{Infobox_country|caption1=Bangladesh's flag.|number_of_default_cities=5|when_was_it_added_to_ios=May 2020|available_on_android_as_well=Yes|image1=Bangladesh.png}}
+
+'''Bangladesh''' is a [[Nations|country]] that was added to [[BitLife: Life Simulator|BitLife]] in the May 10, 2020 update, alongside [[Algeria]], [[Bolivia]], [[Croatia]], [[Georgia]], [[Hungary]], [[Jordan]], [[Qatar]], [[Slovakia]], and [[Zimbabwe]]. Its default cities are the capital, Dhaka, along with Chittagong, Gazipur, Khulna, and Narayanganj.
+
+Being an Islam-based country, female characters in BitLife will wear hijabs when they are adults. However unlike [[Afghanistan]], [[Iran]], [[Iraq]], [[Saudi Arabia]], or the [[United Arab Emirates|UAE]] females do not have hijabs in Bangladesh.
+
+== Gallery ==
+[[File:Bangladesh baby.jpeg|left|thumb|A baby born in Bangladesh.]]
+{{Nations}}
+[[Category:Nations]]
+[[Category:BitLife]]

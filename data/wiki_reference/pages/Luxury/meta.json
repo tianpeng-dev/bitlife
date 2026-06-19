@@ -1,0 +1,18 @@
+{
+  "title": "Luxury",
+  "pageid": 5491,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Luxury",
+  "categories": [
+    "Under_construction"
+  ],
+  "links": [
+    "Events"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Luxury/content.html",
+    "wikitext": "pages/Luxury/content.wikitext",
+    "text": "pages/Luxury/content.txt"
+  }
+}

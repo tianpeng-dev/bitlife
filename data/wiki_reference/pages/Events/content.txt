@@ -1,0 +1,4479 @@
+This page is under construction.
+This page is currently undergoing a major renovation or cleanup.
+To-do: Please add more event to this page to stop it from being outdated.
+Events
+are one of the basic aspects of
+BitLife
+, in which make the gameplay more attractive and make the game closer to real life. Events either happen randomly or make happened by the player; and require a decision, in which will give certain
+ribbons
+for certain decisions chosen.
+Events may or may not affect a character's life. Depending on the decision the player chooses,
+events can impact your
+relationships
+with others, lead to
+prison
+, and other things. Some are small choices while others are extreme and can change the course of a life.
+Childhood events
+do not do much.
+SOS situations
+are scenarios that can have a player try to save a life.
+Sexual encounters
+are scenarios that have a character pick a course of action when a sex worker is nearby.
+Animal encounters
+are when characters encounter an animal and decide what to do about it.
+A criminal situation
+is where a character sees a
+stranger
+commit a crime and must decide how to respond.
+Achievements
+can sometimes be earned based on the events and how you do. In many updates, new events are being added, most recently, events affecting a character's
+line of work
+and their vacationing.
+Contents
+1
+Random Events
+2
+The reasons for birth includes:
+3
+The reasons for adoption includes
+4
+The reasons for Insemination includes
+5
+The reasons for Royal Birth includes
+6
+Childhood Events
+7
+School Events
+8
+Disease Events
+8.1
+Ailment Events
+8.2
+Illness Events
+9
+Love Events
+10
+Pet Events
+11
+Encounter Events
+12
+Addiction Events
+13
+Alcohol Variations
+14
+Drug Variations
+15
+Work Events
+16
+Friend/Enemy Events
+17
+Travel Events
+17.1
+Vacations
+17.2
+Cruises
+18
+Prison Events
+18.1
+Juvie Events
+19
+Misc. Events
+20
+Relationship events
+21
+Limited time events
+22
+Boosts
+23
+Fame
+24
+Orphanage
+Random Events
+[
+]
+These are events that are not where the player can choose. They do not affect the storyline, and instead are just for aesthetic.
+Random Events
+"[Something]gender" has now been formally recognized as a gender option on [Country]'s census.
+A [Number]-year-old boy in [Country] purchased a [Car]. The boy saved for the car by collecting coins he found in water fountains for more than [Number] years.
+A [Number]-year-old man/woman in [Country] has won the lottery jackpot for the third time, making him/her one of the wealthiest citizens in the country.
+A bank in [Country] is filling bankruptcy after its ATMs distributed double the cash on withdraws for [Number] straight days. The CEO explained that excess humidity is responsible for the error that the extra moisture caused the bills to stick together.
+A blind man hit me with his cane and called me a [Insult].
+A Category [Number] hurricane makes landfall on the [Country]. [Number] people lose their homes, while [Number] more enjoy wonderful kitesurfing conditions.
+A Category [Number] cyclone has made landfall over parts of [Country]. Wind gusts at the eye of the storm have already exceeded 200 miles per hour, and the storm urge has raised the water level more than 15 feet. This catastrophic storm is predicted to have an unprecedented death toll.
+A crisis looms as tensions between [Country 1] and [Country 2] heighten.
+A cyclone of never-before-seen strength ravages [Number] square miles of land in [Country], displacing [Number] people.
+A data branch in [Country] has caused personal information of [Number] residents to be leaked onto the dark web.
+A deadly typhoon mercilessly strikes [Country], killing [Number] and destroying thousands of homes.
+A depletion of resources has left [Country 1] with no choice but to surrender to [Country 2].
+A deranged military veteran unloads [Number] rounds into a crowd in [Country], killing [Number] people.
+A determined birdie of locust/wildfire consumes [Number] acres of vegetation in [Country]. The resulting drought claims [Number] lives.
+A devastating [Number] magnitude earthquake strikes [City], resulting in the loss of [Number] lives. [Number] more are left without power for weeks.
+A devastating air campaign by the [Country 1] on [Country 2]'s stronghold of [City] has resulted in a 24-hour curfew.
+A dike in [City] broke after [Number] straight days in torrential rain, resulting in widespread flooding.
+A friend told me that [Drug] helped relieve their [health problem]/overcome their fear of heights.
+A giant sleeping volcano in [Country] erupts, pitching chunks of rock and magma [Number] miles outward. The death toll rises to [Number].
+A group of lost, misfortunate yodelers accidentally generate an immense avalanche in [Country], killing [Number] people.
+A group of senior citizens in [City] were arrested after stealing a van from their nursing home. They were detained after the van was spotted outside of a local [Place].
+A guard hit me with their baton and called me [Insult] for not making my bed.
+A heckler called me [Insult] in a celebrity event.
+A homeless man in [City] is being honored after he [Honoring Activity].
+A huge landslide at a decades-old landfill site in [Country] claims [Number] lives in the neighboring town.
+A huge tremor shook [City], leaving hundreds of thousands of citizens without electricity. The epicenter of the earthquake measured 6.0 on the Richter Scale and had a depth of less than one mile.
+A law has been passed in [Country] that will require all politicians to be connected to a lie detector machine while speaking in front of crowds.
+A local holiday bringing in thousands of tourists inadvertently generates an immense avalanche in [Country], killing [Number] people.
+A major typhoon terrorizes the citizens of [Country] and floods the streets of [City].
+A man in [Country] has died after being struck by a falling coconut while picking up his dog's feces.
+A man in [Country] is planning to marry a cloned version of himself. He said that he is excited to get know himself better.
+A man in [State] has died after being eaten by an alligator he had been keeping in his bathtub.
+A person in [Country] died after plummeting off a 200-foot-high cliff, where they had been practicing yoga. It is reported that they were in the downward dog position when the incident occurred.
+A new monumental sociological experiment indicates that people all over the world view [Country]'s citizens as the most attractive of all. [Number] of them become instantly conceited.
+A new rebel governmental uprising in [Country 1] promptly brings an end to the [Number]-year war with [Country 2]
+A new wave of economic sanctions imposed by [Country 1] force [Country 2] to retaliate with military force.
+A nuclear meltdown in [Country] has claimed the lives of [Number] people, and forced [Number] people to flee their homes.
+A resource war between [Country 1] and [Country 2] has been formally declared by the United Nations.
+A rumor is spreading I [Rumor]. Sigh, the media.
+A scientist from [Country] has discovered the world's largest dinosaur penis fossil in a small village outside of [City]. It is reported that the find has stirred up some jealously that the archeological world, leaving some scientists with dinosaur penis envy.
+A seismic sensor in [City] detected a magnitude [Number] earthquake moments after the city's soccer team scored a game winning goal in a high profile match. Scientists believe that the fans are responsible for causing the small tremor.
+A statue created by world-renowned artist, [Name], crumbled to pieces moments after being purchased for [Number] million at an American art auction.
+A technology company in [Country] has developed an alarm clock that uses its robotic arm to awaken users with a happy ending massage. Users are reporting that they are starting their days with a strong finish.
+A terrorist attack in [Country] has claimed the lives of [Number] innocent people.
+A torrential downpour in [Country] has caused several landslides across the country. There are already [Number] confirmed deaths, but the death toll continues to rise with each new report.
+A towering tsunami crashes into [Country]'s seaboard. [Number] people couldn't make it out in time.
+A train derailment in [Country] has killed [Number] people.
+A tsunami has pounded the coast of [Country] after a magnitude [Number] earthquake occurred [Number] miles off shore. It is expected that there will be tens of thousands of casualties, with most of the survivors being left homeless.
+A twister touched down in an urban area of [Country] today, killing [Number] people and leaving another [Number] injured.
+A very intelligent man from my town named Jack died, but I wasn't too upset because I don't know Jack.
+A vicious tornado moss through the suburbs of [City]. Millions of dollars in property damage ensue and deaths total [Number].
+Afforestation overburdens the terrain of [Country], causing flash landslides countrywide.
+After failing to respect its cultural preferences, [Country 1] has abruptly initiated war with [Country 2]
+Air raid sirens echo around [City] and business comes to a standstill as tensions between [Country 1] and [Country 2] escalate into all-out war.
+Aliens have launched a hostile coordinated attack on the [Country]. [Number] have died and [Number] have been injured.
+An airliner from [Country 1] has been hijacked by dissidents from [Country 2] who force the plane to divert to [City]. [Number] passengers are executed in the resulting standoff with authorities.
+An airliner from [Country] has crashed while on final decent in [City], killing [Number] people.
+An astronaut in space has spotted and photographed a galactic bulge, much to the charging of his fellow astronauts.
+An enormous tidal wave has engulfed the coastline of [Country] after an asteroid crashed into the nearby sea. The wake of the impact sent an 80-foot tsunami wave racing towards the shore at a speed of approximately 20 mph. The loss of life in this tragic event is expected to be unprecedented.
+An explosives manufacturing plant in the [Country] detonates in an immense fatal explosion, killing [Number] workers and maiming [Number] more.
+An increase in population, combined with decreasing annual precipitation levels, has lead to drought throughout parts of [Country].
+An outbreak of the plague has descended on [Country] , killing [Number] in just [Number] months.
+An undersea oil rig explosion off the coast of [Country] spawns a disastrous tsunami that plummets inland. [Number] people lose their lives and [Number] more are injured.
+An unforeseen tsunami devastates business in [Country], killing [Number] people and causing irreversible damage to surrounding areas.
+An unknown genome called BTX-[Number] has spread in [Country], causing [Disease] in an estimated [Number] people.
+An unsolicited missile attack from [Country 1] places [Country 2] in war crisis mode.
+Another celebrity posted on social media telling everyone that I am back at sex/have a small penis.
+Another celebrity posted on social media that having sex with me is like throwing a hot dog down a hallway.
+Bob Ross has taught me to appreciate how much can be done using titanium white.
+Bright Camera flashes blinded me for [Number] straight hours. Damn paparazzi!
+Casualties from the war measure in the hundreds/thousands/tens of thousands.
+Citing ideological differences, [Country 1] has condemned [Country 2] to a complete suspension of exports.
+Citizens in [Country 1] have fled to bomb shelters to escape air raids from [Country 2]
+Computers in [Country] have been become self-aware. The ensuing battle claims [Number] human lives and destroys [Number] robots.
+Corrupt law enforcement in [Country] results in the public execution of [Number] peaceful protesters.
+Country-possessive forces have been withdrawn from [Country], indicating an end to the war.
+Dad has been beating me to mom's breast milk a lot lately.
+Dad has been drinking my breast milk a lot lately.
+Deep sea agitation facilitated a quick but devastating volcanic eruption in [Country]. [Number] deaths have been confirmed. Up to [Number] more are suspected to be trapped in the rubble.
+Despite attempts to conceal my identity, I've already been recognized by fans [Number] times this month.
+Drought conditions have officially beset [Country].
+Erectile dysfunction medication sales in [Country] have skyrocketed this quarter, propping up more than just the economy.
+Every bouncer in every club shows me extra love due to my fame.
+Explosives testing in [Country] loosens underlying earth, producing a magnitude [Number] earthquake, killing [Number] people and injuring [Number] more.
+Financial collapse in [Country] caused [Number] people to lose their jobs.
+Financial markets crash across the globe as fears that the conflict between [Country 1] and [Country 2] will result in World War 3.
+For some reason hiking boots are starting to remind me of salt water taffy.
+Genetic mutations in much of the produce and meat options available take their toll on the human species. Suddenly many people are born with black fingernails.
+Global warming in [Country] devastates available food sources. [Number] people are forced to migrate.
+Hundreds of people collected cash along a highway in [City] after an armored truck exploded. In total, more than 100,000 bills were collected by local citizens.
+Hurricane [Name] makes landfall on [Country] as a Category [Number] storm. [Number] lose their lives while [Number] homes are destroyed.
+I accidentally forwarded a naked picture of myself to everyone I know.
+I accidentally dropped my phone/ring in the the garbage disposal while it was running.
+I accidentally shouted a forbidden word [Event].
+I accidentally scored a basket for the other team in a co-ed basketball game.
+I am required to serve [Number] days on jury duty.
+I am wondering if there can be anything better than puddle jumping/playing hide and seek.
+I ate some super spicy [Country] food and my [Body Part] paid the price for [Number] days.
+I became the butt joke of a meme that went viral.
+I believe I saw a ghost/UFO while taking a walk at night.
+I bent down to tie my shoes and a dog peed on my back/a woman ran over me with her stroller.
+I bent down to tie my shoes and a bum touched my face.
+I borrowed my friend's fog proof mirror to help me shave those hard-to-reach places in the shower.
+I called my internet company/bank and waited on hold for [Number] minutes. I'm now considering looking for a new one.
+I can now play "Hot Cross Buns" on the recorder.
+I can't help but become fascinated with America's idolization of gangster culture.
+I can't help but wonder if Johann Sebastian Bach would be happy or sad to know that his song is played each time someone dies in BitLife.
+I can't help but wonder if women who shame men for manspreading ever took an anatomy class.
+I can't understand why anyone would ever want to eat vegetables.
+I can't wait to be released so I can eat cake.
+I committed to volunteering at an animal shelter/community college for [Number] months.
+I crashed into a tree while skiing and got a concussion.
+I completed a 5k race, and my body hurt for [Number] days.
+I decided to ignore the voices in my head.
+I don't belong here.
+I don't sleep well or long at night. I'm up too early and go to bed too late chasing my career.
+I dropped my phone in a creek/swimming pool/lake/river and it took [Number] days to be fixed.
+I embarrassed myself about mistaking a celebrity for a different celebrity
+I farted in public today, and everyone knew it was me.
+I fell out of a speedboat and got a concussion.
+I fell out of bed and injured my [Body Part] for [Number] days.
+I finally finished a 10,000 piece puzzle.
+I finally learned how to play the piano.
+I finally solved a Rubik's cube.
+I found a handful of pennies/a scorpion in my left/right shoe.
+I got a bad fever of [Number] degrees.
+I got into a heated debate with my classmates about the proper pronunciation of the word "[Word]".
+I got kicked out of the bar for calling the bartender/manager/owner/bouncer a(n) [Insult].
+I got locked out of the house and had to wait outside for [Number] hours.
+I got recognized while buying [Food/Snack/Candy], and everyone let me skip to the front of the line.
+I got stuck in an elevator with a homeless person/know-it-all for [Number] hours.
+I got thrown of a treadmill and got a concussion.
+I guess some paparazzi took a funny picture of me [Doing Action] and it ended up being a hit meme.
+I had a dream that I got into a plane crash.
+I had a dream/nightmare that I got impregnated by Donald Trump.
+I had a fantasy that I could fly/I was a triplet.
+I had an opportunity to be an extra on a movie set.
+I have been considering working on a political campaign.
+I have been considering exploring my bondage fetish.
+I have developed an unhealthy obsession with [Something].
+I have developed the bad habit of [Bad Habit]
+I have developed a bad habit of picking my nose in public.
+I have learned how much I enjoy chewing on my toenails.
+I have learned that it's not a good idea to talk about a woman's moustache.
+I have mistakenly been taking my spouse, [Name]'s, prostate medicine/penis enlargement pills for the last [Number] days.
+I have stepped in gum [Number] times this year and it's only [Month].
+I helped a woman deliver her baby in [Location] with the help of a YouTube video.
+I injured my [Body Part] while having sex/masturbating/jogging/swimming. It took [Number] weeks to heal.
+I just found out my smartphone has a camera/calculator/games other than Bitlife.
+I learned how to read/tie my shoes/walk.
+I looked directly into a solar eclipse and couldn't see for [Number] days.
+I mispronounced another celebrity's name at [Location]
+I really think it's going to be a good year.
+I renewed my book from the library for the [Number]st/nd/rd/th straight month without accruing a single late fee. I'm going to finally read it one of these days!
+I saw $[Number] on the sidewalk but a [Stranger] picked it up before me.
+I saw a kid coming toward me on a skateboard and I tripped him because I was jealous of his youth.
+I saw my [Sibling], [Name], during recess. It was awesome/nasty/wild.
+I saw some kids passing around acid behind the football fields after the final bell at school.
+I scratched a pimple/mosquito bite until it bled.
+I secretly like to read through hundreds of comments about myself online. Sometimes it's a bit annoying/painful/surreal though.
+I should learn [Gym Type/Material Arts] just in case the zombie apocalypse happens.
+I should really exercise more.
+I spend way too much time reminiscing about Myspace.
+I spent [Number] hours of this year sitting in traffic. I could have learned something, could have gone somewhere.
+I started wearing bowties/hoodies/polos/bowler hats in an attempt to reinvent my image.
+I stayed up for [Number] hours straight due to insomnia.
+I stopped showering/brushing my teeth for [Number] days because I'm too tired when I get home.
+I suffered from constipation for [Number] days and am beginning to think there may be something wrong with my body.
+I think I'm starting to develop an irrational fear of [Something]. The first step is realization, isn't it?
+I think my teacher may be experiencing gas issues.
+I took a sip of scorching hot tea/coffee and it burned my tongue for [Number] weeks.
+I tripped over my phone charger and sprained my pinky toe for [Number] weeks.
+I vomited in front of everyone in a celebrity event.
+I was added to the BitLife's BitList of the top 100 "Youngest Stars on the Rise", Damn right!/"Coolest Oldest People of the 21st Century", Let's hope I can keep my spot!
+I was bombarded by fans/the paparazzi/TMZ News agents/teenagers while leaving a restaurant/a house/the store.
+I was crowned ruler of the [Recess Activity] at recess.
+I was eating [Food] and found a condom/spider/fingernail in my food.
+I was featured on a HBO/Hulu/Netflix/TV special. Critics [Reaction] it.
+I was hoping for a(n) [Item 1] for my birthday but instead got a(n) [Item 2].
+I was traumatized after watching a kid punt/a car back over my neighbor's toy poodle.
+I was walking and swallowed an [insect].
+I want my blankie.
+I went [Number] weeks without taking a shower.
+I went for a run and collapsed on the sidewalk due to heatstroke.
+I went golfing and [Random Golfing Action].
+I went to the beach and [Random Beach Action].
+I went to the cafe and spilled my coffee on a stranger's laptop.
+I went to visit my kid, [Name], at the prison.
+I witnessed a [Random Stranger] "ghost riding the whip".
+I wore the same socks/underwear for [Number] weeks.
+I'm [Percent] sure that I [Random Action].
+I'm beginning to think my child, [Name], could be the next [Celebrity].
+I'm beginning to wonder if my [Sibling], [Name], has a gambling/sex/shopping addiction.
+I'm beginning to think that my [Family Member], [Name] will be the next one in the family to have a child.
+I'm feeling depressed because after this birthdays don't matter anymore.
+I'm feeling like beautiful/great things are coming my way.
+I'm feeling extremely exhausted from the daily grind.
+I'm learning that the louder I cry, the faster they come.
+I'm not sure if I know anyone with more problems than my math teacher.
+I really think this will be a great year.
+I'm realizing how people are much nicer when you smile.
+I'm starting to develop a crush on my teacher.
+I'm starting to feel as though my child could become an Emmy winner.
+I'm starting to feel uncomfortable in large crowds/old people.
+I'm starting to suspect that my [Parent]/[Sibling] has started menopause/is a regular at the nudist colony/ becoming incontinent/experiencing dementia/experimenting with [Drug]/is experiencing [Disease].
+I'm starting to suspect that I may have been adopted.
+I'm starting to think my [Parent] is a fan of [Person].
+I'm starting to think my [Sibling] has an eating disorder.
+I'm starting to think my cellmate is crushing on me.
+I'm starting to think my dad may be a superhero.
+I'm starting to think my mother is a fan of Pentatonix/Pink.
+I'm starting to think my neighbor is experimenting with [Drug].
+I'm starting to think my trust issues have developed from all of the raisin cookies I've mistaken for chocolate chip cookies
+I'm starting to think that a direct kick to the crotch should be a standard protocol for manspreading on a busy bus.
+I'm starting to think that my vision is getting worse.
+I'm starting to think that nap time is the best/worst time of the day.
+I'm starting to wonder if my dad is in the mafia/mob.
+I'm starting to wonder if my parents are swingers.
+I'm starting to worry about my parent's driving due to their impaired vision.
+I'm trying to wrap my head around how there are women selling their dirty bath water on the internet and making good money doing so.
+I tried, and failed, to [Activity].
+I've become nervous lately that I will get a hard-on at the dinner table.
+I've been considering exploring my spanking fetish.
+I've been considering taking ballet/ballroom dance lessons/trying to learn to play the banjo/flute.
+I've been contemplating learning how to cook [Food]
+I've been contemplating punching the next person who puts a camera in my face,
+I've been contemplating strategies for keeping people off of my lawn a lot recently.
+I've been dealing with some acne on my buttocks.
+I've been drinking a lot of Lady Grey tea lately, and wondering if Lady Grey looked as good as she tastes.
+I've been feeling so good lately that I can't stop listening to 'Happy' by Pharrell Williams.
+I've been getting emails from [Celebrity] to work on some sort of business endeavor.
+I've been having calm/crazy/painful menstrual cramps this year.
+I've been listening to [Band] lately to help me fall asleep.
+I've been really feeling like meditating lately.
+I've been reflecting a lot lately on just how awesome my knit blanket really is.
+I've been seeing a lot of aggressive behaviors/gang fights lately.
+I've been seeing people slip and fall a lot lately. Almost too much.
+I've been seeing sugar daddies with sugar babies a lot lately. Almost too much.
+I've been spending a lot of time wondering if Pinocchio has wooden testicles.
+I've been thinking about how people who throw cigarette butts out of the window deserve bad haircuts.
+I've been thinking a lot lately about how many celebrities I could have sex with.
+I've been thinking a lot lately about what it would be like if I had a doppelgänger out there somewhere, and also wondering what my hypothetical lookalike is doing right now.
+I've been thinking a lot lately about whose computer I would hack into if I could choose just one person.
+I've been thinking about why Westerners don't wear masks when they have the flu.
+I've been thinking that if men in Saudi Arabia are imprisoned for being homosexual, does that mean that the prisons in Saudi Arabia are super fabulous?
+I've been trying to determine which snobbiness annoys me the most: beer snobbery, wine snobbery, or coffee snobbery.
+I've been wondering about world currencies, when it comes to the Vietnamese dong, how much is how much is enough to get by?
+I've been wondering a lot lately about the negative correlation between vehicle size and penis size and am struggling to determine which vehicle would be best for me.
+I've been wondering if it's fair to judge a person for having feelings towards a fictional character.
+I've been working my ass off, but my butt is still the same size.
+I've been wondering if it's fair to judge a person for having feelings towards a fictional character.
+I've been wondering lately why a woman has two breasts when she typically only has one baby at a time.
+I've been wondering what it was like when you couldn't watch your favorite TV shows on demand and you actually had to watch them when they aired on TV.
+I've been wondering which factors were considered when setting the price of Gwenyth Paltrow's 'This Smells Like My Vagina' candle at $150
+I've created my crowning achievement on the walls of my home using a [Color] marker. What a work of art!
+I've determined I will not need to worry about food or bills for the next ten years if I attempt to rob a bank, regardless of whether or not I am successful
+I've gotten a hard-on at school 10 times this week and it's only Wednesday.
+I've had to clear my search history every time I have friends over.
+I've learned that a galactic/tidal bulge is not referring to an astronaut's woody/surfer's erection.
+I've learned that there was a time when in order to be considered kind, your had to rewind.
+I've noticed another inmate looking at my privates at me.
+I've really been wanting to play badminton lately, but I can't seem to find my shuttlecock.
+I've received [Number] spam calls/emails a day from different companies offering me laser hair removal/and I'm wondering if someone's out to get me.
+If I convince someone who lives on the other side of the world to place a piece of bread on the ground at the same time I do, we will have successfully made an earth sandwich.
+In the wake of rising ideological tensions, [Country 1] has began publicly ridiculing the policies of [Country 2].
+It's not even noon and I've already signed [Number] autographs.
+It's only Wednesday, and I've already taken [Number] pics with my fans.
+It's only Thursday, and I've already experienced [Number] of Poseidon's kisses.
+It is widely believed in [Country 1] that [Country 2] meddled in its last national election and that its new authoritarian/racist/misogynist/xenophobic leader, [Name], would not be in power if not for [Country 2]'s actions.
+It feels like summer vacation is never going to come!
+It turns out that I'm not the princess they told me I was.
+I’m not sure how much longer my body can withstand the physical stress of working so much.
+Lately, I've been hoping that all the little trees are really happy as Bob Ross said they are.
+Lately, I've been pondering why people call orange stoplights "yellow".
+Lately, I've been thinking a lot about busting out of the joint.
+Lately, I've been thinking a lot about which teacher at my school is the hottest.
+Lately, I've been thinking quite a bit about whether or not all of my struggles in life are stemming from chain emails I've failed to forward.
+Lately, I've been wondering if there is a heaven, but more importantly wondering if there are crawfish there.
+Lately, I've had a strong urge to go clubbing/get some exercise/play the lottery/go to the movies.
+Lately, I've noticed that everyone hates me because I'm paranoid.
+LeBron James dunked on me in a celebrity basketball game.
+Looming conflict between [Country 1] and [Country 2] has spawned intense riots in [City].
+Massive casualties of the war with [Country 1] render [Country 3] hopeless against [Country 1]'s war efforts, leading to imminent surrender.
+Massive deforestation in [Country 1] has resulted in mass emigration to [Country 2].
+Massive landslides in [Country] coat essential highways in loose earth. Emergency responders report [Number] deaths due to lack of resources.
+Mom has been trying to get out the pea that I stuck in my nose for [Time] minutes.
+Mom has read me the same picture book [Number] times, and unlike her, I love it more each time.
+Mother nature moved her body in a dangerous cyclone through [Country]. Most evacuated, however [Number] deaths have been confirmed.
+Much of [City] is under water due to a constant torrential downpour that has inundated the area for [Number] straight days. Bruce Springsteen has been reported to have been lost in the flood.
+My [Body part] got sunburned and it took [Number] days to heal.
+My [Sibling], [Name], is showing obvious signs of jealousy over my [Car].
+My [Sibling], [Name], confronted me about missing their birthday and said that it was because I'm working way too much.
+My [Sibling], [Name], gave me a swirly. I held on to my resentment for [Number] weeks.
+My [Sibling], [Name], has been sneaking out at night and I'm not sure if I should report them.
+My [Worker] took like [Number] pictures of us.
+My agent told me I haven't been getting as many endorsement offers lately.
+My classmates and I have been fighting about what the best Disney movie is.
+My computer was hacked and my accounts were compromised.
+My dishwasher broke and flooded everything.
+My fear of spiders is getting worse by the day.
+My friend and I got our dongles tangled up together while we were hanging out in my bedroom.
+My grandchild said that it's always more fun with me than it is at home.
+My home was robbed while I was away but fortunately nothing of value was stolen.
+My spouse, [Name]'s, bank account is looking attractive right now. Won't be long...
+My spouse, [Name], just told me the story of their first [Drug] experience. It was crazy/quite unexpected.
+My spouse, [Name], likes driving my [Name of Car] even more than I do.
+My spouse, [Name], says that if we ever meet [Name], a hall-pass will be issued in our relationship. I'm alright/(not) on board with that.
+My spouse, [Name], told me that I never have time to do the little things anymore, like watching our favorite show on Tuesday nights.
+My parent taught me about the critical relationship that once existed between a cassette tape and a pencil.
+My new teacher keeps telling me how wild my big sibling, [Name] used to be in her class.
+My pee smells funny, maybe I'm taking too many/I need to take more vitamins/I should lay off the asparagus.
+My child, [Name], has been getting straight [Letter]'s in [Subject].
+My teacher asked me a question when I wasn't paying attention [Number] times in one week. I got half of them wrong.
+My teacher ripped my AirPods out of my ears, destroyed them and called me an AirPod Jerk in front of the class.
+My teacher said that they would like to share a word for the wise, then told me that I could check out for that portion of the lesson.
+Newly discovered precious natural resources have been found in [Country 1], resulting in an export rivalry with [Country 2].
+No cows are spared from a terrible twister that tears through [Country]. [Number] cows perish, while all locals survive unscathed.
+Nuclear negotiations between [Country 1] and [Country 2] have intensified.
+Official numbers have not been reported, but the death toll is unexpected to be unprecedented.
+On the brink of World War 3, [Country 1] and [Country 2] have settled their differences for the betterment of their people.
+Over the past few days, my child has been behaving super bratty.
+Overpopulation causes dangerous food shortages in the [Country].
+Overpopulation in [Country] devastates available food sources. [Number] people are forced to migrate.
+Peace talks have commenced as [Country 1] and [Country 2] are finally looking to end their conflict.
+Radio stations in [Country] have collectively decided to stop playing [Musician] songs.
+Recent accusations from [Name], leader of [Country 1] have investigated war between [Country 2] and [Country 3].
+Recent studies have determined that people are only actually laughing out loud [Number]% of the time when writing "LOL".
+Recently, I've been having an internal debate about whether I would take the red pill or the blue pill.
+Recently, I've been researching Scientology.
+Recently, I've been starting to wish I wasn't famous.
+Recently, I've been thinking about all of the dirty things I would do to increase my level of fame.
+Recently, I've been thinking about the average Joe, and contemplating how scary it is that half of the world's population is dumber than that guy.
+Recently, I've been thinking that a sloppy joe is really just a chili sandwich.
+Recently, I've been thinking that if all humans are truly unique, then we must also all be totally typical .
+Recently, I've been wondering why the Bible is the most stolen book on America.
+Religious feuds fester between [Country 1] and [Country 2].
+Residents of [Country] have largely converted to fly larvae-based protein as their main source of nutrients.
+Scientists have announced that [Percentage] of the Earth's oceans are now comprised of garbage.
+Seasonal monsoons pound the terrain of [Country], causing landslides countrywide
+Serial criminal [Name] has been taken into custody in [Country] and charged with [Number] counts of rubbing their [Body Part] on random [Locations/Animals/People]. The people rejoiced.
+Social media has really been getting down lately.
+Social media is officially banned in [Country].
+Some [Horror] fan keeps [Horror Thing]. It's creepy!
+Someone drove by and splashed my with a puddle, so I yelled at the driver and called them [Insult]
+Sometimes, I think they put dragon meat in [Country] food, because I ate some and now I'm breathing fire out of my [Body Part].
+Stevie Nicks is reported dead after a landslide bought her down in [Country].
+Tension are rising between [County 1] and [Country 2].
+The 5 most popular social media platforms on Earth have deactivated their like and views features. Worldwide depression and suicide have dropped [Number]% and [Number]% respectively.
+The BitLife devs gave me a free [Car]!
+The UN drafts a peace treaty that has been adopted by [Country 1] and [Country 2]. Their corresponding war ends.
+The [Country]'s leader, [Name], threw up during their UN address. The internet had a field day.
+The citizens of [Country] have officially and unanimously outlawed [Something].
+The city of [City] suffers [Number] casualties after a deadly tornado rips through its streets.
+The death toll from the war reached [Number] with an additional [Number] injured.
+The famous actor, [Name] has died at the age of [Number] from [Cause of Death] while filming in [City].
+The famous musician, [Name] has unexpectedly died at the age of [Number] from [Cause of Death] while on tour in [City].
+The first ever gaming Olympics have been organized in [Country].
+The leader of [Country], [Name], has been assassinated in a political rally in [City].
+The leader of [Country 1], [Name], has declared that [Country 2] and [Country 3] represent an axis of evil.
+The paparazzi caught me purchasing [Item].
+The rooftop water storage tank on [Country]'s capital building bursts, flooding surrounding areas.
+The war left [Number] dead and another [Number] Injured.
+The water level of [Country]'s aquifers are at an all-time low, causing a great of concern amongst Canada's politicians and environmental scientists.
+The Wizard of Oz sent [Country] his next grandiose dimension-altering tornado. [Number] people seem to have gone missing along with [Number] Cairn terriers.
+The world's first confirmed time traveler has arrived in [Country] and brings greetings from the year [Number].
+There are only [Number] days left in the school year, but who's counting?
+There was a cat outside but I wasn't quick enough. It disappeared.
+They served my favorite food, [Food], for lunch [Number] times in [Number] months. T'was a good year for lunchtime.
+Today at a packed gym, I attempted to get on a treadmill that was already going at full speed, and got tossed off.
+Today I fell down while throwing the first pitch at a baseball game.
+Today I wore a costume so I wouldn't be recognized in public.
+Unstable development/Rapid industrialization weakened the ground in the [Country], prying open a [Number] mile fissure. [Number] people lost their lives.
+Upside down hats have become the next trendy fashion fad in [Country].
+War between [Country 1] and [Country 2] has ended following the election of [Country 1]'s new leader, [Name].
+War has erupted as [Country 1] has invaded [Country 2] from both the north/south and east/west.
+We got to play [Gym Activity] during gym class!
+While attending a seal release event, I watched a rehabilitated seal get eaten by an orca moments after being released.
+While crossing a bridge, I convinced a [Person] on the ledge not to jump.
+While driving on a country road, I ran out of gas. I was stranded for [Number] hours.
+While getting a teeth cleaning, the dentist asked me how my tongue got so strong.
+While getting a haircut, the stylist told me about their alien abduction.
+While hiking I got stuck in quicksand for [Number] minutes before escaping.
+While I'm in prison, I am considering learning to weld.
+While I'm in prison, I am considering perfecting my dish washing technique.
+While resting my head on my spouse, [Name]'s, lap and getting my head rubbed, they farted.
+While walking downtown, I noticed some creepy old guys checking me out with binoculars from an office in a nearby building.
+Why does my [Car] always smell like the inside of a belly button?
+[Celebrity] just asked ME for a picture. We made it!
+[City] has been selected to host the next Olympic Games.
+[Sport] has become the official sport of [Country], the term "athlete" is questioned.
+[Country 1] and [Country 2] have sided against [Country 3] in a hostile business pact.
+[Country 1] has accused [Country 2] of hoarding weapons of mass destruction.
+[Country 1] has accused corporations from [Country 2] of willfully avoiding tax obligations to its government.
+[Country 1] has allied itself with [Country 2], sparking war with [Country 3].
+[Country 1] has begun air strikes against [Country 2], confirming the onset of war.
+[Country 1] has blamed a slew of recent car bombs in the city center of [City] on [Country 2].
+[Country 1] has denounced [Country 2] on account of fraud and corruption.
+[Country 1] has deployed [Number] troops to [Country 2], causing panic across region.
+[Country 1] has enforced a dealings ban on [Country 2].
+[Country 1] has enforced an asset freeze on [Country 2].
+[Country 1] has expressed concern about potential military conflict with [Country 2].
+[Country 1] has implemented a military draft system to boost its forces as it officially declares war on [Country 2].
+[Country 1] has invaded [Country 2] in an attempt to establish control of the area.
+[Country 1] has launched a boycott of all exports from [Country 2].
+[Country 1] has officially declared war on [Country 2].
+[Country 1] has officially deployed [Number] soldiers to invade [Country 2].
+[Country 1] intervenes in the war between [Country 2] and [Country 3], drawing an end to the [Number]-year conflict.
+[Country 1] overthrows [Country 2]'s government and imposed a new regime in its place, marking the end of the war between the two countries.
+[Country 1]'s military strategies have been leaked and compromised, forcing a retreat from the ongoing war with [Country 2]. The war left [Number] dead and another [Number] injured.
+[Country 1]'s [Military] roll into the streets of [City], [Military Action] and terrorizing residents by playing [Musician] on loud speakers. The [Number]-year war ends as [Country] promptly surrenders.
+[Country 1]'s head of state [Name] has publicly suggested that [Country 2] is willfully harboring terrorists bent on the destruction of [City].
+[Country 1]'s leader, [Name], has been assassinated in a covert operation conducted by [Country 2], swiftly ending the war between the two nations.
+[Country 1]'s military presence in [Country 2] has ignited long-subdued internal sentiments.
+[Country 1]'s political slander campaign against [Country 2]'s leader, [Name], has sparked heated hostility between the two governments.
+[Country] has adopted a program in which convicted animal abusers will be exiled to live in the wild on a remote island full of predatory animals.
+[Country] has officially declared [Date] "Bring Your Pet [Animal] To Work Day." Selfish animal owners are rejoicing all over the country.
+[Country] has revoked democracy and become totalitarian.
+[Country] is slammed with an extremely fast-paced and destructive Category [Number] hurricane, named [Name]. Mandatory evacuation proved successful in saving [Number] families.
+[Country]'s leader [Name] [Weird Action] during their UN address. The internet had a field day.
+[Country]'s political slander campaign against [Country 2]'s leader, [Name], has sparked heated hostility between the two governments.
+[Country]'s space program wins a race to land a human on Mars
+[Country]'s [Name] becomes a local hero after saving [Number] people from [Location]. They were awarded for their actions.
+[Name], a [Number]-year-old from [Country] has successfully paddle boarded across the entire Pacific Ocean, starting in Los Angeles and finishing in Shanghai. It took the paddleboarder [Number] days to make the journey, which total exceeded 6500 miles.
+[Name] from [Country] has been awarded the [Prize] for [Genre] for their extraordinary accomplishments.
+[Name] just KO'd another student with [Move] [Location].
+[Name] threw [Stuff] at me in class.
+[Number] cyclones batter through [Country] in quick succession, killing [Number] people and injuring [Number] more.
+[Number] flat-earthers have succumbed to the realities of our universe after one of [Country]'s leading scientists, [Name], discovered yet another piece of undeniable evidence.
+[Number] have been safely evacuated, while [Number] perish after a predetermined volcanic eruption in [Country].
+[Number] people lost their lives and a further [Number] were left injured by the war.
+[Number] people lost their lives as [Country]'s quest to drill deep tunnels results in a magnitude [Number] earthquake.
+The reasons for birth includes:
+[
+]
+This message appears when you start the game, right after the first sentence, "I was born a female/male in Place, Country. I was (birth reason)"
+Birth reasons
+A bastard.
+A planned pregnancy.
+A product of morning sex.
+A test tube baby.
+An accident after my mother got sloppy with her birth control.
+An accidental pregnancy.
+Conceived after a failed pull-out.
+Conceived after a skydiving instructor charmed his way inside my mother during a tandem jump.
+Conceived after my father duped my mother by poking holes in the condom.
+Conceived after my father visited my mother's bakery and sampled her cookie.
+Conceived after my father visited my mother's bakery and tasted her muffin.
+Conceived after my father's condom broke.
+Conceived after my father's condom slid off.
+Conceived after my mom "worked" her way backstage at her concert.
+Conceived after my mom visited the cockpit mid-flight. It is unknown if my father was the pilot or co-pilot.
+Conceived after my mother and father went on a romantic date at Olive Garden.
+Conceived after my mother attended a scandalous pool party.
+Conceived after my mother became pregnant after a long night at a swinger's club.
+Conceived after my mother duped my father by poking holes in the condom
+Conceived after my mother had a botched tubal ligation procedure.
+Conceived after my mother intentionally avoided taking her birth control.
+Conceived after my mother met and fornicated with a stranger on a nude beach.
+Conceived after my mother toured the fire station and tested every hose. It is unknown which hero is my father.
+Conceived after my mother visited a witch doctor because she was having trouble getting pregnant.
+Conceived after my mother's birth control failed.
+Conceived after my parents attended a Trump rally.
+Conceived after my parents eloped in Las Vegas.
+Conceived after my parents fornicated while walking through a cemetery.
+Conceived at Bonnaroo. It is unknown which of my mother's lovers is the father.
+Conceived at Disneyland.
+Conceived at Disneyland. My father got excited while riding "It's a small world"
+Conceived at a Halloween party. My mother was dressed as a sexy devil and my father was dressed as Bill Gates.
+Conceived at a resort in Cancun.
+Conceived behind a dumpster in an alley.
+Conceived behind the bleachers at school.
+Conceived despite my mother taking the morning-after-pill.
+Conceived during high school lunch period.
+Conceived in a motel in Las Vegas
+Conceived in a porta potty.
+Conceived in an igloo.
+Conceived in the back of a limo.
+Conceived in the back row of a movie theater.
+Conceived in the backseat of an [Car]/Uber.
+Conceived in the judge's chamber after my mother received a hard sentence.
+Conceived in the Kanayama Shrine in Japan.
+Conceived in the park on a picnic blanket.
+Conceived on a camping trip.
+Conceived on a Caribbean cruise.
+Conceived on my grandparent's clock/loveseat/workbench.
+Conceived on my parents' honeymoon.
+Conceived on the beach in Hawaii.
+Conceived on the Great Wall of China.
+Conceived on the third floor of the public library, in the self-help book section.
+Conceived on the washing machine. The machine was on the spin cycle.
+Conceived when my mother became pregnant after soaking in a filthy public hot tub.
+Conceived when my neighbor came to borrow some sugar from my mother.
+Conceived when my parents had a weekend getaway at a cottage in the mountains.
+Conceived when my parents visited Niagara Falls and my mom went wet.
+Conceived when my parents visited the Coliseum and my dad went gladiator.
+Conceived when my parents went golfing and dad got a hole-in-one.
+Conceived while my mother was in a sex swing.
+Conceived while my mother was staying at her-in-laws.
+Conceived while my parents were testing a bed at IKEA.
+Conceived while my parents were touring Capitol Hill.
+Conceived while my parents were visiting St. Peter's Basilica.
+Conceived while my parents were visiting the Alamo.
+My conception happened when my mother got up on stage at a concert, it is unknown if the drummer or the bassist was the father.
+My conception occurred after a hot blind date.
+My conception occurred during a twisted game of Twister.
+My conception was the result of a bingo game gone wild.
+My mother is a virgin. The circumstances as to how I conceived are perplexing.
+The product of a one night stand.
+The product of artificial insemination.
+The result of a contraceptive-free orgy. It is unknown which participant was the father.
+The result of a devil's triangle, it is unknown which participant was the father.
+The result of a Netflix-and-chill.
+The result of a random [Dating App] hookup.
+The result of an affair.
+The result of an immaculate conception.
+The result of two strangers randomly fornicating in a truck stop bathroom.
+The reasons for adoption includes
+[
+]
+Adoption reasons
+After an unplanned pregnancy, my birth mother determined it would be best to give me up for adoption so that I could be raised in a family of unconditional love/two-parent household.
+After I was conceived in a one-night-stand, my biological mother gave me up for adoption when she learned that my biological father was a [Sports Team Name] fan.
+Given up for adoption after my biological mother decided she didn't want people to know that she had a baby.
+Given up for adoption after my birth mother determined that she wanted a better life for me.
+Given up for adoption after my mother was unable to determine which of her many, many lovers was my father.
+Given up for adoption when my biological mother decided she couldn't afford to raise a child as a single mom.
+Government services forced my birth mother to surrender me for adoption after determining that she was an unfit parent.
+Left on the doorstep of the fire station by my birth mother.
+My biological mom surrendered me for adoption because I cried too much.
+My biological mother decided to give me up for adoption when she realized that she didn't want to forever be connected to my deadbeat biological father.
+My biological mother decided to give me up for adoption, as she didn't want the raising of a child to get in the way of her career as [Job].
+My biological mother gave me up for adoption after she determined I was just too stinky.
+My biological mother was required to give me up for adoption after the doctors at the hospital diagnosed me with fatal alcohol syndrome.
+My birth mother determined that she was too young to be a parent and left me at a convent.
+My birth mother gave me up for adoption when she realized raising me would cut into her [Activity] time.
+My birth mother was forced to put me up for adoption after she was incarcerated for [Crime].
+My birth mother was forced to surrender me to adoption because of her addiction to [Drug].
+My fathers/mothers adopted me as an infant and fought over who got to hold me first.
+My mother gave me up for adoption when she found out my father was a [Sports Team Name] fan.
+My mothers decided to adopt me after watching the movie '[Movie]'.
+My parents originally wanted a Subaru and rescue a dog but decided to adopt me instead.
+Put up for adoption after my birth mother determined that she wanted a better life for me.
+Put up for adoption after the government determined that my biological mother's drug issues made her an unfit parent.
+The adoption happened after a stork delivered me to my parent's house.
+The adoption happened when my mom left me on the door to the fire station.
+The adoption occurred after my biological mother decided that she couldn't look at my ugly face any longer.
+I was put up for adoption after my birth mother died from complications during my delivery.
+The reasons for Insemination includes
+[
+]
+Insemination reasons
+According to the records, my single mother was impregnated with sperm donated by a(n) [Good Behavior] doctor.
+Came into the world after one of my mother's eggs was successfully used for in vitro fertilization.
+It is rumored that my mothers paid a large sum money for [Name] to be the sperm donor.
+My fathers chose a dear friend of theirs to be my surrogate birth mother.
+My mother decided to have me after winning a free sperm sample at the grand opening of a local fertility clinic.
+My mothers both realized it was time to settle down, get married, and adopt a kid after breaking down in tears during a [Musician] concert.
+My mothers chose a [Job] to be the sperm donor.
+My single mother was impregnated by a sperm load that was anonymously donated to a fertility clinic.
+One of my mothers was impregnated by a sperm load that was anonymously donated to a fertility clinic.
+The reasons for Royal Birth includes
+[
+]
+Royal Birth reasons
+[Number] people were in attendance to celebrate the momentous occasion.
+A devoted crowd crowd of thousands erupted in joy when I was presented from the palace balcony for the first time.
+By-product of some seriously royal love.
+Conceived after a particularly hot spot of tea.
+Conceived after my parents effectively executed a plan to extend the royal bloodline.
+Conceived in the backseat of a royal [Transport]
+Conceived on a royalty festive night full of fireworks.
+Conceived on a summer holiday/vacation in the countryside.
+Conceived when my father gave my mother a royal banging/pounding.
+Conceived when my father gave my mother his imperial/majestic/noble 'D'.
+Conceived when my father impregnated my mother in imperial/regal fashion.
+Conceived when my mother and father started the Mile High Royalty Club
+Conceived when my mother/father bowed [Action].
+Conceived when my mother gave my father her imperial/majestic/noble 'V'.
+Conceived when my mother [Action] on my father's throne.
+Conceived when my parents whispered sweet nothings in a [Random] garden.
+Conceived when tea time got a little too hot and steamy.
+Everyone said I was [Felling] from the start.
+I was [Felling] from the start.
+Media members around the world have nothing but [Feel] things to say about me.
+More than a million people came to celebrate my entrance into the world.
+People gathered from all around the country to celebrate my birth.
+People said I was [Felling] from the very beginning.
+Reporters from around the world raved about what a beautiful baby I was.
+The consensus amongst the media that I was a pretty average/mediocre looking baby.
+The entire country celebrated my birth for [Number] consecutive days.
+The media didn't have many nice things to say about me.
+Childhood Events
+[
+]
+Main article:
+Events/Childhood events
+Childhood events
+are events which take place in childhood. Many decisions do not affect your character's life, but some may increase or decrease their
+Karma
+level. However in a rare case, if a child is bullied at school and chooses to assault the bully, they occasionally get expelled. There is an
+achievement
+that a player can win if they are expelled from school or university.
+School Events
+[
+]
+List of School Events
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Image(s)
+Notes
+Notes
+School Dance
+It's time to go to your first school dance. You are attracted to a person named [First Name] [Last Name].
+What will you do?
+Looks: []
+Ask
+[First Name]
+to go with me.
+You took [First Name] [Last Name] to the school dance!
+[First Name] [Last Name] rejected you. You went to the school dance by yourself.
+School dances are not for me
+Journal:
+I decided not to go to the school dance.
+Go by myself
+Journal:
+I took [First Name] [Last Name] to the school dance.
+Journal 2:
+I went to the school dance by myself.
+Journal 3:
+I asked a person from school named [First Name] [Last Name] to the school dance. They rejected me.
+Journal 4:
+I decided not to go to the school dance.
+Option 1:
+Good times
+Dream come true
+Option 2:
+I was asking for a friend...
+They smell anyways
+Oh, okay, cool
+Whatever
+Humiliated
+Option 3:
+Wallflower
+Shy guy
+🤡
+Troublemaker
+[Random Troublemaker Activity]
+What will you do?
+Ignore his/her antics
+Journal:
+My classmate, [Name], acted up in Mr./Mrs.[Teacher Name]'s class. I ignored his/her antics.
+Laugh at him/her
+Journal:
+My classmate, [Name], acted up in Mr./Mrs.[Teacher Name]'s class. I laughed at his/her antics.
+Lunge at them
+Report them to the principal
+Journal:
+I visited the principal's office and reported my classmate, [name], for acting up in class.
+Option 4: Out of my hands now, Report: Filed, Snitch, Someone's getting in trouble
+👊
+Bully
+[Random Bully Action]
+What you will do?
+Assault him/her
+Report him/her to the principal/headmaster.
+Do nothing about it
+Journal:
+I decided not to do anything about it.
+Tell my [Sibling] (may not appear)
+Option 2: Out of my hands now, Report: Filed, Snitch, Someone's getting in trouble
+[Club]
+Some friends that you are starting [School] with are encouraging you to join the [club] with them.
+What will you do?
+Join the club with them
+You have joined the [Club] at your [School]!
+Journal:
+I joined the [Club] at my [School].
+I'm not interested in that
+Option 1: Trying something new
+[Club]
+Your fellow members/teammates of the [Club/Team] at your [School] have nominated you to become [Status] of the club./The coach/sponsor of the [Club/Team] at your [School] has asked you to become [Status] of the club.
+What will you do?
+Agree to become [Status]
+Journal:
+I have become [Status] of the [Club/Team] at my [School].
+Turn it down
+Journal:
+I turned down an opportunity to become [Status] of the [Club/Team]
+🏀
+Extracurricular activity
+Now that you're in [School], you are thinking about participating in an extracurricular activity.
+What will you do?
+See what my school offers
+Journal:
+I decided to see what extracurricular activities were available at my new [School].
+I'm not interested in that.
+Journal:
+I thought about joining an extracurricular activity at my new [School] but decided against it.
+🎭
+Casting Call
+Your elementary school is putting on a rendition of "The Nutcracker Prince" and there is an open casting call for the production.
+What will you do?
+Audition for the lead role
+Journal:
+I auditioned and was given the lead role in my school's performance of "[Rendition]".
+Audition for stage crew
+Audition for a supporting role
+I'm not interested
+Journal:
+I showed no interest in my school's production of "[Rendition]"
+Can happen even if the character is not in elementary school
+Choosing "Audition for the lead role" increases smarts by 4%
+🤧
+Sneeze
+While presenting your portion of a group project, you sneezed and covered it with your hand. Now your hand is full of snot.
+What will you do?
+Stop presenting and look for tissues
+Journal:
+I sneezed during a school presentation.
+Wipe it on a groupmate's back
+Excuse myself to the bathroom
+Journal:
+I excused myself to the bathroom after sneezing during a school presentation.
+Leave it in my hand, for now
+🎶
+Instruments
+You are in a music class at school and have an opportunity to try a new instrument
+Which will you choose?
+Saxophone
+Journal:
+I got funky when I played the saxophone in music class.
+Violin
+Journal:
+I went pizzicato when I played a violin in music class.
+Drums
+Journal:
+I rocked out when I played the drums in music class.
+Triangle
+Journal:
+I learned just how boring the triangle is when I played it in music class.
+💬
+Distraction
+Your teacher is giving instructions for a big essay worth [Number]% of your final grade but your friend, [Name], keeps running their mouth to you.
+Move desks
+Journal:
+I moved desks to get away from a chatty friend.
+Tune them out
+Listen to their stories
+Journal:
+I screwed up an assignment at school after missing the instructions.
+Ask them to shut up
+Journal: I begged a chatty friend to shut up. They agreed/refused to stop talking!
+🤡
+Class Clown
+You are sitting in class and think of something super funny to say in response to the teacher's question. Then she calls on you.
+What will you do?
+Rip the joke
+Journal:
+I ripped a joke in front of my class!
+Answer the question seriously
+Journal:
+I resisted the temptation to rip a joke in front of my class.
+Never mind
+No Journal
+🚻
+Potty Flavors
+While using the restroom between classes, a group of kids offers you a hit from a grape-flavored JUUL pod.
+What will you do?
+JUUL it up
+Journal:
+I tried hitting a JUUL pen in the bathroom at school. I didn't feel well afterwards.
+Decline the offer
+Journal:
+I went about my business in the school bathroom while other kids hit a JUUL pen
+Tell a teacher
+Journal:
+I told a teacher about a group of kids who were using a JUUL pod in the bathroom. They were busted!
+Choosing "JUUL it up" lowers smarts by 4%
+🧻
+Pranksters
+Your friends are going to toilet paper the house of a teacher at your school.
+What will you do?
+Go and watch only
+Journal:
+I watched my friends toilet paper a teacher's house, but I didn't join in myself.
+I'm not interested
+Journal:
+I decided not to join my friends as they toilet papered a teacher's house.
+I'm in!
+Journal:
+I helped my friends cover a teacher's house with 50 rolls of toilet paper.
+Choosing "I'm in!" lowers smarts by 4%
+👊
+Bleacher Bully
+During gym class, you notice a junior who is bullying a freshman by the bleachers. Things are getting rough and seem to be escalating quickly.
+What will you do?
+Do nothing
+Journal:
+I witnessed a freshman getting hazed by an older student in gym class but did nothing to stop it.
+Intervene
+Journal:
+I stopped a loser from bullying a new freshman in gym class.
+🍆
+Locker Room Talk
+During gym class, a group of rowdy boys start comparing the size of their unmentionables. They turn to you and ask you what you're picking.
+What will you do?
+Leave
+Journal:
+I left the locker room after a group of boys started being weird.
+Measure the goods
+Journal:
+I compared my privates with some other boys in the locker room. I'm amazingly average!
+Tell on them
+Journal:
+I told the gym teacher about the nasty things some boys in the locker room were doing. They got in trouble.
+🗝️
+Answer Key
+You're studying for a difficult exam in your [Subject] teacher, [Name]'s class and are nervous about passing it. You know that your classmate, [Name], has stolen the answer key to the test.
+What will you do?
+Ask them for the answer key
+Report them to the principal/headmaster
+You visited the principal/headmaster's office and reported your classmate [Name] for stealing the answer key.
+Study and do my best.
+Option 2: Out of my hands now, Report: Filed, Snitch, Someone's getting in trouble
+📰
+Pep Rally
+Your school is holding a pep rally and your classmates are cheering and stomping to prove their school spirit. One classmate looks to see what you're doing.
+What will you do?
+Leave the gym
+Stay silent
+Start cheering
+Journal:
+I shouuted school cheers alongside my classmates at a pep rally.
+Blow an air horn
+Disease Events
+[
+]
+Event Name
+Description
+Options/Results
+Taglines
+Image(s)
+Notes
+[Disease Name]
+You have been diagnosed with [Disease Name]
+.
+[Disease Name]
+You are no longer suffering from [Disease Name]
+.
+[Disease Name]
+You continue to suffer from [Disease Name]
+.
+*Status = Still sick
+No luck
+Ailment Events
+[
+]
+[Aliment Emoji]
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Image(s)
+Notes
+[Aliment Emoji]
+[Aliment Name]
+You have been diagnosed with [Aliment Name]
+.
+OK
+Journal:
+I have been diagnosed with [Aliment Name]
+🕊️
+Cured
+You are no longer suffering from [Aliment Name]
+.
+OK
+Journal:
+I was cured of [Aliment Name]
+Formerly suffered gender dysmorphia.
+[Aliment Name]
+You are suffering from [Aliment Name]
+.
+OK
+Journal:
+I am suffering from [Aliment Name]
+You continue to suffer from [Aliment Name]
+.
+Journal:
+I continue to suffer from [Aliment Name]
+Status: Still sick
+Treat me right
+No luck
+Onto the witch doctor...
+Time to experiment
+Illness Events
+[
+]
+Event Name
+Description
+Options/Results
+Taglines
+Image(s)
+Notes
+[Disease Name]
+You have been diagnosed with [Disease Name]
+.
+OK
+Journal
+I have been diagnosed with [Disease Name]
+.
+Cured
+You are no longer suffering from [Disease Name]
+.
+OK
+Journal:
+I was cured of [Disease Name]
+.
+Formerly suffered HIV.
+[Disease Name]
+You are suffering from [Disease Name]
+.
+OK
+Journal
+I am suffering from [Disease Name]
+.
+[Disease Name]
+You continue to suffer from [Disease Name]
+.
+Status: Still sick
+Treat me right
+No luck
+Onto the witch doctor...
+Time to experiment
+Love Events
+[
+]
+List of Love events
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Image(s)
+Notes
+🍒
+Premarital Relations
+Your partner, [First Name], says they want to take your relationship to the next level and begin making love.'
+How will you react?
+Let's do it
+You told your partner, [First Name], that you are ready to take your relationship to the next level.
+Journal:
+'[First Name] asked me if we can start making love. I told them that I am cool with that.'
+They need to wait until marriage
+You told your partner that they need to wait until marriage
+They said they understood and respect your position.
+They said they understood but left crying.
+They shook their head and walked out of the room
+They walked out of the room and slammed the door on you.
+Hmmm, not yet
+Option 1:
+Down and dirty
+Just do it
+Woohoo!
+🤰
+Pregnancy
+Your [Relationship Type], [First Name], is pregnant with your baby! What will you do?
+Keep the baby
+Journal:
+I am pregnant with [First Name]'s baby!/[First Name] is pregnant with my baby!
+Don't keep the baby
+Note: Prior to June 2019, the option was "Get an abortion" before being reworded into "Don't keep the baby".
+Option 1:
+Oh ok wow
+Option 2:
+Women's rights
+Pro-choice
+Not ready for that
+Family planner
+Option 3:
+Overruled
+🤰
+No Baby
+They overruled you and decided (not) to keep the baby!, They forced you to keep the baby/get an abortion!
+Journal:
+I am pregnant with [First Name]'s baby/[First Name] is pregnant with my baby! I wanted to keep the baby/get an abortion but they decided (not) to keep it!
+Overruled
+🖤
+Hook Up
+[varies]
+Do them
+Actually, never mind
+If character is female and a lesbian, they won't get the safe sex event after clicking the first option
+⛑️
+Safe Sex
+Things are getting hot with your hook up and you're thinking about safe sex.
+What will you do?
+Make them use a condom
+Journal:
+I practiced safe sex, I wanted to practice safe sex but they refused to use a condom
+They don't use a condom
+Journal:
+I practiced unsafe sex
+⛑️
+Safe Sex
+Things are getting hot with your hook up and you're thinking about safe sex.
+What will you do?
+Use a condom
+Journal:
+I practiced safe sex
+Don't use a condom
+Journal:
+I practiced unsafe sex
+📱
+Txxxt
+Your fling just sent you a [nsfw].
+What will you do?
+File a retraining order
+Ignore them
+Forward it to my friends
+Journal:
+I forwarded it to all of my friends.
+Send them a txxxt back
+You sent them back a [nsfw]
+Option 4: Do these save to the cloud?
+☎️
+Booty Call
+Your fling asks you if you have any interest in a late night cardio session.
+What will you do?
+File a restraining order
+Politely decline
+Ignore them
+Go see them
+You told them you couldn't wait to come over.
+Journal:
+I told them I couldn't wait to come over.
+Option 1: Ripped n'dipped
+Pet Events
+[
+]
+Event Name
+Description
+Options/Results
+Taglines
+Image(s)
+Notes
+😧
+Behavior
+Your [Pet Type], [Pet Name], [Act].'''
+What will you do?
+Train it not to do that
+You worked with your [Pet Type], [Pet Name], on its behavior.
+Yell at it
+You [Argue Type] your [Pet Type], [Pet Name].
+Reward it
+You rewarded your [Pet Type], [Pet Name], with [Pet Food]
+Do nothing
+Journal: My [Pet Type], [Pet Name], [Act]. I decided not to address its behavior.
+Option 1:
+Let's not do that
+Silly [Pet Type]
+Option 2:
+Take that
+Stupid [Pet Type]
+Option 3:
+Thats my [Pet Type]
+Isn't it cute?
+Good [Pet Type]
+💨
+Escape
+You just came home from work/school/university/class to discover that your [Pet Type], [Pet Name], escaped.'''
+What will you do?
+Look for it anywhere
+You weren't able to find your [Pet Type], [Pet Name] anywhere./You found your [Pet Type], [Pet Name] [Hiding Name]./You discovered your [Pet Type], [Pet Name] dead [Cause or Place of Death]!
+Wait for it to come back
+Option 1:
+Phew
+Thank goodness
+There is a god
+I hope it right
+Option 2:
+Looked everywhere
+No idea
+No luck
+What?
+Option 3:
+A tragedy
+My poor [Pet Type]!
+Not my [Pet Type]!
+Don't do this! My [Pet Type]!
+Oh hell/heck no
+😱
+Killer
+You come home to find your [Pet Type], [Pet Name], killed your [Pet Type], [Pet Name]. It [Method of Kill].'''
+What will you do?
+Get rid of it
+No Journal
+Yell at it
+You [Argue Type] your [Pet Type], [Pet Name].
+Reward it
+You rewarded your [Pet Type], [Pet Name], with [Pet Food]
+Do nothing
+Train it not to do that
+Option 2:
+Take that
+Stupid [Pet Type]
+Option 3:
+That's my [Pet Type]
+Ransom
+Kidnappers have taken your [Pet Type], [Pet Name], and are holding it for ransom! They are demanding $/€/£[Number] in cash for its safe return.
+What will you do?
+Do nothing
+Pay the $/€/£[Number] ransom
+If Successful
+You successfully exchanged a briefcase containing $/€/£[Number] in cash for your [Pet Type], [Pet Name]'s safe return.
+Involve the police
+If Successful
+The cops managed to secure [Pet Name] and arrest its kidnappers.
+Option 3
+If successful, Close one, Arrest them officers, Law enforcement FTW
+'[Hiding Name]' is a command example, such as hiding in a bush, hassling a [Stranger] in the street, etc.
+Encounter Events
+[
+]
+Encounter events
+Addiction Events
+[
+]
+Addiction events
+Alcohol Variations
+[
+]
+Alcohol Variations
+Bahama Mama
+Drug Variations
+[
+]
+Drug events
+Work Events
+[
+]
+Work events such as 'Overtime' and 'Team building' is common and may be encountered multiple times per life. However, unique work scenarios are rare and may only be encountered once per life.
+Work Events
+-
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Images
+Notes
+[Varies]
+Interview
+While being interviewed for the [Career] position at [Job Location], you are asked the following question.
+"[Random Interview Question]"
+How would you respond?
+[Variable Choice 1]
+[Variable Choice 2]
+[Variable Choice 3]
+[Variable Choice 4]
+While being interviewed for the [Career] position at [Job Location], the interviewer notices that you were in [Fraternity Group] and announces that he was too!
+He hires you on the spot.
+* Thanks, brother!
+Overtime
+Your supervisor approaches you and tells you that they need you to start putting in [Number] more hours a week of unpaid overtime.
+What will you do?
+Agree to put in the extra hours
+You committed to start coming in to work [Number] hours a week. (Your supervisor, [Name], called you [Compliment])
+Journal:
+I told them that it would be no problem
+Explain that I can't do that
+You explained to your supervisor that working [Number] hours a week is not congruent with a healthy work-life balance.
+Refuse and insult them.
+You rejected your supervisor's attempt to make you work [Number] hours a week. You called them a [Insult].
+Journal:
+I laughed in their face and called them a [Insult].
+Option 1: Just because I'm nice, A slave to my craft, Whatever it takes, Paid with love
+Option 2: Afraid not, Time = Money, Nothing in life is free, Maybe next time
+Option 3: Should I lick the floors too?, Who do you look like?, Don't ask me again, How dare you ask me that?
+👥
+Team Building
+[Name], your supervisor at [Employer], is sponsoring a team building activity by taking the team [Outing].
+Will you go?
+Sure, I'll go
+Journal:
+I [Outing] with my company on a team building exercise.
+No, that sounds lame
+Journal:
+I refused to [Outing] with my company on a team building exercise.
+Option 1 increases your work performance
+Option 2 decreases your work performance
+🖤
+Seductress
+Your supervisor, [Name], just complimented you on your work performance, then suggestively asked if you perform well at everything you do.
+What will you do?
+Give it to them
+You let your supervisor, [Name], seduce you! (They called you [compliment])
+Journal:
+I hooked up with my supervisor, [Name]!
+Reject their advances
+You rejected your supervisor's advances
+(They called you an insult)
+Report them to HR
+You reported your supervisor, [Name], to HR for making a sexual advance on you.
+Option 1: Drama fuel, I need lots of supervision, If we're on company time, Let's shoot for a promotion soon, Securing my position here
+Option 2: Give me a raise then we'll talk
+Option 3: Out of my hands now, Report: Filed, Snitch, Someone's getting in trouble
+🖤
+Hook Up
+When you inform your co-worker that there's a package for them on the front desk, they reply that the only package they need is in your pants.
+What will you do?
+Do them
+Journal:
+I hooked up with my co-worker, [Name]!
+Reject their advances
+You rejected your coworker's advances. (They assaulted you/called you [insult])
+Report them to HR
+You reported your co-worker, [Name], to HR for making a sexual advance on you.
+Option 1: Drama fuel, All work, a little pay, Down to business, This is between you and me
+Option 2: Do I have to report you?
+Option 3: Out of my hands now, Report: Filed, Snitch, Someone's getting in trouble
+🤡
+Workplace Prank
+[Varies]
+What will you do?
+Scuffle with them
+Have a talk with them
+You had a talk with your co-worker about why you don't appreciate their little prank
+Journal:
+Report them to my supervisor
+Laugh it off
+Journal:
+I laughed it off.
+Option 2: Who do you think you are?
+Option 3: Out of my hands now, Report: Filed, Snitch, Someone's getting in trouble
+🤭
+Workplace Behavior
+[Varies]
+What will you do?
+Scuffle with them
+Have a talk with them
+You had a talk with your co-worker about how their behavior is not appropriate in the workplace.
+Report them to my supervisor
+Laugh it off
+Option 2: Chance of being insulted or assaulted which lowers happiness by 16%
+😧
+Rumor
+Your co-worker [Name], started a rumor that you are [Rumor].
+What will you do?
+Charge them
+Have a talk with them
+You had a talk with your co-worker about why you don't appreciate false rumors being spread about you
+Start a rumor about them
+You started a rumor at work that your co-worker, [Name], [Rumor].
+Journal:
+I started a rumor at work that my co-worker, [Name], [Rumor].
+Pay no attention
+Journal:
+I paid no attention to them.
+Option 3: Out of my hands now, Report: Filed, Snitch, Someone's getting in trouble
+🔥
+Termination
+You have been let go from your position as/fired by [Job] from [Company].
+[Reason]
+Wish my supervisor well
+Beg my supervisor to stay
+Insult my supervisor
+💵
+After Hours
+Your supervisor at [Employer], [Name], has taken a liking to you and has asked you to [Outing] with them. You are worried that it will make your co-workers jealous.
+What will you do?
+Do it
+Politely decline
+⛳
+Retirement
+You are eligible to retire and take a pension from your employer, [Company Name]
+Current Salary: [Currency Type][Yearly Retired Money]
+Pension: [Currency Type][Yearly Retired Money]
+Years at Company: [Total Years Worked]
+Retire and take pension
+Your retirement from [Company Name] is official.
+It's time to begin the rest of your life.
+Journal:
+I retired from my job as [Career] for [Company Name] and began collecting a pension of [Currency Type][Yearly Retired Money] per year[Currency Type][Yearly Retired Money]
+Keep working
+Journal:
+I turned down an opportunity to retire and collect a pension from [Company Name]
+Option 1: Clocked out for life, Does this mean I'm old?, Finally, Job well done
+📒
+Accountant: Shady Client
+One of your work clients has asked you to manipulate their financial records in order to minimize their taxes.
+What will you do?
+Do what the client asks
+Journal:
+I told an accounting client that it would be no problem to help them cook their books
+Drop the client altogether
+I can't help with that
+📒
+Accountant: Free Taxes
+Recognizing you're an accountant, a friend has asked you to do his income taxes for him for free.
+What will you do?
+Don't do the taxes
+I'll do the taxes at a discounted rate
+I'll do the taxes, but only at full price
+Sure, I want to help a friend
+🐈
+Cat Behavior Consultant: Cat Casa
+A client at work is asking you what the ideal amount of cats is for one home.
+What will you say?
+Zero
+Journal:
+I told a client that life would be so much easier without any cats
+One
+Two
+There's no limit
+Choosing 'Zero' lowers your job performance
+Choosing 'One' increases your job performance
+🖥️
+Database Administrator: Hack Job
+At work, you are beginning to suspect another employee is trying to hack into one of the company databases that you manage.
+What will you do?
+Report them
+Journal:
+I chose to report a coworker who I suspect is trying to hack into one of my databases.
+Confront the coworker
+Set a trap to catch them.
+💺
+Flight Attendant: Drunk Passenger
+One day on a flight, a passenger that seems to be drunk orders another cocktail from you.
+What will you do?
+Cut him off
+Journal:
+I told a drunk passenger that he could not have another cocktail because he was intoxicated.
+Serve it up
+Give him a soft drink and say it's a cocktail
+💺
+Flight Attendant: Foul Play
+One day on a flight, you observe a couple go into the lavatory together.
+What will you do?
+Pretend I didn't notice
+Journal:
+I let a couple do their thing in the airplane lavatory and pretended like I didn't know what was going on.
+Record the audio of the performance
+Ask them to come out.
+🏡
+Housekeeper: Keep the Change
+You realize one day that you could make a lot of money if you steal some coins from the rooms you clean at work.
+What will you do?
+Take a few coins
+Journal:
+I decided to start taking a few coins here and there while cleaning houses.
+Take a lot of coins
+Don't take any coins
+🚓
+Police: Fleeing Criminal
+While arriving at the scene of a burglary, a suspect flees the scene with a gun in hand.
+What will you do?
+Tase him
+Journal:
+I tased a suspect who was fleeing a crime scene
+Shoot to disable
+Journal:
+I disabled a burglary suspect that was fleeing a crime scene by shooting him in the leg.
+Shoot to kill
+🏫
+School Administrator: Troubled Teacher
+A teacher at your school calls a student [Insult].
+What will you do?
+Encourage the teacher
+Performance -
+Journal:
+I recommended a teacher continuing calling a student [Insult] until the student starts acting less like an idiot.
+Fire the teacher
+Performance +
+Journal:
+I fired the teacher for calling a student [Insult].
+Suspend the teacher
+Talk with the teacher
+🏫
+School Administrator: Fist Fight
+A couple oh high school students get into a fist fight at your school.
+What will you do?
+Give the students detention
+Journal:
+I gave two students a week of detention for fighting.
+Set up a boxing match for them
+Suspend the students
+Journal:
+I suspended two students for three days after getting into a fist fight at my school.
+Talk to them about their actions.
+Choosing 'Set up a boxing match for them' lowers your job performance
+💳
+Cashier: Cash Back
+While at work as a cashier, a customer gives you a large bill although he thinks that he gives you a small bill.
+What will you do?
+Keep the change
+Politely point out the mistake
+Ring him up right
+Journal:
+I rang up a customer who mistakenly gave me a large bill instead a small one and then give him the correct amount of change.
+💳
+Cashier: A Bit Short
+While on the clock as a cashier, one of your customers is a bit short on an item they are trying to purchase.
+What will you do?
+Sell it for the amount of money they have
+Tough luck, hun
+Journal:
+I told a customer who didn't have enough money that she would need to come up with more money if they wanted an item they packed out.
+Help them pay
+🔬
+Microbiologist: Better Bites
+You are asked at your job to try to find way to make better food.
+What will you focus on?
+Making it taste better
+Journal:
+I chose to research ways how to make food taste better.
+Keeping it preserved
+Making it healthier
+Journal:
+I chose to research ways how to make food healthier.
+🔬
+Microbiologist: World Issues
+At work, you are asked to choose a major problem in the world and then look for a solution using microbiology.
+What will you choose?
+A way to fix the ozone hole
+Journal:
+I am focusing my professional research on ways to fix the hole in the ozone layer.
+A way to clean the oceans
+A way to cure cancer
+🐝
+Beekeeper: Honeycomb Dealer
+While at work, you discover that a coworker has been stealing honeycombs and undercutting local suppliers by selling it on the honeycomb black market.
+What will you do?
+Rat them out
+Warn the employee
+Ignore it
+Journal:
+I discovered that a fellow beekeeper at work has been stealing and selling our honeycomb on the black market. I turned a blind eye to their action.
+🐝
+Beekeeper: That Stings
+While at work, you get stung on the [Body Part] [Number] times while working with the bees,
+What will you do?
+Go to the hospital
+Tough it out
+Performance +
+Journal: After getting stung by bees at work, I rubbed some tea tree oil on my wounds and grinded out of my shift.
+Take an aspirin & a 15 minute break
+♠
+Dealer: The Cooler
+A casino guest playing high-stakes blackjack is on a tremendous winning streak, and the pit boss is asking for you to go cool things down.
+How will you do it?
+Sit at the table
+Call a chip count
+Create a distraction
+Pretend I'm a drunk guest
+♠
+Dealer: Excuse me?
+You're dealing high-stakes blackjack when all of a sudden a well-known celebrity plops down at your table reeking of alcohol. Just as you make eye contact, they breathe loudly, and then calls you [Insult].
+What will you do?
+Get a selfie with them
+Laugh it off
+Alert Security
+Ask for their autograph
+♠
+Dealer: No Bro Code
+While dealing blackjack to an unruly bunch of drunker frat boys, you witness one of the guys stealing chips form his inerbraited colleague.
+What will you do?
+Deal him a dirty hand
+Call it out
+Turn a blind eye
+Alert the pit boss
+🛋️
+Interior Designer: Color Scheme
+At work, your supervisor asks you which color scheme you will use for your next interior design project.
+Which will you choose?
+Aquamarine & coral
+Journal: I chose to design the interior of my next project using an aquamarine & coral color scheme.
+Black
+Journal: I chose to design the interior of my next project using a black color scheme.
+Gray & white
+Journal: I chose to design the interior of my next project using an gray & white color scheme.
+Yellow & brown
+Journal: I chose to design the interior of my next project using an yellow & brown color scheme.
+🛋️
+Interior Designer: Dope Dwelling
+You are helping a client design the interior of their new home.
+What style will you choose?
+* Contemporary
+Mid-century modern
+Journal: I chose to design to interior of a client's home in a Seattle-esque mid-century modern style
+Minimalistic
+Traditional
+⚖️
+Lawyer: Guilty Client
+You have been assigned by your law firm to defend a client who privately admits to you that he is guilty.
+What Will you do?
+Defend the client as well as I can
+Defend the client, but don't give it my all
+Don't defend the client
+⚖️
+Lawyer: Crappy Client
+You are dealing with a client at work that you've recognized is a horrible person and is treating you poorly.
+What will you do?
+Fire the client
+Represent him with 80% effort
+Represent him with 100% effort
+🚽
+Porta Potty Plumber: Nickname
+You have become the best in your company at pumping porta potties, so you are considering making your coworkers address you with a nickname.
+What will you choose?
+2 Pump Chump
+Duty Disposer
+Excrement Eradicator
+Power Pumper
+🚽
+Porta Potty Plumber: Phone Down
+While checking your texts inside a porta potty, you drop your phone in the toilet.
+What will you do?
+Forget about it and get a new one
+Reach in and grab it
+Try to filter it out when draining the tank
+💦
+Porn Set Janitor: Bloody Semen
+While mopping up the porn set at work, you notice some bloody semen.
+What will you do?
+Collect it and have it tested
+I don't get paid enough
+Notify the porn star
+💦
+Porn Set Janitor: Slippery Set
+While mopping up the porn set at work, you slip and receive a minor injury to your [Body Part].
+What will you do?
+Go home for the day
+Milk it
+Mop on
+💦
+Plumber: Late Night Emergency
+You get a call to do an emergency plumbing job in the middle of the night.
+What will you do?
+Don't take the call
+Duty calls
+No can do
+💦
+Plumber: Flushed Ring
+While on a plumbing job, you find a diamond ring in the pipes.
+What will you do?
+Give the ring to the customer
+Keep the ring and don't tell
+Only return it if they mention a ring
+☠️
+Roadkill Remover: Fresh Meat
+While on duty, you find a freshly killed deer on the side of the road.
+What will you do?
+Dispose of the roadkill
+Keep the venison
+Let nature handle it
+☠️
+Roadkill Remover: Dying Deer
+While patrolling the highways for work, you discover an inured deer on the side of the road that is dying but is not dead yet.
+What will you do?
+Bring it to a local vet
+Ignore it
+Put it down humanely
+🖼️
+Art Gallery Worker: Political Correctness
+Your boss at the museum wants you to plan an exhibit that is not politically correct and may be offensive to some visitors.
+What will you do?
+Art has no boundaries
+Find a way to make it P..
+Tell the boss I can't do that
+🖼️
+Art Gallery Worker: Art Tampering
+While at work, you witness a man drawing on a work of art in your gallery.
+What will you do?
+Let's see what he's got
+Take him down
+Turn him in
+🧠
+Brain Surgeon: Mental Fatigue
+After performing brain surgery for 12 hours, you begin to feel extreme mental fatigue even though the surgery is not vet finished.
+What will you do?
+Ask for another surgeon to step in
+Offer a coffee
+Stay focused
+🧠
+Brain Surgeon: Discount Surgery
+While at work, a patient is attempting to negotiate a 10% discount on his brain surgery.
+What will you do?
+Give him a 2-for-1 discount
+Give the patient a 10% discount
+I am not a discount brain surgeon
+🧠
+Psychiatrist: Cheating Husband
+One of your psychiatry clients tells you that he has cheated on his wife.
+What will you do?
+Encourage him to divorce her
+Encourage him to tell her
+Tell him to keep it a secret
+🧠
+Psychiatrist: Safe Secret
+One of your psychiatry patients at work tells you an incredibly funny story.
+What will you do?
+Keep it a secret
+Post the story on social media
+Tell my friends
+㊗️
+Translator: Bad Word
+While at your job translating, the speaker you are currently translating uses profanity.
+What will you do?
+Translate the word
+Leave it out
+Use a less profane synonym
+㊗️
+Translator: Lost in Translation
+While translating, you hear an expression that doesn't have an equivalent in the language you are translating to.
+What will you do?
+Leave that part out
+Take the time to explain it
+Use the closest expression
+🏥
+Nurse: Bottoms Up
+A new patient arrives at your workplace with [Thing] stuck in his butt.
+What will you do?
+Post the x-rays on social media
+Protect the patient
+Show my co-workers the x-rays
+🏥
+Nurse: Flirting Patient
+A patient you are attracted to at work has been flirting with you.
+What will you do?
+Be a pro
+Flirt back
+Pay no attention to it
+🦀
+Crab Fisherman: Wrong Crabs
+Moments before leaving shore to go crab fishing, you discover you have crabs.
+What will you do?
+Call in sick
+Shave the pubes and go fishing
+Tough it out
+🦀
+Crab Fisherman: Crab Concussion
+While working a shift on the boat, you get hit in the head by a crab pot.
+What will you do?
+Go back to shore to get my head checked
+Take a rest in the cabin
+Tough it out
+📲
+Mobile App Developer: Revenue Source
+You have to decide how to generate revenue for an app your team is working on
+What will you do?
+Charge for the app
+Journal:
+I suggested my team charge for an app we are making because it's a great app and we have to make money somehow.
+Make all aspects of the app free
+Offer in-app purchases
+Mobile App Developer: Game Improvements
+At work, your team is trying to decide which aspect of your mobile game to focus on improving.
+What will you choose?
+Content
+Journal:
+I suggested my team focus on adding more content to our mobile game.
+Graphics
+Journal:
+I suggested my team focus on adding more graphics to our mobile game.
+Sound effects
+Journal:
+I suggested my team focus on adding more sound effects to our mobile game.
+🔨
+Blacksmith: Appealing Steel
+Just after posting a picture on social media of some iron artwork you forged, you get a DM from Pharrell asking if you will create an original piece of iron artwork for him.
+How will you respond?
+For a million dollars
+I'm not for hire
+I'll do it for free
+Journal:
+I created an original piece of iron artwork for Pharrell and gave it to him for free.
+I'm not a fan of yours
+Friend/Enemy Events
+[
+]
+List of Friend/Enemy Events
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Images
+Notes
+🤗
+New friend
+A person named/Your [Relationship], [Name], wants to become your friend.
+Become friends with them
+Journal:
+I became friends with [Name]
+Reject them
+No Journal
+Choosing "Reject them" decreases happiness by 8%
+👂
+Advice
+Your friend [asks for advice]
+What will you do?
+Give them good advice
+Journal:
+I gave them the best advice I could
+Give them bad advice
+Journal:
+I intentionally misled them by giving them bad advice
+I can't help them with that
+Journal:
+I told them that I couldn't help with that.
+Ignore them
+Journal:
+I ignored them.
+🎤
+Concert
+Your friend has tickets to a [concert] concert and invites you to go with them
+What will you do?
+Let's go!
+I don't feel like it
+💛
+Best Friends
+Your friend wants to become best friends with you.
+(You are already best friends with [Name])
+What will you do?
+Agree to become best friends
+Journal:
+My friend, [Name] and I became best friends.
+Stay as friends only
+If you agreed to be best friends when you already have one, the relationship between your former best friend decreases.
+If you stay as friends only, the relationship of the person decreases
+😈
+Rumor
+Your friend started a best friend/friend/enemy that [Random Rumor about you].
+What will you do?
+Start a rumor about them
+You started a rumor that your best friend/friend/enemy, [Name], [Random Rumor]
+Journal
+I started a rumor that [Name], [Random Rumor]
+Charge them
+Deny it
+Journal:
+I denied it to everyone I know.
+It doesn't bother me
+Choosing Deny it will result in your friend arguing with you/assaulting you or even insulting you
+😧
+Unfriended
+Your friend has unfriended you.
+What will you do?
+*Try to salvage our friendship
+*Let them go
+*Insult them one last time
+Option 3: Done for good
+Varies
+[Drug]
+Your friend has invited you over to take [Drug] with them.
+What will you do?
+Do it
+Journal:
+I took [Drug] with my friend, [Name].
+Make up an excuse
+You told your friend that you already had plans to go [Activities] instead.
+Journal:
+I lied and told them that I already had plans to go [Activities] instead.
+No way!
+🥳
+Party Time
+[description varies]
+I'm in
+[Varies]
+No thanks
+Make up an excuse
+You may get addicted to alcohol if you accept
+🤡
+Pranked
+[Varies]
+Ignore them
+Journal:
+I ignored their antics
+Laugh it off
+Journal:
+I laughed it off.
+Insult them
+Journal:
+I called them a(n) [Insult]
+Rumble with them
+Splish Splash
+While sitting in the hot tub next to your friend, they confides in you that they have been experiencing some problems with incontinence lately.
+What will you recommend?
+Nothing
+Journal:
+I told my friend, [Name], to not worry about incontinence issues and reassured them that we all leak a little from time to time
+Better eating habits
+Journal:
+I recommended that my friend significantly increase their fiber intake to help combat potentially messy incontinence issues.
+Adult diapers
+Journal:
+I recommended a trusted band of adult diapers to my friend, [Name], to help them combat potentially messy incontinence issues.
+More exercise
+🔥
+Up in Flames
+Your friend is looking to get some easy insurance money and asks if you'll double-set their car. When you ask what that means, they tell you to "set it in a field, then set it on fire"
+What will you do?
+Double set it
+Journal:
+I helped my friend make a bogus insurance claim by torching their car in a field.
+No way
+Journal:
+I refused to torch my friend's car for a bogus insurance claim
+Insult them
+Choosing "Double set it" lowers smarts by 8%
+Choosing "No way" raises smarts by 4%
+🥃
+Free Booze
+While on a group tour at a whiskey distillery, you encounter a table of free-samples with a sign explicitly stating "one per person", but when you look over your friend, you see them doing shots
+Stop that!
+Journal:
+I insisted my friend [Name], discontinue doing free shots of whiskey at a distillery tour because the sign explicitly said one per person.
+Shot! Shot! Shot!
+Journal:
+I encouraged my friend to continue doing free shots of whiskey at a distillery tour even thought the sign explicitly said one per person
+Let's go shot for shot!
+Journal:
+I joined my friend, [Name], in doing free shots of whiskey at a distillery tour even though the sign explicitly said one per person.
+Option 1: Don't you dare!
+Choosing "Shot! Shot! Shot!" lowers smarts by 4%
+✋
+Substance Abuser
+You are concerned because your friend's use of [Drug] is spiraling out of control.
+What will you do?
+Stage an intervention for them
+Success: Your intervention was successful! [Name] is no longer addicted to [Drug].
+Journal:
+My friend began abusing [Drug]. I staged a successful intervention for them.
+Let them continue abusing it
+Journal:
+My friend began abusing [Drug]. It didn't bother me.
+Unfriend them
+Option 1: It's all in your head
+😲
+Cover Me
+Your friend asks if you'll tell their mother that they have been playing with you all morning, even though it's not true.
+What will you say?
+Insult her
+Journal:
+I told my friend that they were a selfish idiot for asking me to lie.
+No way
+Journal:
+I refused to tell my friend's mother that they were playing with me all morning.
+Okay
+Journal:
+I told my friend, [Name]'s mother that they were with me all morning.
+🔍
+Cover Me
+Your friend is being investigated for suspected burglary and asking you to tell the authorities that they were with you on the night in question, even though they weren't.
+What will you do?
+Cover for my friend
+Journal:
+I lied to the authorities about my friend's whereabouts on the night of a suspected burglary
+Sorry, I won't do that
+Insult them
+1st option lowers your smarts by 4%
+💪
+Moving Muscle
+Your friend bought a new condo and is asking if you'll help them move in.
+What will you do?
+Lend a hand
+Journal:
+I helped my friend move into their new condo
+Make an excuse
+Journal:
+I told a white lie to my friend to avoid helping them move
+Just say no
+Journal:
+I just said no when my friend asked for help moving into their new apartment.
+📝
+False Claim
+While playing in the neighborhood, your friend tells you to fake a fall on your neighbor's driveway because then you can sue them for lots of money.
+What will you do?
+That's a bad idea
+Journal:
+I told my friend that faking a fall on the neighbor's driveway to sue them for cash sounded like a bad idea.
+That's a great idea
+Journal:
+I faked a fall on my friend's neighbor's driveway, but it only hurt a lot, and I didn't get any money.
+Insult them
+Choosing "That's a bad idea" raises smarts
+😔
+No Satisfaction
+Your friend confesses that they are very unhappy in their marriage because they're not sexually satisfied.
+What will you do?
+Buy them a sex toy
+Journal:
+I gave my friend a sex toy after they confided in me that their spouse isn't fulfilling their sexual needs.
+Recommend counseling
+Tell them to cheat
+Tell them to leave
+🤔
+Personal Property?
+Your friend says they forgot their PlayStation 4 inside the neighbor's house and is asking you to sneak in when they're not home and retrieve it for them
+What will you do?
+That sounds suspicious
+Journal:
+I told my friend, [Name], that sneaking into a neighbor's unattended house to retrieve a PlayStation 4 sounded too suspicious for me to help.
+Help a friend in need
+I snuck into a neighbor's house to retrieve a cell phone for my friend [Name]
+Insult them
+😈
+Indecent Proposal
+While doing a small construction project with friends, your friend, [Name]'s, partner/spouse/fiancé, [name], hands you a screw and says, "Wanna screw?"
+What will you do?
+Ignore them
+Journal:
+I ignored them.
+Report them to [Friend]
+No Journal
+Hook up with them
+Journal:
+I decided to have a one night stand with them.
+😳
+Confession
+Your friend, [Name], confessed to you that [Confession].
+What will you do?
+Unfriend them
+Journal:
+I unfriended them.
+Offer them your support
+Journal:
+I offered them my unconditional support
+Report them
+Journal:
+I reported them.
+😐
+Thanks for sharing!
+You just discovered that your friend, [Name], who stayed at your house last night, used your sex toy.
+What will you do?
+Confront them
+Journal:
+I confronted my friend, [Name] for using my sex toy when they stayed the night at my house, and asked them to buy me a new one.
+Nothing
+Journal:
+It didn't bother me when my friend [Name] used my sex toy, It still works fine!
+Toss it out without mention
+Journal:
+I threw out my sex toy after discovering my friend used it while staying the night, and I never said a word about the incident.
+Give it to them
+🚗
+Deflated
+Your friend, [Name], calls while you are sleeping and says they are on the side of the road with a flat tire and needs your help.
+What will you do?
+Help them change the tire
+Journal:
+I went to help my friend change a flat tire in the middle of the night, even though they called me while I was sleeping
+I can't be bothered
+Arrange a ride
+🕒
+A Waiting Game
+You've been waiting at a restaurant for your friend for more than 20 minutes, which always seems to happen when you plan something with them.
+What will you do?
+Start eating
+Journal:
+I started eating without my friend when they made me wait for them at a restaurant.
+Wait patiently
+Leave
+Prank them
+🌻
+Deflowered
+You hear a ruckus in your front yard and go outside to witness your enemy trampling your gardenias.
+What will you do?
+Spray them with the garden hose
+Journal:
+I sprayed my enemy with a garden hose after witnessing them trample my gardenias.
+Call the police
+Ignore it
+🚨
+Hide Out
+You hear frantic banging on your front door and open it to discover your friend, [Name] holding a large duffle bag and covered in sweat. With sirens blaring in the distance, they ask if you hang out at your place for a little while.
+What will you do?
+Call the police
+Let them in
+Slam the door
+😈
+Threesome
+You and your best friend/friend [Name] have an opportunity to have a threesome with a person named [Name].
+What will you do?
+I'm in
+You and your best friend/friend [Name] have a threesome with [Name].
+Journal
+My best friend/friend, [Name] and I had a threesome with [Name].
+No way!
+Option 1: Kinky
+Encounter
+You see your enemy standing there with [weapon]
+Argue with them
+Beg them for Forgiveness
+You begged them for forgiveness!
+Reason with them
+You tried to reason with them!
+Run away from them
+Travel Events
+[
+]
+Your character may encounter travel events when going on a cruise or vacation. These have no long term effect other than raising or lowering your stat(s). If you travel a lot, there's less chance to encounter a travel event. You may only encounter one travel event per year.
+Vacations
+[
+]
+List of Travel Events
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Image(s)
+Notes
+🗣
+What Accent?
+While in your trip to [Destination], you are being mocked by a local man for a “funny accent”. What will you do?
+Mock his accent
+Journal:
+While visiting [Location], I mocked a man for his accent after he made fun of mine.
+Ignore him
+Journal:
+While visiting [Destination], I decided to ignore a man who was mocking my accent
+Insult him
+Journal: ‘’ While visiting [Destination], I called a man [Insult] after he made fun of my accent.’’
+Usual taglines for a vacation.
+Choosing 'Ignore him' increases smarts by 4%
+📺
+Disconnected
+While visiting [Destination], you discover your hotel room has no TV and you can’t get a cell signal. What do you do?
+Play BitLife
+Journal:
+While visiting [Destination], there was no TV and poor cell service in my hotel room, so I played BitLife
+Listen to music
+Journal:
+While visiting [Destination], there was no TV and poor cell service in my hotel room, so I listened to music
+Take selfies
+Journal:
+While visiting [Destination], there was no TV and poor cell service in my hotel room, so I spent the time taking selfies
+Use a meditation app
+Journal:
+While visiting [Destination], there was no TV and poor cell service in my hotel room, so I used a meditation app.
+Usual taglines for a vacation.
+"Take selfies" lower happiness and smarts by 4%
+"Play BitLife" increases smarts by 16%
+🖼
+Object of Art
+While visiting [Destination], you visit a museum that holds a very famous work of art. What will you do?
+Take a selfie
+Journal:
+While visiting [Location], I took a selfie with a very famous work of art, so I could brag about my experience to the entire world on social media.
+Mindfully enjoy it
+Journal:
+I enjoyed a world-renowned work of art in a state of mindfulness while on my trip to [Destination].
+Take a picture of the art
+Journal:
+While visiting [Destination], I took a blurry picture of a famous work of art that everyone is already familiar with.
+Film the experience
+Journal:
+While visiting [Destination], I recorded a video of myself in front of a very famous work of art, so I could brag about my experience to the entire world on social media.
+Usual taglines for a vacation.
+Choosing 'mindfully enjoy it' increases smarts by 4%
+Choosing take a selfie decreases happiness and smarts by 4%
+🎶
+Kazoo Time
+While roaming around on your trip to [Location], you are approached by a drunk homeless guy who wants to play you a song on his kazoo.
+What will you do?
+Listen & give him money
+Journal:
+While visiting [Location], I gave some money to a drunk homeless man after he played me a song on his kazoo
+Listen & give feedback
+Journal:
+While visiting [Location], I suggested ways for a kazoo-playing homeless man to improve the sonic qualities of timbre and texture in his playing.
+Listen & encourage him
+Journal:
+While visiting [Location], I complimented a drunk homeless man after he played me a song on his kazoo.
+Ignore him
+Journal:
+While visiting [Location], I ignored a drunk homeless man who wanted to play me a song on his kazoo.
+👹
+Mean Mugger
+While visiting [Location], a man tries to steal your wallet straight out of your pocket.
+What will you do?
+Give him the wallet
+Journal:
+While visiting [Location], I gave my wallet to a man who was trying to steal it so that I wouldn't get hurt.
+Kick him & run
+Journal:
+While visiting [Location], I kicked a man who tried to steal my wallet and then I ran off.
+Tase him & run
+Journal:
+While visiting [Location], I tased a man who tried to steal my wallet and then I ran off
+Take him down
+Journal:
+While visiting [Location], I took down a man who tried to steal my wallet and then I held him in a rear naked choke until police arrived
+✈️
+Canceled Flight
+On your way home from [location], your return flight gets canceled.
+What will you do?
+Buy a ticket with another airline
+Journal:
+I bought a ticket home with another airline after my return flight from [Location] was canceled.
+Get on the next flight
+Journal:
+I took the next available return flight home after my original flight from [Location] was canceled.
+Stay an extra day
+Journal:
+I extended my vacation to [Location] by an extra day after my return flight was canceled.
+Choosing "Stay an extra day" increases happiness by 16%
+Choosing "Buy a ticket with another airline" decreases smarts by 4%
+💳
+Lost Card
+One morning on your trip to [Location], you wake up and realize you lost your credit card.
+Look for it
+Journal:
+I retracted my steps and found my lost credit card after misplacing it during my trip to [Location].
+Put a hold on it
+Journal:
+I put a hold on a credit card I lost during my trip to [Location].
+Forget about it
+Journal:
+I lost my credit card during my trip to [Location] but it didn't bother me in the slightest.
+Choosing 'Put a hold on it' increases smarts by 4%
+👖
+Pickpocket
+While exploring [Location], you suddenly witness a man pickpocket a woman in a crowded area.
+What will you do?
+Confront the pickpocketer
+Journal:
+While visiting [LLocation], I confronted a man who was pickpocketing another person
+Call the police
+Journal:
+I called the police to report a crime I witnessed on my trip to [Location].
+Ignore it
+Journal:
+I did nothing after I witnessed a pickpocketing on my trip to [Location].
+Choosing "Confront the pickpocketer" lowers smarts by 4%
+Choosing "Call the police" increases karma by 16%
+📱
+Get Lost
+On your trip to [Location], you become lost while out sightseeing and you don't have a cell phone on you.
+What will you do?
+Ask for directions
+Journal:
+While visiting [Location], I stopped and asked a local for directions after I became lost.
+Figure it out without help
+Journal:
+While visiting [Location], I was able to find my way back to the hotel after becoming lost
+Buy a map
+Journal:
+While visiting [Location], I bought a map for directions after becoming lost.
+Choosing "Ask for directions" increases happiness by 4%
+📸
+Cheese!
+While exploring [Location], a group of Chinese tourists approaches you and asks you to take their picture.
+What will you do?
+Take their photo
+Journal:
+I took a photo for a group of Chinese tourists who were visiting [Location] at the same time as me.
+Pretend to take it, but don't
+Journal:
+I tricked a group of Chinese tourists who asked me to take their photo while I was exploring [Location].
+Ignore them
+Journal:
+I ignored a group of Chinese tourists who asked me to take their photo.
+Choosing " Take their photo" increases happiness by 4%
+🛬
+Jet Lag
+On the first night of your trip to [Location], you are unable to fall asleep due to the time change.
+What will you do?
+Drink some herbal tea
+Journal:
+I drank some herbal tea to help combat jet lag on my trip to [Destination].
+Count sheep
+Journal:
+I tried counting sheep to help combat jet lag on my trip to [Destination].
+Take some sleeping meds
+Journal:
+I took some sleeping medication to help combat jet lag on my trip to [Destination]
+Choosing "Count Sheep" increases smarts by 4%
+🥳
+Hotel Party
+While on your trip to [Location], you are having a hard time getting to sleep because the hotel room next door is full of partying college kids.
+What will you do?
+Join them
+Journal:
+While visiting [Location], I joined the college party that was happening next door because the noise was keeping me from sleeping.
+Ask them to be quiet
+Journal:
+While visiting [Location], I had to ask the college kids partying in the hotel room next door to be more quiet.
+Call the lobby
+Journal:
+While visiting [Location], I called the hotel lobby to report a late-night party that kept me awake.
+Choosing "Join then increases happiness and smarts
+Choosing the second and third option lowers happiness
+⏳
+Tough Choice
+On the last day of your trip to [Location], you realize that you are running out of time and will only be able to do one more thing on the vacation.
+What will you do?
+Go to a museum
+Journal:
+On the last day of my trip to [Location], I toured a museum full of amazing exhibits
+Go to a strip club
+Journal:
+I spent the last day of my trip to [Location] at a strip club
+Watch a soccer match
+Journal:
+While visiting [Location], I attended an exciting soccer match between two rival teams.
+Choosing museum increases smarts by 4%
+Choosing Strip club lowers smarts by 8%
+👮‍♂️
+Security Check
+While visiting [Location], you get your crotch grabbed by a security guard during a security check.
+What will you do?
+Report him
+Journal:
+I reported a security guard for grabbing my crotch when I passed through a security checkpoint
+Ask him to buy me dinner
+Journal:
+I asked a security guard to buy me dinner after he copped a feel during a security check on my trip to [Location]
+Ignore it
+Journal:
+I didn't do anything after a security guard grabbed my crotch during a security check
+Choosing"Ask him to buy me dinner" increases happiness
+🐒
+Monkey business
+While visiting [Location], a monkey steals your bag of nuts, runs up a tree, stares you down while he finishes them off, and then throws the empty bag down at you.
+What will you do?
+Taunt him
+Journal:
+While visiting [Location], I taunted a monkey by eating a banana in front of him, after he stole and ate my nut sack.
+Insult the monkey
+Journal:
+While visiting [Location], I called a monkey a prick after he stole and ate my nut sack.
+Laugh it off
+Journal:
+While visiting [Location], I watched and laughed as a monkey stole and ate my nut sack.
+Choosing " Laugh it off" increases happiness
+🚻
+Mile High Club
+On your flight to [Location], you're thinking about joining the Mile High Club solo.
+What will you do?
+Join the club
+Journal: While on my flight to [Destination], I joined the Mile High Club all by myself.
+No way!
+Journal:
+While on my flight to [Destination], I considered joining the Mile High Club but changed my mind.
+Choosing "Join the club" increases happiness
+🔋
+Dead Phone
+While visiting [Location], your cell phone battery dies during a road trip and you don't have a charger.
+What will you do?
+Go without it
+Journal:
+While on the road during my [Location] trip, I chose to be mindful and enjoy the ride after my cell phone battery died.
+Use someone else's phone
+Journal:
+While on my road during my [Location] trip, I borrowed someone else's cell phone after my cell phone battery died
+Stop to buy a charger
+Journal:
+While on the road during my [Location] trip, I stopped to buy a charger after my cell phone battery died
+Choosing "Go without it" and "Use someone else's phone" increases smarts
+🧳
+Baggage
+On the way to [Location], you discover that the airline has lost your bags,
+What will you do?
+Who needs 'em?
+Journal:
+While visiting [Location], I was able to enjoy my vacation even though the airline lost my baggage
+Ask for a refund
+Journal:
+I asked for a refund on my plane ticket after the airline lost my baggage.
+Wait for the bags
+Journal:
+My bags were lost on the way to [Location], I waited for them at the airport until they arrived.
+👙
+Undergarments
+While visiting [location], you realize that you forgot to pack underwear.
+What will you do?
+Go commando
+Journal:
+I went commando for my entire vacation because I forgot to pack underwear.
+Buy some
+Journal:
+I bought some new underwear after I discovered that I didn't pack any for my trip to [Location].
+Wear the same pair
+Journal:
+I forgot to pack underwear on my trip to [Location] so I wore the same pair every day.
+👻
+Haunted Hotel
+Upon arrival on your trip to [Location], the clerk at your hotel tells you that the hotel is haunted and asks if you want to stay in a room that is purported to have paranormal activity.
+What will you do?
+Find another hotel
+Journal:
+While visiting [Location], I switched hotels after discovering my original hotel was haunted.
+Ask for a spirit-free room
+Journal:
+While visiting [Location], I stayed at a haunted hotel but requested a room free of paranormal activity.
+Get a haunted room
+Journal:
+While visiting [Location], I decided to stay in a haunted room at my hotel.
+Cruises
+[
+]
+List of Cruise Events
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Image(s)
+Notes
+🏆
+Contest Time
+While on your cruise, you have an opportunity to compete in a contest
+Which one will you do?
+None
+Journal:
+I decided not to compete in any contests on my cruise.
+Limbo contest
+Journal:
+While on my cruise, I competed in a limbo contest and won!
+Sing-off
+Journal:
+While on my cruise, I participated in a sing-off contest
+Trivia contest
+Journal:
+While on my cruise, I participated in a trivia contest.
+Choosing 'Trivia Contest' increases smarts by 4%
+👙
+Scavenger Hunt
+While on your cruise, you are asked to collect a bikini top during a scavenger hunt, and you don't have one.
+Where will you get it?
+Ask around
+Journal:
+While on my cruise, I asked around until I found a bikini top I needed for a scavenger hunt
+Buy one
+Journal:
+While on my cruise, I bought a bikini top at the gift shop so that I could use it in a scavenger hunt.
+Steal one from a sunbather
+Journal:
+While on my cruise, I stole a bikini top from a topless sunbather because I needed it for a scavenger hunt
+🍸
+AA
+While on your cruise, you unintentionally walk into an Alcoholics Anonymous meeting.
+What will you do?
+Stay and watch
+Journal:
+I stayed and watched after accidentally walking into an Alcoholics Anonymous meeting on my cruise.
+Leave immediately
+Journal:
+I left immediately after accidentally walking into an Alcoholics Anonymous meeting on my cruise.
+Participate in the meeting
+Journal:
+I stayed and talked about my demons after accidentally walking into an Alcoholics Anonymous meeting on my cruise.
+Participating raises smarts by16%
+🎤
+Karaoke
+While on your cruise, you go to sing karaoke with the other passengers
+Whose music will you sing?
+Travis Scott
+Journal:
+While on my cruise, I sang a Travis Scott song for karaoke
+Imagine Dragons
+Journal:
+While on my cruise, I sang an Imagine Dragons song for karaoke
+Shakira
+Journal:
+While on my cruise, I sang a Shakira song for karaoke.
+Lady Gaga
+Journal:
+While on my cruise, I sang a Lady Gaga song for karaoke.
+🤪
+Rebel
+While on your cruise, you are feeling wild and crazy.
+What will you do?
+Sunbathe naked
+Journal:
+While on my cruise, I sunbathed naked after feeling a desire to do something wild and crazy
+Go skinny dipping
+Journal:
+While on my cruise, I went skinny dipping in the pool after feeling a desire to do something wild and crazy
+Go streaking
+Journal:
+While on my cruise, I went streaking across the deck after feeling a desire to do something wild and crazy.
+Resist the temptation.
+Journal:
+While on my cruise, I decided not to act upon my urge to do something wild and crazy.
+Choosing "Sunbathe naked" and "Skinny Dipping" lowers smarts by 8%
+Choosing "Go streaking" lowers smarts by 16%
+Not doing anything increases smarts by 4%
+⤵️
+Man Overboard
+While on your cruise, you see a man fall overboard.
+What will you do?
+Nothing
+Journal:
+I saw a man fall overboard on my cruise but I couldn't be bothered to do anything about it.
+Tell the staff
+Journal:
+I saw a man fall overboard on my cruise but I alerted staff immediately and they were able to rescue him.
+Throw him a life jacket
+Journal:
+While on my cruise, I threw a life jacket to a man who fell overboard
+🛴
+Transportation
+While in port on your cruise, you have multiple transportation options.
+Which will you chose?
+Rent a scooter
+Journal:
+While in port on my cruise, I rented a scooter in order to get to destinations efficiently.
+Rent a bike
+Journal:
+While in port on my cruise, I rented a bike in order to get round easily.
+Rent a car
+Journal:
+While in port on my cruise, I rented a car in order to get to destinations quickly.
+Walk
+Journal:
+While in port on my cruise, I decided to walk from destination to destination to get some exercise.
+Choosing "Rent a scooter" or "Rent a bike" increases smarts by 8%
+Choosing "Rent a car" increases smarts by 4%
+Choosing "Walk" increases smarts and looks by 4%
+🏋️‍♂️
+Workout
+While on your cruise, you have an opportunity to work out at a state-of-the-art fitness facility every day.
+What will you do?
+Work out every day
+Journal:
+While on my cruise, I exercised diligently every day.
+Try it once
+Journal:
+While on my cruise, I exercised once just so I could try the fitness center
+Hell no
+Journal:
+While on my cruise, I didn't use the fitness center once because I was feeling lazy.
+Choosing "Work out every day" increases smarts and looks by 8%(?)
+Choosing "Try it once" increases smarts and looks by 4%
+Choosing "Hell No" lowers looks by 4%
+💆‍♀️
+Spa Service
+While on your cruise, you receive an offer for a free spa service.
+What will you choose?
+An aroma spa seaweed massage
+Journal:
+I took up an offer for a free aroma spa seaweed massage during my cruise.
+A facial
+Journal:
+I took up an offer for a free facial during my cruise.
+A manicure & pedicure
+Journal:
+I took up an offer for a free manicure and pedicure during my cruise.
+A ginger salt body scrub
+Journal:
+I took up an offer for a free ginger salt body scrub during my cruise.
+Choosing the seaweed massage increases looks by 16%
+Choosing the facial or "a manicure & pedicure" increases looks by 30%
+Choosing "A ginger salt body scrub" increases looks by 8%
+🚽
+Broken Toilets
+In the middle of your cruise, all of the toilets on the ship stop working.
+What will you do?
+Pee overboard
+Journal:
+I peed overboard after the toilets stopped working on my cruise.
+Hold it
+Journal:
+While on my cruise, I successfully held it in when the toilets stopped working.
+Use a broken toilet
+Journal:
+I peed in a broken toilet after the toilets stopped working on my cruise.
+Go in a bucket
+Journal:
+I peed in a bucket after the toilets stopped working on my cruise.
+Choosing "Hold it" decreases happiness
+🤢
+Seasick
+While underway on your cruise, you begin to feel seasick
+Take medicine
+Journal:
+I took anti-nausea medication after feeling seasick on my cruise.
+Puke overboard
+Journal:
+While on my cruise, I vomited over the side of the ship after becoming seasick.
+Gaze at the horizon
+Journal:
+While on my cruise, I sat on the deck and stared at the horizon to combat seasickness.
+👩‍🏫
+Class Time
+You are feeling like taking a class while on your cruise.
+Which will you pick?
+Tower animal folding class
+Journal:
+I learned how to fold towels to look like cute animals on my cruise.
+Fencing class
+Journal:
+I took an exciting fencing class on my cruise.
+Cooking class
+Journal:
+I took a fun cooking class on my cruise.
+Sailing class
+Journal:
+I took an awesome sailing class on my cruise.
+Choosing "tower animal folding class" and "fencing class" increases smarts by 4%
+Choosing "cooking class" increases smarts by 8%
+😳
+The Backstroke
+While on your cruise, you see a couple having sex in the pool.
+What will you do?
+Ignore them
+Journal:
+While on my cruise, I ignored a scandalous couple who was having sex in the pool
+Report them
+Journal:
+While on my cruise, I reported a scandalous couple for having sex in the pool
+Watch the show
+Journal:
+While on my cruise, I enjoyed a beverage as I casually watched a couple have sex in the pool
+📅
+Adventure Time
+You are feeling adventurous on your cruise and the ship is offering several activities.
+Which will you pick?
+Skydiving simulator
+Journal:
+I tried an exciting skydiving simulator during my cruise
+Surfing simulator
+Journal:
+I tried a totally tubular surfing simulator during my cruise
+Scuba diving
+Journal:
+I went scuba diving over an amazing reef during my cruise
+Zip line
+Journal:
+I went on an exhilarating zip line during my cruise.
+Choosing "Scuba diving" raises smarts
+⏳
+Now Departing
+While in port on your cruise, you realize you only have fifteen minutes to get back to the ship before it leaves and that it's going to be a challenge to get back in time
+Get an Uber
+Journal:
+While in port on my cruise, I got an Uber back to the dock after I realized I only have fifteen minutes before the ship left.
+Meet at the next port
+Journal:
+While in port on my cruise, I realized it would be too difficult to make it back to the dock before the ship left so I decided to stay and meet the cruise ship at the next port.
+Run!
+Journal:
+While in port on my cruise, I ran back to the dock after I realized that I only had fifteen minutes before the ship left.
+Choosing "Run!" increases smarts by 4%
+Choosing "Meet at the next port" decreases smarts by 4%
+👀
+The Underside
+While on your cruise, you're thinking about going to an area not typically seen by other passengers.
+Which will you check out?
+The jail
+Journal:
+While on my cruise, I took a tour of the ship's jail to see where unruly passengers are contained
+The bridge
+Journal:
+While on my cruise, I took a tour of the ship's bridge to see where the captain works his magic.
+The morgue
+Journal:
+While on my cruise, I took a tour of the ship's morgue to see where people go when they die on the ship.
+All options increases smarts by 4%
+🥌
+Shuffleboard
+While on your cruise, the person you are playing shuffleboard with tries to cheat.
+What will you do?
+Cheat too
+Journal:
+While on my cruise, I cheated at shuffleboard after seeing my opponent cheat
+Insult him
+Journal:
+While on my cruise, I called my shuffleboard opponent a douche for cheating.
+Let it go
+Journal:
+While on my cruise, I decided not to confront my opponent after he cheated at shuffleboard
+⚓
+In Port
+While in port on your cruise, you have an opportunity to go do something cool.
+What will you do?
+Stay on the ship
+Journal:
+While in port on my cruise, I stayed on the ship to enjoy some time alone.
+Go to a strip club
+Journal:
+While in port on my cruise, I went to a high-end strip club.
+Go to an art gallery
+Journal:
+While in port on my cruise, I went to an interesting museum full of amazing exhibits
+Go to watch a game
+Journal:
+While in port on my cruise, I attended a professional sporting event.
+Going to art gallery increases smarts by 4%
+🤖
+Mechanical Mixologist
+While on your cruise, your robot bartender makes your drink incorrectly.
+What will you do?
+Complain to the robot manager
+Journal:
+While on my cruise, I asked to speak to the robot manager after the robot bartender made my drink incorrectly.
+Insult the robot
+Journal:
+While on my cruise, I called a robot bartender incompetent after it made my drink incorrectly.
+Drink it anyway
+Journal:
+While on my cruise, I drank my beverage without complaining even though the robot bartender made it wrong.
+Choosing "Complain to the robot manager" lowers smarts by 8%
+Insulting the robot lowers smarts by 4%
+Drinking it raises smarts by 4%
+⛈️
+Inclement Weather
+In the middle of your cruise, you encounter three straight days of heavy rain and intense winds.
+What will you do?
+Stay in my cabin
+Journal:
+I stayed in my cabin to relax, read, and watch movies during a stretch of stormy weather on my cruise.
+Go out, but stay below deck
+Journal:
+I partook in all of the inside activities that I could during a stretch of stormy weather on my cruise.
+Embrace the weather
+Journal:
+While on my cruise, I kept a positive attitude despite a stretch of stormy weather.
+Prison Events
+[
+]
+Prison events may randomly appear when your character is in prison. It may raise or drop your behavior.
+List of Prison events
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Image(s)
+Notes
+⚔️
+Big Brawl
+While hanging out in the yard, two rival gangs engage in a massive brawl.
+What will you do?
+Check it out
+Journal:
+I watched in amusement as two gangs engaged in a donnybrook in the prison yard..
+Tell a guard
+Journal:
+I told a guard that free-for-all had broken out in the yard between two prison gangs.
+Walk away
+Journal:
+I walked away from a brawl between two rival gangs so as to void getting caught up in the politics of the situtation.
+🤢
+Fiending Freakshow
+You notice some fiending meth heads slurping the wounds of a freshly imprisoned tweaker.
+What will you do?
+Cry
+Help the tweaker
+Vomit on their faces
+Behavior: -
+Journal: I vomited on the faces of some meth finds as they tried slurping at the wounds of a newly incarcerated junkie.
+Watch it unfold
+Journal: I watched in amazement as meth finds slurped at the wounds of a newly incarcerated junkie.
+👮‍♂️
+Torture Test
+You witness an overly aggressive group of prison guards torturing an obnoxious inmate.
+What will you do?
+Cheer them on
+Behavior -
+Journal: I cheered on a group of prison guards as they tortured an inmate.
+I'm telling!
+Behavior -
+It's none of my business
+Behavior +
+Journal: I saw a group of prison guards torture and inmate but I turned a blind eye to it.
+🕊️
+Oopsies
+You observe a convicted murder get released accidentally after being mistaken for another prisoner.
+What will you do?
+Chuckle at the incompetence.
+Behavior: +?
+Journal: I laughed at the ineptitude of the criminal justice system in my country after a convicted murder was released accidentally.
+Inform the authorities.
+Behavior: -
+Journal: I informed the prison guards that a mistake was made after a convicted murder was accidentaly released.
+☕
+Common Grounds
+A group of prisoners are snorting crushed up caffeine tablets because commissary is out of coffee.
+What will you do?
+I'll snort on that
+I'll wait until the brew is in
+Journal: I passed on snorting crushed up caffeine pills after the commissary ran out of coffee.
+Maybe I'll just swallow them
+Journal: I switched to caffeine pills after the commissary ran out of coffee.
+🎥
+Awkward!
+While watching the news with your cellmate, you see a story detailing how they killed [Number] criminals.
+What will you do?
+Congratulate them
+Play dumb
+Journal: While watching the news with my cellmate, I pretended I didn't realize they were the subject detailing the murder of [Number] criminals.
+What else is on?
+Journal: I changed the channel after noticing that my cellmate was the subject of a news story detailing the murder of [Number] criminals.
+💉
+Correction?
+During your time in prison, you've observed a lot of prisoners come in decent and sober and leave as hardened drug addicts.
+What will you do?
+Challenge the broken system
+Behavior: -
+Journal: I decided to dedicate my free time to educating the public about how the correctional system in my country is not correctional at all, and how that is problematic for everyone.
+Do nothing
+Journal: I decided not to do anything about the broken correctional system about the broken correctional system and will continue to watch it corrupt and churn out drug addicts.
+Encourage new inmates to stay clean
+Behavior: +
+Journal: I decided to inform newly processed convicts about the risks of drugs and violence in prison and to encourage them to remain righteous.
+☀️
+Roof Job
+You have been asked to join a select group of prisoners that will be given the opportunity to work outside and tar the prison roof for a summer project.
+What will you do?
+Accept the offer
+Behavior: +
+Journal: I helped tar the prison roof for a summer project.
+No, thanks
+Behavior: -
+🚽
+Pollution Problem
+You are unbelievably thirsty, but the only drinking fountain available is atop a toilet that a nasty inmate has been defecating in for the last [Number] minutes.
+What will you do?
+Drink up
+Behavior: +?
+Journal: I plugged my nose and drank quickly from a drinking fountain while a disgusting inmate defecated on the attached toilet
+I'd rather die of thirst
+🍽️
+Pica Chew
+You discover that your cellmate has pica.
+What will you do?
+Tell them not to eat your stuff
+Journal: I told my cellmate with pica that we'd have problems if they tried eaing anything of mine.
+Encourage them to eat up!
+Hide anything they could eat
+Journal: I hid everything I own behind the toilet to prevent my cellmate with pica from eating it.
+🗺️
+Escape Plans
+Another inmate approaches you and asks you for your opinion on their prison escape plan.
+What will you do?
+Don't help
+Behavior: +
+Journal: I decided not to give another inmate any constructive criticism about their plan to escape prison.
+Give him some objective feedback
+Behavior: -
+Encourage them not to try
+Behavior: +
+Journal: I encouraged another inmate to avoid trying to escape after they asked me for some constructive criticism about his.her plan.
+🕳️
+Solitude
+You just got placed in solitary confinement for a week after being blamed for something that you didn't do.
+What will you do to pass the time?
+Align my chakras
+Behavior: +
+Journal: I chose to do yoga all day to keep myself busy while serving a stint in the hole.
+Self stimulate
+Behavior: -
+Journal: I chose masturbate add day to keep myself busy while serving a stint in the hole.
+Get swole
+Behavior: +
+Journal: I chose to do push-ups and sit-ups add day to keep myself busy while serving a stint in the hole.
+Clear my mind
+Behavior: +
+Journal: I chose meditate add day to keep myself busy while serving a stint in the hole.
+😘
+Bosom Buddles
+Another inmate tells you he would like for you to get to know each other more intimately.
+What will you do?
+Sounds comforting
+Behavior: -
+Journal: I accepted another inmate's proposal to get to know each other more intimately.
+Maybe another time
+Behavior: +
+Journal: I passed pm am puffer from an inmate to get know each other more intimately.
+Get outta my face!
+Behavior: +
+Journal: I threatened to fight another inmate after they said that we should get to know each other more intimately.
+🎶
+Barbie Girl
+While hanging out in the yard, a group of inmates all of a sudden begins singing "Barbie Girl".
+What will you do?
+Watch and listen intently
+Behavior: +
+Journal: I observed closely as some fellow prisoners began singing a rendition of "Barbie Girl"
+Belt it out
+Behavior: -
+Journal: I sang along with some fellow prisoners as we preformed an awesome rendition of "Barbie Girl".
+Do my own thing
+🕊️
+Release Deal
+The prison warden calls you into his office and tells you that if you'd be willing to share everything you know about a fellow prisoner named [Name], he will ensure you are promptly released from prison.
+What will you do?
+Tell him everything
+Successful: I snitched on [Name] and have been released from prison!
+Failed: The guards refused me to snitch [Name] out of the prison.
+I ain't no snitch
+Behavior +
+Journal: I turned down an opportunity to be released from prison by snitching on another prisoner named [Name].
+📫
+The Slow Escape
+You learn that a fellow inmate has been cutting bits of their own body off and sending them to people in the mail. They insist that they will escape prison "one piece at a time".
+What will you do?
+Keep it up!
+Behavior: -
+Journal: I encouraged an inmate who was cutting off bits of their own body and mailing them to people.
+Knock that off!
+Behavior: +
+Journal: I discouraged an inmate for cutting off bits of their own body and mailing them to people.
+Do nothing
+Rat them out
+Behavior: -
+Journal: I informed a guard that an inmate had been cutting off bits of their own body and mailing them to people.
+[Varies]
+[Gang Name]
+The leader of the local chapter of the [Gang Name] prison gang has approached you and asked you to join their gang.
+What will you do?
+Gang: [Gang Name]
+Type: [Random Type] Gang
+Join the [Gang Name]
+You are now a member of the [Gang Name] gang.
+Gangs are not my thing
+🚓
+Transfer
+You have been transferred to a [Level] security prison for the remainder of your sentence.
+Prison: [Name] [Prison Location]
+Prison Security: [Level]
+OK
+Journal: I have been transferred to the [Name] [Prison Location] [Level] security prison.
+♟️
+Game Day
+While playing [Game] with a humongous inmate, they tell you that bad things happen when they lose.
+What will you do?
+0% Effort
+Journal: I chose to lose on purpose while playing an enormous inmate at [Game] after they told me that bad things happen when they lose.
+100% Effort
+Try, but not too hard.
+🥴
+Drunk Driving
+You hear that an inmate who just released after serving a long sentence for [Number] DUI'S was killed by a drunk driver on the way home from prison.
+What will you do?
+Cry about it
+Journal: I wept after hearing that a newly released inmate was killed by a drunk driver on the way home from prison.
+Laugh at the irony
+Journal: I chuckled after hearing that a newly released inmate was killed by a drunk driver on the way home from prison, after he just finished serving a long sentence himself for [Number] DUI'S.
+👮‍♂️
+Gang Attack
+You hear that a prison gang is planning to attack a guard you like and respect.
+What will you do?
+Tell the guard in secrecy
+Behavior +
+Journal: I covertly informed a guard I like that a group of inmate was scheming to assault them.
+I'm no snitch
+Behavior -
+Encourage them not to
+Behavior -
+Journal: I tried to encourage a group of inmates not to assault a guard that I like and respect.
+🛏️
+Sleepover
+Your cellmate invites you for a sleepover in their bed for some TLC.
+What will you do?
+TLC yourself!
+Behavior +
+Journal: I told my cellmate that if they wanted some TLC they would have to give it to themself.
+I could use some loving
+Behavior -
+Journal: I told my cellmate I would be honored to join them in is bed for some TLC.
+Maybe next time
+🍬
+Butt Candy
+Another inmate offers you some candy he smuggled into prison inside his rectum.
+What will you do?
+I'll pass
+Behavior +
+Journal: I politely declined some candy that another inmate was generous enough to offer me after he retrieved it from his rectum.
+Let's eat
+Behavior -
+Hide it in my rectum
+Journal: I took some candy an inmate he'd been hiding in his rectum and put it in my rectum.
+🌼
+Daisy Chains
+You see a group of inmates making daisy chains while relaxing in the sun.
+What will you do?
+Watch in amusement
+Journal:
+I watched in amusement as a group of hardened inmates made daisy chains in the sun.
+Join them
+Behavior -
+I frolicked in the grass with a group of hardened inmates and made daisy chains in the sun.
+Do my own things
+🍱
+Finite Resources
+You are second to last in the cafeteria line and there is only one tray left when the enormous inmate behind you claims the tray is theirs.
+What will you do?
+Give it up
+Behavior -
+Journal: I gave my cafeteria tray to a gargantuan inmate after they made a claim to it.
+Fight for the tray
+Act sick and leave
+🕒
+Postponement
+Your execution by [Execution Type] has been postponed by [Number] years.
+New Execution Date: [Number]st/nd/rd/th Birthday.
+OK
+Journal: My Execution by [Execution Type] has been postponed by [Number] years.
+⚖️
+Parole Board
+You are up for parole and have been put in front of the parole board. They ask you the following question.
+"[Varies]?"
+[Variable Choice 1]
+If successful:
+You have been released from prison after serving [Num] years out of a [Num]-year sentence.
+If failed:
+You have been denied parole.
+Journal:
+If successful:
+I have been freed from prison by a parole board after serving [Num] years out of a [Num]-year sentence.
+If failed:
+I have been denied parole.
+[Variable Choice 2]
+[Variable Choice 3]
+[Variable Choice 4]
+If successful: Rehabiliated & ready, Unshackled, Sweet freedom, Back to the world, Done with the cell, Adjusting to society
+If failed: Parole on pause
+Juvie Events
+[
+]
+List of Juvie events
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Image(s)
+Notes
+📞
+Prank Call
+You're allowed one 20-minute phone call per week and regularly spend it talking with family, friends, and your attorney. But this week, you want to have a little fun with your phone time.
+What will you do?
+Prank call
+Journal: In juvie, I used one of my weekly 20-minute phone calls to prank-call an old lady saying her dentures had been found in a brothel.
+Report myself missing
+Journal: In juvie, I used one of my weekly 20-minute phone calls to call the front desk and report myself missing, but they found me pretty quickly.
+Order a pizza
+🍳
+Breakfast Bully
+While standing in line at the cafeteria, an angry delinquent behind you demands that you scream at the top of your lungs that the food sucks.
+What will you do?
+Do as they demand
+Journal: I complied with a bully delinquent's request that I scream in the cafeteria that the food sucks.
+Walk away
+Ignore them
+Journal: I ignored a bully delinquent in the cafeteria who demanded that I scream that the food sucks.
+🥧
+Half-Baked Escape
+While hanging in the yard during rec time, you overhear a couple of delinquents discussing the details of an elaborate escape plan that involves a large bottle of pure vanilla extract.
+What will you do?
+Ask to join
+Journal: After hearing some delinquents in my yard discussing an escape plan, I asked if I could join them, but they said to go away.
+Ignore them
+Report them
+🏀
+Rim Job
+While shooting hoops in the gym, a fellow delinquent intentionally hits you in the face with a basketball, saying your forehead makes an excellent backboard.
+What will you do?
+Drop a three-pointer
+Journal: When a fellow delinquent threw a basketball at my face, I picked it up and dropped a three-pointer from half court. Nothing but net!
+Throw it back
+Laugh it off
+Journal: I just laughed it off when a fellow delinquent threw a basketball in my face.
+⭐
+From Cell to Celeb
+While talking with some delinquent friends in the rec yard, you discover that each of you hopes to become someone famous after getting out of juvie. One of them asks what type of celebrity you most want to be.
+What will you say?
+An Actor
+Journal: I told my delinquent friends in juvie that when I get out, I will become a famous actor.
+A rockstar
+Journal: I told my delinquent friends in juvie that when I get out, I will become a famous rockstar.
+A DJ
+Journal: I told my delinquent friends in juvie that when I get out, I will become a famous DJ.
+A Kardashian
+Journal: I told my delinquent friends in juvie that when I get out, I will become a famous Kardashian.
+❓
+Missing Goods
+After returning to your cell from rec time in the yard, you notice that someone has stolen your [Item] and you suspect it's the cellmate who took it.
+What will you do?
+Confront them
+Look for it
+Juvie: After returning to my cell and discovering my [Item] missing, I looked everywhere and found it under my cellmate's mattress.
+Nothing
+Misc. Events
+[
+]
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Image(s)
+Notes
+Driving License
+It's time to take your driving test.
+Will you take it?
+Take the test
+If successful: You passed your driving test!
+Journal:
+I passed my driving test and got a driving license.
+If failed: You failed your driving test!
+Journal:
+I failed my driving test.
+No, maybe someday
+Journal:
+I couldn't be bothered to get a driving license
+Option 1: If successful: Too easy, Piece of cake, Pull up, skrrt, Done & done, If failed: Who gets it first try?, Whatever, Better hitchhike.
+[Car] name
+Now that you've passed your driving test, your [Parent] wants to buy you a [Year] [Car]
+How will you react?
+Accept it gratefully
+Journal: My [Parent] bought me a [Car]
+Turn it down
+Ask for a more expensive car.
+Broken Car
+A bird flew into your fender and dented it.
+Someone dropped your key fob in a glass of water.
+Someone slashed your tire.
+You left your lights on all night and drained your battery.
+You lost a key while swimming.
+You used the windshield wipers without any fluid and broke a wiper.
+You went off-roading and broke a shock absorber.
+Your car has a bad spark plug.
+Your car has a broken catalytic converter.
+Your car has a broken engine fan.
+Your car has a broken fuel pump.
+Your car has a broken fuel injector.
+Your car has a broken power steering pump.
+Your car has a broken thermostat.
+Your car has a broken timing belt.
+Your car has a broken windshield.
+Your car has a clogged fuel filter.
+Your car has a detached serpentine belt.
+Your car has a failing power steering pump.
+Your car has a failing spark plug.
+Your car has a failing ball joint.
+Repair it
+Your [Color] [Car] is back in service.
+Journal:
+I repaired the [Broken Part] on my [Car Name].
+I might fix it later
+Your [Color] [Car] is out of commission until you fix it.
+Journal:
+I decided not to repair it.
+If repaired,
+Mmm, that repaired car smell
+Need a little more elbow grease
+Nicely detailed
+If not repaired,
+Gotta need a Lyft
+Learn the bus routes
+Out of order
+Parked until further notice
+Beyond-Repair Car
+Your car will no longer start and is beyond repair.
+Scrap it
+Journal:
+I had to scrap my [Car Name].
+N/A
+🍫
+Sweet Tooth
+While at a grocery store with a few friends, one of them slyly slips a [Chocolate] candy bar into their pocket. They turn to you and say, "it's the five finger discount".
+What will you do?
+Argue with them
+Journal:
+A friend and I argued after I called them out for stealing a [Chocolate] candy bar.
+Take some candy
+Journal:
+I stole a [Chocolate] candy bar from the grocery store after a friend showed me how easy it was.
+Do nothing
+Journal:
+I ignored a friend who stole a [Chocolate] candy bar from the grocery store.
+Stealing the candy decreases your smarts by 4%
+🎮
+Game Shop
+You are at a video game store and have a chance to buy a game for your Xbox One/PS4.
+Which will you choose?
+Call of Duty
+Journal:
+I bought "Call of Duty" for my Xbox One/PS4 at a video game store.
+Fortnite
+Journal:
+I bought Fortnite for my Xbox One/PS4 at a video game store.
+NBA 2K
+Journal:
+I bought "NBA 2K" for my Xbox One/PS4 at a video game store.
+Minecraft
+Journal:
+I bought "Minecraft" for my Xbox One/PS4 at a video game store.
+Choosing "Call of Duty" and "Fortnite" raises happiness and smarts
+👽
+Aliens
+While [Action], a fanatic, crazy [Random Stranger] runs up to you and asks if you believe in aliens.
+What will you say?
+Without a doubt
+No way
+Get away from me
+Journal:
+I told a crazy person to get away from me
+💵
+Pay Day
+A young lady you know has just received her first paycheck and she asks you what you think she should do with it.
+What will you tell her?
+Save all of it
+Journal:
+I told a young lady that she should save all of her first paycheck since she doesn't have any bills or expenses yet.
+Save half, spend half
+Spend it all!
+Journal:
+I told a young lady that she should spend all of her first paycheck on things that she enjoys since she has no expenses on her bill yet.
+Choosing 1st option increases smarts by 16%
+Choosing second option increases smarts slightly
+Choosing third options slightly lowers smarts
+🔭
+In Focus
+Your friend lets you borrow his catadioptric telescope.
+What will you check out?
+The hotties at the pool
+Journal:
+I used a catadioptric telescope I borrowed from a friend to check out some hotties at the public pool. Then I was asked to leave immediately
+Uranus
+Journal:
+I used a catadioptric telescope I borrowed from a friend to check out Uranus.
+A meteor shower
+Journal:
+I used a high-power telescope I borrowed from a friend to check out a meteor shower.
+The lunar eclipse
+Journal:
+I used a high-power telescope I borrowed from a friend to check out a lunar eclipse.
+Choosing the first option lowers smarts by 8%
+🖥️
+Tech Time
+A young tech savvy friend comes over to help you with some tech issues.
+Which will you focus on?
+The Facebook
+Journal:
+I had a tech savvy friend help me learn how to post on "The Facebook"
+AOL issues
+Journal:
+I had a tech savvy friend help me sign in to my AOL account. I've got mail!
+The broken internet
+Choosing 'The Facebook' increases smarts by 4%
+Choosing the other two options decreases smarts by 4%
+📖
+Subscription
+A cute young woman comes to your door and asks you if you would like to purchase a magazine subscription.
+What will you order?
+Playboy
+Journal:
+A hot little chick came to my door and convinced me to buy a subscription for "Playboy" magazine.
+Good Old Days Magazine
+AARP - The Magazine
+Nothing
+👙
+Pool Party
+You have an opportunity to attend a pool party that one of your friends is throwing.
+What will you do?
+Stay home and read
+Journal:
+I was invited to a pool party, but I chose to stay home and read instead.
+Go in a fashionable new swimsuit
+Journal:
+I went to a pool party and showed off a stylin' new swimsuit.
+Go fully clothed
+Journal:
+I went to a pool party but kept all of my clothes on.
+Choosing "Stay home and read" raises smarts by 16%
+Choosing "Go in a fashionable new swimsuit" increases looks by 4%
+📸
+Ad Trap
+While surfing the web, you land on a clickbait website that claims to have 100 of the most perfectly timed photographs ever taken.
+What will you do?
+Check out some of them
+Journal:
+I looked through a few pretty cool photos on a clickbait site before getting bored and checking out some other sites.
+I'm not falling for that
+Journal:
+I resisted the temptation to visit a clickbait site as they are just obnoxious scams full of ads.
+Click through all 100
+Journal:
+I clicked through 100 spectacular images on a clickbait website.
+Choosing 'Check out some of them' increases smarts by 4%
+🧥
+Wrong Jacket
+While at the store, you accidentally try on another shopper's coat while they are trying on a new jacket.
+How will you respond?
+Leave immediately
+Laugh it off
+Steal it
+Journal:
+While out shopping, I stole someone's jacket after falling in love with it.
+Apologize and return the coat
+Choosing 'Steal it' lowers smarts by 16% and raises looks by 4%
+👼🏼
+God
+While [Action], a loud [Random Stranger] confronts you and asks if you trust in God.
+What will you say?
+Of course, 100%
+Journal:
+I told someone I met that I trust in God.
+Absolutely not
+Journal:
+I told someone I met that God is untrustworthy.
+Which one?
+Journal:
+I posed an existential question to someone I met.
+Choosing "Which one?" increases smarts by 8%
+😳
+Breastfeeding
+While eating a restaurant, you see a woman breastfeeding a child, who appears to be about five years old.
+What will you do?
+Check Please!
+Journal:
+While at a restaurant, I quickly ate my meal and left because I was groseed out by a woman who was breastfeeding her 5-year-old child at a nearby table.
+Watch in amazement
+Journal:
+I watched a woman breastfeed a 5-year-old child in a restaurant as I ate a melon and drank some milk.
+YouTube baby!
+Journal:
+I recorded a video of a woman breastfeeding a 5 year old child in a restaurant and then shared it on social media.
+🤬
+Insulted ([Relationship])
+[Action], a [Stranger] calls you [Insult]!/You observed a [Stranger] calling your [Relative] [Insult]!/Another prisoner called you [Insult]/Your [relationship] called you [insult] in the/a moment of [thing]!
+What will you do?
+Assault them
+Forgive them
+Insult them
+e.g. You called the Fortnite kid a buffoon!
+Relationship events
+[
+]
+List of relationship events
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Image
+Notes
+🕰
+Quality time
+Your [relationship] invites you to [spend time]
+Spend time with them
+Argue with them
+Refuse to spend time with them
+🗣
+Spat
+Your siblings are feuding about [conversation]
+Apologize to them
+Agree to disagree
+Assault them
+Complain to parents
+Insult them
+😡
+Evil stepparents
+Your stepparents [were mean to you]
+Tell my parents
+Assault them
+Have a talk with them
+Ignore them
+😧
+Behavior
+Your [child], [name], [caused trouble]
+Do nothing
+Ground/Spank them
+You grounded your child for xx days!
+Have a talk with them
+You had a talk with your child about their behavior (They apologized for their actions, They told you that they love you, They called you a [compliment])
+Yell at them
+You yelled at your child! (They called you an insult under his/her breath, They told you that they hate you)
+Option 2: You're grounded
+Option 3: My dear child, Let's chat/talk, We gotta/need to chat/talk, Next time I won't be so nice, Who do you think you are, This is a warning, This ends now, Silly child
+Successful: Oh heck/hell yeah, How nice, Careful now ;)
+Failed: Oh hell/heck no(pe), You try to be nice..., Now we have a real problem, Losing my cool, Holy s@#&!, Hard to swallow
+Option 4: Stupid child, Take that
+Limited time events
+[
+]
+Main article:
+Events/Limited-time events
+These events happen for a set period of time, depending on the day, holiday and what's in the news.
+Boosts
+[
+]
+Boosts
+are special events where
+Stats
+can be improved just by doing one activity when a boost is available. The player may choose the first option and boost the stat or the second option to decline the opportunity and not get boosted. Unless the player has
+Bitizenship
+, they must watch an ad every few boosts. Children can get boosts, but their boost events are different from that of adults.
+List of Boost Events
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Image(s)
+Notes
+😆
+Happiness: Motivational Seminar
+There is a Tony Robbins motivational seminar happening today at the conventional center.'
+You're feeling like unleashing the power within.
+What will you do?
+Yes I can!
+You attended a motivational seminar hosted by Tony Robbins
+Journal:
+I feel more happy after going to hear Tony Robbins speak on motivation.
+I don't have the motivation
+No Journal
+Option 1: Much Happier
+😆
+Happiness: Simplify
+You have been watching "Tidying Up with Marie Kondo" and realize how cluttered your home has become.
+You're really feeling a need to simplify
+What will you do?
+I need more joy in my life
+You donated many of your things as you decluttered your home.
+Journal:
+I'm feeling joyful after mindfully evaluating my possessions and simplifying my life
+I like hoarding
+No Journal
+Option 1: Much Happier
+😆
+Happiness: Nude art model
+You receive an invitation to be a nude art model for an introductory painting class at the community college.
+You've been wanting to step out of your comfort zone and do something exciting.
+What will you do?
+I'll put on my birthday suit
+You were a nude art model at the community college
+Journal: I'm feeling invigorated after posing in the nude for a painting class at the community college.
+No, I haven't shaved
+No Journal
+Option 1: Much Happier
+😆
+Happiness: Fruit picking
+A group of friends invites you to go [fruit] picking at a local orchard.
+You have been needing a fun outing with friends lately.
+What will you do?
+Let's bear fruit
+You went fruit picking at an orchard with a group of friends
+Journal: I'm feeling delighted after a day of pear picking with friends at a local orchard
+Sounds like work
+No Journal
+Option 1: Much Happier
+😆
+Happiness: Dalai Lama
+A friend has a free ticket to see the Dalai Lama give a talk on happiness at the local college.
+You're feeling like you could use some enlightenment.
+What will you do?
+Om, sure
+You attended a talk on happiness given by the Dalai Lama.
+Journal:
+I feel much happier after incorporating what I learned about happiness from the Dalai Lama
+What does he know anyway?
+No Journal
+Option 1: Much Happier
+😆
+Happiness: Shelter
+A close friend asks you to join her in volunteering at a food/animal rescue shelter.
+You've been feeling the need to give back recently.
+What will you do?
+I'd love to help
+You volunteered at a food/animal rescue shelter with a close friend
+Journal:
+I feel joyful after volunteering and attempting to make the world a better place.
+I'm the one who needs help
+No Journal
+Option 1: Much Happier
+😆
+Happiness: Disney theme park
+You receive an all-expenses paid trip to the Disney theme park of your choice from an anonymous source.
+You've been feeling the need for a vacation.
+What will you do?
+Here I come, Mickey!
+You enjoyed a free paid vacation to a Disney theme park.
+Journal:
+I feel more joyous after enjoying an all-expenses paid vacation to a Disney theme park.
+I'm not interested
+No Journal
+Option 1: Much Happier
+😆
+Happiness: Nude drumming circle
+There is a nude drumming circle happening at a full moon party at the beach tonight.
+You've been looking for some excitement in your life.
+What will you do?
+I'll bang that drum
+You participated in a nude drumming circle at a full moon party.
+Journal:
+I feel much happier after pounding a drum in the nude at a full moon party
+I'm not banging anything
+No Journal
+Option 1: Much Happier
+😆
+Happiness: Staycation
+You win a raffle for a free weekend staycation at a 4-star resort including a city pass, so that you can live and explore the town as a tourist.
+You've really been wanting to explore the city.
+What will you do?
+Where are my binoculars?
+You enjoyed a staycation at a 4-star resort including a city pass
+Journal:
+I'm feeling delighted after spending a weekend relaxing at a 4-star resort and enjoying my city as a tourist
+I'd rather stay home
+No Journal
+😆
+Happiness: Stand-up comedy
+You receive a free ticket to see Adam Sandler do a stand-up comedy performance that will be used as a Netflix special.
+You're feeling the need to laugh really hard.
+What will you do?
+Let's LOL
+You went to see Adam Sandler film a Netflix stand-up comedy special at a local concert hall.
+Journal:
+I feel much happier after seeing Adam Sandler perform a live comedy set
+No, humor is overrated
+No Journal
+Option 1: Much Happier
+😆
+Happiness: One-day neighborhood cleanup
+A neighbor invites you to participate in a one-day neighborhood cleanup to build community for those living in your area.
+You've been wanting to be more involved in your community.
+What will you do?
+What time do we start?
+You participated in a neighborhood cleanup in your community.
+Journal:
+I'm feeling grateful after participating in a community building cleanup in my neighborhood
+That's garbage!
+No Journal
+Option 1: Much Happier
+😆
+Happiness: Ice cream
+You receive a coupon in the mail for a free 3-scoop ice cream sundae
+You've really been craving some ice cream.
+What will you do?
+Load on the toppings
+You crushed an awesome ice cream sundae
+Journal:
+I'm feeling satisfied after having a fully-loaded 3-scoop ice cream sundae.
+I'm on a diet
+No Journal
+Option 1: Much Happier
+😆
+Happiness: Community Garden
+A friend invites you to come work in a community garden while the weather is nice.
+You've got the itch for a little fun in the sun.
+What will you do?
+I'll bring the kneepads!
+You spent a day under the sun working in a community garden
+Journal:
+I feel more joyful after soaking up some vitamin D from the sun while working in a community garden.
+That sounds exhausting
+No Journal
+Option 1: Much Happier
+😆
+Happiness: Tattoo
+You receive an offer from a friend, who is a tattoo artist, to get a free tattoo.
+You've been wanting to get a tattoo that is symbolic and meaningful to you.
+What will you do?
+Ink me up!
+You got a free tattoo from a friend who is a tattoo artist
+Journal:
+I'm feeling great after finally getting a tattoo that has deep meaning and significance to me.
+I'm scared of needles
+No Journal
+Option 1: Much Happier
+❤️
+Health: Hip-Hop Dance
+You win a raffle ticket of free hip-hop dance lessons.'
+You've really been wanting to find a fun way to get some exercise.
+What will you do?
+Sign me up!
+No, I'm a wallflower
+No Journal
+Option 1: Much Healthier
+❤️
+Health: Paddle boarding
+A friend is offering to take you paddle boarding with her and all of her friends at the lake.
+You're feeling like getting your paddle on
+What will you do?
+Hell yeah!
+You went paddle boarding with a friend
+Journal:
+I feel healthier after going paddle boarding with a friend at the lake
+Paddle yourself!
+No Journal
+Option 1: Much Healthier
+❤️
+Health: Fitness program
+Your friend buys you a Kegal fitness program including a private weight set/Kegal weight exercise system for your birthday.
+You've been wanting a better boner/strength your vaginal muscles
+What will you do?
+Let's pump some iron
+You implemented a Kegal fitness program with a private weight set into your routine. (male)
+You implemented a Kegal weight exercise system into your routine for strengthening your vagina (female)
+Journal:
+I've elevated my erections after successfully training with the Kegal fitness program private weight set.
+(male)
+Journal:
+My vagina is feeling so much stronger after pumping some iron with a Kegal weight exercise system.
+I like my weak penis/vagina
+No Journal
+Option 1: Much Healthier
+❤️
+Health: Zumba class
+You receive a flyer for a free Zumba class at a local gym.
+You're tempted to get your booty bouncing
+What will you do?
+Bounce it!
+You got your sweat on at a free Zumba class
+Journal:
+I worked my butt off at a Zumba class and now feel stronger and more fit
+I've got no bounce in me
+No Journal
+Option 1: Much Healthier
+❤️
+Health: Negative ion therapy session
+You receive an offer from a med spa for a free negative ion therapy session
+You feel like you could really benefit from a change in energy
+What will you do?
+I'm charged!
+You did a free negative ion therapy session
+Journal:
+I did a free negative ion therapy session and now feel much healthier
+Seems like a waste of time
+No Journal
+Option 1: Much Healthier
+❤️
+Health: Goat yoga class
+A friend is offering to bring you to a goat yoga class on a local farm.
+Your body is craving some relaxation
+What will you do?
+I've goat this!
+You aligned your chakras in the downward dog position with a goat on your back
+Journal:
+I feel much more robust after getting mounted by a goat during a yoga class
+Nah, namaste in bed
+No Journal
+Option 1: Much Healthier
+❤️
+Health: Plasma treatment
+A new med spa is offering a free platelet-rich plasma treatment for its first 100 visitors
+You feel like you could really use an energy boost
+What will you do?
+Gimme the PRP
+You received a free platelet-rich plasma treatment
+Journal:
+I feel invigorated after attending a med spa's grand opening and getting a free PRP treatment
+No, I don't like lines
+No Journal
+Option 1: Much Healthier
+❤️
+Health: Personal trainer
+You get a mailer for a free session with a ripped personal trainer
+You're feeling the urge to get in shape
+What will you do?
+Pump me up!
+A personal trainer pumped you up
+Journal:
+I feel much stronger after doing a free session with a ripped personal trainer
+Maybe another time
+No Journal
+Option 1: Much Healthier
+❤️
+Health: Walk
+One of your best friends asks you if you'd like to go for a walk every night this month.
+You've been looking for someone to exercise with
+What will you do?
+Let's walk out
+You walked every night for a month with one of your best friends
+Journal:
+I feel so much better after walking with a good friend every night for a month
+Sounds exhasting
+No Journal
+Option 1: Much Healthier
+❤️
+Health: Hiking
+A guy you know invites you hiking on a challenging trail in a park.
+You've been feeling a need for some exercise.
+What will you do?
+Let's go!
+You went on a hike in a park
+Journal:
+I am feeling physically invigorated after going on a hike in a park
+Take a hike buddy!
+No Journal
+Option 1: Much Healthier
+❤️
+Health: IV therapy session
+You receive a voucher for a free IV therapy session at a local drip bar.
+You feel like you could really use an energy boost.
+What will you do?
+Stick it in me!
+You went to a drip bar and had an IV infusion therapy session.
+Journal:
+I feel rejuvenated after going to a drip bar and receiving an IV infusion.
+Stick yourself!
+No Journal
+Option 1: Much Healthier
+❤️
+Health: Bike ride
+A good friend has a tandem bicycle and asks you if you want to go on a ride with her.
+You've been wanting to strengthen your leg muscles.
+What will you do?
+Let's double the fun!
+You went on a tandem bicycle ride with a good friend
+Journal:
+My legs feel stronger after going for a ride on a tandem bicycle
+I'd rather ride a motorcycle
+No Journal
+Option 1: Much Healthier
+❤️
+Health: Rowing
+A friend tells you his rowing team needs a replacement for the week.
+You've been looking for a way to tone up a bit.
+What will you do?
+Where's my paddle?
+You spent a week as a replacement on your friend's rowing team
+Journal:
+I am feeling much more fit after spending a week on my friend's rowing team
+I prefer speedboats
+No Journal
+Option 1: Much Healthier
+❤️
+Health: Rugby
+Your friend invites you to play on his co-ed rugby team.
+You've been thinking about ways to be more active.
+What will you do?
+Sign me up!
+You played in a co-ed rugby league.
+Journal:
+I am feeling really fit after playing rugby in a co-ed league with my friend.
+I'll watch
+No Journal
+Option 1: Much Healthier
+❤️
+Health: Pilates
+A fit friend recommends Pilates and tells you that is how she got in such good condition.
+You've been wanting to strengthen your core lately.
+What will you do?
+Let's get hard cores!
+You went to a Pilates class.
+Journal:
+My core feels stronger after taking a Pilates class.
+Not gonna happen
+No Journal
+Option 1: Much Healthier
+❤️
+Health: Floatation therapy session
+You get a call from a spa witha n offer for a free floatation therapy session in a zero-gravity, sensory-deprivation float pod.
+You've been feeling stressed and unable to focus lately.
+What will you do?
+That'll float my boat
+You did a relaxation session in a float pod.
+Journal:
+I feel rejuvenated after doing a flotation therapy session in a float pod.
+Sounds questionable
+No Journal
+Option 1: Much Healthier
+❤️
+Health: 5K running race
+A friend invites you to train for and participate in a 5K running race.
+You've been feeling like you really need to do some cardio.
+What will you do?
+See you at the finish line
+You completed a 5K race after some hard training
+Journal:
+My cardiovascular health has improved so much after training for and completing a 5K race
+No, I've got the runs
+No Journal
+Option 1: Much Healthier
+💡
+Smarts: Jeopardy
+A smart person you know tells you that she has become much smarter by watching "Jeopardy" every day.
+You've been thinking about how you could learn more facts.
+What will you do?
+I'll take facts for $100
+You watched "Jeopardy" every day for a week
+Journal:
+I'm feeling more knowledgeable after watching "Jeopardy" every day for a week.
+Nah, I'll pass
+No Journal
+Option 1: Much Smarter
+💡
+Smarts: Sudoku puzzles
+You find a book of unsolved Sudoku puzzles on your bookshelf during the weekend.
+You've been feeling mentally dull lately and are looking for ways to sharpen your mind.
+What will you do?
+Where's my pen?
+You spent a weekend working up Sudoku puzzles
+Journal:
+I feel more mentally sharp after spending a weekend doing Sudoku puzzles
+Sudoku sucks
+Option 1: Much Smarter
+No Journal
+💡
+Smarts: Mensa meeting
+A genius friend invites you to sit in on a Mensa meeting.
+You've been wanting to become inspired by smart people.
+What will you do?
+Bring on the geniuses
+You attended a Mensa meeting with a genius friend.
+Journal:
+I feel so much smarter after surrounding myself with geniuses and listening to them talk about a variety of subjects
+I don't belong
+Option 1: Much Smarter
+No Journal
+💡
+Smarts: Book
+A friend gives you a book about the beliefs and ideas of Martin Luther King Jr. for your birthday.
+You've been wanting to become a wiser individual.
+What will you do?
+I'll read that
+You read a book about the beliefs and ideas of Martin Luther King Jr.
+Journal:
+I feel much wiser after learning about the ideology of Martin Luther King Jr.
+Sounds too brainy
+No Journal
+Option 1: Much Smarter
+💡
+Smarts: Crossword puzzles
+A relative gives you a book of crossword puzzles.
+You're feeling like your brain could be more challenged.
+What will you do?
+Where's my pencil?
+You completed an entire book of crossword puzzles
+Journal:
+I'm feeling much smarter after doing an entire book of crossword puzzles.
+Not interested
+No Journal
+Option 1: Much Smarter
+💡
+Smarts: Hands-on tech
+A friend asks you to join her for an afternoon of hands-on tech sessions at the Apple Store.
+You've been getting frustrated a lot recently with technology
+What will you do?
+Let's get our tech on!
+You attended a number of hands-on tech sessions at the Apple Store
+Journal:
+I feel much more tech savvy after learning about a variety of topics at the Apple Store
+No need for that
+No Journal
+Option 1: Much Smarter
+💡
+Smarts: Zoo
+The library is offering free tickets to the local zoo.
+You've been wishing you were more worldly lately.
+What will you do?
+I'll check that out
+You went to the local zoo
+Journal:
+I feel a bit more brainy after learning new things at the zoo
+I'll pass
+No Journal
+Option 1: Much Smarter
+💡
+Smarts: BitLife
+Your friend tells you about how much wisdom he has gained by playing BitLife.
+You've been feeling unwise lately.
+What will you do?
+I'd like to be a Bitizen
+You played BitLife and learned about the power of decision making
+Journal:
+I feel much wiser after gaining a deeper understanding about the positive and negative consequences of life decisions with BitLife
+No, games aren't fun
+No Journal
+Option 1: Much Smarter
+💡
+Smarts: Bill Nye
+You see that there is a "Bill Nye Saves the World" marathon on all weekend.
+You've been wanting to better understand the scientific method.
+What will you do?
+I'll lounge and learn
+You watched a "Bill Nye Saves the World" marathon".
+Journal:
+I feel more educated about science after enjoying a Bill Nye marathon.
+Nay for Nye
+No Journal
+Option 1: Much Smarter
+💡
+Smarts: Brain Games
+You receive a collection of brain games as a gift.
+You've been feeling a need to be more alert and clever as of late.
+What will you do?
+Game time!
+You played all of the brain games you received as a gift.
+Journal:
+I am feeling sharper and more alert after playing a collection of brain games that were given to me.
+I'm not really game
+No Journal
+Option 1: Much Smarter
+💡
+Smarts: Story
+While walking through the park, you encounter a homeless person who wants to share his story with you
+You've been feeling ignorant lately.
+What will you do?
+I'm all ears
+You listened as a homeless man shared his life story with you
+Journal:
+I feel much wiser after hearing about the life experience of a homeless man.
+No, but here's some change
+No Journal
+Option 1: Much Smarter
+💡
+Smarts: Math skills
+A friend invites you to play games on coolmathgames.com
+You've been wanting to sharpen up your math skills lately.
+What will you do?
+Cool
+You played games on coolmathgames.com
+Journal:
+I feel like I've honed my math skills by playing games on coolmathgames.com
+No, games aren't fun.
+No Journal
+Option 1: Much Smarter
+💡
+Smarts: Harvard professor
+You learn that you can take a course in [subject] virtually by watching lectures from a Harvard professor on YouTube.
+You're feeling like learning more about the subject.
+What will you do?
+I'll do that
+You became an expert in [subject] by watching all of a Harvard professor's lectures form a course he teaches.
+Journal:
+I'm feeling much more intelligent after watching a Harvard professor teach religion on YouTube
+Sounds hard
+No Journal
+Option 1: Much Smarter
+🔥
+Looks: New Shoes
+You are offered a free pair of shoes of your choice from a designer shoe store.
+You've been feeling inadequate about my footwear lately.
+What will you do?
+If the shoe fits...
+You accepted a free pair of shoes from a designer shoe store.
+Journal:
+I feel so much more stylish now that I have a pair of designer shoes.
+Shoo off
+No Journal
+Option 1: Much Sexier
+🔥
+Looks: Eyebrow Threading
+You recieve a coupon for a free eyebrow threading from a local salon.'
+Your eyebrows have gotten embarrassingly bushy.
+What will you do?
+Thread 'em
+You got an eyebrow threading at a local salon
+Journal:
+I'm feeling more attractive after getting a free eyebrow threading at a salon
+I like my bushy brows
+No Journal
+Option 1: Much Sexier
+🔥
+Looks: Midsection Treatment
+You receive a call from a med spa with an offer for a complimentary CoolSculpting session for your midsection.
+You've been feeling really insecure about your midsection lately.
+What will you do?
+Sculpt me please
+You did a free CoolSculpting session for your midsection
+Journal:
+I feel much more attractive after getting a CoolSculpting session at a med spa
+What's wrong with my pooch?
+No Journal
+Option 1: Much Sexier
+🔥
+Looks: Chemical peal
+Your friend is going to get a chemical peel at a med spa and is offering you to go free of charge, as the spa has a 2-for-1 deal.
+You've been feeling insecure about your skin recently
+What will you do?
+Peel it off!
+You got a free chemical peel at a med spa with a friend
+Journal:
+My skin is looking great after receiving a chemical peel at a med spa.
+I'm okay with soap and water
+No Journal
+🔥
+Looks: Bleaching Session
+You receive a coupon for a free anal bleaching session at a salon in your neighborhood.
+You've been feeling insecure about the discoloration in that area.
+What will you do?
+Beautify my bottom
+You had your anus bleached for free at a local salon
+Journal:
+I feel so much more attractive after accepting an offer to have my anus bleached, free of charge.
+Tempting, but I'll pass
+No Journal
+Option 1: Much Sexier
+🔥
+Looks: Beard control
+You receive an offer for a free beard consultation and shaping
+Your beard has gotten out of control lately.
+What will you do?
+Shape me up
+You took up an offer for a free beard consultation and shaping
+Journal:
+I'm feeling more attractive after getting a free eyebrow threading at a salon
+I'm going for the homeless look
+No Journal
+Option 1: Much Sexier
+🔥
+Looks: Laser hair removal treatment
+You receive a flyer for a free laser hair removal treatment for your bikini line.
+You're feeling frustrated with your excessive hair lately.
+What will you do?
+Warm up the laser!
+You had a laser hair removal treatment session to remove the hair from your bikini line.
+Journal:
+I feel and look much sexier after having laser hair removal treatment for my bikini line.
+I'll deal with the hair
+No Journal
+Option 1: Much Sexier
+🔥
+Looks: Teeth whitening kit
+Your dentist is offering you a free teeth whitening kit after getting s basic cleaning.
+You've been feeling insecure about your smile.
+What will you do?
+Let's brighten these chompers
+You used a free teeth whitening kit given to you by your dentist
+Journal:
+My smile looks much more attractive after whitening up my teeth with a kit the dentist gave me
+I don't need that!
+Option 1: Much Sexie** No Journalr
+🔥
+Looks: James Charles
+You win a contest to be a guest participant on a make-up YouTube video in which James Charles will give you a makeover.
+You have been feeling unattractive and could use some makeup tips
+What will you do?
+Make me fierce
+You were a guest participant on a James Charles YouTube video
+Journal:
+I'm feeling much sexier after getting made up by James Charles as a guest participant on his YouTube channel.
+No, I'm with Tati Westbroook
+No Journal
+Option 1: Much Sexier
+🔥
+Looks: Calf implant procedure
+A friend who is a plastic surgeon offers you a free calf implant procedure, telling you he doesn't know anyone who could use them as much as you.
+You've been feeling insecure about your scrawny calves lately.
+What will you do?
+Let's do it!
+You accepted a plastic surgeon's offer for free calf implants
+Journal:
+My legs look much more muscular after getting a calf implant surgery
+No, maybe I'll try cycling
+No Journal
+Option 1: Much Sexier
+🔥
+Looks: Labiaplasty
+Your gynecologist has a deal where you get a free labiaplasty after ten pap smear tests.
+You've been insecure about your labia major and labia minor lately.
+What will you do?
+Tighten 'em up
+You received a complimentary labiaplasty after filling up your pap smear card with ten punches
+Journal:
+I'm feeling so much more confident after getting the labiaplasty procedure done
+I like my asymmetrical labia
+No Journal
+Option 1: Much Sexier
+🔥
+Looks: Makeovers
+They are giving away free makeovers at the mall.
+You're tempted to get one.
+What will you do?
+Sign me up
+You got a free makeover at the mall
+Journal:
+I feel more attractive after getting a free makeover at the mall
+Nah
+No Journal
+Option 1: Much Sexier
+🔥
+Looks: Lip augmentation
+A friend who owns a med spa offers for you to come in for a free lip augmentation.
+You've been super insecure about your thin lips lately.
+What will you do?
+Puff up my kisser
+You got a free lip augmentation at a med spa
+Journal:
+I'm feeling much more pretty after making my lips more plump
+These suckers are fine
+No Journal
+Option 1: Much Sexier
+🔥
+Looks: Spider vein removal
+You receive a voucher for a complimentary spider vein removal procedure at local med spa.
+You have been feeling very insecure about the spider veins in your legs.
+What will you do?
+Please remove them
+You had a spider vein removal procedure done at a local med spa.
+Journal:
+I'm feeling so much more attractive after having my spider veins removed at a local med spa.
+I like the veiny look
+No Journal
+Option 1: Much Sexier
+🔥
+Looks: Stylish outfit
+You receive a voucher for a free stylish outfit from a department store at the mall.
+You've been feeling very out of fashion lately.
+What will you do?
+I'll take that
+You redeemed a voucher for a free outfit at the mall
+Journal:
+I'm feeling way more fashionable after getting a stylish new outfit at a department store
+That would cramp my style
+No Journal
+Option 1: Much Sexier
+🔥
+Looks: Sunglasses
+You receive a voucher for a pair of free sunglasses at a fashionable eyewear store.
+You've been feeling insecure about your puffy eyes lately.
+What will you do?
+I'll take them!
+You were able to redeem a voucher for a pair of very fashionable sunglasses.
+Journal:
+I look much more fashionable after getting a free pair of stylish sunglasses
+I don't like free things
+No Journal
+Option 1: Much Sexier
+🔥
+Looks: Fashion show
+You receive an offer to attend a fashion show and seminar hosted by some of the biggest names in the industry.
+You've been feeling super frumpy lately.
+What will you do?
+Sounds fab!
+You attended a fashion show and seminar where you learned how to be more stylish
+Journal:
+I am dressing much more stylish after attending a fashion show and seminar hosted by some of the top designers in the industry
+I prefer my frumpy look
+No Journal
+Option 1: Much Sexier
+🔥
+Looks: Hat
+A relative gives you a gift certificate to a trendy hat store.
+You've been wanting to don a new lid lately.
+What will you do?
+Gimme that!
+You got a new lid after a relative gave you a gift certificate to a hat store.
+Journal:
+I'm feeling good about the way I look now that I have a fashionable new hat
+I'm not really a hat person.
+No Journal
+Option 1: Much Sexier
+List of Childhood Exclusive Boost Events
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Images
+Notes
+😆
+Happiness: Toy store
+A distant relative, who is known to be very generous, offers to bring you to a toy store so that you can get the toy of your choice.
+You have been uninterested in all of your old, boring toys lately.
+What will you do?
+Yasss!
+Your distant relative brought you to the store to buy you the toy of your dreams
+Journal:
+I'm loving life now that I have the toy I've always wanted
+Playing with toys is child's play
+No Journal
+Option 1: Much Happier
+😆
+Happiness: Water park
+A girl in your neighborhood tells you she is going to a water park and says that she has an extra ticket that she would love for you to use.
+You've been fixin' for a fun day in the sun.
+What will you do?
+Absolutely!
+You spent the day at the waterpark with a girl in your neighborhood
+Journal:
+I'm feeling exhaustedly elated after spending a day slip sliding away at a water park.
+I don't want to burn
+No Journal
+Option 1: Much Happier
+😆
+Happiness: Lollipop
+A friend tells you that he was given a case of lollipops, but says that he doesn't like them and offers to give them to you.
+You haven't had much candy lately and would love to go on a sugar bender.
+What will you do?
+Sweet!
+You crushed a whole case of lollipops that you received from a friend in just one week.
+Journal:
+I'm flying high after crushing a whole case of lollipops in just one week
+Those suck!
+No Journal
+Option 1: Much Happier
+😆
+Happiness: Ice skating
+A kid from your neighborhood asks if you want to go ice skating with him and his older brother.
+You been really feeling the need for a fun outing lately.
+What will you do?
+I'm in!
+You went ice skating with a neighborhood kid and his brother
+Journal:
+I'm feeling chipper after going ice skating with a neighborhood kid and his brother.
+Maybe next time
+No Journal
+Option 1: Much Happier
+❤️
+Health: Unicycle
+Your neighbors are cleaning out their garage when they offer you a unicycle they no longer have a need for.
+You have really been feeling a need to get active outdoors lately.
+What will you do?
+Ride or die!
+Your neighbors gave you a unicycle they didn't want anymore
+Journal:
+I'm feeling so much more invigorated now that I am using a unicycle as my primary mode of transportation.
+I'd rather have a couch
+No Journal
+Option 1: Much Healthier
+💡
+Smarts: Old man
+An old man invites you to come spend an afternoon talking with him and his friends at the retirement community.
+You've been feeling very unwise lately.
+What will you do?
+Sure, I have a lot to learn
+You spent an afternoon talking with an old man and his friends at the retirement community.
+Journal:
+I feel much wiser after spending an afternoon talking with old people at the retirement community
+Sounds boring
+No Journal
+Option 1: Much Smarter
+💡
+Smarts: Connect 4
+A kid from your neighborhood tells you that she received a board game called "Connect 4" as a birthday gift, but confesses that she doesn't really want it. She asks if you would like it.
+You have been wanting to play a fun board game lately.
+What will you do?
+Heck yeah!
+A neighborhood kid gave you a board game called "Connect 4" that she didn't want
+Journal:
+I'm feeling much sharper after playing everyone I know at a board game called "Connect 4"
+Sounds boring
+No Journal
+Option 1: Much Smarter
+💡
+Smarts: 3D puzzle
+A family friend offers you a 3D puzzle of [building]
+You've been looking to challenge yourself lately.
+What will you do?
+I'd love it!
+A family friend gave you a 3D puzzle of [Building]
+Journal:
+I'm feeling a lot sharper now that I've put together a 3D puzzle of [Building]
+I don't want to stay sharp
+No Journal
+Option 1: Much Smarter
+💡
+Smarts: Video game
+A distant relative tells you that he would like to buy you a Minecraft video game for your birthday.
+You have been wanting to tap into your creative side lately.
+What will you do?
+Let's get creative!
+You accepted a Minecraft video game you were offered for your birthday.
+Journal:
+I'm feeling much more inventive after tapping into my creative side by building a new Minecraft world.
+I'd rather play Angry Birds
+No Journal
+Option 1: Much Smarter
+💡
+Smarts: Books about writing
+You are gifted a series of books about writing.
+You're feeling like expanding your horizons.
+What will you do?
+I'll read those
+You read a series of books about writing
+Journal:
+I feel more knowledgeable about writing because I read a series of books on the topic.
+No, reading is boring
+No Journal
+Option 1: Much Smarter
+🔥
+Looks: haircut
+Your neighbor, who is a stylist, offers to give you a fashionable new haircut.
+You've been thinking about changing up your hairstyle recently.
+What will you do?
+Make me look fabulous darlin'
+Your neighbor gave you a cool new hairstyle.
+Journal:
+I'm feeling super confident now that I am rocking a stylish new hairdo
+I'd rather be shaggy
+Option 1: Much Sexier
+No Journal
+🔥
+Looks: [Show]
+The old lady next door offers you a cool new "[Show]" bib.
+You've been destroying all of your clothes lately when you eat.
+What will you do?
+Feed me!
+An old lady gave you a "[Show]" bib.
+Journal:
+My clothes are looking much more clean now that I am using a "[Show]" bib when I eat
+I prefer being a mess
+No Journal
+Option 1: Much Sexier
+Fame
+[
+]
+List of Fame events
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Image(s)
+Notes
+🤬
+Celebirity Feud
+The famous [Famous Type], [Name], [Random Talk] [Insult] in a [Celebirity Event].
+What will you do?
+Ignore them
+The famous [Famous Type], [Name], [Random Talk] [Insult] in a [Celebirity Event]. I ignored them.
+Return the insult
+You called them [Insult] in a [Celebirity Event].
+The famous [Famous Type], [Name], [Random Talk] [Insult] in a [Celebirity Event]. I called them [Insult] in a [Celebirity Event].
+Option 2: Please, Ha!, Oh Yeah?
+🔭
+Stalker
+[Description Varies]
+What will you do?
+Ask them to leave you alone
+You asked/begged/pleaded with/told your stalker to leave you alone
+Chance 1: They agreed to stop bothering you!
+Chance 2: They were not receptive (to your request)/refused to stop bothering you!
+Chance 3: They called you an insult!
+Chance 4: They assaulted you!
+Assault them
+Call the police
+Your stalker evaded the police.
+The police arrested your stalker.
+Option 1: Chance: 1: What a relief, Wow it worked, Hell hath frozen over
+Chance 2:
+So pathetic/frustrating, Waste of time
+📸
+Photo Shoot
+[Magazine] magazine has offered you a deal to appear [Genre] in its [Month] issue
+What will you do?
+Magazine: [Magazine]
+Type: [Genre]
+Offer: [Number]
+Sign me up
+You earned [Number] by appearing [Genre] in the [Month] issue of [Magazine] magazine
+Reception: []
+I can't do that
+[Varies]
+Commercial
+[Company] has offered to pay you to appear in a/an [Commercial Type] commercial.
+What will you do?
+Company: [Company]
+Company Type: [Type]
+Commercial Type: [Commercial Type]
+Offer: [Number]
+Agree to do it
+You earned [Number] by appearing in the [Commercial Type] commercial for [Type].
+Reception: []
+Turn it down
+🌟
+Famous
+You are officially a [Famous Type]
+OK
+Journal: I am officially famous.
+Orphanage
+[
+]
+List of Orphanage events
+Emoji
+Event Name
+Description
+Options/Results
+Taglines
+Image(s)
+Notes
+🥘
+Special orders
+The orphanage policy states that on your birthday (if known), you can order any food to eat.
+What will you choose?
+Hot dog
+Journal:
+I chose for my birthday meal at the orphanage an all-beef foot-long hot dog with grilled onions, ketchup, and brown mustard on a poppy seed bun.
+Mac n' cheese
+Journal:
+I chose for my birthday meal at the orphanage an oven baked gruyere mac n' cheese with panko crust.
+Pizza slice
+Journal:
+I chose for my birthday meal at the orphanage a fat slice of New York style pizza with double sausage, mushrooms, onions, and extra cheese.
+Double PB&J
+Journal:
+I chose for my birthday meal at the orphanage a peanut butter and jelly sandwich with double peanut butter and double jelly.
+😆
+Fun and games
+Some volunteers are visiting the orphanage today and want to play fun games with the youngest kids.
+What game do you want to play?
+Hide and seek
+Journal: I played hide and seek with some fun people who volunteered at the orphanage.
+Tag
+Journal: I played tag with some fun people who volunteered at the orphanage.
+Are you my mother?
+Journal: I played the game "are you my mother" with some fun people who volunteered at the orphanage.
+Doctor
+Journal: I played doctor with some fun people who volunteered at the orphanage.
+Choosing "Doctor" lowers smarts by 4%.
+Choosing "Are you my mother?" lowers happiness.
+👤
+New Kid on the Block
+A new orphan just arrived at the orphanage.
+How will you welcome them?
+Befriend them
+Journal: I befriend a new orphan who arrived at the orphanage.
+Ignore them
+Journal: I deliberately ignored a new orphan who arrived at the orphanage.
+Haze them
+Journal: I gave a new orphan the rookie treatment by pulling several pranks on them.
+Choosing "Befriend them" increases happiness.
+Choosing the other 2 options lowers happiness.
+🌟
+Self Improvement
+You've been brainstorming ideas on how to make yourself more adoptable
+Which will you choose?
+Be myself
+Study harder
+Follow the rules
+Be kind
+🖍️
+Happy Place
+During creative-time at the orphanage, a volunteer asks you to draw a picture using crayons of something that makes you happy.
+What will you draw?
+A bicycle
+A family
+A puppy dog
+The beach
+Journal: A volunteer at the orphanage asked me to draw something that made me happy, so I drew a picture of the beach with sand and waves.
+😤
+Abuse of Power
+While eating in the mess hall, you witness a staff member verbally abusing a fellow orphan.
+How will you react?
+Ignore it.
+Report them to the authorities
+Start a food fight
+Call them out
+Journal: I called out a staff member who was verbally abusing a fellow orphan.
+Choosing "Start a food fight" increases happiness.
+Choosing "Call them out" increases happiness by 8%.
+😤
+Wish List
+While being interviewed for potential adoption, the parents ask what you're hoping for a new family.
+What will you say?
+A big sister
+Love
+Journal: I told a family during an adoption that love was at the top of my list.
+A big brother
+A huge house
+🥣
+Please Sir
+You've just finished your daily rotation of porridge but still felling very hungry.
+What will you do?
+Be grateful for what I got
+Scavenge table scraps
+Sneak some more
+Journal: When the staff wasn't looking, I covertly helped myself to a second portion of porridge.
+Ask for more
+Journal: I asked the governor of the orphanage for more porridge, but my request was refused and I was made to feel ridiculous for asking.
+💪
+A Big Bully
+You just witnessed an older orphan bullying a young orphan by saying that no one will adopt them.
+What will you do?
+Stand up for the young orphan
+Insult the bully
+Prank the bully
+Report them
+Journal: I reported a bully to the staff for picking on a fellow orphan.
+🤩
+Starstruck
+While helping out in the orphanage lobby, you suddenly become starstruck when [Name] stops by to adopt another exotic-looking child.
+How will you react?
+Ask to take a selfie
+Who cares
+Try to look exotic
+Journal: I did my best to look as exotic as possible, but apparently, it wasn't enough to get adopted by [Name].
+Ask for an autograph
+Choosing "Try to look exotic" increases smarts.

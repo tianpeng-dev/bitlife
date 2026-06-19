@@ -1,0 +1,3 @@
+{{Infobox BitLifeApp
+|title1=Psychiatrist
+|launched_on_ios: = February 17, 2019|launched_on_android: = March 1, 2020}}The '''psychiatrist''' is a type of [[Doctor (disambiguation)|doctor]] that can be found in the Doctor section of the [[activities]], who is specialized in curing mental ailments. When selecting this doctor, the player can choose between attending a counselling session or getting a shock therapy. After getting a shock therapy, a bar inside of a pop-up will display on the screen showing how much pain it caused.[[Category:Medical]]

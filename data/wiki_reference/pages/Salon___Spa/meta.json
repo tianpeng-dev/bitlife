@@ -1,0 +1,23 @@
+{
+  "title": "Salon & Spa",
+  "pageid": 877,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Salon_%26_Spa",
+  "categories": [
+    "Activities",
+    "BitLife"
+  ],
+  "links": [
+    "Activities",
+    "Fertility",
+    "Medical Doctor",
+    "Nations",
+    "Stats"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Salon___Spa/content.html",
+    "wikitext": "pages/Salon___Spa/content.wikitext",
+    "text": "pages/Salon___Spa/content.txt"
+  }
+}

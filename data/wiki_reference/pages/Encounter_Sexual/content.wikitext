@@ -1,0 +1,31 @@
+An '''Encounter''' is a scenario where someone of the sex industry is within range of your character, whether hollering at them or just walking by. The options of how to react is either to ignore them, argue with them, [[Crime|assault them, or solicit them]], the latter two could put the player in [[Jail]] if caught. However, the chances of getting caught for solicitation are more rare than assault. The player could also get an [[Diseases|STD]] if they solicit during the encounter. Whether your character is single or not will not affect the chances of getting these. If your character has a lover, after getting the STD, they will immediately argue with you for giving them the STD. 
+
+== Types of encounterers ==
+*Prostitute
+*Male prostitute
+*Call girl
+*Whore
+*Man whore
+*Crossdresser
+*Courtesan
+*Gigolo
+*Student
+*Troubadour 
+*Hooker
+*Working Girl
+*Escort
+*Slut
+*Bitch
+
+== Actions encounters do ==
+*Walk across the street
+*Turn tricks on the street
+*Sit on the curb
+*Wink at your character
+*Holler at your characters
+*Making fun at your character
+*Look smug
+*Look miserable
+*Whistle at your character
+[[Category:BitLife]]
+[[Category:Events]]

@@ -1,0 +1,17 @@
+{{Infobox BitLifeApp
+|title1 = Cheating
+|launched_on_ios: = September 2018 (default)
+|launched_on_android: = February 2019 (default)
+}}
+If the player is in a relationship the player can choose to cheat or in some rare events be cheated on.
+==The player cheating==
+
+The player can cheat on their partner via a [[Hook-Up|hookup]]. There is a very strong chance of your partner finding out. If the partner finds out the player cheated on them, it will trigger an argument, and the relationship bar will lower. But, if the player is clean with their cheating, their partner will not know, thus no argument being triggered. Cheating also will drop the player's [[Karma|karma]]. A character may have or father a baby with a hookup if they choose to keep the baby and a partner could argue for having someone else's child. They could also contract an STD from a hookup, which will always get the player caught. Having a lot of hookups is ''[[Ribbons|Lustful]]'' and cheating and having many STDs is ''Wicked''.
+
+==The partner cheating==
+
+There is a random chance where the player finds out that their partner has cheated on them. They can break up with them, forgive them, assault them, or argue with them. This will lower the player's happiness by 50%. There is a chance your partner will conceive a child from the cheating, you can [[Adoption|adopt]] it or abort it.
+
+==Trivia==
+*A partner with low relationship and high craziness is the most likely to cheat.
+[[Category:BitLife]]

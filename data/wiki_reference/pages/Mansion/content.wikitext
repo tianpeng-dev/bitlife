@@ -1,0 +1,33 @@
+{{Real_Estate_Template_V2|title1=Mansion|caption-image1=Either a Millionaire or a Landlord that is Money-Hungry.|average_price=1.000.000|can_be_bought=Yes|how_to_get=To The Real Estate Dealers if the Player is an Adult.|can_be_sold=Yes|image1=File:Mansion.png}}
+
+== What Is A Mansion? ==
+The '''Mansion''' is an Expensive And Large House. Its Size is from to.
+
+== Appearance ==
+The '''Mansion''' Is a Large building with Many Windows, A Bush fence, and a Purple door.
+
+== Variants ==
+{| class="fandom-table"
+|+Mansion Variants
+!Name
+!Type
+|-
+|Mansion
+|
+|-
+|Castle
+|
+|-
+|Chateau
+|
+|-
+|Manor
+|
+|}
+
+== Obtainments ==
+Can be obtained at the Real Estate Dealers.
+
+== Trivia ==
+
+* The '''Mansion''' is one of the houses that have different names.

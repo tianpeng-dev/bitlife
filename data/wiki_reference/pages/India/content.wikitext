@@ -1,0 +1,18 @@
+{{Infobox country
+|title1=India
+|image1=[[File:India.png]]
+|caption1=India's flag.
+|country_name=India
+|number_of_default_cities=8
+|when_was_it_added_to_ios=September 2018 (default)
+}}
+'''India''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Delhi, along with Bangalore, Chennai, Hyderabad, Jaipur, Mumbai, and Srinagar.
+
+== Gallery ==
+<gallery>
+File:India baby.jpeg|A baby born in India.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

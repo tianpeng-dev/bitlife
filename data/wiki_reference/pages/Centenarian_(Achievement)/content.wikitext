@@ -1,0 +1,8 @@
+'''Centenarian''' is an [[Achievements|achievement]] of the Longevity section. The player can earn this achievement by living till the age of 100.
+
+== Trivia ==
+* Obtaining this achievement is much harder than obtaining the [[Octogenarian (Achievement)|Octogenarian]] and [[Nonagenarian (Achievement)|Nonagenarian]] achievements, beacuse as your character grows older, the chance of dying by old age gets higher.
+* To reach the age of 100 the player has to mantain the happiness bar and the health bar as full as possible in order to decrease the possibility of suffering from a non-stress related stroke, which can result in the character [[Death|dying]] prematurely.
+* This achievement isn't directly connected to any [[ribbon]], so obtaining it doesn't guarantee a certain ribbon.
+[[Category:BitLife]]
+[[Category:Life Achievements]]

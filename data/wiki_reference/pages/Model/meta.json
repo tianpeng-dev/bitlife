@@ -1,0 +1,21 @@
+{
+  "title": "Model",
+  "pageid": 5189,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Model",
+  "categories": [
+    "Careers",
+    "Information",
+    "Special_Careers",
+    "Under_construction"
+  ],
+  "links": [
+    "Careers/Occupation"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Model/content.html",
+    "wikitext": "pages/Model/content.wikitext",
+    "text": "pages/Model/content.txt"
+  }
+}

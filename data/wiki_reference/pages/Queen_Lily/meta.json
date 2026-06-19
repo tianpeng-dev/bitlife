@@ -1,0 +1,22 @@
+{
+  "title": "Queen Lily",
+  "pageid": 5701,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Queen_Lily",
+  "categories": [
+    "British_People",
+    "Fan_Characters",
+    "Royality"
+  ],
+  "links": [
+    "Lola Cahill",
+    "Royalty",
+    "The Cahill Family"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Queen_Lily/content.html",
+    "wikitext": "pages/Queen_Lily/content.wikitext",
+    "text": "pages/Queen_Lily/content.txt"
+  }
+}

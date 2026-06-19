@@ -1,0 +1,51 @@
+Medical Doctor
+Launched on iOS:
+September 2018 (default)
+Launched on Android:
+February 2019 (default)
+The
+Medical Doctor
+is the main doctor in the game and most effective, with the least effective doctor being the
+Witch Doctor
+. The medical doctor is the best way to rid yourself of a
+disease or problem that impacts your health
+. Before the doctor can help you must pay a consulting fee and then choose a doctor (it doesn't matter which one is chosen). Then you can choose to treat the illness if you have the required money. Medical doctors are less effective at curing physical ailments and it would be better to consult an
+alternative doctor
+to treat it. If the player is too young, the player doesn't have to pay to visit the doctor or get treatment. Depending on what illness you have will determine if you are cured. For example, the flu is relatively easy to cure, but
+cancer
+is more expensive and has a lower chance of success. When your character is under 18, their parents will pay for consultations and treatments. If your character is from a
+country
+that provides free health care, consultations and treatments are free of charge.
+Following an
+update
+from 1.39, characters over the age of 18 may now take parents and children to the medical doctor on iOS. Parents must be over the age of 65 and children must be under the age of 18.
+Countries with free health care
+*
+· Australia
+· Austria
+· Canada
+· Denmark
+· Ecuador
+· Finland
+· France
+· Germany
+· Greece
+· Hong Kong
+· Ireland
+· Israel
+• Italy
+• Japan
+• Kuwait
+• Netherlands
+• New Zealand
+• Norway
+• Portugal
+• Singapore
+• South Korea
+• Spain
+• Sweden
+• Switzerland
+• UAE
+• United Kingdom
+*this information is both from players as well as legal facts, as Bitlife follows real-world country guidelines. However, Bitlife might not be up-to-date
+In November 2019, the minimum age to go to the doctor was changed from 0 to 4. On iOS, medical doctors have a Reputation bar and the higher it is, the more reputable they are and more likely to cure you with their treatments.

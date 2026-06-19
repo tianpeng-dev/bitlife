@@ -1,0 +1,19 @@
+{{Infobox country
+|title1=Ukraine
+|image1=[[File:Ukraine.png]]
+|caption1=Ukraine's flag.
+|country_name=Ukraine
+|number_of_default_cities=5
+|when_was_it_added_to_ios=December 19, 2019
+|available_on_android_as_well=Yes}}'''Ukraine''' is a [[Nations|country]] that was on BitLife in December 2019. Its default cities are the capital, Kyiv along with Dnipro, Donetsk, Kharkiv, and Odesa.
+
+In December 2019 on iOS; new countries were added. Along with Ukraine; there was also Austria, Bahamas, Costa Rica, DR Congo, Kazakhstan, Kenya, Kuwait, Lebanon, Mongolia, Nepal, and Vietnam. This was added in the ''Friends'' Update.
+
+Despite that the country is facing an ongoing war against Russia in real life, Ukraine has no [[Death|deaths]] related to terrorist or battlefield attacks in Bitlife.
+
+== Gallery ==
+<gallery>
+File:Ukraine baby.jpeg|A baby born in Ukraine.
+</gallery>{{Nations}}
+[[Category:Nations]]
+[[Category:BitLife]]

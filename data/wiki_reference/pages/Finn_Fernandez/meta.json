@@ -1,0 +1,20 @@
+{
+  "title": "Finn Fernandez",
+  "pageid": 5120,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Finn_Fernandez",
+  "categories": [
+    "Fan_Characters",
+    "Germans"
+  ],
+  "links": [
+    "Faber Fernandez",
+    "Tilda Fernandez"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Finn_Fernandez/content.html",
+    "wikitext": "pages/Finn_Fernandez/content.wikitext",
+    "text": "pages/Finn_Fernandez/content.txt"
+  }
+}

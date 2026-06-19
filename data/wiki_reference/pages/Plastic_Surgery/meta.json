@@ -1,0 +1,22 @@
+{
+  "title": "Plastic Surgery",
+  "pageid": 157,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Plastic_Surgery",
+  "categories": [
+    "Activities",
+    "BitLife",
+    "Medical"
+  ],
+  "links": [
+    "Death",
+    "Lawsuit",
+    "Stats"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Plastic_Surgery/content.html",
+    "wikitext": "pages/Plastic_Surgery/content.wikitext",
+    "text": "pages/Plastic_Surgery/content.txt"
+  }
+}

@@ -1,0 +1,196 @@
+{{Infobox country
+|title1=Greece
+|image1=[[File:Greece.png]]
+|caption1=Greece's flag.
+|country_name=Greece
+|number_of_default_cities=2
+|when_was_it_added_to_ios=September 2018 (default)
+}}
+'''Greece''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Athens, along with Santorini.
+
+On iOS, Greece provides free healthcare, making characters able to consult doctors and treat [[Diseases|diseases and ailments]] free of charge. In the [[Challenges|420 challenge]], Greece is one of many nations where cannabis is legal.
+== Name List ==
+=== Male First Names ===
+* Agim
+* Alex
+* Alexander
+* Alexandros
+* Alkinoos
+* Achilleas 
+* Andrew
+*
+* Anthony
+* Antonis
+* Apostolis
+* Aristotle
+* Angel
+* Angelo
+* Angelos
+* Bill
+* Billy
+* Con
+* Costa
+* Christos
+* Daniel
+* David
+* Dimitris
+* Echo
+* Evangelos
+* Gabriel 
+* George
+* Giannis
+* Giorgos
+* Greg
+* Gregory
+* Homer
+* Jim
+* John
+* Josif
+* Konstantinos
+* Kostas
+* Lambros
+* Lefteris
+* Luke
+* Manolis
+* Manos
+* Marios
+* Mateo
+* Michael
+* Minas
+* Nick
+* Nicolas
+* Panagiotis
+* Peter
+* Philip
+* Sotiris
+* Spiros
+* Stefanos
+* Steven
+* Thanasis
+* Thanos
+* Vasilhs
+* Vassilis
+* Yanni
+* Yiannis 
+* Yorgos 
+
+=== Female First Names ===
+* Alexandra
+* Anastasia
+* Angie 
+* Angela
+* Aneglika
+* Agnes 
+* Anna
+* Artemis
+* Catherine
+* Christina
+* Chrysa
+* Danae
+* Despina
+* Dimitra
+* Dora
+* Efi
+* Eleftheria
+* Eleni
+* Elizabeth
+* Eugenia
+* Eva
+* Evi
+* Georgia
+* Helen
+* Irene
+* Joanna
+* Kate
+* Katerina
+* Katherine
+* Konstantina
+* Loanna
+* Maria
+* Marianna
+* Mary
+* Melina
+* Myrto
+* Nasia
+* Nefeli
+* Nicole
+* Olga
+* Rafaela
+* Sofia
+* Sophia
+* Sophie
+* Stella
+* Theodora
+* Vana
+* Vasiliki
+* Vera
+* Vicky
+* Zoe
+
+=== Surnames ===
+* Agne
+* Athan
+* Andreadis
+* Alexpoulos
+* Balli
+* Bella
+* Biros
+* Balaban
+* Callas
+* Caras
+* Castellanos
+* Chontos
+* Christakos
+* Dellis
+* Demetriou
+* Demopoulos
+* Doukas
+* Economos
+* Eliades
+* Elipoulos
+* Floros
+* Fotos
+* Frangos
+* Gabris
+* Galanis
+* Gikas
+* Halkias
+* Hatzis
+* Hero
+* Kafalas
+* Kairis
+* Kalfas
+* Katsaros
+* Kazan
+* Kellis
+* Kollias
+* Ladas
+* Lambros
+* Lanthimos
+* Leventis
+* Liakos
+* Lias
+* Lillis
+* Loannou
+* Logo
+* Macris
+* Mallas
+* Manags
+* Manis
+* Manias
+* Manikas
+* Manolis
+* Mouskouri
+* Onassis
+* Tsitsipas
+* Tsipras
+
+== Gallery ==
+<gallery>
+File:Greece baby.jpeg|A baby born in Greece.
+</gallery>
+
+* 
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

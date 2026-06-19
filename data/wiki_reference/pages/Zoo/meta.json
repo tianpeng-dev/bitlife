@@ -1,0 +1,23 @@
+{
+  "title": "Zoo",
+  "pageid": 5180,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Zoo",
+  "categories": [
+    "BitLife",
+    "Expansion_Packs",
+    "Under_construction",
+    "Updates"
+  ],
+  "links": [
+    "Accessories",
+    "Achievements",
+    "Candywriter"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Zoo/content.html",
+    "wikitext": "pages/Zoo/content.wikitext",
+    "text": "pages/Zoo/content.txt"
+  }
+}

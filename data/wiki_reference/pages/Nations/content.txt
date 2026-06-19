@@ -1,0 +1,2271 @@
+Nations
+Launched on iOS:
+September 2018 (default)
+Nations
+are the representation of real-world nations within the game that bitizens can inhabit (not all nations are countries, some are territories, but the majority are countries). Players can
+emigrate
+to 8 nations that are randomized every time player press the "Emigrate" button in the activities.
+As of April 21, 2023, BitLife Version 3.8.7, the Golden Passport became an item available for purchase in the BitLife Marketplace, allowing players to emigrate to their country of choice via a complete selection instead of the typical randomized 8 countries.
+When a character emigrates to another nation, they can renovate but cannot use property in the former location and they may can travel to funerals and can visit people outside their country without emigrating. If a character has a lover and kids, they may vacation or emigrate with the character if they desire, with added cost for multiple people. The player also has to find a new career in the current location. If a character is on the run from
+crimes
+, the crimes will not affect their ability to find jobs, adopt, and join the military, provided that they emigrated legally. Some locations represent their local currencies such as Euros (€) and Pounds (£), but most use the standard Dollar symbol.
+Contents
+1
+All Nations
+2
+Nations Update History
+3
+Royalty
+4
+Death/estate tax
+5
+Annual Tax
+All Nations
+[
+]
+All of the world's nations currently available in BitLife.
+Nation
+Flag
+Date Added
+Currency
+Language taught
+Default cities
+School Enrollment age
+Graduation age
+Minimum age to drop out of school
+Free university?
+Minimum legal driving age
+Same-sex dating legal?
+Same-sex marriage legal?
+Changing last name after marriage permitted?
+Free healthcare?
+Gambling legal?
+Death penalty legal?
+Conjugal visits permitted?
+Commercial surrogacy legal?
+Average expected weekly work hours
+Afghanistan
+June 9, 2019
+USD ($)
+Dari (Persian) and Pashto
+Kabul
+Kandahar
+Jalalabad
+7
+19
+16
+No
+18
+No
+No
+No
+No
+No
+Yes
+No
+Yes
+40
+Algeria
+May 10, 2020
+USD ($)
+Arabic and Berber
+Algiers (El Djazaïr)
+Oran
+6
+18
+17
+No
+18
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+40
+Andorra
+July 8, 2022
+Euro (€)
+Catalan
+Andorra la Vella
+Encamp
+La Massana
+6
+18
+16
+No
+18
+Yes
+Yes
+Yes
+No
+Yes
+No
+Yes
+40
+Angola
+July 8, 2022
+USD ($)
+Portuguese
+Benguela
+Luanda
+Lubango
+6
+17
+12
+No
+18
+Yes
+No
+No
+No
+Yes
+No
+Yes
+44
+Argentina
+September 29, 2018
+USD ($)
+Spanish
+Buenos Aires
+Córdoba
+Rosario
+6
+18
+Illegal
+Yes
+17
+Yes
+Yes
+No
+No
+Yes
+No
+Yes
+Yes
+40
+Aruba
+(Netherlands)
+July 8, 2022
+USD ($)
+Dutch
+Oranjestad
+6
+17
+Illegal
+No
+18
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+No
+No
+45
+Australia
+September 29, 2018
+AUD ($)
+English
+Adelaide, SA
+Brisbane, QLD
+Canberra (ACT)
+Gold Coast, QLD
+Hobart, TAS
+Melbourne, VIC
+Newcastle, NSW
+Perth, WA
+Sydney, NSW
+Townsville, QLD
+Wollongong, NSW
+5
+18
+16
+Yes
+15
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+38
+Austria
+December 19, 2019
+Euro (€)
+German
+Salzburg
+Vienna (Wien)
+6
+18
+17
+Yes
+18
+Yes
+Yes
+No
+Yes
+Yes
+No
+Yes
+No
+36
+Bahamas
+December 19, 2019
+BSD ($)
+English
+Nassau
+5
+18
+17
+No
+17
+Yes
+Yes
+No
+No
+Yes
+Yes
+No
+Yes
+40
+Bangladesh
+May 10, 2020
+USD ($)
+Bengali
+Chittagong
+Dhaka
+Gazipur
+Khulna
+Narayanganj
+6
+18
+10
+No
+18
+No
+No
+No
+No
+No
+Yes
+Yes
+No
+48
+Belgium
+June 9, 2019
+Euro (€)
+Flemish (Dutch) and Walloon (French)
+Antwerp (Antwerpen)
+Bruges (Brugge)
+Brussels (Bruxelles)
+Ghent (Gent)
+Ostend (Oostende)
+6
+18
+Illegal
+No
+18
+Yes
+Yes
+No
+No
+No
+No
+Yes
+No
+38
+Belize
+July 8, 2022
+USD ($)
+English
+Belize City
+Belmopan
+6
+18
+14
+No
+18
+Yes
+No
+No
+Yes
+Yes
+Yes
+No
+Yes
+40
+Bolivia
+May 10, 2020
+USD ($)
+Spanish and 36 indigenous languages
+La Paz
+Sucre
+6
+18
+16
+Yes
+18
+Yes
+No
+No
+No
+Yes
+No
+Yes
+Yes
+40
+Brazil
+September 29, 2018
+USD ($)
+Portuguese
+Belo Horizonte, MG
+Brasilia (DF)
+Curitiba, PR
+Fortaleza, CE
+Goiânia, GO
+Manaus, AM
+Porto Alegre, RS
+Recife, PE
+Rio de Janeiro, RJ
+Salvador, BA
+Santos, SP
+São Paulo, SP
+6
+18
+15
+Yes
+18
+Yes
+Yes
+No
+No
+Yes
+No
+Yes
+No
+40
+Canada
+September 29, 2018
+CAD ($)
+English and French (in Québec)
+Calgary, ALTA
+Edmonton, ALTA
+Halifax, NS
+Montréal, QUE
+Ottawa, ONT
+Québec City, QUE
+Regina, SASK
+Saskatoon, SASK
+Toronto, ONT
+Vancouver, BC
+Winnipeg, MAN
+6
+18
+17
+No
+16
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+No
+38
+Chile
+September 29, 2018
+USD ($)
+Spanish
+Santiago
+Valdivia
+6
+18
+Illegal
+No
+18
+Yes
+Yes
+No
+No
+Yes
+No
+Yes
+Yes
+44
+China
+September 29, 2018
+USD ($)
+Mandarin Chinese
+Beijing
+Guangzhou
+Shanghai
+Shenzen
+Wuhan
+6
+18
+15
+No
+18
+Yes
+No
+No
+No
+Yes
+Yes
+No
+No
+44
+Colombia
+September 29, 2018
+USD ($)
+Spanish
+Barranquilla
+Bogotá
+Cali
+Medellín
+6
+17
+16
+No
+16
+Yes
+No
+No
+No
+Yes
+No
+Yes
+Yes
+44
+Costa Rica
+December 19, 2019
+USD ($)
+Spanish
+San José
+6
+18
+15
+No
+18
+Yes
+No
+No
+No
+Yes
+No
+Yes
+Yes
+48
+Croatia
+May 10, 2020
+USD ($)
+Serbo-Croatian
+Dubrovnik
+Split
+Zagreb
+6
+18
+15
+Yes
+18
+Yes
+No
+No
+No
+Yes
+No
+No
+No
+40
+Cuba
+September 29, 2018
+USD ($)
+Spanish
+Havana
+6
+18
+15
+No
+18
+Yes
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+48
+Czech Republic
+October 29, 2019
+Euro (€)
+Czech
+Brno
+Ostrava
+Prague (Praha)
+6
+19
+16
+Yes
+18
+Yes
+No
+No
+No
+Yes
+No
+Yes
+Yes
+40
+Denmark
+March 2019
+USD ($)
+Danish
+Aarhus
+Copenhagen (København)
+7
+18
+16
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+No
+Yes
+No
+36
+Djibouti
+June 9, 2019
+USD ($)
+Arabic, French and Somali
+Djibouti City
+18
+No
+No
+No
+No
+No
+Yes
+No
+Yes
+48
+Dominican Republic
+June 9, 2019
+USD ($)
+Spanish
+Puerto Plata
+Punta Cana
+Santo Domingo
+18
+15
+Yes
+18
+Yes
+No
+No
+No
+No
+No
+Yes
+Yes
+44
+DR Congo
+December 19, 2019
+USD ($)
+French and Lingala
+Kinshasa
+Lubumbashi
+Mbuji-Mayi
+18
+No
+Yes
+No
+No
+No
+Yes
+Yes
+45
+Ecuador
+October 29, 2019
+USD ($)
+Spanish
+Guayaquil
+Quito
+No
+Yes
+Yes
+No
+Yes
+No
+Yes
+40
+Egypt
+September 29, 2018
+USD ($)
+Arabic
+Alexandria (Al-Iskandariyah)
+Cairo (Al-Qāhirah)
+Giza (Al-Jīzah)
+Luxor (Al-Uqsur)
+17
+16
+Yes
+16
+No
+No
+No
+No
+Yes
+Yes
+Yes
+48
+El Salvador
+July 8, 2022
+USD ($)
+Spanish
+San Miguel
+San Salvador
+Santa Ana
+Soyapango
+18
+13
+No
+18
+Yes
+No
+Yes
+Yes
+Yes
+No
+No
+Yes
+44
+Estonia
+March 2019
+Euro (€)
+Estonian
+Tallinn
+15
+No
+Yes
+No
+No
+No
+Yes
+No
+Yes
+42
+Ethiopia
+September 29, 2018
+USD ($)
+Amharic, Oromo and Somali
+Addis Ababa (Adis Abeba)
+18
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+48
+Finland
+March 2019
+Euro (€)
+Finnish and Swedish
+Helsinki
+16
+Yes
+Yes
+No
+No
+Yes
+Yes
+No
+No
+38
+France
+September 29, 2018
+Euro (€)
+French
+Bordeaux
+Lyon
+Marseille
+Nancy
+Nantes
+Nice
+Paris
+Perpignan
+Toulouse
+18
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+No
+No
+35
+Georgia
+May 10, 2020
+USD ($)
+Georgian/Kartvelian
+Tbilisi
+18
+No
+Yes
+No
+No
+No
+No
+No
+Yes
+41
+Germany
+September 29, 2018
+Euro (€)
+German
+Berlin
+Bremen
+Cologne (Köln)
+Dortmund
+Dresden
+Düsseldorf
+Frankfurt
+Hamburg
+Hanover (Hannover)
+Leipzig
+Munich (München)
+Stuttgart
+18
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+No
+Yes
+No
+36
+Greece
+September 29, 2018
+Euro (€)
+Greek
+Athens
+Santorini (Thira)
+15
+Yes
+Yes
+No
+No
+Yes
+Yes
+No
+No
+45
+Guatemala
+July 8, 2022
+USD ($)
+Spanish
+Guatemala City
+Mixco
+Villa Nueva
+18
+12
+No
+19
+Yes
+No
+Yes
+Yes
+No
+No
+Yes
+Yes
+44
+Guyana
+July 8, 2022
+USD ($)
+English
+Georgetown
+18
+14
+No
+18
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+40
+Haiti
+July 8, 2022
+USD ($)
+French
+Carrefour Ouest
+Delmas Ouest
+Port-au-Prince
+18
+14
+No
+18
+Yes
+Yes
+No
+Yes
+No
+No
+No
+48
+Hong Kong
+(China)
+October 29, 2019
+HKD ($)
+Cantonese and Mandarin Chinese
+Hong Kong
+Kowloon
+No
+Yes
+No
+No
+Yes
+Yes
+No
+No
+48
+Hungary
+May 10, 2020
+USD ($)
+Hungarian
+Budapest
+Debrecen
+18
+16
+Yes
+17
+Yes
+No
+No
+No
+Yes
+No
+No
+No
+40
+India
+September 29, 2018
+USD ($)
+Hindi (Hindustani) and English
+Bangalore (Bengaluru)
+Chennai
+Delhi
+Hyderabad
+Jaipur
+Kolkata
+Mumbai
+Srinagar
+18
+No
+Yes
+No
+No
+No
+Yes
+Yes
+No
+48
+Indonesia
+March 2019
+USD ($)
+Indonesian (Malay), Javanese and Sundanese
+Bali (AKA Denpasar)
+Jakarta
+15
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+40
+Iran
+September 29, 2018
+USD ($)
+Farsi (Persian)
+Tehran
+16
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+44
+Iraq
+June 9, 2019
+USD ($)
+Arabic and Kurdish
+Baghdad
+Erbil (Arbīl)
+Fallujah
+Mosul (Al-Mawsil)
+Tikrit
+16
+16
+Yes
+17
+No
+No
+No
+No
+No
+Yes
+Yes
+40
+Ireland
+September 29, 2018
+Euro (€)
+English
+Cork
+Dublin
+Shannon
+18
+Illegal
+No
+Yes
+Yes
+Yes
+Yes
+No
+No
+Yes
+38
+Israel
+September 29, 2018
+USD ($)
+Hebrew and Arabic
+Bethlehem
+Jerusalem
+Tel Aviv
+18
+No
+Yes
+No
+No
+Yes
+No
+No
+Yes
+No
+42
+Italy
+September 29, 2018
+Euro (€)
+Italian
+Bologna
+Cagliari
+Catania
+Florence (Firenze)
+Genoa (Genova)
+Milan (Milano)
+Naples (Napoli)
+Palermo
+Pisa
+Rome (Roma)
+Turin (Torino)
+Venice (Venezia)
+Verona
+16
+No
+Yes
+No
+No
+Yes
+Yes
+No
+No
+38
+Jamaica
+September 29, 2018
+JMD ($)
+English
+Kingston
+Montego Bay
+18
+13
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+44
+Japan
+September 29, 2018
+USD ($)
+Japanese
+Fukuoka
+Hiroshima
+Kobe
+Kyoto
+Nagoya
+Osaka
+Tokyo
+Yokohama
+15
+16
+No
+Yes
+No
+Yes
+Yes
+No
+Yes
+Yes
+48
+Jordan
+May 10, 2020
+USD ($)
+Arabic
+Amman
+18
+No
+18
+Yes
+No
+No
+No
+No
+Yes
+Yes
+45
+Kazakhstan
+December 19, 2019
+USD ($)
+Kazakh and Russian
+Almaty
+Astana (formerly Nur-Sultan)
+Shymkent
+17
+16
+No
+18
+No
+No
+No
+No
+Yes
+Yes
+Yes
+36
+Kenya
+December 19, 2019
+USD ($)
+Swahili
+Mombasa
+Nairobi
+18
+No
+No
+No
+No
+No
+Yes
+Yes
+45
+Kuwait
+December 19, 2019
+USD ($)
+Arabic
+Al Ahmadi
+Kuwait City (Al-Kuwayt)
+No
+No
+No
+No
+Yes
+No
+Yes
+No
+Yes
+40
+Lebanon
+December 19, 2019
+USD ($)
+Arabic
+Beirut (Bayrūt)
+No
+No
+No
+No
+No
+Yes
+No
+40
+Malaysia
+October 29, 2019
+USD ($)
+Malay
+George Town
+Kuala Lumpur
+15
+Yes
+No
+No
+No
+No
+Yes
+Yes
+Yes
+48
+Mexico
+September 29, 2018
+USD ($)
+Spanish
+Cabo San Lucas, BCS
+Cancún, QTR
+Guadalajara, JAL
+Juárez, CHI
+Mazatlán, SIN
+Mexico City
+Monterrey, NLN
+Nogales, SON
+Puerto Vallarta, JAL
+Tijuana, BCF
+14
+15
+No
+18
+Yes
+No
+No
+No
+Yes
+No
+Yes
+50
+Monaco
+October 29, 2019
+USD ($)
+French
+Monaco
+Monte Carlo
+No
+Yes
+No
+No
+No
+Yes
+No
+No
+39
+Mongolia
+December 19, 2019
+USD ($)
+Mongolian
+Ulaanbataar
+18
+No
+18
+No
+No
+No
+No
+No
+No
+No
+Yes
+40
+Morocco
+October 29, 2019
+USD ($)
+Arabic and Berber
+Casablanca
+Fez (Fes)
+Marrakesh (Marrakech)
+Tangier (Tanger)
+18
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+40
+Nepal
+December 19, 2019
+USD ($)
+Nepali
+Kathmandu
+No
+No
+No
+No
+No
+No
+No
+Yes
+48
+Netherlands
+September 29, 2018
+Euro (€)
+Dutch
+Amsterdam
+Eindhoven
+Rotterdam
+The Hague (Den Haag)
+4
+18
+Yes
+Yes
+No
+No
+Yes
+Yes
+No
+No
+32
+New Zealand
+September 29, 2018
+NZD ($)
+English and Māori
+Auckland
+Wellington
+16
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+No
+No
+38
+Nicaragua
+July 8, 2022
+USD ($)
+Spanish
+León
+Managua
+Masaya
+12
+Yes
+Yes
+48
+Nigeria
+September 29, 2018
+USD ($)
+English, Hausa, Igbo and Yoruba
+Lagos
+17
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+40
+Norway
+March 2019
+USD ($)
+Norwegian
+Bergen
+Oslo
+Trondheim
+16
+Yes
+Yes
+Yes
+No
+Yes
+No
+No
+No
+38
+Pakistan
+October 29, 2019
+USD ($)
+Urdu (Hindustani), Punjabi, Pashto and Balochi
+Abbottabad
+Islamabad
+Karachi
+Lahore
+Peshawar
+18
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+No
+48
+Panama
+September 29, 2018
+USD ($)
+Spanish
+Panama City
+15
+No
+Yes
+No
+No
+No
+Yes
+No
+Yes
+42
+Papua New Guinea
+July 10, 2022
+USD ($)
+English, Tok Pisin and Hiri Motu
+Lae
+Wewak
+7
+7
+No
+No
+No
+44
+Paraguay
+July 8, 2022
+USD ($)
+Spanish and Guarani
+Asunción
+Ciudad del Este
+San Ignacio
+San Pedro
+14
+Yes
+No
+Yes
+48
+Peru
+September 29, 2018
+USD ($)
+Spanish and Quechua
+Cusco
+Lima
+Machu Picchu (Machupicchu)
+16
+No
+Yes
+No
+No
+No
+Yes
+Yes
+44
+Philippines
+September 29, 2018
+USD ($)
+Filipino (or Tagalog), Cebuano and Ilocano
+Manila
+Quezon City
+17
+Yes
+Yes
+No
+No
+No
+Yes
+No
+Yes
+48
+Poland
+June 9, 2019
+USD ($)
+Polish
+Kraków
+Poznań
+Warsaw
+17
+Yes
+Yes
+No
+No
+No
+No
+No
+No
+40
+Portugal
+March 2019
+Euro (€)
+Portuguese
+Lisbon
+Porto
+18
+No
+Yes
+Yes
+No
+Yes
+Yes
+No
+No
+40
+Puerto Rico
+(United States)
+June 9, 2019
+USD ($)
+English and Spanish
+Ponce
+San Juan
+15
+No
+Yes
+Yes
+No
+No
+Yes
+No
+Yes
+40
+Qatar
+May 10, 2020
+USD ($)
+Arabic
+Doha (Ad-Dawhah)
+18
+16
+Yes
+18
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+44
+Romania
+March 2019
+USD ($)
+Romanian
+Bucharest (București)
+Transylvania (AKA Cluj-Napoca)
+16
+Yes
+Yes
+No
+No
+No
+Yes
+No
+Yes
+40
+Russia
+September 29, 2018
+USD ($)
+Russian
+Moscow (Moskva)
+St. Petersburg (Sankt-Peterburg)
+17
+No
+Yes
+No
+No
+No
+No
+No
+Yes
+44
+Samoa
+July 8, 2022
+USD ($)
+English and Samoan
+Apia
+14
+No
+No
+No
+40
+Saudi Arabia
+September 29, 2018
+USD ($)
+Arabic
+Riyadh (Ar-Riyād)
+Mecca (Makkah)
+Jeddah (Jiddah)
+15
+Illegal
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+No
+40
+Serbia
+September 29, 2018
+USD ($)
+Serbo-Croatian
+Belgrade (Beograd)
+14
+15
+No
+Yes
+No
+No
+No
+Yes
+No
+No
+40
+Singapore
+March 2019
+SGD ($)
+Malay, Mandarin Chinese, English and Tamil
+Singapore (city-state)
+16
+Illegal
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+44
+Slovakia
+May 10, 2020
+Euro (€)
+Slovak
+Bratislava
+No
+Yes
+No
+No
+No
+No
+Yes
+40
+South Africa
+September 29, 2018
+USD ($)
+English, Afrikaans, Zulu and Xhosa
+Cape Town
+Durban
+Johannesburg
+Soweto (part of Johannesburg)
+18
+Yes
+Yes
+Yes
+No
+No
+Yes
+No
+No
+46
+South Korea
+September 29, 2018
+USD ($)
+Korean
+Busan
+Daegu
+Gangnam (part of Seoul)
+Incheon
+Seoul
+17
+No
+Yes
+No
+No
+Yes
+Yes
+Yes
+Yes
+48
+Spain
+September 29, 2018
+Euro (€)
+Spanish
+A Coruña
+Barcelona
+Bilbao
+Granada
+Madrid
+Málaga
+Palma
+Pamplona
+Pontevedra
+Rota
+San Sebastian
+Seville (Sevilla)
+Valencia
+Valladolid
+Zaragoza
+6
+16
+No
+Yes
+Yes
+No
+Yes
+Yes
+No
+No
+38
+Sweden
+September 29, 2018
+USD ($)
+Swedish
+Gothenburg (Göteborg)
+Halmstad
+Malmö
+Stockholm
+16
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+No
+Yes
+36
+Switzerland
+June 9, 2019
+USD ($)
+German, French and Italian
+Basel
+Bern
+Geneva (Genève)
+Lausanne
+Lucerne (Luzern)
+Lugano
+Zürich
+18
+Yes
+18
+Yes
+No
+No
+Yes
+Yes
+No
+No
+50
+Syria
+October 29, 2019
+USD ($)
+Arabic
+Aleppo (Halab)
+Damascus (Dimashq)
+18
+Yes
+No
+No
+No
+No
+No
+Yes
+Yes
+40
+Taiwan
+June 8, 2019
+TWD ($)
+Mandarin and Min Chinese
+Taipei
+15
+No
+Yes
+Yes
+No
+Yes
+No
+Yes
+No
+42
+Thailand
+June 9, 2019
+USD ($)
+Thai
+Bangkok (Krung Thep)
+Phuket
+18
+No
+Yes
+No
+Yes
+No
+No
+Yes
+No
+48
+Tunisia
+July 8, 2022
+USD ($)
+Arabic
+Sfax (Safāqis)
+Sousse (Sūsah)
+Tunis
+16
+No
+No
+48
+Turkey
+September 29, 2018
+USD ($)
+Turkish
+Ankara
+İstanbul
+İzmir
+17
+No
+Yes
+No
+No
+No
+No
+No
+No
+42
+Uganda
+July 8, 2022
+USD ($)
+English and Swahili
+Gulu
+Kampala
+Lira
+13
+No
+No
+48
+Ukraine
+December 19, 2019
+USD ($)
+Ukrainian
+Dnipro (Dnepropetrovsk)
+Donetsk
+Kharkiv
+Kyiv (Kiev)
+Odessa
+No
+Yes
+No
+No
+No
+No
+No
+Yes
+40
+United Arab Emirates
+June 9, 2019
+USD ($)
+Arabic
+Abu Dhabi (Abū Zaby)
+Dubai (Dubayy)
+17
+No
+No
+No
+No
+Yes
+No
+Yes
+No
+48
+United Kingdom
+September 29, 2018
+GBP (£)
+English
+Aberdeen, SCO
+Belfast, NIR
+Birmingham, ENG
+Blackpool, ENG
+Brighton (and Hove), ENG
+Bristol, ENG
+Cambridge, ENG
+Cardiff, WAL
+Edinburgh, SCO
+Glasgow, SCO
+Hull (Kingston upon Hull), ENG
+Ipswich, ENG
+Leeds, ENG
+Leicester, ENG
+Liverpool, ENG
+London, ENG
+Manchester, ENG
+Milton Keynes, ENG
+Newcastle (upon Tyne), ENG
+Norwich, ENG
+Nottingham, ENG
+Oxford, ENG
+Sheffield, ENG
+Southampton, ENG
+Staines (upon Thames), ENG
+Sunderland, ENG
+Swansea, WAL
+Wolverhampton, ENG
+5
+18
+Illegal
+No
+17
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+No
+38
+United States of America
+September 29, 2018
+USD ($)
+English
+Anchorage, AK
+Atlanta, GA
+Austin, TX
+Baltimore, MD
+Biloxi, MS
+Boston, MA
+Brooklyn (part of New York), NY
+Buffalo, NY
+Charleston, SC
+Charlotte, NC
+Chattanooga, TN
+Chicago, IL
+Cincinnati, OH
+Cleveland, OH
+Columbus, OH
+Compton, CA
+Dallas, TX
+Denver, CO
+Detroit, MI
+Fargo, ND
+Hartford, CT
+Honolulu, HI
+Houston, TX
+Indianapolis, IN
+Jacksonville, FL*
+Kansas City, MO
+Las Vegas, NV
+Little Rock, AR
+Los Angeles, CA
+Memphis, TN
+Miami, FL
+Milwaukee, WI
+Minneapolis, MN
+Nashville, TN
+New Orleans, LA
+New York, NY
+Newark, NJ
+Oakland, CA
+Oklahoma City, OK
+Orlando, FL
+Philadelphia, PA
+Phoenix, AZ
+Pittsburgh, PA
+Portland, OR
+Raleigh, NC
+Sacramento, CA
+Salt Lake City, UT
+San Antonio, TX
+San Diego, CA
+San Francisco, CA
+San Jose, CA
+Scranton, PA*
+Seattle, WA
+St. Louis, MO
+Tampa, FL
+Tucson, AZ
+Washington D.C.
+Wichita, KS
+5
+18
+16
+No
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+40
+Uruguay
+June 9, 2019
+USD ($)
+Spanish
+Montevideo
+Punta Del Este
+Salto
+16
+No
+Yes
+Yes
+No
+No
+No
+No
+No
+48
+Venezuela
+September 29, 2018
+USD ($)
+Spanish
+Caracas
+18
+Yes
+18
+Yes
+No
+No
+No
+Yes
+No
+Yes
+44
+Vietnam
+December 19, 2019
+USD ($)
+Vietnamese
+Biên Hòa
+Cần Thơ
+Da Nang
+Hải Phòng
+Hanoi
+Ho Chi Minh City (Saigon)
+18
+12
+No
+18
+Yes
+No
+No
+No
+No
+Yes
+No
+47
+Zimbabwe
+May 10, 2020
+USD ($)
+English and Shona
+Harare
+17
+16
+No
+16
+No
+No
+No
+No
+Yes
+Yes
+Yes
+40
+Nations Update History
+[
+]
+On September 29, 2018, the game was launched. The original countries are: Argentina, Australia, Brazil, Canada, Chile, China, Colombia, Cuba, Egypt, Ethiopia, France, Germany, Greece, India, Iran, Ireland, Israel, Italy, Jamaica, Japan, Mexico, Netherlands, New Zealand, Nigeria, Panama, Peru, Philippines, Russia, Saudi Arabia, Serbia, South Africa, South Korea, Spain, Sweden, Turkey, United Kingdom, United States, and Venezuela.
+On March 2019, BitLife released the following countries: Denmark, Estonia, Finland, Indonesia, Norway, Portugal, Romania, and Singapore. 8 more countries are counted.
+On June 9, 2019, BitLife released the following countries: Afghanistan, Belgium, Djibouti, Dominican Republic, Iraq, Poland, Puerto Rico, Switzerland, Taiwan, Thailand, United Arab Emirates, and Uruguay. 12 more countries are counted.
+On October 29, 2019, BitLife released the following countries: Czech Republic, Ecuador, Hong Kong, Malaysia, Monaco, Morocco, Pakistan, & Syria. 8 more countries are counted.
+On December 19, 2019, BitLife released the following countries: Austria, Bahamas, Costa Rica, DR Congo, Kazakhstan, Kenya, Kuwait, Lebanon, Mongolia, Nepal, Ukraine, and Vietnam. 12 more countries are counted.
+On May 10, 2020, BitLife released the following countries: Algeria, Bangladesh, Bolivia, Croatia, Georgia, Hungary, Jordan, Qatar, Slovakia, and Zimbabwe. 10 more countries are counted.
+On July 8, 2022, BitLife released the following countries: Andorra, Angola, Aruba, Belize, El Salvador, Guatemala, Guyana, Haiti, Nicaragua, Papua New Guinea, Paraguay, Samoa, Tunisia, and Uganda. 14 more countries are counted.
+Royalty
+[
+]
+Some countries have kings/queens, dukes/duchesses, emperors/empresses, etc. If you have
+God Mode
+, you can choose to be born into royalty. If you do not own God Mode, you can still marry into royalty, or very rarely, be born into it.
+Countries with royalty include:
+Belgium
+Denmark
+Japan
+Jordan
+Kuwait
+Malaysia
+Morocco
+Netherlands
+Norway
+Qatar
+Saudi Arabia
+Spain
+Sweden
+Thailand
+United Arab Emirates
+United Kingdom
+Death/estate tax
+[
+]
+Death/estate tax is where, when you move on to a new generation, your previous generation's money is taxed. This means that if you leave 100,000 to your child, then you become your child, you will not be given the full 100,000. This tax can be irritating, particularly for players attempting to get high wealth achievements.
+Countries without death/estate tax*:
+Australia (also has highest currency worth)
+Austria
+Bahamas
+Canada
+China
+Czech Republic
+Estonia
+Hong Kong
+Hungary
+India
+Israel
+Mexico
+New Zealand
+Norway
+Portugal
+Romania
+Russia
+Singapore
+Slovakia
+Sweden
+United Arab Emirates
+This information is both from players as well as legal facts, as Bitlife follows real-world country guidelines. However, Bitlife might not be up-to-date or may have changed the taxes.
+Annual Tax
+[
+]
+In Bitlife, you might have noticed that your player character doesn't take home the full salary that they earn. A portion of it goes to taxes (alongside other expenses).
+Use this guide to check out the tax rate for each individual country:
+https://tradingeconomics.com/country-list/personal-income-tax-rate
+Use this guide to check out the salary averages for each nation:
+https://www.reddit.com/r/bitlife/comments/hg4x3n/death_taxes_and_fortune_management_guide/
+Nations
+North America
+Aruba
+•
+Bahamas
+•
+Belize
+•
+Canada
+•
+Costa Rica
+•
+Cuba
+•
+Dominican Republic
+•
+El Salvador
+•
+Guatemala
+•
+Haiti
+•
+Jamaica
+•
+Mexico
+•
+Nicaragua
+•
+Panama
+•
+Puerto Rico
+•
+United States
+South America
+Argentina
+•
+Bolivia
+•
+Brazil
+•
+Chile
+•
+Colombia
+•
+Ecuador
+•
+Guyana
+•
+Paraguay
+•
+Peru
+•
+Uruguay
+•
+Venezuela
+Europe
+Andorra
+•
+Austria
+•
+Belgium
+•
+Croatia
+•
+Czech Republic
+•
+Denmark
+•
+Estonia
+•
+Finland
+•
+France
+•
+Germany
+•
+Greece
+•
+Hungary
+•
+Ireland
+•
+Italy
+•
+Monaco
+•
+Netherlands
+•
+Norway
+•
+Poland
+•
+Portugal
+•
+Romania
+•
+Russia
+•
+Serbia
+•
+Slovakia
+•
+Spain
+•
+Sweden
+•
+Switzerland
+•
+Ukraine
+•
+United Kingdom
+Africa
+Algeria
+•
+Angola
+•
+Djibouti
+•
+DR Congo
+•
+Egypt
+•
+Ethiopia
+•
+Kenya
+•
+Morocco
+•
+Nigeria
+•
+South Africa
+•
+Tunisia
+•
+Uganda
+•
+Zimbabwe
+Middle-East
+Georgia
+•
+Iran
+•
+Iraq
+•
+Israel
+•
+Jordan
+•
+Kuwait
+•
+Lebanon
+•
+Qatar
+•
+Saudi Arabia
+•
+Syria
+•
+Turkey
+•
+United Arab Emirates
+Asia
+Afghanistan
+•
+Bangladesh
+•
+China
+•
+Hong Kong
+•
+India
+•
+Indonesia
+•
+Japan
+•
+Kazakhstan
+•
+Malaysia
+•
+Mongolia
+•
+Nepal
+•
+Pakistan
+•
+Philippines
+•
+Singapore
+•
+South Korea
+•
+Thailand
+•
+Taiwan
+•
+Vietnam
+Oceania
+Australia
+•
+Papua New Guinea
+•
+New Zealand
+•
+Samoa
+View
+•
+Edit

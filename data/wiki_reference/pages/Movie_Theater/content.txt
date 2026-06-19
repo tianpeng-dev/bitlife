@@ -1,0 +1,418 @@
+Movie Theatre
+Launched on iOS:
+September 2018 (default)
+Launched on Android:
+February 2019 (default)
+Movie Theater
+is an activity in BitLife. You can go to the movies with someone, or by yourself. In "
+Activities
+", there is an option for "Movie Theater" and adult characters can watch a comedy movie or a documentary movie on iOS or a random movie on Android. Comedy movies boost happiness on iOS and documentary movies boost smarts. There are different types of movie genres on Android and they all will boost
+Happiness
+. Child characters will watch Family movies only.
+As a child,
+friends and cool kids may ask your character to watch a movie with them and your character may accept or decline.
+Custom
+characters' names may appear in movie titles.
+If you choose to go to the movie theater with someone else, it will boost your relationship with them regardless of how you both enjoyed the movie. A person with a low relationship will not want to go to the theater with your character. A player who is not a Bitizen will have to watch an ad to use the Movie Theater. Your character may only attend one movie with a family member or lover per year. The
+Movie Buff
+ribbon is available to
+iOS
+players who watch many movies, both alone and with other people.
+List of Movie Titles
+[
+]
+Note: This section is Under Construction and some of the titles may be incorrect.
+Genre
+Titles
+Action
+Cock of the Walk
+Action
+Endangerment
+Action
+Savage [First Name]
+Action
+Shook
+Adventure
+A Sailor's Warning
+Adventure
+Idaho [Last Name] and the Pyramid of Death
+Adventure
+Kill Skater
+Adventure
+Max's Rainbow Adventure
+Adventure
+Rebel of the East
+Adventure
+Set Sail on the Santa Maria
+Adventure
+Snake of Hope
+Adventure
+Strangers and Slaves
+Adventure
+Wife of the Eclipse
+Adventure
+Witches of Wood
+Adventure
+Woman Without Honor
+Adventure
+[Name]'s Journey to the Bottom of the Sea
+Childrens
+A Day in the Park
+Childrens
+Angels in the Penalty Box
+Childrens
+Braceface
+Childrens
+Dinosaur Bones in My Backyard
+Childrens
+Lil' Hallie
+Childrens
+Maria's Travels
+Childrens
+My Dog's a Scaredy-Cat
+Childrens
+My Elephant
+Childrens
+My Nerdy Life
+Childrens
+Overcast with a Chance of Meatloaf
+Childrens
+Perry Goes to the School Dance
+Childrens
+Plum's Dragon
+Childrens
+Prepubescent Deformed Kung-Fu Tortoises
+Childrens
+Stairway to the Stars
+Childrens
+The Goobers
+Childrens
+The Muscular Merman
+Childrens
+The Secret Elevator in my Closet
+Childrens
+Velma and the Bamboo Stalk
+Childrens
+Frosty Pearl and the Eight Midgets
+Childrens
+Weird Wednesday
+Childrens
+[First Name], the Boy Wonder
+Childrens
+[Name]'s Unicorn
+Comedy
+A Bunch of Malarkey
+Comedy
+A Doozy in Djibouti
+Comedy
+A Fish Called [First Name]
+Comedy
+Angina is Wack!
+Comedy
+Basic [First Name]
+Comedy
+Brouhaha
+Comedy
+Cattywampus
+Comedy
+Coming to Zamunda
+Comedy
+Derailed
+Comedy
+Ding, Dong, Ditch
+Comedy
+Grandpa's Unfiltered Opinion
+Comedy
+Happy Ending: Grandpa's Final Wish
+Comedy
+Honey Badger Don't Give a Rip
+Comedy
+Kung Fu Tofu
+Comedy
+Life of [First Name]
+Comedy
+Mr. [Last Name] Goes to Philadelphia
+Comedy
+My 7th Proposal
+Comedy
+My Grandma's a Swinger
+Comedy
+My Plumber Lays Some Pipe
+Comedy
+On My Block
+Comedy
+Peter Poonhound
+Comedy
+School of Rap
+Comedy
+Sweat Soup
+Comedy
+The Foot Job: One Step at a Time
+Comedy
+The Jerk: Offhand Adventures
+Comedy
+The Long Shot
+Comedy
+There's Something About [First Name]
+Comedy
+Thick and Sick
+Comedy
+Witch Please!
+Comedy
+[First Name] the Zombie Slayer
+Comedy
+[First Name]'s Underwear Drawer
+Comedy
+[Name] Relocates to Rural Florida
+Comedy
+[First Name]'s Chastity Belt
+Documentary
+A History Of Badminton
+Documentary
+A Practical Penis: Circumcision in the 21st Century
+Documentary
+Espumita: The Miracle of Cuban Coffee
+Documentary
+Fisted Foul: The Risks of Being a Baseball Fan
+Documentary
+Forgive Me Father: The Dark Side of Mother Teresa
+Documentary
+Happy Little Trees: The Legend of Bob Ross
+Documentary
+Hold Up!: An Insight into Transvaginal Mesh Implants
+Documentary
+I Love Math: Canada's Best Mathematicians
+Documentary
+Politicians Without Limits
+Documentary
+Sea Puss: What Lies Beneath
+Documentary
+Serving Aces: Jimmy Butler's Journey to Wimbledon
+Documentary
+So You Like Wearing Pantyhose: A Confession of a Crossdresser
+Documentary
+The Baby & The Bathwater: A Cam Girl's Newest Business Venture
+Documentary
+The Choke's on You: The Truth About Autoerotic Asphyxiation
+Documentary
+The Oral Office: Conversations in the White House
+Documentary
+The Other Web: The Truth About the Dark Net
+Documentary
+The Real Working Men of Orange County
+Documentary
+This Stinks: A Woman's Battle with Bacterial Vaginosis
+Documentary
+To Cut or Not to Cut: A New Parent's First Question
+Documentary
+Vultures of Time
+Documentary
+Who's Eating What: Why People Post Food Pics on Instagram
+Documentary
+[First Name]'s Tricks: A Day in the Life of a Call Girl
+Documentary
+[First Name] [Last Name]'s Addiction to BitLife
+Drama
+Blacksmith of the South
+Drama
+Citizen Reynolds-Fox
+Drama
+Good [Name]
+Drama
+Heir Without Fear
+Drama
+Lavender Fields
+Drama
+Life After Menopause for [First Name]
+Drama
+Saving Private Blunt
+Drama
+The Godmother
+Drama
+The Curious Case of Poppy Hill
+Fantasy
+Atop the Beanstalk
+Fantasy
+Fantastic Dreams of [Name]
+Fantasy
+Into the Unknown
+Fantasy
+Meet You on the Moon
+Fantasy
+The Clairvoyant of Chattanooga
+Fantasy
+[First Name]'s Labyrinth
+Fantasy
+[First Name]'s Big Fantasy
+Horror
+A Dull Blade
+Horror
+Alejandro's Axe
+Horror
+Apprehension
+Horror
+Man in the Forest
+Horror
+Paranormal Problems
+Horror
+The Depths of Despair
+Horror
+The Devil's in the Details
+Horror
+Under the Knife with Dr. Gravesend
+Horror
+Waiting for Sunrise
+Horror
+Your Grandmother's Attic
+Horror
+You've Been Warned
+Horror
+[First Name]'s Nightmare
+Indie
+Millennial Man
+Indie
+My Budding Flower
+Indie
+My Sister's Skinny Jeans
+Indie
+Spilling the Tea
+Indie
+Who's Salty?
+Musical
+Fiddler in the Attic
+Musical
+Franklin
+Musical
+Ghost in the Concert Hall
+Musical
+Shop Full of Fright
+Musical
+Singing in the Snow
+Mystery
+Dinner at the Haunted Mansion
+Mystery
+Get a Clue!
+Mystery
+I'm Dead!
+Mystery
+The Man Who Ghosted Me
+Mystery
+Who's Inside Me?
+Romantic Comedy
+69 Things I Love About You
+Romantic Comedy
+Bounce with my Bae
+Romantic Comedy
+Breakfast at [First Name]'s
+Romantic Comedy
+Duke with Funny Socks
+Romantic Comedy
+Engaged AF
+Romantic Comedy
+Forgetting [Name]
+Romantic Comedy
+Girlfriend of my Imagination
+Romantic Comedy
+I Can't Even!
+Romantic Comedy
+I Fell for a Mortician
+Romantic Comedy
+[First Name]'s 37th Lover
+Romantic Comedy
+Mom Meets My Boyfriends
+Romantic Comedy
+My Best Friend's Funeral
+Romantic Comedy
+Netflix and Chill
+Romantic Comedy
+Pretty Prostitute
+Romantic Comedy
+Ratchet [First Name]
+Romantic Comedy
+Sorry Not Sorry
+Romantic Comedy
+The Big Shtick
+Romantic Comedy
+When Harry Met [First Name]
+Romantic Comedy
+[Name]'s Diary
+Romantic Comedy
+[First Name] Finds Love on a Hot Summer Night in Bangkok
+Science Fiction
+Cryostasis
+Science Fiction
+Dr. [Last Name]
+Science Fiction
+Enter into the Dark Net
+Science Fiction
+Robot of Darkness
+Science Fiction
+Volunteer of the New World
+Science Fiction
+[First Name]'s Computer Takes Over
+Sports
+Backdoor Sliders
+Sports
+Bang-Bang Play
+Sports
+Big Ball-Handler 2
+Sports
+Bill's Big League Breaststroke
+Sports
+Bump and Run
+Sports
+Going Deep
+Sports
+Hitting the Hole
+Sports
+Illegal Use of Hands
+Sports
+Playing for Both Teams
+Sports
+Rising to the Occasion
+Sports
+Sammy Splits the Uprights
+Sports
+Smooth Stroke: Putting form the Rough
+Sports
+That's My Tight End
+Sports
+The Switch Hitter
+Thriller
+Duchess of the Ocean
+Thriller
+Hunter of the Nether
+Thriller
+Mr. Craig Goes Postal
+Thriller
+The Campfire
+Thriller
+The River Styx
+Thriller
+The Talented Mr. [Last Name]
+Thriller
+We're Watching You
+Thriller
+What Sits Upon the Top Floor
+Thriller
+[First Name]'s Stalker
+War
+Bombs over Bangkok
+War
+Hardened Harry
+War
+Loud as Hell on the Eastern Front
+War
+Solid as a Rock
+War
+The Last Battle
+Western
+Arrowhead
+Western
+Gravestone
+Western
+Hung at High Noon
+Western
+The Superior Six
+Western
+Uncle Outlaw

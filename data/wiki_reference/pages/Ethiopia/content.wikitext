@@ -1,0 +1,18 @@
+{{Infobox country
+|title1=Ethiopia
+|image1=[[File:Ethiopia.png]]
+|caption1=Ethiopia's flag.
+|country_name=Ethiopia
+|number_of_default_cities=1
+|when_was_it_added_to_ios=September 2018 (default)
+}}
+'''Ethiopia''' is an original [[Nations|country]] that was on BitLife in September 2018. Its only default city is the capital, Addis Ababa.
+
+== Gallery ==
+<gallery>
+File:Ethiopia baby.jpeg|A baby born in Ethiopia.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

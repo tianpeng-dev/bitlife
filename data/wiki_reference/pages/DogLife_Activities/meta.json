@@ -1,0 +1,31 @@
+{
+  "title": "DogLife/Activities",
+  "pageid": 3923,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/DogLife%2FActivities",
+  "categories": [
+    "DogLife",
+    "DogLife/Activities",
+    "Under_construction"
+  ],
+  "links": [
+    "DogLife/Act Up",
+    "DogLife/Attention",
+    "DogLife/Escape",
+    "DogLife/Play",
+    "DogLife/Riot",
+    "DogLife/Scavenge",
+    "DogLife/Scents",
+    "DogLife/Sewer",
+    "DogLife/Time Machine",
+    "DogLife/Tricks",
+    "DogLife/Wander",
+    "DogLife/Witch Doctor"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/DogLife_Activities/content.html",
+    "wikitext": "pages/DogLife_Activities/content.wikitext",
+    "text": "pages/DogLife_Activities/content.txt"
+  }
+}

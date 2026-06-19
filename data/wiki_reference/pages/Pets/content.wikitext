@@ -1,0 +1,190 @@
+{{Infobox BitLifeApp
+|title1 = Pets
+|image1 = 
+|launched_on_ios: = March 2019
+|launched_on_android: = April 2019
+}}
+'''Pets''' are animal companions in BitLife added in March 2019 as an update. Pets have five [[Stats]]; their relationship, their health, their happiness, their smarts and their craziness. When buying a pet, these stats are known before purchasing. The pet will have a name of its own but can also be renamed if the player chooses to do so. However, if a parent buys a pet the name will not be changed. When a player has a scenario where they meet an animal and successfully make it their pet, the pet will be unnamed and the character must name it before continuing. If [[Relationships|parents]] want to buy them a pet or if they get a pet through [[Notifications|notifications]], the pet will be pre-named and unable to change. Characters must be 15 or older to have their own pets without asking permission and choosing their own name and must be at least 6 with permission. Exotic pets, horses, and llamas are exclusive to adults (18+). If your character fails to adopt a pet, they will reject your character from trying to adopt a pet. Here are the followings:
+
+* '''Failed Interview''': Taking your pet back to shelter (you will banned from adopting), you can also have this message even if you never taking your pet back to shelter, usually depending of your ''smarts'' and ''looks'' or while having exotic pets.
+* '''Age''': When your character is under 18 years old (unless asking parents to buy a pet).
+* '''Criminal Record''': Committing a crime (you will be banned for adopting unless you emigrate to another country).
+* '''Finances''': Being unemployed or insufficient funds to pay a monthly payment.
+* '''Unspecified''': Usually meaning that you have too many pets.
+
+== Pets ==
+[[File:Pet Interactions.png|thumb|351x351px|Pet Interactions]]
+Pets can misbehave, much like children. A character can ignore the behaviour, yell at a pet, train the pet not to do the action, or reward the pet. Pets can be bathed (depending on pet), released, sold, or walked (depending on pet). You can also spend time with a pet, give them a treat, or take them to the vet. If a pet starts acting unusual, this could indicate that they need to go to the vet. Even if the condition isn't cured by a vet, sometimes conditions can go away on their own and it will say that the pet is happier or more active. Hamsters and fish live the shortest lives and birds live the longest. Sometimes larger and crazier pets could kill smaller and saner pets. Pet stores and shelters may reject a request to get a pet if your character has an aggressive exotic pet and [[Emigration|emigrating]] to another country is not allowed if the character possesses a giant exotic pet. While exotic pets may only be purchased by adult characters, if the adult dies and the generation legacy is passed to a juvenile, that juvenile can still keep the pet. The ''Cat Lady'' ribbon can be earned if the character is female, unmarried, and has many cats throughout her lifetime.
+
+Take a pet back to the shelter (even one) will permanently disallow the player to adopt a pet, if the player tried to adopt another pet, shelter/pet store will rejected as a ''Failed Interview'', while having bad stats even if the player never put his pet back to shelter will also have this message. Yell or ignore a pet after he killed another pet or put down (euthanize) a pet with high pain or rabies will still allow the player of adopting other pets anyways.
+
+The ''Tarzan'' ribbon can be earned if your character owns many exotic pets throughout his (only works with males) lifetime.
+
+== Types of Pets ==
+=== Dogs (Domestic) ===
+Dog breeds available from breeders alternate by year because there are so many, as opposed to the few cat breeds, which are stagnant.
+
+* Mutt 
+* Akita
+* Alaskan Malamute
+* Australian Cattle Dog
+* Australian Shepherd
+* Basset Hound
+* Beagle
+* Bernese Mountain Dog
+* Bichon Frise
+* Bloodhound
+* Bluetick Coonhound
+* Border Collie
+* Boston Terrier
+* Boxer
+* Bull Terrier
+* Bulldog
+* Cairn Terrier
+* Cavalier King Charles Spaniel
+* Chihuahua
+* Chow Chow
+* Cocker Spaniel
+* Dachshund
+* Dalmatian
+* Doberman Pinscher
+* French Bulldog
+* German Shepherd
+* Golden Retriever
+* Great Dane
+* Great Pyrenees
+* Greyhound
+* Havanese
+* Irish Sette
+* Jack Russell Terrier
+* Labrador Retriever
+* Lhasa Apso
+* Maltese
+* Mastiff
+* Miniature Pinscher
+* Newfoundland Dog
+* Papillon
+* Pekingese
+* Pit Bull
+* Pointer
+* Pomeranian
+* Poodle
+* Pug
+* Rhodesian Ridgeback
+* Rottweiler
+* Saint Bernard
+* Schnauzer
+* Shar-Pei
+* Shetland Sheepdog
+* Shiba Inu
+* Shih Tzu
+* Siberian Husky
+* Staffordshire Bull Terrier
+*Thai Ridgeback
+* Toy Poodle
+* Vizsla
+* Weimaraner
+* Welsh Corgi
+* West Highland Terrier
+* Whippet
+* Yorkshire Terrier
+
+
+===Cats (Domestic)===
+Whereas dogs of ambiguous heritage are only classed as mutts, cats have several types of non-purebred types. Sphynx cats can also be sold as exotic pets. 
+
+*Alley Cat
+*Calico Cat
+*House Cat
+*Tabby Cat
+*Abyssinian Cat
+*American Shorthair Cat
+*Bengal Cat
+*Birman Cat
+*Chartreux Cat
+*Himalayan Cat
+*Maine Coon Cat
+*Persian Cat
+*Ragdoll Cat
+*Savannah Cat
+*Siamese Cat
+*Sphynx Cat (also sold as exotic)
+
+===Llamas===
+In South America, llamas are available for your farms rather than horses. 
+
+*Alpaca
+*Llama
+
+===Horses=== 
+*American Quarter Horse
+*Appaloosa Horse
+*Arabian Horse
+*Pony
+*Thoroughbred Horse
+*Unicorn (very rare and only obtained through an encounter in the wild)
+
+===Birds=== 
+*Canary
+*Cockatiel
+*Cockatoo
+*Finch
+*Lovebird
+*Macaw (exotic)
+*Parakeet
+*Parrot (can be sold as exotic animal)
+
+===Fish=== 
+*Betta Fish
+*Goldfish
+
+===Rodents===
+Rabbits are not classified as rodents in-game, but for convenience will be listed as rodents here. 
+
+*Gerbil
+*Guinea Pig
+*Hamster
+*Rabbit
+*Rat
+
+===Reptiles===
+In-game, reptiles are divided into all snake species and turtles. For convenience, turtles are listed with the snakes. 
+
+*Ball Python
+*Boa Constrictor (exotic)
+*Burmese Python (exotic)
+*California Kingsnake
+*Carpet Python
+*Corn Snake
+*Garter Snake
+*Gopher Snake
+*Green Tree Python
+*Turtle
+
+===Exotic Animals=== 
+*Bengal Tiger (Big Cat)
+*Black Panther (Big Cat)
+*Bobcat (Cat)
+*Chimpanzee (Primate)
+*Coyote (Dog)
+*Dingo (Dog)
+*Gorilla (Primate)
+*Jaguar (Big Cat)
+*Leopard (Big Cat)
+*Lion (Big Cat)
+*Macaque (Primate)
+*Mountain Lion (Big Cat)
+*Squirrel Monkey (Primate)
+*Wildcat (Cat)
+*Wolf (Dog)
+
+==Escaping from home==
+Sometimes a pet will escape from home! Your character can look for them everywhere or wait for them to get back. If a character waits for them to get back, the pet very rarely comes back so it is not recommended. In the latest update, a character waits to come back, then the stranger will return the pet. If your character looks for them everywhere, the results will vary. Pets can be found safe or could be [[Death/Pets|found dead]], or sometimes not found at all. If the pet cannot be found after looking, sometimes a neighbour will come and bring the pet back. If the pet is never seen again, they will disappear from the character's [[Relationships]]. Yorkshire Terriers can be a very high chance of escaping. There is also a rare chance someone will kidnap your pet giving you an option to give $20,000 or call the police and there's a small chance you can get it back.
+
+==Ways to obtain pets== 
+*[[Shopping|Shop]] for pets.
+*[[Encounter/Animal|Scenarios]] where a character will find a random pet and make it theirs if they choose to do so.
+*[[Notifications]], if a player turns them on, it will sometimes notify a pet scratching at their door. If the player clicks on the app within an hour of the notification, they will have the pet. If they do not respond soon enough, the pet will run away and they won't get to keep it.
+*Offers from parents, when they ask if you'd like a certain pet.
+[[Category:BitLife]]
+[[Category:Updates]]

@@ -1,0 +1,1512 @@
+This page is under re-construction
+Relationships
+Launched on iOS:
+September 2018 (default)
+Launched on Android:
+February 2019 (default)
+Relationships
+are an important mechanic in
+BitLife
+. It ranges from various family members, lovers and exes, and friends, to coworkers and classmates. Each character having a relationship with the main character will have their name displayed in list, with their role shown beside in parentheses.
+Relationship stats varying in different levels.
+Under each names are bars which show how good the main character's relationship with them is. Options are based on the relationships' level: If their relationship is low, characters are less likely to respond positively to conversations, compliments, and gifts, and are more likely to insult, argue with, or assault the main character. Relationship stats also help achieving certain
+Ribbons
+. The
+Family Guy
+ribbon can be given to a married male or transgender male character who is a father and devotes his life to making his family happy. The
+Fertile
+ribbon can be given to a character who has at least 6 biological children. The
+Mooch
+ribbon can be given to someone who constantly asks family for money, even after they refuse.
+The relationship bar will go down as the character
+ages up
+, so it is best to constantly keep in touch with others. Depending on the action performed, the relationship will either increase or decrease.
+An example of friends.
+Parents
+Step Parents
+Siblings
+Step Siblings
+Step Children
+Lover
+Children
+Exes
+Grandchildren
+Friends
+Nieces & Nephews
+Pets
+Late Relatives
+Late Pets
+An example of parents.
+Parents
+are the main character's mother and father. They are the characters who will be introduced first when the player starts a new life. Their ages and conception method will be noted. From the October 2019 update, characters may be adopted with a reason why their birth parents could not keep them.
+Depending on the conception method, the main character's father may be unknown. In such cases, they will only have a mother.
+Options
+[
+]
+An example of other step parents.
+Step Parents
+are the main character's step father and step mother. The main character will have them if they were adopted or if one of their parents remarries.
+An example of siblings.
+If your character has any older
+Siblings
+(including half siblings), their names and ages will be mentioned at the start of your character's life. When your character ages up, there is a chance your character's parents will have a baby. A half sibling's profile will say their other parent's name. There is also a chance to be born as a twin.
+Options
+[
+]
+Rumble
+- Your character will attack your sibling. If you are over 18 and your sibling is under 18 or vice versa, you cannot rumble due to the laws. However, you may still rumble if your sibling squabbles and you choose to rumble with them.
+Squabble
+Your character will argue with your sibling. Unlike rumbling, you can squabble if you are over 18 and your sibling is under 18 or vice versa.
+Step Siblings
+are the children that the step parents had with the previous spouse. If they were born after the remarriage, they are instead considered half-siblings.
+Step Children
+are the children of a lover that they have before (or sometimes while) dating the main character. While children of a lover are stated in their profile, they do not become step-children until marriage. If divorcing a spouse, the step-children will no longer be in your Relationships and will no longer be step-children. If a spouse dies, they will still be the main character's step-children. When a character has step-children, their order on the children list will be based on when they became step-children, regardless of whether they are older or younger than any biological children. If your character dies or you want to switch lives, your stepchildren can be a viable option just like biological children.
+An example of a lover.
+A
+Lover
+is the person who the main character is dating, engaged, or
+married
+to. You may only have one lover at a time but you could cheat on them with a hook-up and they could cheat on you. They will argue with you at times if you do something that harms the relationship, or could do it out of their own cattiness. Your character may either apologize or argue back to their lover. Lovers may argue with you for any of the following:
+You cheated on them via a hook-up.
+You accused them of cheating on you.
+You had/fathered a baby with a hook-up or with an ex-lover.
+You got off your birth control (Female only).
+You refused to go on birth control (Female only) or you asked them to go on birth control and they refused.
+You become/used a sperm donor.
+You pursued a surrogate against their will.
+You gave them an STD.
+You tried to make them sign a prenup but they refused.
+You tried to get them to have a threesome but they refused.
+You proposed with a fake ring.
+You lost too much money at the
+casino
+or at the horse races.
+You gave away a lot of money to another family member.
+You abandoned or put your child up for adoption.
+They do not approve of your pet or exotic animal because they were scared of it.
+You sold your pet or exotic animal.
+You released your pet or exotic animal.
+They were attacked by your pet/exotic animal.
+You sold the house they had after marrying them.
+You received a gift from an ex.
+You gave a gift to an ex.
+An ex filed a restraining order against you.
+You gave them a gift they don't like.
+You were fired from your
+job
+.
+You were dishonorably discharged from the military.
+While
+famous,
+you appeared nude or topless in a magazine cover.
+You refused to give up your virginity to them.
+Not using their surname for your child. (Female only)
+You tried to make them go to relationship counseling but they refused.
+You abdicated or got exiled from royalty.
+Options
+[
+]
+Birth Control (only if your partner is female)
+- Your character will ask their partner to go on birth control or stop taking it. They may agree or refuse. You or your partner must be at least 14 years old to go on birth control.
+Break Up/Divorce
+- Your character will break up (if unmarried) or divorce (if married) with their partner. When divorcing, you will be told how much to pay or collect if you or your spouse owes money. Sometimes you may be told there is no amount to settle the divorce if you have a prenup signed or if you decide not to bother with a prenup because the partner refused to sign it.
+"'Counseling Office"' - Your character will ask the partner to go to the counseling office. The partner may agree or refuse. The former choice is usually more affective than the latter and if the partner refuses to go, there is a chance you two may get into an argument.
+Make Love
+- Your character will make love with their partner. Otherwise, they may refuse. Sometimes, the female partner will get pregnant. This can be prevented with Birth Control. In Android, this option was previously called called
+Baby
+and its purpose was just to have a baby with the partner and had no minimum age requirement. It was replaced with making love in March 2020. In all countries, the minimum age for making love is 16. You cannot make love if you/your partner is 16 but you/your partner are not 16 yet. Following the November 2019 update, your partner may wish to save their virginity for marriage and you can decide can respect that, argue with them, propose to them, or decide that that is your wish too.
+Propose
+- Your character will propose to your partner. They may reject or accept the proposal. If accepted, you will be engaged. If rejected, your lover's relationship will go down. Otherwise, your character's partner might propose to you, with the option to accept or reject the proposal. Following the March 2020 update, partners may now propose with rings. Previously, there was a bug where you could buy a ring as young as 10 by clicking on "Go ring shopping first", but it was later fixed. Same-sex couples may get engaged in countries where same-sex marriage is illegal, but they may not marry.
+Cancel Engagement
+- Your character will call off their engagement with a partner. This may happen also if you try to make them sign a prenup but they refused.
+Wedding
+- Your character will plan their wedding with their partner. You must be engaged and at least 18 in order to get married (If you click the "Wedding" button if under 18, it will say "Eager beaver. You are not old enough to get married."). If you are in a same-sex relationship, you can marry your partner in countries where it is legal (If you attempt to do so where it is illegal it says "You are not allowed to marry your fiancé(e), (Name). Same-sex marriage is not permitted in (Country)."). When marrying, you can choose where to get married and where to go for your honeymoon. Before marrying, you may make your partner sign a prenup or not. They may agree or refuse. If they refuse, the relationship bar will lower.
+"'Elope"' - Instead of a normal wedding, you and your partner can get eloped. The partner will most likely refuse but otherwise, you two will marry in secret. Getting eloped is also a good way to avoid wasting precious money on weddings and honeymoons if you’re just going to get divorced years later.
+Renew Vows
+- Your character may renew their wedding vows. This can be done only if you are married. The partner may agree, increasing their relationship, or refuse, lowering it.
+Ask out
+- Your character can ask out anyone at their school, workplace, or friends that they still keep in contact with. They may accept or refuse. Those from childhood school are more likely to break up with the character later on.
+An example of the children.
+Children
+can be the main character's blood children or get adopted by the character (Step Children). They are ordered from the oldest to youngest living child. If a child is adopted, they will be ordered at the time they were adopted regardless of if they are older or younger than other children. If a female lover gets pregnant when cheating on you, and you are not the biological father, the baby will be shown as adopted. When they are babies, your character will give them a name and decide their last name (male partners may get angry if you are female and choose your own last name). For the first child, you can also choose whether to vaccinate them (presumably, this choice is applied to all children). If the child is male, you can also decide whether to circumcise them. Similar to the Kidnapping scenario of spouses and pets, there is a Choking scenario where a child is dangerously choking on food and your character may either call an ambulance, perform the Heimlich maneuver, or sit and watch. The correct choice is always randomized and choosing incorrectly results in that child dying. Sitting and watching will never save the child and will lower relationship bars with other relatives.
+List of things children do when misbehaving
+Steals your credit card to buy items
+Sticks gum in someone else's hair
+Pees on things in your house
+Starts a food fight in your house
+Sprays you with a garden hose
+Abandoned Children
+[
+]
+An abandoned child.
+If a character abandons their children, they will lose connection to them and their grandchildren of that child. They will be unable to do any activity with them other than buying gifts without first pressing "Reconnect" and having that abandoned family member agree to reconnect with them. If an abandoned child or grandchild dies, your character will
+not
+be notified of their death and will only know that they are dead if they find that person in "Late Relatives". However the child must be at least 6 years old to reconnect.
+The relationships between the main character and the abandoned children will be emptied, as so the player will need to put efforts in order for the bar to start rising up again. Abandoning one also causes the relationships between you and your lover to be emptied.
+The "Exes" option.
+An example of exes.
+Exes
+are as the name suggests, the previous characters that were dating/engaged in marriage with the main character. Flings (who the player character hooked up with but never had a relationship with) are also considered exes. As of 23th June 2019, characters may now interact with their exes: calling or texting them (with the standard options such as compliment), "txxxting" them (sending them an inappropriate image when texting) sending gifts, or stalking them (a warning will appear on-screen if the player tries to pick "Stalk"). A partner will be in the "Exes" tab when they either broke up/divorced or died, while a fling will be put in the "Exes" tab after the hookup. Characters the player hooks up with but has relations with outside of that (such as co-workers and friends) do not go in the "Exes" tab. When an ex dies, your character will not be notified but will know that the ex is dead by looking in the "Exes" tab. Deceased spouses, exes, and former flings will be at the bottom of the "Exes" tab.
+Giving a lot of contact to exes can raise or lower their relationship depending on how the relationship ended and how they feel about you. Ex-flings are easier to please than ex-lovers, as they are less serious. Exes can file a restraining order if you bother them too much. Having a bad relationship with an ex can ruin a character's
+happiness
+.
+Interacting with exes may have an effect on current significant others and they could get mad at you if you get too romantic with an ex. It could also have an effect on family if a character accidentally sends a "txxxt" to a family member instead of a lover.
+Some actions require being over the age of consent (16 in all countries), such as calling and texting for a "booty call", sending a "txxxt" and stalking, as these are considered sexual actions like making love to current lovers.
+An example of the grandchildren.
+Grandchildren
+are the children of the main character's children.
+Friends
+is a new feature in BitLife. Friends can be befriended from classmates, faculty, co-workers, or supervisors. During childhood, a child may also randomly offer to befriend you (even if you are in the Infant stage). They may be unfriended, become best friends, or become enemies (which will usually happen instead of an unfriend especially if the relationship is suddenly emptied, like hooking up with a friend's fling, or reporting a friend that admits to a bad action. Only one friend can be a best friend at a time. The changes of the statuses can happen as events, but the player can also offer to do them. If you become Best Friends with someone else, you will stop being Best Friends and be reduced to Friends with your original Best Friend, decreasing relationship in the process. If the player tries to become the best friend with someone and gets rejected, their relationship will lower by a little. Sometimes, when a military enlistee tries to befriend an officer and is rejected, their chain of command will reprimand the character for attempting to fraternize with an officer. This can also happen when an officer tries to befriend an enlistee. Students may get warned by their teachers if they try to befriend them but failed. Teachers/Officers/Supervisors with high professialism and/or low coolness are likely to reject the player even if they have very high relationship.
+Options
+[
+]
+Ask out
+- Your character will ask out their friend. If your friend is under 18 and you are over 18 or vice versa, you cannot ask them out because of legal reasons. Asking out a friend will result in them becoming a lover.
+Concert
+- Your character will go to a concert with their friend, of a random, real musician. Your friend may refuse to go to the concert if their relationship level is low. Sometimes, the musician may not be currently alive. Non-Bitizens may have to watch an ad to go to a concert.
+Hook Up
+- Your character will hook up with their friend. Since the legal age of consent is 16 everywhere, you must be at least 16 to hook up. Hooking up is not allowed also if you are over 18 and your friend is under 18 or vice versa.
+Party
+- Your character will have a party with their friend. However, some parties could get your character addicted to alcohol. Your friend may refuse to party with you if the relationship is low.
+Possible Parties
+Journal
+Attending an orgy with your friend and some of his/her saucy friends.
+My friend and I rubbed elbows, amongst other things, with some of his/her wild friends.
+Attending one of your friend's exclusive "Let's Play BitLife" parties.
+I attended one of my best friend's exclusive "Let's Play BitLife" parties.
+Attending your friend's family cookout
+I went to my friend's family cookout
+Doing keg stands at an epic rager
+I impressed the entire crowd by doing a 30-second keg stand at an epic rager I attended with my friend.
+Dressing in full cosplay with your friend to attend Comic-Con's Anime Dance Bash.
+My friend and I went to Comic-Con's Anime Dance Bash dressed in cosplay from head-to-toe.
+Eating scones and sipping Earl Gray with your friend at an afternoon tea party.
+My friend and I got our dunk on with some scones and a cuppa at an afternoon tea party.
+Enjoying charcuterie and oaky reds at a wine tasting party with your friend, and some of his/her sommelier friends
+My friend and I enjoyed some charcuterie and oaky reds at a wine tasting event with some of his/her sommelier homies
+Enjoying some libations at a cocktail party with your friend
+My friend and I drank some mint juleps that tickled our fancy at an elegant cocktail party.
+Forehead crushing juice boxes at your friend's birthday party
+I forehead crushed juice boxes at my friend's birthday party.
+Getting lit at the school book fair together.
+I had a blast at the school book fair with my friend.
+Getting the inside scoop on a listening party for the new album by Chance the Rapper.
+My friend and I attended an exclusive listening party for the new album by Chance the Rapper.
+Going clubbing and popping bottles with your friend
+I went clubbing and popped bottles with my friend
+Going dancing at a rave with your friend
+My friend and I did some glow stick dancing when we partied all night at a rave
+Going out for some good conversation and cocktails with your friend
+I went out with my friend and enjoyed good conversation and strong cocktails
+Going to a costume party with your friend dressed as a [character]
+I had a blast dressing up as a [character] and going to a costume party with my friend.
+Going to a holiday office party at your friend's work
+I got hammered and embarrassed myself at my friend's work party after drinking six glasses of eggnog that someone secretly spiked.
+Going to a home party with your friend, at which the host presented and sold makeup products
+I felt obligated to buy a makeup product at a home party I attended with my friend, but I ended up purchasing three items because I loved them so much.
+Going to a house party and playing beer pong with your friend
+My friend and I owned the beer pong scene at a house party we attended.
+Going to a New Year's Eve gala at a swank nightclub
+My friend and I shared a midnight kiss when the clock struck midnight at a swank New Year's Eve event we attended.
+Going to a pizza party at your friend's house
+I crushed seven slices of pizza when I attended a pizza party at my friend's house.
+Going to a raging tailgate party with your friend
+My friend and I indulged in an abundance of meats and beers at an epic pre-game tailgate party.
+Going to a shindig to celebrate his/her friend's divorce
+My friend and I laughed, cried, and partied at a get-together celebrating his/her friend's freshly signed divorce papers.
+Going to a toga party with your friend, and got your Greek on.
+My friend and I got our Greek on at an awesome toga party.
+Going to your friend's birthday bash to celebrate his/her existence
+I went to my friend's birthday bash to celebrate his/her life.
+Going to your friend's family holiday party and playing [console] games
+I played [console] games at my friend's family holiday party.
+Going to your friend's father's wedding reception.
+I went to my friend's father's wedding reception.
+Going wedding crashing with your friend
+I went wedding crashing with my friend
+Going with your friend to celebrate his/her cousin's kindergarten/high school/college graduation party.
+I enjoyed some celebratory cake with my friend at his/her cousin's high school/college graduation party.
+Hobnobbing with the elite at a black-tie event you attended.
+My friend and I exchanged business cards with the elite at a black-tie event we attended
+Making it rain at the strip club with your friend.
+I created a shower of money at the strip club with my friend.
+Playing spin the bottle/suck and blow with others at a house party.
+I went to a house party with my friend, in which we all played spin the bottle/suck and blow.
+Sipping Mai Tais and hula dancing at a luau with your friend
+My friend and I got a taste of the aloha spirit when we got lei'd at a luau
+Sipping martinis at a masquerade ball
+My friend and I sipped dirty martinis and tangoed with masked strangers at a masquerade ball.
+Wearing your favorite pajamas to a sleepover party at your friend's house.
+I wore my favorite pajamas to a sleepover party at my friend's house.
+Wearing your sexiest swimsuit for some fun in the sun at a pool party.
+My best friend and I both got second-degree sunburns when we spent several scantily clad hours baking under the sun at a pool party.
+Your friend hosted a crazy [Superhero] themed party at his/her house.
+I attended my friend's [Superhero] themed party.
+Rumor
+- Your character will start a rumor about their friend, lowering relationship. The friend will sometimes assault your character or start a rumor about them back. You must be at least 12 years old to start a rumor.
+List of Rumors
+Your friend compulsively touches everything he/she sees with both hands.
+Your friend drunkenly hooked up with [person] at a party once.
+Your friend has [phobia].
+Your friend has not just one, but many venereal diseases.
+Your friend hates all genres of music and can't stand melodic tones.
+Your friend is addicted to [substance].
+Your friend is a foreign midget spy.
+Your friend is incredibly turned on by [object].
+Your friend is the Arabian prince that scammed hundreds of people out of their hard-earned cash.
+Your friend is turned on by the mere sight of Hagrid the gamekeeper from Harry Potter.
+Your friend makes out with a photo of [person] every time he/she uses the restroom.
+Your friend's father sayid that he/she was the biggest mistake of his life.
+Your friend's mother fed him/her like a bird for five/six/ten years.
+Your friend's mother never loved him/her.
+Your friend thinks [food] is disgusting.
+Your friend won't let anyone see a picture of him/her without meticulously Photoshopping it first.
+Prank
+- Your character will play a prank on their friend. Sometimes your friend will appreciate your prank, sometimes they will insult you, and sometimes they will assault you. You must be at least 14 years old to prank. Friends can also prank you, and you can choose to laugh it off (appreciating the prank), insult them or assault them.
+Possible Pranks
+Anonymously gifting your friend a delicious, caramel-dunked onion.
+Cutting out a cardboard silhouette of a [insect] and placing it on the inside of your friend's lamp shade.
+Dressing up in a Ghostface costume and scaring your friend when he/she left his/her house late at night.
+Giving your friend a plate of Oreo cookies, after replacing the sweet cream filling with toothpaste.
+Giving your friend a plate of oatmeal raisin cookies and told them they were chocolate chip.
+Hiding three of your friend's things, but telling him/her you hid four.
+Licking the flavoring off all of your friend's [chips] and then put them back in the bag.
+Pantsing your friend in front of his/her other friends.
+Posting an advertisement online for free purebred golden retriever puppies and using your friend's name and phone number as the contact information.
+Putting tacks in your friend's shoes.
+Replacing the deodorant in your friend's deodorant stick with cream cheese.
+Replacing your friend's family photos with a variety of different pictures of yourself.
+Sending your friend a secret glitter bomb package that blew up in his/her face.
+Setting [number] separate alarms on your friend's phone for a couple hours before he/she needs to wake up.
+Signing your friend up for a subscription to "[Name]" magazine.
+Stealing your friend's gargoyle from his/her lawn and placed it in your garden.
+Toilet papering your friend's house.
+Unfriend
+Your character will unfriend their friend, removing their relationship. This is the only interaction available for characters under 3 years old. You may not unfriend any former friends who are now your Enemies.
+Visit
+- If your character and the friend are not in the same nation, they may travel to see them, along with anyone else living in the nation.
+Watch YouTube
+- Your character will watch YouTube with their friend, and are able to select the channel. After watching YouTube, the "Oh yeah" sound effect that plays when making love with someone also plays, for some reason. This sound will not play if your friend refuses to watch YouTube with you. Many YouTubers on the list have made BitLife videos.
+List of YouTubers
+Annika Osterlund
+Aphmau
+AyChristeneGames
+AzzyLand
+Bijuu Mike
+Call Me Kevin
+CaptainSauce
+Carmen King
+Clare Siobhan
+Danny Jesden
+DanTDM
+Dariya Rain
+Deligracy
+Dois Marmotas
+Drae
+Drew Durnil
+Fernanfloo
+FlyGunCZ
+funBABE
+Gloom
+HaleyJean ASMR
+iamSanna
+iHasCupquake
+ItsFunneh
+Jacksepticeye
+Jelly
+jennxpenn
+Joey Graceffa
+Jr e Mi
+Kelsey Impicciche
+Kwebbelkop
+Kubz Scouts
+Lavender Towne
+LaurenzSide
+LazarBeam
+lonniedos
+LubaTV
+Lucas
+MacNcheeseP1z
+Markiplier
+MattShea
+MaxPalaro
+MxR Plays
+O Jean Luca
+oompaville
+Oyun Konsolu
+PewDiePie
+Plumbella
+Razzbowski
+Simplynessa15
+SSSniperWolf
+SSundee
+T3ddy
+Tanya Bregar
+TheOrionSound
+VanossGaming
+Vixella
+windy31
+Yammy
+ZaiLetsPlay
+For some reason, asking for money, giving money, or going to the movie theater are not available as interactions with friends.
+An example of nieces and nephews.'
+Nieces & Nephews
+are the children of siblings of the main character.
+An example of pets.
+Pets
+are animals that are bought and taken care of in the main character house. They have a relationship with you but in a different way. Being there for your pet and helping them will give a good relationship. Sometimes pets will misbehave, and your character can yell at them, train them not to do what they did, do nothing, or reward their behavior. Pets may also attack you for going against them when misbehaving or trying to bathe them. Pets with high craziness or very sick pets will be harder to please. Sometimes, pets are owned by your family before or at birth. These are called "family pets". When a family pet dies, instead of saying "Your (pet), (Name), died at the age of (age)", it will say "The family (pet), (Name), died at the age of (age). However, it appears as "your (pet)" in the Late Relatives section. A pet that your parents offer to buy for you or that you ask them to buy is considered yours. If you continue as your child, your child does not keep your pet when using
+Generations
+regardless of the age of the child at the time of their parent's death. Following the February 2020 update,  if you are sent to an orphanage, pets will be seized by animal control and will never appear in the relationships tab even after you leave the orphanage.
+If the player is not old enough, they will ask their parents to buy the pet for them instead of buying it themselves, making it free (similar to doctor visits). Your parents may also offer to buy you a specific pet. They may also offer to buy it for one of your siblings, although for some reason it is considered yours and you have the option to agree or disagree even though you are not the one they are buying it for.
+Options
+[
+]
+Bathe
+- Your character will give a bath to their pet. It will show how much they appreciated it. Pets with low appreciation may attack you for doing this.
+Release
+- Your character will release their pet into the wild. Sometimes, a stranger will return your pet. You can choose to thank the stranger or have them keep it. If your pet is owned by your family before birth (the family pet), your parent will argue with you. Sometimes an older, twin or younger sibling may argue with you instead.
+Ride (Horses and llamas only)
+- Your character will go on a ride on their horse on llama.
+Sell
+- Your character will sell their pet. You cannot sell a pet if it is a family pet (owned before or at birth), since it does not belong to you.
+Treat
+- Your character will give a treat to their pet. It will show how much they appreciated it.
+Veterinarian
+- Your character will take their pet to the vet. The vet will say if your pet is suffering from any conditions. Some conditions are untreatable and will encourage you to euthanize your pet. If you refuse to euthanize a pet with rabies, you may get rabies yourself and get an achievement. You must be at least 12 years old to take a pet to the vet.
+Walk
+- Your character will take their pet on a walk. Your character must be at least 8 years old (instead of 6) for taking a walk.
+Late Relatives
+contains family members who passed away. It will state their name, relationship to character, age at death, and cause of death. If the character's
+lover
+dies and the character has many ex-lovers and ex-flings, the deceased lover will be in the Exes tab as a Late Ex. If spouses are kidnapped and not found, they will be presumed dead and show up as Late even though their status is unknown. Kidnapped spouses do not ever come back. If a character has abandoned their child and/or grandchildren (if any), they will not be notified if the estranged child or grandchild dies, but they will still show up in Late Relatives.
+An example of late pets.
+Late Pets
+are previous pets of the main character that have died. It will state their name, type of pet, age at death, and cause of death. If pets are kidnapped and not found, they will be presumed dead and show up as Late even though their status is unknown. Kidnapped pets do not ever come back.
+Contents
+1
+Options (all relationships excluding pets)
+1.1
+Compliment
+1.2
+Conversation
+1.3
+Gift
+1.4
+Insult
+1.5
+Spend Time
+1.6
+Assault
+1.7
+Options
+2
+Events related to Relationships (under removal)
+Options (all relationships excluding pets)
+[
+]
+This section is a work-in-progress.
+Compliment
+[
+]
+This is an option that the player can do where they say something nice about someone else to them. This boosts their relationship with each other. Besides this, there is a chance that if the player compliments someone, they will immediately compliment back (which increases happiness by 8%), with the tagline 'It's mutual', and another compliment will be chosen. This greatly boosts relationship. For child classmates, they are more likely to respond positively to compliments if the player's popularity is much higher than theirs.
+If the player character is at a low relationship level with someone, they may ignore the player, decreasing their relationship further. This is more likely to happen for child classmates with much higher popularity than the main character, or coworkers with high professionalism. On the other hand, the child classmate or a coworker with low professionalism may insult the player character instead, decreasing relationship even further.
+Complimenting a faculty member and failing may result in them warning you that it is inappropriate to do so. Complimenting a supervisor is considered sucking up to them and will result in a slight relationship decrease with all other coworkers (as long as they are not befriended).
+Possible Compliments
+A baller
+A boss
+A bubbly personality
+A champion
+A closer
+A dark horse
+A diamond in the rough
+A fighter
+A gem
+A genius
+A goddess
+A good kid
+A jewel
+A legend
+A mack
+A mack daddy
+A pimp
+A pimp daddy
+A player
+A revolutionary
+A smart cookie
+A treasure
+A winner
+A wizard
+A visionary
+Adorable
+Admirable
+An alpha male/female
+An eager beaver
+An OG
+Attractive
+Beautiful
+Brave
+Bright
+Brilliant
+Charming
+Chill
+Clever
+Cool
+Courageous
+Cute
+Dapper
+Dashing
+Delightful
+Dope
+Elite
+Fascinating
+Fearless
+Fine
+Fresh
+Funny
+Golden
+Good-looking
+Gorgeous
+Groovy
+Hilarious
+Hip
+Humorous
+Inspiring
+Intelligent
+Intriguing
+Legit
+Magnificent
+Motivating
+Neat
+Nifty
+One-of-a-kind
+Perfect 10
+Phenomenal
+Put-together
+Rad
+Smart
+Smooth
+Sparkling
+Spectacular
+Stellar
+Strong
+Stunning
+Stylish
+Suave
+Swell
+Swole
+Terrific
+The bee's knees
+The best
+The boss of it all
+The greatest
+The life of the party
+The man
+The top dog
+Unparalleled
+Unrivaled
+Wise
+Wonderful
+World-class
+Conversation
+[
+]
+A versatile option, this option is where two people decide to chat with each other. Some holiday-themed conversations are exclusive during certain holidays. This option slightly boosts relations. Two people can have a conversation by:
+Discussing
+Having a chat about
+Having a conversation about
+Having a heart-to-heart about
+Talking about
+If the character has
+emigrated to
+another country and the other person isn't there, they may do so with a form of technology such as:
+Having a FaceTime conversation
+Having a long-distance phone call
+Having a phone conversation
+Having a Skype conversation
+Having a Skype video call
+Having a video chat
+Talking on the phone
+Sometimes if the character and relationship do not agree on the conversation, they could get into an argument. The character can choose to apologise, agree to disagree/complain to mother (if siblings and the mother is still alive), insult them, or assault them (if they are in the same country). If the character chose to insult or assault the other person, their relationship will go down and the other person could insult or assault them as well. Even if the other person fought back as well, they could still call the police on your character. If they assaulted your character but your character didn't assault them, your character can
+sue
+their own family or lover over it, even if they did insult the other person first.
+Additionally, if the player character has a very low relationship, the other person may just walk away when they try to start the conversation, decreasing relationship. This is more likely to occur for child classmates with higher popularity. Coworkers with high professionalism and low coolness will instead tell the player character to shut up (and get back to work, if it a supervisor). Even at higher relationships, a coworker with high professionalism may ask you to stop so that they can focus on their work.
+Possible Conversations
+Talking about Angelina Jolie's lips
+Talking about autoerotic asphyxiation
+Talking about Blake Lively's legs
+Talking about cellular device addiction
+Talking about cloning
+Talking about crytocurrencies
+Talking about Frida Kahlo's mustache
+Talking about good versus evil
+Talking about Harry Style's hair
+Talking about how BitLife is the hottest game of 2019
+Talking about how cannibalism is illegal in Idaho
+Talking about how everyone needs to stay off of their damn lawn
+Talking about how grammar nazis fail to understand the complex, dynamic nature of the English language, and how they can only see things from their elitist, ethnocentric point of view
+Talking about how hoodlums are the bane of their existence
+Talking about how it is illegal to steal someone's crawfish in Louisiana
+Talking about how it's a felony to sell children in Florida
+Talking about how it's illegal for a person with a venereal disease to get married in Nebraska
+Talking about how it's illegal to be drunk on a cow in Scotland
+Talking about how it's illegal to chew gum in Singapore
+Talking about how it's illegal to dance to the Star Spangled Banner in Massachuettes
+Talking about how it's illegal to drive a dirty car in Russia
+Talking about how it's illegal to go commando in Thailand
+Talking about how it's illegal to hike naked in Switzerland
+Talking about how it's illegal to hold a fish suspiciously in the United Kingdom
+Talking about how it's illegal to masturbate in Indonesia
+Talking about how it's illegal to work or dance on Sundays in South Carolina
+Talking about how it's illegal to wrestle a bear in Oklahoma
+Talking about how it's possible to add custom people to BitLife
+Talking about how 'literally' sometimes means 'figuratively'
+Talking about how much they appreciate staying in on a Saturday night
+Talking about how much they hate vegetables
+Talking about how Pink Floyd is better than Led Zeppelin
+Talking about how scary the toilet is when it gets flushed (Child only)
+Talking about how some people still actually believe that OJ was innocent
+Talking about how they want to get an iTunes gift card to use to become a Bitizen
+Talking about how to deal with grammar nazis
+Talking about how to deal with poor grammar
+Talking about how to squeeze the toothpaste correctly
+Talking about how yummy mommy's boobie is (Child only)
+Talking about Hulk Hogan's 24-inch pythons
+Talking about if it is better to wipe from the front or back
+Talking about investment options
+Talking about Jennifer Aniston's hair
+Talking about masturbation
+Talking about Nicki Minaj's trunk, and what kind of junk may or may not be within
+Talking about necessary characteristics of a top notch crotch
+Talking about quantum physics
+Talking about respecting one's elders
+Talking about Rihanna's legs
+Talking about sloppy seconds experiences
+Talking about taxation in Afghanistan
+Talking about that one time at band camp
+Talking about the average intelligence of people who enjoy watching Pawn Stars
+Talking about the best Candywriter game
+Talking about the best gift they ever received
+Talking about the best ice cream flavor
+Talking about the best movie they have seen so far this year
+Talking about the best movie they saw so far this year
+Talking about the best movie villain of all time
+Talking about the best place to have sex
+Talking about the best time of day to play BitLife
+Talking about the best TV show of all time
+Talking about the Big Bang theory
+Talking about the celebrity they would most like to meet
+Talking about the craziest natural disasters that they have experienced
+Talking about the dark net
+Talking about the handcuffs they found in mommy/daddy's drawer, and why they never get to play with them (Child only)
+Talking about their bondage fantasies
+Talking about their celebrity doppelgangers
+Talking about their favorite food
+Talking about their favorite movie character
+Talking about their favorite twerkers
+Talking about their go-to karaoke song
+Talking about their greatest achievements
+Talking about their imaginary friend
+Talking about their least favorite chore
+Talking about their least favorite word
+Talking about their most embarrassing moments
+Talking about their most prized possession
+Talking about their spirit animals
+Talking about the death penalty
+Talking about the marble they stuck up his nose
+Talking about the meaning of life
+Talking about the miracle work of Bartholin glands
+Talking about the pea they stuck up their nose
+Talking about the pros and cons of social media
+Talking about the pros and cons of tampons vs. sanitary pads
+Talking about the pros and cons of technology
+Talking about the size of Djibouti
+Talking about the space-time continuum
+Talking about the superficial, narcissistic nature of social media
+Talking about the time they got turned on by a mannequin
+Talking about the time they watched a stripper with a broken leg do a pole dance
+Talking about the use of stem cell research
+Talking about the value of Cooper's ligaments in a world with gravity
+Talking about the weirdest food combinations
+Talking about the weird sounds mommy makes at night (Child only)
+Talking about the worst gift they ever received
+Talking about what a perfect day would look like
+Talking about what color they should dye their gray pubes
+Talking about what is real
+Talking about what is the right way to hang a toilet paper roll
+Talking about what it means to be a good person
+Talking about what it means to be good in bed
+Talking about what the BitLife devs should add next
+Talking about what they would do if they won the lottery
+Talking about what they would do to their boyfriend/girlfriend if he/she ever hurts them
+Talking about what time of day their social battery typically dies
+Talking about whether or not a Adam Sandler is funny
+Talking about whether or not a grown man should wear a jersey with another man's name on it
+Talking about whether or not a hot dog qualifies as a sandwich
+Talking about whether or not aliens exist
+Talking about whether or not Burger King qualifies as real food
+Talking about whether or not clowns are scary
+Talking about whether or not DC is better than Marvel
+Talking about whether or not Die Hard is a Christmas movie.
+Talking about whether or not doctors are responsible for the heroin epidemic
+Talking about whether or not dogs belong in restaurants
+Talking about whether or not duck faces are sexy
+Talking about whether or not frosting a muffin makes it a cupcake
+Talking about whether or not ghosts exist
+Talking about whether or not green flowers exist
+Talking about whether or not humans are inherently good or bad
+Talking about whether or not it's okay to pee while taking a shower
+Talking about whether or not Japan deserves to host the next Summer Olympics
+Talking about whether or not marijuana should be legalized on a national level
+Talking about whether or not McDonald's qualifies as real food
+Talking about whether or not pineapple belongs on pizza
+Talking about whether or not Qatar deserves to host the next World Cup
+Talking about whether or not Santa Claus is real
+Talking about whether or not students should wear uniforms
+Talking about whether or not Taco Bell qualifies as real food
+Talking about whether or not the electoral college is necessary
+Talking about whether or not the hokie pokie is what it's all about
+Talking about whether or not they would get naked at a nude beach
+Talking about whether or not they would rather be able to detect any lie they hear or get away with any lie they tell
+Talking about whether or not they would rather have overly large hands or small feet
+Talking about whether or not they would rather live on Marsss or the the bottom of the ocean
+Talking about whether or not they would rather live without music or television
+Talking about whether they would rather have a golden voice or a silver tongue
+Talking about whether they would rather lose their hearing or vision
+Talking about where babies come from
+Talking about where the water goes when the toilet gets flushed
+Talking about which animal they would like to be (Child only)
+Talking about which instrument is the best
+Talking about which is better, ebooks or paperbacks
+Talking about which is better, Lord of the Rings or Harry Potter
+Talking about which is better, pizza or cheeseburgers
+Talking about which is better, Star Wars or Star Trek
+Talking about which movie is the most overrated
+Talking about which politician should be elected
+Talking about which season is the best
+Talking about which would be worse, having an annoying voice or snorting every time you laugh
+Talking about who makes the best BitLife videos on YouTube
+Talking about who is better, the Red Sox or Yankees
+Talking about whose turn it is to do the dishes
+Talking about who the best superhero is
+Talking about who will be the next boxing champion
+Talking about who will be the next UFC champion
+Talking about who will win a championship at Wimbledon
+Talking about who will win the Daytona 500
+Talking about who will win the Indy 500
+Talking about who will win the Kentucky Derby
+Talking about who will win the Masters
+Talking about who will win the Monaco Grand Prix
+Talking about who will win the NBA Finals
+Talking about who will win the Stanley Cup
+Talking about who will win the Super Bowl
+Talking about who will win the Tour de France
+Talking about who will win the U.S. Open
+Talking about who will win the World Cup
+Talking about who will win the World Series
+Talking about who would have won in a fight between Bill Gates and Steve Jobs
+Talking about who would have won in a fight between Muhammad Ali and Mike Tyson
+Talking about who would win in a fight between Beyonce and Nicki Minaj
+Talking about who would win in a fight between Mark Zuckerberg and Elon Musk
+Talking about who would win in a fight between Taylor Swift and Adele
+Talking about who would win in a fight between Steph Curry and Drake
+Talking about who would win in a fight between Superman and Batman
+Talking about why British people are so judgmental about American English
+Talking about why cats are better than dogs
+Talking about why daddy has so many balloons in his underwear drawer (Child only)
+Talking about why dogs are better than cats
+Talking about why Garth Brooks is better than Gwen Stefani
+Talking about why he/she was mean to them in their dream
+Talking about why mannequins often have erect nipples
+Talking about why Messi is better than Ronaldo
+Talking about why mommy has a plastic wee-wee in her underwear drawer (Child only)
+Talking about why mommy keeps saying 'oh god' at night (Child only)
+Talking about why needles are so scary
+Talking about why only morons throw trash out the car window
+Talking about why sometimes at night you can hear daddy asking mommy, 'Who's your daddy?' (Child only)
+Talking about why the sky is blue
+Gift
+[
+]
+This option gives the player the ability to give a present to NPCs like relatives, friends, partners, classmates and co-workers. When this option is chosen, seven different gift ideas will appear. The player can select one of them and give the gift to the chosen person: their appreciation will show up after the gift is given. NPCs' appreciation is determined randomly most of the time, but the player can sometimes predict if a person will like a present (for example the majority of NPCs will dislike lewd or vulgar presents like used vibrators or penis enlargement pills, or even too cheap and plain presents like can openers or fake desk cactuses). If their appreciation is low, the relationship will lower and it may cause an argument with that character.
+Attempting to give a gift to someone with low relationship may cause them to reject it even if it is something they would like. A failed attempt to give a gift to a coworker may cause them to complain to HR.
+Possible gifts
+18-piece knife set
+50'000 piece puzzle
+Altoids
+Amazon Fire tablet
+Amazon Fire TV stick
+Anti-aging cream
+Ashtray
+Bamboo underwear
+Bathroom scale
+Beats headphones
+Bidet toilet sit
+Bitlife Bitizenship (this gift will always be appreciated by NPCs and if given to a lover they will instantly ask you to marry them)
+Bitlife Boss Mode
+Bitlife hoodie
+Blocks
+Bose Bluetooth speaker
+Bottle of Burberry perfume
+Bottle of champagne
+Bottle of Cristal
+Bottle of Dom Perignon
+Bottle of rum
+Bottle of scotch
+Bottle of tequila
+Bottle of Versace cologne
+Bottle of vodka
+Bottle of whiskey
+Bottle of wine
+Bouquet of chrysanthemus
+Bouquet of tulips
+Bouquet of wildflowers
+Box of chocolates
+Box of cockroaches
+Box of Cuban cigars
+Braun electric razor
+Brookstone back massager
+Broom
+Bunch of pansies
+Camping tent
+Can opener
+Canon binoculars
+CBD oil
+Char-Broil grill
+Chia Pet
+Clown nose
+Coach sunglasses
+Compression eye mask
+Cooking apron
+Cooling eye mask
+Corkscrew
+Craftsman screwdriver set
+Craftsman jig saw
+Crocs sandals
+Cryotherapy session
+Dartboard
+Dead daisy
+Dead Sea bath salts
+Dell Chromebook laptop
+DeWalt blower
+Diamond earrings
+DJI drone
+Dozen red roses
+Dyson vacuum
+Earmuffs
+Echo Dot
+Electric blanket
+Electric toothbrush
+Electronic drum kit
+Fabric steamer
+Fake desktop cactus
+Fitbit
+Flask
+Fly swatter
+Foot hammock
+Fossil watch
+French press coffee maker
+Fruit basket
+Fuji instant camera
+Garden gnome
+George Foreman grill
+Globe
+Gold ring
+Google Home Mini
+Gym membership
+Hair dye kit
+Hair regrowth product
+Hard Rock t-shirt
+Harry Potter puzzle
+Hitachi Magic Wand
+Hot dog machine
+Human skull
+Instant Pot
+Italian leather sofa
+Jar of mouthwash
+Jumanji DVD case
+Jurassic Park DVD
+Keurig coffee maker
+Key chain
+Kitten calendar
+Knee pads
+Levi's jean jacket
+Lululemon tights
+Lush bath set
+Magnifying glass
+Manicure set
+Memory foam pillow
+Michael Kors belt
+Mini zen garden
+Molekule air purifier
+Monopoly game
+Nalgene water bottle
+Nest thermostat
+Nintendo Switch
+NordicTrack treadmill
+Nose trimmer
+NutriBullet blender
+Odor-Eaters insoles
+Oil diffuser
+Omaha Steaks package
+One-ply toilet paper
+Onion goggles
+Paddleboard
+Pair of Wranglers
+Patagonia jacket
+Penis enlargement pills
+Personalized bathrobe
+Phone charger
+Pill organizer
+Pimple popping toy
+Pool table
+Popcorn machine
+Portable movie projector
+Puppy calendar
+Rabbit's foot
+Rainbow keychain
+Rainbow t-shirt
+Ralph Lauren wallet
+Reading glasses
+Rechargeable battery set
+Revlon hair dryer
+Ring video doorbell
+Romba vacuum
+Romance novel
+Ryobi drill
+Samsung smart TV
+Scarf
+Scendent candle
+Schwinn bicycle
+Self-help book
+Sewing kit
+ShamWow set
+Shake Weight
+Shape sorter
+Shrunken head
+Single carnation
+Single red rose
+SlimFast shake mix
+Smart yoga mat
+Snugger fit condoms
+Soap dish
+Soccer ball
+Socks
+Sonos One smart speakers
+Spice kit
+Squatty Potty
+Stanley tool box
+Star Wars onesie
+Starbucks gift card
+Stink bomb
+Stress ball
+Switchblade knife
+Taxidermized deer
+Teapot
+Teeth whitening kit
+Toothbrush
+Two-piece pajama set
+Vase of orchids
+Visa gift card
+Vitamix blender
+White noise machine
+Wilting sunflower
+Wine decanter
+Wool sweater
+Wreath of assorted flowers
+Wrinkle cream
+Xbox One S
+Yodeling pickle toy
+Insult
+[
+]
+This option is where the player character says something bad about another person, in sharp contrast to a compliment, thus decreasing the relationship level (and potentially causing them to insult them back or assault your character). People can also insult the player character at random, and the player can choose how they respond, by insulting them back, forgiving them, or assaulting them. There's also a chance where a relative can get insulted, and the player can choose how they react to the one who insulted them. There is a special
+achievement
+for being called "Skeezy".
+Possible Insults
+A 539
+A bang hole
+A bastard
+A bedwetter
+A birdbrain
+A bitch
+A biznatch
+A biznitch
+A blockhead
+A bung hole
+A buttface
+A chickenhead
+A chump
+A cockalorum
+A cocksucker
+A coward
+A cretin
+A crow-toed slut
+A cunt
+A dickhead
+A dimwit
+A dillhole
+A dingbat
+A dingleberry
+A dipstick
+A dork
+A douchebag
+A douchelord
+A douche canoe
+A douche nozzle
+A driggle-draggle
+A dumbass
+A dummy
+A dunce
+A fatass
+A floozie
+A freak
+A gas factory
+A goblin
+A hag
+A hoe
+A hoebag
+A hoochie
+A jerk
+A jumpoff
+A knuckle dragger
+A lamebrain
+A lint licker
+A loner
+A loser
+A maniac
+A moron
+A mouth-breather
+A nerd
+A nimrod
+A penis face
+A peon
+A philistine
+A pig
+A pleb
+A pumpkinhead
+A punk
+A pussy
+A putz
+A retard
+A rumpleforeskin
+A sausage jockey
+A sausage shark
+A scallywag
+A schmuck
+A shithole
+A simpleton
+A sleazeball
+A sloot
+A slut
+A snake
+A snollygoster
+A sucker
+A tart
+A tool
+A tramp
+A triple-chin
+A troublemaker
+A turd burglar
+A twat
+A twit
+A villain
+A vulture
+A wack-ass sucka
+A wanker
+A weasel
+A wench
+A weirdo
+A whore
+An abomination to mankind
+An airhead
+An ass clown
+An ass face
+An ass hat
+An asshole
+An idiot
+An imbecile
+An inbreeder
+An ingrate
+Awful
+Bitchy
+Brainless
+Careless
+Cheap
+Daft
+Douchey
+Dumb
+Evil
+Fatty
+Foolhardy
+Mediocre at best
+Mentally defective
+Nasty
+Numbnuts
+Obtuse
+Psycho
+Putrid
+Rancid
+Ratchet
+Retarded
+Skank
+Skeezy
+Slutty
+Smelly
+Stinky
+Stupid
+Trashy
+Troglodyte
+Weak
+Weaksauce
+Spend Time
+[
+]
+Probably one of the most used options in the list, spending time with relations is an easy way to boost relationship. The player can decide to spend time with one person, or invest time within all of them. If the player is not a
+Bitizen,
+they must watch an ad before they "Spend time with all". To spend time with all, the player’s character must be at least 12 years old. There is also a chance if your relationship is low, they will refuse to spend time with you. If in a good relationship, there is also a chance that someone may ask to go out with the player, and they can decide whether or not if they go with them. Some holiday-themed outings are exclusive during certain holidays.
+The player cannot spend time with someone in another country. Spending time with a supervisor is considered sucking up to them and will decrease your relationship with other coworkers.
+Possible Outings
+Attending a goat yoga class
+Attending a juggling class
+Blowing bubbles
+Bring donuts to the police station
+Building a pillow fort
+Building a sandcastle in a sandbox at the park
+Catching butterflies
+Challenging strangers to staring contests at the grocery store
+Cleaning a local park
+Cleaning up a local beach
+Cleaning up a local highway
+Climbing the neighbor's tree
+Coloring a coloring book at a coffee shop
+Dancing in the rain
+Ding dong ditching the neighbors
+Diving with sharks
+Doing [Musician] karaoke
+Doing a puzzle at the library
+Doing caricature drawings of random people in a public place
+Doing some gardening
+Donating unwanted things to charity
+Flying a drone
+Flying a kite
+Gambling
+Getting cornrow braids
+Getting facials
+Getting foot massages
+Getting frozen yogurt topped with [Topping]
+Getting henna tattoos
+Getting manicures
+Getting pedicures
+Going antiquing
+Going axe throwing
+Going basket weaving
+Going bird watching
+Going birdwatching
+Going break dancing
+Going bowling
+Going bungee jumping
+Going camping
+Going canoeing
+Going cliff-diving
+Going crocheting
+Going deep sea fishing
+Going fishing
+Going for a bike ride
+Going for a hike
+Going for a picnic
+Going for a swim
+Going for a tandem bike ride in the country
+Going for a tandem bike ride in the hills
+Going for a tandem bike ride in the mountains
+Going for a walk
+Going geocaching
+Going golfing
+Going horseback riding along the river
+Going horseback riding in the country
+Going horseback riding in the desert
+Going horseback riding in the forest
+Going horseback riding in the mountains
+Going kayaking
+Going longboarding
+Going mountain climbing
+Going paddle boarding
+Going paragliding
+Going parasailing
+Going rollerblading
+Going shopping
+Going skiing
+Going skydiving
+Going snorkeling
+Going snowboarding
+Going stargazing
+Going surfing
+Going swimming
+Going tire swinging
+Going to an arcade
+Going to an art museum
+Going to an escape room
+Going to an indoor trampoline park
+Going to a bar
+Going to a barbeque
+Going to a baseball game
+Going to a basketball game
+Going to a boxing match
+Going to a Buddhist temple
+Going to a cafe
+Going to a café to play cards
+Going to a cake baking class
+Going to a carnival
+Going to a car show at the convention center
+Going to a Catholic church
+Going to a comic book store
+Going to a comic book store to buy some multiverse comic books
+Going to a concert
+Going to a cosplay convention
+Going to a cricket match
+Going to a DIY workshop at a hardware store
+Going to a film festival
+Going to a food festival
+Going to a football game
+Going to a freestyle hip-hop battle
+Going to a golf tournament
+Going to a Hindu temple
+Going to a hockey game
+Going to a hot dog eating contest
+Going to a Jewish synagogue
+Going to a meditation class
+Going to a Methodist church
+Going to a Mormon church
+Going to a motivational seminar
+Going to a music festival
+Going to a Muslim mosque
+Going to a neighborhood block party
+Going to a painting class
+Going to a park to play backgammon
+Going to a park to play checkers
+Going to a park to play connect 4
+Going to a pilates class
+Going to a Presbyterian church
+Going to a Protestant church
+Going to a puppet-making seminar
+Going to a record store to check out some vinyl
+Going to a rodeo
+Going to a rugby game
+Going to a soccer match
+Going to a Shinto shrine
+Going to a tennis match
+Going to a yoga class
+Going to dinner
+Going to dinner with his/her friends
+Going to the amusement park
+Going to the circus
+Going to the country fair
+Going to the DJ Snake concert
+Going to the drive-in-movie theater
+Going to the driving range
+Going to the gym
+Going to the J. Cole concert
+Going to the Kayne West concert
+Going to the library
+Going to the Maroon 5 concert
+Going to the movies
+Going to the museum
+Going to the New Kids On The Block concert
+Going to the park
+Going to the park to give peanut butter and jelly sandwiches to homeless people
+Going to the park to see fountains.
+Going to the Pitbull concert
+Going to the Ricky Martin concert
+Going to the Shakira concert
+Going to the shooting range
+Going to the symphony
+Going to the water park
+Going to the zoo
+Going whale watching
+Going white water rafting
+Going yodeling
+Graffitiing train cars
+Having a bonfire at the beach
+Having a random dance party in a public plaza
+Having a snowball fight
+Having a sword fight in public using [Item]
+Having a water gun fight
+Helping an elderly neighbor do some chores
+Helping the neighbors move across town
+Holding up signs outside the TV network studio
+Jumping at a trampoline park
+Learning origami at the community college
+Listening to a [Genre] band
+Listening to the local boy's choir perform [Choir]
+Looking at cars for sale
+Looking at homes for sale
+Making and passing out balloon animals at the park
+Making a safety evacuation map
+Making a wish while throwing a coin in a fountain
+Making flower arrangements
+Making friendship bracelets
+Making hand-painted T-shirts
+Making homemade mini pizzas
+Making peanut butter and jelly sandwiches for homeless people at the park
+Parkouring hardcore
+Participating in a neighborhood cleanup
+People watching at Walmart
+Performing in a flash mob at the [Place]
+Picking [Fruits]
+Planting a tree in a forest
+Playing a board game
+Playing bingo at the community center
+Playing BitLife/Among Us
+Playing BitLife together
+Playing catch
+Playing charades
+Playing dominoes
+Playing golf
+Paying in the rain
+Playing in the sprinklers at the local park
+Playing laser tag
+Playing paintball
+Playing tennis
+Playing the floor is lava
+Playing video games
+Posting BitLife screenshots on Instagram
+Practicing sumo wrestling
+Practicing with a yo-yo in the park
+Raking leaves into piles and jump into them
+Rapping at an open mic night
+Reading poetry at an open mic night.
+Relaxing while floating in a natural hot spring
+Riding bumper cars
+Riding the halfpipe at the skate park
+Scaring random people by jumping out of the bushes at a local park
+Scaring random people while pretending to be statues
+Sending postcards to distant relatives
+Shooting hoops
+Shopping at a flea market
+Singing [Musician] songs at karaoke night
+Singing at an open mic night
+Singing karaoke
+Sledding
+Spinning on chairs at a furniture store
+Strolling around town
+Taking a nap in a bed at a furniture store
+Taking a self-defense class at the police station
+Throwing paper planes off the bleachers at the local high school
+Toilet papering the neighbor's house
+Trolling people on the Internet
+Trying archery
+Tubing down the river
+Volunteering at a pet shelter
+Volunteering at a retirement community
+Volunteering in a classroom at the local middle school
+Watching [Musician] music videos
+Watching [Planet] with a high-powered telescope
+Watching a community play at a local theater
+Watching a magic show at the community center
+Watching a movie under the stars in the park
+Watching a play
+Watching a puppet show at the local library
+Watching a random trial at the municipal court
+Watching a rap battle contest
+Watching a Rubik's cube tournament at the local university
+Watching a spelling bee at the local elementary school
+Watching a solar eclipse
+Watching an eclipse with a high-powered telescope
+Watching figure skating
+Watching sumo wrestling
+Watching toy unboxing videos
+Watching Uranus with a high-powered telescope
+Working in a community garden
+Writing haikus
+Writing poems
+Assault
+[
+]
+Assault is the option in which a character can physically attack a person and decrease relationship. When a character assaults, a popup feedback used to immediately say "You assaulted someone!" followed by 1-4 lines of "You [attack move] his/her [body part]". There is a chance that your character can kill someone by assaulting to which a new line says "He/She died from his/her injuries". Following an update, the game now lets you pick your first assault. When you are done, a popup feedback will say "You [attack move] his/her [body part]! Then you [attack move] his/her [body part] and/then [attack move] his/her body part!" and show the damage you dealt. Your character will kill someone if the Damage stat reaches 100%. Sometimes, a line will say "You went [famous fighter] on his/her body part!" (e.g. You went Bruce Lee on his forehead!)
+Assault list to be completed soon
+List of attack moves
+Backhanded
+Banged
+Bashed
+Beat
+Bit
+Blew Up (launchers only)
+Bopped
+Bruised
+Burst
+Busted
+Cracked
+Cut
+Detached
+Flattened
+Fractured
+Grazed
+Hit
+Impaled
+Inverted
+Jammed
+Kicked
+Lacerated
+Lossened
+Mangled
+Pierced
+Pinched
+Poached
+Poked
+Popped
+Pounded
+Punched
+Punctured
+Ripped
+Scrapped
+Severed
+Shot (guns only)
+Slapped
+Sliced
+Smacked
+Spanked
+Squashed
+Squeezed
+Stabbed
+Stamped
+Streched
+Trampled
+Wallopped
+Whacked
+Whipped
+List of body parts
+Adam's Apple**
+Anal Cavity
+Ankle
+Anus
+Areola*
+Arm
+Armpit
+Back
+Belly Button
+Booty
+Brain
+Breast*
+Buttocks
+Calf
+Cheek
+Chest
+Chin
+Clitoris*
+Coccyx
+Ear
+Elbow
+Eyeball
+Eyebrow
+Eyelid
+Face
+Finger
+Fist
+Foot
+Forehead
+Hair
+Heel
+Hip
+Jugular
+Knee
+Kneecap
+Knuckle
+Larynx
+Lips
+Mouth
+Nipple
+Nose
+Nostril
+Ovaries*
+Patella
+Penis**
+Rectum
+Rump
+Scalp
+Scrotum**
+Shin
+Spleen
+Spine
+Stomach
+Testicle**
+Testicular Sack**
+Toenail
+Tooth
+Torso
+Vagina*
+Waist
+* indicates a female only body part
+** indicates a male only body part
+Sometimes they will attack you back with an object.
+List of attack objects:
+Assault Rifle
+Automatic Rifle
+Baton
+Baseball Bat
+Belt
+Blowgun
+Brass Knuckles
+Cannister of Mace
+Cannon
+Coffee Mug
+Crossbow
+Crucifix
+Dagger
+Frying Pan
+Grenade Launcher
+Guided Missle
+Hatchet
+Hunting Knife
+Ice Pick
+Knife
+Knuckleduster
+Laser Blaster
+Lightsaber
+Machine Gun
+Molotov
+Musket
+Pen
+Some pepper spray
+Prosteric Leg
+Razor Blade
+Revolver
+Rolling Pin
+Scissors
+Scythe
+Shotgun
+Spear
+Spiked Mace
+Spoon
+Switchblade
+Sword
+Options
+[
+]
+Events related to Relationships (under removal)
+[
+]
+Unfriended, in which the player can try to salvage the friendship, insult their friend or wish them well.
+Breakups, which are pretty straightforward, easier to fight than divorces. It may also happen even the characters were at high relationship, espeically when the characters are young, such as those from childhood schools.
+Divorces, only after marriage. They are harder to overcome, but they are more rare. If the character is in the prison, the insult and assault options are unavaliable.
+Pregnancy, you can keep or abort a baby. In some
+countries
+abortion is illegal so even if you select it, the game will make you keep the baby, unless they
+emigrate
+to another country to get an abortion. Crazy significant others may overrule your decision as well, such as getting an abortion/forcing you to get an abortion when you selected to keep it and vice-versa, but lovers rarely force you to keep the baby. It is also possible but rare to get twins or triplets.
+Miscarriage, which makes you lose a baby. It is also possible but rare to lose a baby via stillbirth.
+Spending time, usually with your parents. You can choose to agree (equivalent to the spend time option), disagree or argue, lowering relationship.
+Fighting over things, usually with siblings. Equivalent to the squabble option, but occurs without input. You can choose all the usual options that happen when fighting with relatives.
+Disagreements, after a bad conversation. The player can apologize, agree to disagree, insult or assault the other person.
+Illness, after a hookup, you might get infected with an STD. You may also infect your lover.
+Deaths, your family may die at any moment, sometimes leaving you money if your relationship is decent.
+Rumors, which can happen in your teen life, even at 12 years old, when you hear rumors about somebody liking you, or a random date option pops out. The first event has a higher chance of getting you a boyfriend or girlfriend.
+Coming out of the closet, when a relative comes out either as gay or bisexual. If it is the player character's child, they can choose how to react. Otherwise, it is simply noted in the player character's journal.
+Children misbehaving, giving the option to yell at them, ground them, have a talk with them, or do nothing.
+Grown children asking your character to pay their college tuition, giving the option to agree to pay, disapprove of their major, or deny paying tuition. If the player cannot afford to pay, the relationship will be lowered as if the payment is refused directly.
+Step-parents could become a part of your childhood and will be introduced when a parent remarries and they may have step-children who will be your step-siblings. If your character marries someone with children, the children will become step-children as long as you remain married to them. When your character divorce him/her, your stepchildren will no longer be in the relationships tab.
+Spouses can be caught stealing money from you to use on themselves. They can also have threesomes with you, which could cause them to leave you for him/her. They can cheat on you, which could even lead to pregnancy with a baby who isn't yours. This usually happens when your lover has high craziness.
+Your parents disapprove of your boyfriend/girlfriend.
+Viriginity. Sometimes your girlfriend or boyfriend will ask you to make love with them, in which you can choose to do it, refuse to do it, reject politely or ask them to wait (which may lead to them unable to understand and lower relationship). When you try to make love with them, they might also express that they want to save viriginity until marriage. Respecting them on this will significantally boost relationship.
+Friends with high craziness may ask you to try drugs with them. You can agree (which can potentially get you addicted), make an excuse (resulting in a slight decrease but no real harm in relationship), or outright decline (decreasing relationship).
+Sometimes a friend will ask to become best friend with you. If this is agreed and the player has already got a best friend, their relationship will lower a bit as they change status
+There is a rare but possible chance that your friends will become enemies with you, regardless of your relationship with them. In addition, friends with high craziness bar increases the likelihood of becoming enemies with you, no matter what you do. It may also happen instead of directly unfriending if your relationship is empty or low (though this can also happen if your relationship with them is high).
+Exes can kill the player if they constantly stalk them.

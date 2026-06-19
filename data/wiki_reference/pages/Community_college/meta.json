@@ -1,0 +1,21 @@
+{
+  "title": "Community college",
+  "pageid": 3956,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Community_college",
+  "categories": [
+    "Education"
+  ],
+  "links": [
+    "Diseases",
+    "Education",
+    "Game over",
+    "Prison"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Community_college/content.html",
+    "wikitext": "pages/Community_college/content.wikitext",
+    "text": "pages/Community_college/content.txt"
+  }
+}

@@ -1,0 +1,3622 @@
+{{Infobox BitLifeApp
+|title1=
+|launched_on_ios:=January 12, 2019
+|launched_on_android:=September 23, 2019
+|last_updated_on_ios:=
+|image1 = Achievements.png|caption1=|last_updated_on_android:=|reddit:=|twitter:=}}'''Achievements''' are special rewards for completing tasks in BitLife. Achievements can only be unlocked once. Some achievements take hard work while some are easy and others are random chance.
+
+As of May 3, 2026, there are 410 achievements to unlock and 45 different categories of achievements.<sup>(ADD NEW BADGES AND CATEGORIES)</sup>
+
+Only one has been removed from the game, listed in the end of the page.
+== List of Achievements ==
+
+=== Longevity ===
+<table-progress-tracking table-id="1" unique-column-index="2">
+{| class="sortable mw-collapsible fandom-table article-table"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+!Difficulty
+! Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|Complete a Life
+|''Complete a full life''
+|Start and finish a life from birth to death.
+|No
+|No
+|Very Easy
+|No
+|-
+|Octogenarian
+|''See your 80th birthday''
+| rowspan="5" | The easiest way to do that is to:
+
+*Have full karma;
+*Go on the Mediterranean diet;
+*Never take drugs or alcohol;
+*Spend time with family every year, take vacations etc. to raise happiness;
+*Go to Space Camp to raise smarts.
+|No
+|Kind of
+|Easy
+|No
+|-
+|Nonagenarian
+|''See your 90th birthday''
+|No
+|Kind of
+|Easy
+|No
+|-
+|Centenarian
+|''See your 100th birthday''
+|No
+|Kind of
+|Easy
+|No
+|-
+|Super-centenarian
+|''See your 110th birthday''
+|No
+|Kind of
+|Medium
+|No
+|-
+|Mega-centenarian
+|''See your 120th birthday''
+|No
+|Kind of
+|Moderate
+|Yes (Geriatric)
+|-
+|Strong Genes
+|''Achieve a 500-year generation''
+|Have [[Generations]] that add up to 500+ years.
+|Yes (Bitizenship)
+|Kind of
+|Hard
+|No
+|-
+|Long Lineage
+|''Achieve a 1000-year generation''
+|Have [[Generations]] that add up to 1000+ years.
+|Yes (Bitizenship)
+|Kind of
+|Very Hard
+|No
+|-
+|Living Legacy
+|''Achieve a 5000-year generation''
+|Have [[Generations]] that add up to 5000+ years.
+|Yes (Bitizenship)
+|Kind of
+|Extreme
+|No
+|}
+</table-progress-tracking>
+
+=== Wealth ===
+<table-progress-tracking table-id="2" unique-column-index="2">
+{| class="sortable mw-collapsible fandom-table article-table"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+! Difficulty
+!Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|Millionaire
+|''Become a millionaire''
+| Have at least 1 million dollars/pounds/euros. Rare [[Heirlooms]] could also add up in the total even if they are not sold.
+|No
+|No
+|Moderate 
+|Yes
+(Successful)
+|-
+|My Second Million
+|''Achieve a net worth of $2m''
+| Have at least 2 million dollars/pounds/euros. Rare [[Heirlooms]] could also add up in the total even if they are not sold.
+|No
+|No
+|Moderate 
+|Yes (Rich)
+|-
+|Multimillionaire
+|''Achieve a net worth of $10m''
+|Have at least 10 million dollars/pounds/euro in the bank. Rare [[Heirlooms]] could also add up in the total even if they are not sold.
+|No
+|No
+|Moderate
+|Yes (Rich)
+|-
+| Rich
+|''Achieve a net worth of $20m''
+|Have at least 20 million dollars/pounds/euro in the bank. Rare [[Heirlooms]] could also add up in the total even if they are not sold.
+|No
+|No
+| Moderate
+|Yes (Loaded)
+|-
+|Super Rich
+|''Achieve a net worth of $50m''
+|Have at least 50 million dollars/pounds/euro in the bank. Rare [[Heirlooms]] could also add up in the total even if they are not sold.
+|No
+|No
+| Moderate
+|Yes (Loaded)
+|-
+|Stinking Rich
+|''Achieve a net worth of $100m''
+|Have at least 100 million dollars/pounds/euro in the bank. Rare [[Heirlooms]] could also add up in the total even if they are not sold.
+|No
+|No
+|Moderate
+|Yes (Loaded)
+|-
+|Billionaire
+|''Achieve a net worth of $1 billion''
+| Have at least 1 billion dollars/pounds/euro in the bank. The easiest way to do this is to become a royal in [[Saudi Arabia]] or [[Monaco]].
+|No
+|No
+|Hard 
+|Yes (Loaded)
+|-
+|Trillionaire
+|''Achieve a bank balance of $1 trillion''
+|Have at least 1 trillion dollars/pounds/euro. The easiest way to do this is to make a royal family that goes down many generations.
+|Kinda (Bitizenship)
+|No
+|Extreme
+|Yes (Loaded)
+|-
+|Zillionaire
+|''Achieve an absolutely ridiculous bank balance''
+|Have at least 1 quadrillion dollars/pounds/euro. The easiest way to do this is to make a royal family that goes down many generations.
+|Kinda (Bitizenship)
+|No
+|Extreme
+|Yes (Loaded)
+|}
+</table-progress-tracking>
+
+=== Career ===
+<table-progress-tracking table-id="3" unique-column-index="2">
+{| class="sortable mw-collapsible fandom-table article-table"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+! Difficulty
+!Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|9 to 5
+|''Get a job''
+|Apply for a full time job.
+|No
+|No
+|Very Easy
+|No
+|-
+|Actor
+|''Become an actor''
+|Take acting lessons when you are young until the green bar is at least 80% high. Take Then become an actor for a TV show or movie. It is recommended to have high looks (at least 80%).
+|Yes
+|Yes
+|Moderate
+|Yes (Famous)
+|-
+|Airline Captain
+|''Become an airline captain''
+|Go to university and study engineering, get a pilot's license, apply to be a pilot, and keep working hard and getting promotions until promoted to airline captain.
+|No
+|No
+|Moderate
+|No
+|-
+|At Inner Peace
+|''Work 75 years as a monk''
+|Get a job as a monk and work for 75 consecutive years (if you're 18 when you're hired, you need to work as a monk until you're 93). Going on the Mediterranean diet is recommended.
+|No
+|No
+|Hard
+|No
+|-
+|Candywriter
+|''Work for BitLife''
+|Be born in Miami, US. Study computer science in university, and then get employed by Candywriter as a mobile app developer. 
+|No
+|No
+|Moderate
+|Yes (Teammate)
+|-
+|CEO
+|''Become a CEO''
+|Go to university and study mathematics, finance, marketing, or economics, go to business school after you graduate, and get a corporate job (business analyst, operations analyst, internal auditor, etc.) after finishing business school. Alternatively, make a lot of money and start a business.
+|No
+|No
+|Moderate
+|Yes (Academic; Big Boss (if you have over $20m of net worth))
+|-
+| Dentist
+|''Become a dentist''
+|Go to university and study biology, chemistry, physics or nursing, go to dental school after you graduate, become a dentist after finishing dental school.
+|No
+|No
+|Moderate
+|Yes (Academic)
+|-
+|Doctor
+|''Become a doctor''
+|Go to university and study biology, psychology, nursing, physics or chemistry, go to medical school after you graduate, get the Family Physician or Brain Surgeon job after finishing medical school.
+|No
+|No
+|Moderate
+|Yes (Academic)
+|-
+|Fire Chief
+|''Become a fire chief''
+|Apply to be a firefighter and keep working hard and getting promotions until promoted to fire chief.
+|No
+|No
+|Moderate
+|No
+|-
+|Honest Living
+|''Get a part-time job''
+|Apply for a part-time job.
+|No
+|No
+|Very Easy
+|No
+|-
+|Jack of all Trades
+|''Have 10 careers in one life''
+|Work 10 full-time jobs in a single character's lifetime. No need to work 20 years each.
+|No
+|No
+|Easy
+|No
+|-
+| Judge
+|''Become a judge''
+| Become a lawyer first and after serving 30 years, apply for the Magistrate job.
+|No
+|No
+|Hard
+|Yes (Academic)
+|-
+|Last Resort
+|''Seduce your boss to save your job''
+|Get to the fired popup and beg your boss to stay and when called into their office, successfully shave a [[Hook-Up]] with your boss. You need to have a decent relationship with your boss and high looks, and your boss needs to be attracted to your gender and have low professionalism.
+|No
+|Yes
+|Hard
+|No
+|-
+|Lawyer
+|''Become a lawyer''
+|Go to university and study political science, english, finance, or psychology, go to law school after you graduate, get the Junior Associate job after finishing law school.
+|No
+|No
+|Moderate
+|Yes (Academic)
+|-
+|People Person
+|''Befriend all of your co-workers''
+|Successfully become friends with every co-worker.
+|Yes
+(Bitizenship)
+|Yes
+|Hard
+| No
+|}
+</table-progress-tracking>
+
+=== Combat ===
+<table-progress-tracking table-id="4" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+! Difficulty
+!Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|Armed & Dangerous
+|''Kill someone with a learned martial art move''
+|Kill someone with a martial arts move. Learn the side kick from Judo or the easgle strike from taekwondo, and then strike someone's jaw, skull, throat or forehead using this move (it doesn't matter if you attack someone on random encounter or just rumble with your siblings).
+|No
+|Yes
+|Easy
+|No
+|-
+|Cracked
+|''Accidentally murder 10 people in fights''
+|Fight or assault people 10 times, and make sure to have them die of their injuries.
+|No
+|Yes
+|Moderate
+|Yes (Deadly)
+|-
+|Flawless Victory
+|''Fight 10 people without retaliation in one life''
+|Fight or assault people 10 times in one life without them fighting back.
+|No
+|Yes
+|Moderate
+|Yes (Deadly if they die of their injuries)
+|-
+|Medieval Attack
+|''Get attacked with a medieval weapon''
+|Get into an assault with someone and have them attack you with a medieval weapon (bow, crossbow, sword, dagger, etc).
+|No
+|Yes
+|Moderate
+|No
+|-
+|No Grasshopper
+|''Earn the top belt in a martial art''
+|Work your way up any martial art until reaching the final belt. It is recommended to do so before turning 18 to save on money.
+|No
+|No
+|Easy 
+|No
+|-
+|Sensei San
+|''Earn the top belt in every martial art''
+|Work your way up every martial art until reaching the final belt. It is highly recommended to do so before turning 18 to save on money. 
+|No
+|No
+|Moderate
+|No
+|}
+</table-progress-tracking>
+
+=== Disease ===
+<table-progress-tracking table-id="5" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+!Difficulty
+!Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|Addicted
+|''Sustain 3 addictions at once''
+|Keep losing small amounts on horse races or casino to get addicted to gambling, then go clubbing and you'll sometimes be offered alcohol or drugs. Accept all alcohol until you get addicted, but some drugs are harder to get addicted to than others; morphine is the easiest one to get addicted to.
+|No
+|Yes
+|Moderate
+|Yes (Addict, if the character dies while still having the addictions)
+|-
+|Bubonic Plague
+|''Contract the bubonic plague''
+|Be diagnosed with the bubonic plague. It is recommended to stay on very low health.
+|No
+|Yes
+|Hard
+|Yes (Unlucky, if the disease kills your character when they're under 30)
+|-
+|Foam at the Mouth
+|''Contract rabies''
+|Get diagnosed with rabies. It could happen with an [[Encounter/Animal|animal encounter]] when trying to rescue or pet it. This may also happen when taking a pet to the vet if it has rabies, refuse to euthanize the pet by clicking the x sign in the top left, then try to have them attack you by continuously bathing them until they bite you. Works best for beasts with high craziness levels, so there's a higher chance of them assaulting you when giving the baths or when yelling at them.
+|No
+|Yes
+|Hard
+|Yes (Unlucky, if the disease kills your character when it's under 30)
+|-
+|Sickly
+|''Contract 10 diseases in one life''
+|Contract 10 different diseases in one life. Most are just random, but you can get diseases intentionally by not using condoms when hooking up, going to the gym, being in prison, and trolling BitLife on social media.
+|No
+|Yes
+|Hard
+|No
+|-
+|Successful Rehab
+|''Have an addiction cured at a rehab center''
+|Be addicted to alcohol, gambling, or any drug, and pay for rehab for 28 days, and be cured of the addiction.
+|No
+|Yes
+|Easy
+|No
+|-
+|Witchcraft
+|''Get cured of a disease by the witch doctor''
+|Have any [[Diseases|disease or ailment]] cured by the witch doctor by selecting "Witch Doctor" and taking her prescription and then having it say "You are no longer suffering from the disease or ailment".
+|No
+|Yes
+|Moderate
+|No
+|}
+</table-progress-tracking>
+
+=== Entertainment ===
+<table-progress-tracking table-id="6" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+! Difficulty
+!Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|BitBoi
+|''Watch Bijuu Mike on YouTube''
+|Watch Bijuu Mike with a friend on YouTube.
+|No
+|Yes
+|Easy
+|No
+|-
+|BTS Army
+|''Go to a BTS concert''
+|Go to a BTS concert with a friend. It might not show up the first time you select "Concert". You can then try with a different friend, wait a year and try again, or restart the app and see if it shows up.
+|No
+|Yes
+|Easy
+|No
+|-
+|Movie Junkie
+|''Go to 5 movies in one life''
+|Watch 5 movies in the theatre by pressing the theatre button, asking a person in your [[Relationships]] to the theatre, or by getting asked to go to the theatre. It requires the player to watch ads if they are not a Bitizen.
+|No
+|No
+|Easy
+|No 
+|-
+|Moviegoer
+|''Go to a movie''
+|Watch a movie in the theatre by pressing the theatre button, asking a person in your [[Relationships]] to the theatre, or by getting asked to go to the theatre. It requires the player to watch an ad if they are not a Bitizen.
+|No
+|No
+|Easy
+|No
+|}
+</table-progress-tracking>
+
+=== Fame ===
+<table-progress-tracking table-id="7" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+! Difficulty
+!Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|Brightest Star
+|''Achieve maximum fame''
+|Have 100% in the stats bar for Fame. Fame can be raised easily by posting on social media until you are famous enough to go to the Fame tab and do activities such as writing books, go on photo shoots, or go on talk shows.
+|No
+|No
+|Moderate
+|Yes (Famous)
+|-
+|Centerfold
+|''Pose for Wank magazine''
+|Pose on Wank magazine as a famous woman. Option is under Activities > Fame > Photo Shoot.
+|No
+|No
+|Moderate
+|Yes (Famous)
+|-
+|Endorser
+|''Get paid $2m for a commercial''
+|Get $2m for appearing in a commercial.
+|No
+|No
+|Moderate
+|Yes (Famous)
+|-
+|K-Pop
+|''Become a Famous Korean singer''
+|Be born in/emigrate to [[South Korea]] and achieve fame as a singer. To become a singer, you must take voice lessons until the bar is full, then audition to be in a band or sing solo.
+|No
+|No
+|Moderate
+|Yes (Famous)
+|}
+</table-progress-tracking>
+
+=== Fertility ===
+<table-progress-tracking table-id="8" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+!Difficulty
+!Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|DNA Donor
+|''Make 25 sperm donations in one life''
+|As a male, donate sperm 25 times. You can't donate sperm anymore once you are 45 or older so it's recommended to start at 18 and donate every year.
+|No
+|No
+|Moderate
+|No
+|-
+|Fabulously Fertile
+|''Have 10 children in one lifetime''
+|Have 10 children by pregnancy or adoption.
+|No
+|No
+|Moderate
+|Yes (Fertile)
+|-
+|Fertile Myrtle
+|''Mother 25 children in one life''
+|As a female, give birth to 25 children in one lifetime. Start giving birth at or before 18, and try to give birth to one baby each year. If you lose the baby, refresh the app.
+|No
+|No
+|Hard
+|Yes (Fertile)
+|-
+| Smart Seed
+|''Get artificially inseminated with lawyer sperm''
+|Receive sperm from a donor who has a Lawyer career. Have at least $50000 in your bank account as artificial insemination is very expensive.
+|No
+|Yes
+|Hard
+|No
+|-
+|Super Sperm
+|''Have 100 children in one life''
+|Start at 18 as a male and do hook-ups with as many women as possible. For this to succeed, you should either purchase the STD potion or simply not use a condom. If you get STDs, either cure them or refresh the app if the disease is not curable). If you run out of people to love, refresh the app. Being royalty or former royalty results in more potential flings before it runs out.  
+|No
+|No
+|Extreme
+|Yes (Fertile)
+|-
+|Three's Company
+|''Have triplets''
+|Give birth to or father a set of triplets. You are more likely to give birth to triplets via IVF or artificial insemination.
+|No
+|Yes
+|Very Hard
+|No
+|}
+</table-progress-tracking>
+
+=== Love ===
+<table-progress-tracking table-id="9" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+! Difficulty
+!Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|Bejeweled
+|''Receive 3 pieces of jewelry from the same lover''
+|Obtain 3 pieces of jewelry from a lover. Make sure your lover has a high relationship and craziness.
+|No
+|Yes
+|Hard
+|No
+|-
+|Black Widow
+|''Widow 5 husbands in one life''
+|Be married to five men who die or get killed by you after marriage. All spouses must be male but your character does not have to be female.
+|No
+|No
+|Moderate
+|Yes (Deadly if you killed them all)
+|-
+|Diamond Anniversary
+|''Be in a marriage for 75 years''
+|Get married and stay married to your spouse for 75 years without either partner divorcing or dying.
+|No
+|Yes
+|Very Hard
+|No
+|-
+|Fake It
+|''Propose successfully with a fake ring''
+|Buy a fake-jeweled ring and propose with it, having your partner accept. Works better if your partner has a very low smarts and high craziness stat.
+|No
+|Yes
+|Hard
+|No
+|-
+|Family Planner
+|''Convince a lover to go off birth control''
+|Have a female lover on birth control, tell her to get off it, and have her agree. Works better if you have a good relationship with your lover.
+|No
+|Yes
+|Easy
+|No
+|-
+|Golden Anniversary
+|''Be in a marriage for 50 years''
+|Get married and stay married to your spouse for 50 years without either partner divorcing or dying.
+|No
+|Yes
+|Hard
+|No
+|-
+|Heat of the Moment
+|''Have unprotected sex 10 times without getting an STD in one life''
+|Have unprotected sex at least 10 times in a single life without getting a sexually transmitted disease (STD). Reload the game if any symptoms of sickness occurs.
+|No
+|Yes
+|Hard
+|No
+|-
+|Maiden Named
+|''Marry a man who takes your last name''
+|Get married to a male character, keep your last name, and have him take yours. Also works if he hyphenates his surname with yours. Works better if you are in a male-male relationship.
+|No
+|Yes
+|Hard
+|No
+|-
+|Multigamist
+|''Get married 10 times in one life''
+|Go find a date, propose, get married 10 times by and divorcing your spouses one at a time. Alternatively, order a mail-order bride for 10 years.
+|No
+|No
+|Moderate
+|No
+|-
+|Russian Roulette
+|''Have unprotected sex with 20 sketchy lovers in one life''
+|Have unprotected sex with at least 20 sketchy lovers in a single life. "Sketchy" means lovers with symptoms of STDs, indicated by the text saying "some craziness down below".
+|No
+|No
+|Easy
+|Yes (Lustful or Wicked)
+|-
+|Stud
+|''Have 100 lovers in a single life''
+|Date or hook up with 100 people in a lifetime. Easily doable by spamming "Date" or "Hookup" until you have had 100 lovers, and refreshing the app if you run out of lovers.
+|No
+|No
+|Hard
+|Yes (Lustful)
+|-
+|Wedding Planner
+|''Agree to an arranged marriage''
+|Be born in an Asian country like China, Japan, or Korea. Then simply wait without marrying someone else of your choice for the situation to pop up.
+|No
+|Yes
+|Moderate
+|No
+|}
+</table-progress-tracking>
+
+=== Military ===
+<table-progress-tracking table-id="10" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+!Difficulty
+!Can also earn a [[Ribbons|Ribbon?]]
+|-
+|Career Military
+|''Serve your full career in the military''
+|Join the military at 18 (or 22 if becoming a officer) and remain until the mandatory retirement age of 62.
+|No
+|No
+|Moderate
+|Yes (Veteran if you clear three minefields during the career)
+|-
+|General
+|''Achieve the rank of general in the military''
+|Join either the army, marines, or the air force and work hard until you get the General promotion.
+|No
+|No
+|Hard
+|Yes (Veteran if you clear three minefields during the career)
+|-
+|Admiral
+|''Achieve the rank of admiral in the military''
+|Join either the navy or the coast guard and work hard until you get the Admiral promotion.
+|No
+|No
+|Hard
+|Yes (Veteran if you clear three minefields during the career)
+|-
+|Absent Without Leave
+|''Go AWOL in the military''
+|Join the military, then get addicted and go to rehab.
+|No
+|No
+|Moderate
+|No
+|-
+|Excavator
+|''Clear 10 minefields''
+|Succeed at deployment missions 10 times, not all in one life.
+|No
+|No
+|Very Hard
+|No
+|}
+</table-progress-tracking>
+
+=== Prison ===
+<table-progress-tracking table-id="11" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+!Difficulty
+!Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|Behind Bars
+|''Spend 50 years in prison''
+|Spend 50 years in prison without escaping, being released, being paroled, being vindicated, or dying. Try to keep your health up by meditating or going to the gym, as well as ignoring any prisoner interactions.
+|No
+|No
+|Very Hard
+|Yes (Scandalous)
+|-
+|Cry Baby
+|''Cry in prison''
+|Choose "Cry" in prison activities.
+|No
+|No
+|Easy
+|No
+|-
+|Escape Artist
+|''Escape from prison''
+|Get sentenced to prison, and solve an escape puzzle. Puzzle solutions can be found on YouTube or articles online.
+|No
+| No
+|Moderate
+|Yes (Cunning, if you don't go back to prison)
+|-
+|Gangsta
+|''Join a prison gang''
+|Successfully join any prison [[Prison/Gangs|gang]]. Take note the names and descriptions of the gangs, as they determine the quality you'll be judged by when trying to join.
+|Yes (Bitizenship)
+|No
+|Easy
+|No
+|-
+|Instigator
+|''Start a prison riot''
+|Go to prison and successfully start a riot.
+|No
+|No
+|Moderate
+|No
+|-
+|Justice
+|''Get freed from prison by appeal''
+|Be vindicated by having good behavior then appeal with the most expensive lawyers.
+|No
+|No
+|Varies
+|No
+|-
+|Midnight Express
+|''Get sentenced to a Turkish prison''
+|Have a character who lives in [[Turkey]], commit a [[crime]] and get sentenced to prison.
+|No
+|No
+|Easy
+|No
+|-
+|Theseus
+|''Escape a supermax prison''
+|Complete a prison escape puzzle from a maximum-security prison. Puzzle solutions can be found on YouTube or articles online.
+|No
+|No
+|Hard
+|Yes (Cunning, if you don't go back to prison)
+|-
+|True Lifer
+|''Spend 75 years in prison''
+|Spend 75 years in prison without escaping, being released, being paroled, being vindicated, or dying. Start the Mediterranean diet before going to prison, then try to keep your health up by meditating or going to the gym, as well as ignoring any prisoner interactions.
+|No
+|No
+|Extreme
+|Yes (Scandalous)
+|-
+|Aftermath
+|''Escape prison in a riot''
+|Have a prison riot that leads to escape (usually after the riot with 25 prisoners). It is recommended to have high health and smarts.
+|No
+|No
+|Extreme
+|No
+|-
+|Inmating
+|''Get a lover pregnant on a conjugal visit''
+|Get a lover with a high craziness and make sure she's young enough to give birth, get sentenced to prison very young (like at 18), and make sure you have a full relationship with them because they might refuse to see you if the relationship bar is not full. Then set up a conjugal visit and there's a high chance that your lover will make love to you. Keep doing it every year if they didn't get pregnant. 
+|No
+|Yes
+|Moderate
+|No
+|-
+|Mercy Me
+|''Get granted clemency''
+|Be on your best behavior the whole time in prison while you are having a death sentence, that means complimenting the warden or doing good things in prison. It's recommended to be in the United States. 
+|No
+|Yes 
+|Very Hard
+|Yes (Scandalous)
+|}
+</table-progress-tracking>
+
+=== Royalty ===
+<table-progress-tracking table-id="12" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+!Difficulty
+!Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|Executioner
+|''Execute 20 people''
+|As a monarch, execute 20 people. Be aware that your respect bar sink into the bottom.
+|No
+|No
+|Hard
+|Yes (Deadly)
+|-
+|Markle
+|''Marry into the British royal family''
+|Live in the United Kingdom. Once you are 18 years or older, keep finding dates until somebody in the British royal family comes up. Start dating them, and marry them at some point.
+|No
+|Yes
+|Very Hard
+|No
+|-
+|Monarch
+|''Become a monarch''
+|Be born as the oldest son of a king and wait until your father dies or marry a queen (you can just murder your father if you'd like to speed up the process).
+|No
+|Yes
+|Easy
+|No
+|-
+|Napoleon
+|''Get exiled to a distant land''
+|Be a prince/king in the royal family and be exiled by the people to another country. Your respect must be very low. Try executing lots of people and performing public disservices.
+|No
+|No
+|Hard
+|No
+|-
+|Reign Over Us
+|''Reign as monarch for 100 years''
+|Be in a second generation where you succeed yourself. Be a monarch, give birth to a baby (make sure they're the only baby and not born out of wedlock) with your wife before dying/surrendering, before living your next life as your baby, which will automatically be crowned as monarch. When you turn 18 in that life, take the Mediterranean diet and live until age 100.
+|No
+|Yes
+|Moderate
+|No
+|}
+</table-progress-tracking>
+
+=== Real Estate ===
+<table-progress-tracking table-id="13" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+!Difficulty
+!Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|House Hunter
+|''Make $2m from flipping houses''
+|Sell houses and gain $2M in profit. Easiest way to do so is to buy many haunted houses, exorcise them, and sell them after a couple years.
+|No
+|No
+|Moderate
+|Yes (Monopoly)
+|-
+|Mansion Party
+|''Throw a party in a mansion''
+|Own a mansion and throw a party in the mansion.
+|No
+|No
+|Easy
+|No
+|-
+|Real Estate Mogul
+|''Purchase real estate worth $10m combined''
+|Spend at least $10M buying houses.
+|No
+|No
+| Hard 
+|No
+|-
+|Trailer Party
+|''Throw a party in a trailer''
+|Own a trailer and throw a party in the trailer.
+|No
+|No
+|Easy
+|No
+|}
+</table-progress-tracking>
+
+=== School ===
+<table-progress-tracking table-id="14" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+! Difficulty
+!Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|Brothers Forever
+|''Get hired by a frat brother''
+|Go to university in the United States or Canada, join a fraternity or sorority, then apply to jobs until you get the popup that your interviewer was from the same frat and chose to hire you without interview.
+|No
+|Yes
+|Moderate
+|No
+|-
+|Earning that A
+|''Seduce your teacher''
+|Go to university with high looks and seduce a professor. The professor should have low professionalism. Chance-based if Bitizenship is not available.
+|No
+|No
+|Moderate
+|No
+|-
+|Fast Times at BitLife High
+|''Go to high/secondary school''
+|Go to high/secondary school.
+|No
+|No
+|Very Easy
+|No
+|-
+|Naughty Child
+|''Get expelled from school''
+| Do actions like bullying, insulting/annoying teachers, and having many part-time jobs/high stress to lower your grades. You can also get caught committing a crime and be sent to juvie.
+|No
+|No
+|Moderate
+|No
+|-
+|School's in Session
+|''Go to elementary school''
+|Go to elementary school. Likely to be a new player's first ever achievement.
+|No
+|No
+|Very Easy
+|No
+|-
+|Something New Every Day
+|''Go to middle school''
+|Go to middle school.
+|No
+|No
+|Very Easy
+|No
+|-
+|Swimming Star
+|''Become the captain of the swim team''
+|Join the swim team in school and become the captain. Having good athletism is recommended.
+|No
+|No
+|Easy
+|No
+|}
+</table-progress-tracking>
+
+=== Social Media ===
+<table-progress-tracking table-id="15" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+!Difficulty
+!Can also earn a [[Ribbons|Ribbon?]]
+|-
+|Social Media
+|''Join social media''
+|Tap the Activities button, tap Social Media and sign up for a social media account.
+|No
+|No
+|Very Easy
+|No
+|-
+|Social Media Sharer
+|''Post on social media''
+|Post a status update on social media. It requires the player to share the app if they are not a [[Bitizenship|Bitizen]].
+|No
+|No
+|Very Easy
+|No
+|-
+|Social Media Oversharer
+|''Post 5 times on social media in one life''
+|Post 5 status updates in 1 year.
+|No
+|No
+|Very Easy
+|No
+|-
+|Social Media Star
+|''Get a million followers on social media''
+|Get famous and keep posting every year until you reach a million followers.
+|No
+| No
+|Moderate
+|Yes (Influencer)
+|-
+|Check!
+|''Get a social media account verified''
+|Become famous and have your account verified.
+|No
+|No
+|Easy
+|Yes (Famous)
+|-
+|OnlyFeet
+|''Gain 1M+ subscribers on OF just by using your feet''
+|Start an OnlyFans account and post only foot-related content at least twice a year until you have gained at least 1 million subscribers. To speed up the progress, you can lower the subscription price of your account.
+|No
+|No
+|Moderate
+|TBA
+|-
+|Just the Tip
+|''Ignore someone’s request after they tipped $50,000+''
+|Be tipped at least $50,000 by a single OnlyFans subscriber, but ignore their tip.
+|No
+|No
+|Easy
+|TBA
+|-
+|Collaboration Sensation
+|''Gain 5,000 subscribers from a single OF collaboration''
+|Gain at least 5,000 new subscribers as a result of accepting a single collaboration request.
+|No
+|Yes
+|Moderate
+|TBA
+|-
+|#OnlyTops
+|''Be in the Top 0.01% of content creators on OnlyFans''
+|Start an OnlyFans account and post content at least twice a year until you reach the top 0.01%. To speed up progress, you can advertise your OnlyFans account on other social media platforms, but risk losing subscribers on those platforms.
+|No
+|No
+|Very Hard
+|TBA
+|-
+|Moby Dick
+|''Receive a fishing boat from an OF subscriber''
+|Have an OnlyFans subscriber donate you a fishing boat. You must have a boating license in order to add it to your wishlist.
+|No
+|Yes
+|Hard
+|TBA
+|-
+|Deep Strokes
+|''Work out with a collaborator on OnlyFans''
+|Be asked by a collaborator on OnlyFans to work out together.
+|No
+|Yes
+|Moderate
+|TBA
+|}
+</table-progress-tracking>
+
+=== Vehicle ===
+<table-progress-tracking table-id="16" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+!Difficulty
+!Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|Antiqued
+|''Keep a car running for 200 years''
+|Keep a car running for 200 years without it being scrapped or sold. When giving it to a new [[Generations|generation,]] make sure the next generation is old enough to own the car. Keep maintaining the car twice a year to keep the condition up. Possible, but extremely hard without [[Bitizenship]].
+|Kinda (Bitizenship)
+|No
+|Hard
+|No
+|-
+|Car Collector
+|''Assemble a car collection worth $1m''
+|Spend $1m buying cars, preferably coupes and sports cars (recommended to have at least $1m-2m so that the expensive cars will show.)
+|No
+|No
+|Moderate
+|Yes (Rich or Loaded)
+|-
+|Extra Leg Room
+|''Take your own 747 on a vacation''
+| Go on vacation in your own Boeing 747. They cost a little more than $390,000,000.
+|No
+|No
+|Moderate
+|No
+|-
+|Lambo
+|''Buy a Lamborghini''
+|Go to a car dealership and buy a Lamborghini.
+|No
+|Yes
+|Moderate
+|No
+|-
+|Not The Yellow One
+|''Buy a submarine''
+|Purchase a submarine for a little more than $2,200,000,000.
+|No
+|No
+|Hard
+|No
+|-
+|Titanic Trouble
+|''Run into trouble on a yacht''
+|Have a situation pop up or get an empty enjoyment bar when riding a yacht.
+|No
+|Yes
+|Moderate
+| No
+|}
+</table-progress-tracking>
+
+=== Animal ===
+<table-progress-tracking table-id="17" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+!Difficulty
+!Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|Animal Rescue
+|''Rescue an animal''
+|Have an encounter with an animal and choose "Rescue it" and/or "Keep it as a pet" if it could be kept as a pet.
+|No
+|Yes
+|Moderate
+|No
+|-
+|Lion Tamer
+|''Rescue a lion''
+|Have an encounter with a lion and choose "Rescue it" and/or "Keep it as a pet".
+|No
+|Yes
+|Hard
+|No
+|-
+|Gorilla and the Fist
+|''Get decapitated by a gorilla''
+|Get a situation where someone is attacked by a gorilla, choose "Attempt to rescue him/her", fail and die when the gorilla punches your character's head off. Can also happen if attacked to death by a [[Pets|pet]] gorilla.
+|No
+|Yes
+|Hard
+|No
+|-
+|Deaf Leopard
+|''Yell at a leopard''
+|Have an encounter with a leopard and choose "Yell at it" or have a pet leopard and yell at it if it misbehaves.
+|No
+|Yes
+|Moderate
+|No
+|-
+|Hungry Hippo
+|''Get killed by a hippopotamus''
+|Have an encounter with a hippo, then choose to rescue it.
+|No
+|Yes
+|Hard
+|No
+|-
+|Unicorn
+|''Find a unicorn''
+|Have an encounter with a unicorn.
+|No
+|Yes
+|Extreme
+|No
+|}
+</table-progress-tracking>
+
+=== Crime ===
+<table-progress-tracking table-id="18" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+!Difficulty
+!Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|A Regular Dick Dastardly
+|''Commit 5 crimes''
+|Commit five different types of crimes.
+|No
+|No
+|Easy
+|No
+|-
+|Backstabber
+|''Kill 15 Enemies-turned-Friends''
+|Befriend someone and make them your enemy, then keep your relationship up and befriend them. After that, go into Activites > Crime > Murder, and kill them. (Repeat 15 times)
+|No
+|No
+|Very Hard
+|Yes (Deadly)
+|-
+|Balcony Buccaneer
+|''Steal 100 packages in one life''
+|Commit the "porch pirate" crime 100 times and always get away with it. If you get caught, refresh the app and try again.
+|No
+|No
+|Very Hard
+|Yes (Thief)
+|-
+|Bugatti Bandit
+|''Steal a Bugatti''
+|Steal a Bugatti via Grand Theft Auto.
+|No
+|Yes
+|Hard
+|No
+|-
+|Burglar
+|''Burgle 25 homes in one life''
+|Burgle 25 houses. The easiest way to do this is to only take one item and then leave the house.
+|No
+|No
+|Hard
+|Yes (Thief)
+|-
+|Cold Killer
+|''Kill 10 people in one life''
+|Murder 10 people in one lifetime. The easiest way to do this is to be in the mafia and whack out family members/business owners, or to become a monarch and execute people. The easiest way to murder without in-app purchases is to do drive-byes with a fast car.
+|No
+|No
+|Hard
+|Yes (Deadly)
+|-
+|Cosa Nostra
+|''Join the Sicilian mafia''
+|Be born in Palermo, Italy and commit crimes at a young age. Afterwards, access the "Join the Sicilian Mafia" option under Occupations > Special Careers > Crime.
+|Yes
+|No
+|Easy
+|No
+|-
+|Dillinger
+|''Rob 5 banks in one life''
+|Successfully commit armed robbery 5 times in one life.
+|No
+|No
+|Hard
+|Yes (Thief)
+|-
+|Godfather
+|''Become a mafia godfather''
+|Join the mafia and continuously contribute large amounts of money each year while maintaining a good relationship with the others. Eventually, you will get promoted to godfather (note that you can also just kill all underbosses and the godfather as an underboss yourself to fasten the process).
+|Yes
+|No
+|Hard
+|No
+|-
+|Going Anywhere
+|''Rob the midnight train''
+|Commit Train Robbery exactly at midnight in your time zone (don't cheat — the game can detect it and the train will [[Death|kill you]]).
+|No
+|No
+|Easy
+|Yes (Bandit)
+|-
+|Mischief Managed
+|''Commit a crime''
+|Commit any type of crime.
+|No
+|No
+|Very Easy
+|No
+|-
+|Rat Spotter
+|''Correctly identify a rat in the mafia''
+|Randomly, one of your mafia associates/coworkers will turn on your Family and report you. If this popup appears, exit and re-enter the app, turning back time to the last year, and expose them as a rat.
+|Yes
+|Yes
+|Moderate
+|No
+|-
+|Red Rum
+|''Murder 50 people in one life''
+|Murder 50 people in one lifetime. You can do this fairly easily by becoming a royal, succeed to monarch, then execute 50 people.
+|No
+|No
+|Very Hard
+|Yes (Deadly)
+|-
+|Scare to Death
+|''Scare someone to death''
+|Murder someone using the "Scare to Death" method.
+|No
+|No
+|Moderate
+|No
+|-
+|Serial Killer
+|''Kill 25 people in one life''
+|Murder 25 people in one lifetime.
+|No
+|No
+|Very Hard
+|Yes (Deadly)
+|-
+|The Program
+|''Enter the Witness Protection Program''
+|Enter the W.P.P by joining the mafia, having a decent relationship with the family, becoming a confidential informant, and collecting info on your associates/coworkers without getting caught. You must not be caught doing crimes during this point! After turning them all into the police, you may move to another country, deleting all your previous relationships (besides your family), under a new name.
+|Yes
+(Mafia)
+|No
+|Moderate
+|No
+|-
+|Troublemaker
+|''Commit 3 crimes''
+|Commit three different types of crimes.
+|No
+|No
+|Easy
+|No
+|}
+</table-progress-tracking>
+
+=== Pet ===
+<table-progress-tracking table-id="19" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+!Difficulty
+!Can you also earn a [[Ribbons|Ribbon?]]
+|-
+|Adopt Don't Shop
+|''Adopt every pet in the shelter''
+|Buy at least 2 Farms or Equestrian Properties, go to the animal shelter, and rescue every pet there.
+|No
+|No
+|Moderate
+|No
+|-
+|Horsing Around
+|''Own 50 horses in one life''
+|Buy at least 2 Farms or Equestrian Properties and buy every horse available each year. They'll be cheaper in [[Belgium]]. Do not sell them after purchase because that does not count as owning them. It will be easier if you have a good job or if you are famous.
+|Yes (Bitizenship)
+|No
+|Hard
+|No
+|-
+|Just Keep Swimming
+|''Buy a goldfish and release it''
+|Buy a goldfish in the Pet Store and release it back into the water, though if you have a spouse, they may argue with you if you do so.
+|No
+|No
+|Easy
+|No
+|-
+|Natural Selection
+|''Have a pet that kills your lover''
+| Adopt an exotic animal with high craziness and have them attack your lover to death. You can also rescue exotic animals in random encounters, though the risk of death is higher.
+|Kinda (Bitizenship)
+|Yes
+|Hard
+|No
+|-
+|No Probllama
+|''Buy a llama''
+|Live in South America. Buy a farm or Equestrian Property, then go to the Llama Farm to purchase a llama.
+|Yes (Bitizenship)
+|No
+|Moderate
+|No
+|}
+</table-progress-tracking>
+
+=== General ===
+<table-progress-tracking table-id="20" unique-column-index="2">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+!Difficulty
+!Can also earn a [[Ribbons|Ribbon?]]
+|-
+|Absolutely Fabulous
+|''Collect all 11 Pride Scavenger Hunt Objects''
+|Collect all objects from the [[Scavenger Hunts|Pride Month Hunt]].
+|TBA
+|No
+|Moderate
+|No
+|-
+|All Along
+|''Have a parent who comes out of the closet''
+| Have a closeted parent reveal themselves to be gay or bisexual.
+|No
+|Yes
+|Hard
+|No
+|-
+|Amor Oo Na Na
+|''Find all 10 candy hearts in the Valentine's Day Scavenger Hunt''
+|Complete the Valentine's Day Scavenger Hunt.
+|TBA
+|TBA
+|TBA
+|TBA
+|-
+|Begone
+|''Exorcise your own ghost''
+|Become an exorcist, live in a haunted house, and successfully perform an exorcism on the [[Ghosts|ghost]] by yourself. Easier when the ghost is very friendly and not very active.
+|No
+|No
+|Hard
+|No
+|-
+|BitLife Legend
+|''Complete every other achievement''
+|Complete all achievements.
+|Yes (Bitizenship, Stock Market, Landlord, Black Market, Casino, Cult, Zoo, Luxury, and Racing (possibly also Astronaut, Model, and Dealing))
+|Yes (Some achievements are)
+|Impossible (Some achievements are bugged)
+|No
+|-
+|Booty Call
+|''Have a successful Brazilian butt lift''
+|Go to Plastic Surgery and get a Brazilian butt lift. For it to be successful, consult the doctor with higher reputation. Only available for female characters.
+|No
+|Yes
+|Easy
+|No
+|-
+|Bosom Buddies
+|''Make a friend''
+|Make a friend.
+|No
+|A bit
+|Very Easy
+|No
+|-
+|Cliff Diver
+|''Go cliff diving''
+|As a child or teen, your friends will jump off a cliff into water and ask if you would join. Select "Jump". This achievement can also be earned if you spend time with [[Relationships|someone]] and the [[Events|activity]] you end up doing is cliff diving. It will say "I went cliff diving with my (person you spent time with)".
+|No
+|Yes
+|Moderate
+|No
+|-
+|Dignified Donor
+|''Donate a $1m+ heirloom to charity''
+|Donate a $1m+ heirloom to charity. You can save the lost money by closing the game then reopening it, which will undo the action and still give you the achievement.
+|No
+|Yes
+|Hard
+|No
+|-
+|Double Threat
+|''Release a diamond album and receive a Bitty in the same life''
+|In a single lifetime, release an album that gets a diamond certification and receive a Bitty award.
+|Yes (Music or Acting)
+|Yes
+|Very Hard
+|Yes (Famous)
+|-
+|Egg-celent 
+|''Collect all 20 BitLife Easter Eggs''
+|Collect all objects from the [[Scavenger Hunts|Easter Egg Hunt]].
+|TBA
+|No
+|Moderate
+|No
+|-
+|Fancypants
+|''Put on an accessory''
+|Complete a [[Challenges|challenge]], then obtain an accessory that you can put on on the Accesories tab.
+|No
+|Depends
+|Depends from Very Easy to Moderate
+|No
+|-
+|Flamin' Hot
+|''Survive 60 years on a Hot Cheetos diet''
+|Start a Hot Cheetos diet, don't switch the diet and live for at least 60 more years. Make sure to increase your health each year as much as possible.
+|No
+|No
+|Very Hard
+|No
+|-
+|Flee the Country
+|''Emigrate to escape justice''
+|Get sentenced to prison then successfully immigrate to another country once you escaped. You can also emigrate after deserting the military.
+|No
+|No
+|Moderate
+|Yes (Cunning)
+|-
+|Frankenstein
+|''Survive 5 botched plastic surgeries''
+|Survive 5 failed plastic surgeries. Chances increase if you only consult surgeons with low credibility and only get botox.
+|No
+|No
+|Moderate
+|No
+|-
+|Goat Grabber
+|''Join a goat grabbing team''
+|Be born in [[Afghanistan]]. Join the goat grabbing team once you started secondary school. You need at least half athleticism.
+|No
+|No
+|Moderate
+|No
+|-
+|Hero
+|''Save someone's life''
+|Have an [[Situation/SOS|SOS situation]] and choose "attempt to rescue him/her".
+|No
+|Yes
+|Moderate
+|Yes (Hero)
+|-
+|Hiss, Hiss
+|Complete the 2025 Lunar New Year Scavenger Hunt
+|Complete the 2025 Lunar New Year Scavenger Hunt.
+|TBA
+|TBA
+|TBA
+|TBA
+|-
+|Human Dictionary
+|''Read the dictionary''
+|Read the 3,500- page Merriam Webster dictionary from cover to cover.
+|No
+|No
+|Moderate
+|No
+|-
+|Hyperthymesia
+|''Score 20 sequences on the memory test''
+|Take the memory test minigame and score at least 20 correct.
+|No
+|No
+|Hard
+|No
+|-
+|I'll Be There For You
+|''Make 5 friends''
+|Make five friends.
+|No
+|A bit
+|Easy
+|No
+|-
+|Island Hopper
+|''Emigrate to Cuba, Aruba, Japan, and Samoa in one life''
+|In a single lifetime, legally emigrate to Cuba, Aruba, Japan, and Samoa.
+|No
+|No
+|Moderate
+|No
+|-
+|Jackpot
+|''Win the lottery jackpot''
+|You get this achievement by winning the lottery. The easiest way to do that is still purely luck-based, which is to get the Lucky Dice heirloom and buy 10 lottery tickets (buying multiple times in one year still works).
+|No
+|Yes
+|Moderate
+|Yes (Rich/Loaded if the jackpot was really big)
+|-
+|Lil' Devil
+|''Complete the 7 Deadly Sins Scavenger Hunt''
+|Collect all objects from the [[Scavenger Hunts|7 Deadly Sins Hunt]].
+|TBA
+|No
+|Moderate
+|No
+|-
+|Lowroller
+|''Get refused entry to a casino''
+|Have little money and get in debt with a casino. Once you get out of jail, try to re-enter, that's when it will say you are banned from the casino.
+|No
+|No
+|Easy
+|No
+|-
+|Magical Mogul
+|''Become a famous CEO and magician in the same life''
+|In a single lifetime, become a magician and a famous CEO.
+|No
+|No
+|Hard
+|Yes (Famous)
+|-
+|Master Gobbler
+|Discover all 10 totems in the Thanksgiving Scavenger Hunt
+|Collect all objects from the Thanksgiving Scavenger Hunt.
+|TBA
+|TBA
+|TBA
+|TBA
+|-
+|Messi, Messi, Messi
+|Complete the Soccer Striker Scavenger Hunt
+|Collect all badges from the Soccer Striker Scavenger Hunt.
+|TBA
+|TBA
+|TBA
+|TBA
+|-
+|Nightmare
+|''Wake up from a nightmare''
+|Have a situation that turns out to be a bad dream, the best chance when you have a specialty vehicle (like a boat), and bump into a crash situation. Choose to do nothing and die and you have a chance to wake up from a nightmare. Using an alternative life for this achievement is suggested as if it isn't a nightmare, your character dies.
+|No
+|Yes
+|Very Hard
+|No
+|-
+|Nomad
+|''Emigrate to 20 countries in one life''
+|In a single lifetime, legally emigrate to any country.
+|No
+|No
+|Moderate
+|Yes (Globetrotter)
+|-
+|Pal World
+|''Make 3 friends''
+|Make three friends.
+|No
+|A bit
+|Easy
+|No
+|-
+|Paranightmare
+|''Contract PTSD after a paranormal experience''
+|Have a haunted house and be so scared by a [[Ghosts|spirit]] or paranormal activity that you get PTSD.
+|No
+|Yes
+|Hard
+|No
+|-
+|Perfection
+|''Achieve perfect stats''
+|Have 100% Happiness, Health, Smarts, and Looks.
+|No
+|No
+|Moderate (Very Easy with [[God Mode]]
+|No
+|-
+|Player Perks
+|''Accept a casino's hospitality offer''
+|Get famous and agree to go to a casino after being offered something in return for going and playing. This could also happen if you gamble a lot of money at a casino and don't return to the casino for a few years.
+|No
+|Yes
+|Hard
+|No
+|-
+|Quit Your Witchin'
+|''Get attacked by the witch doctor''
+|Curse the BitLife devs. You may be approached by the witch doctor and forced to take her treatment.
+|No
+|Yes
+|Moderate
+|No
+|-
+|Resourceful
+|''Get $1m without ever working a day''
+|Ask family members and lovers for money and never get a job (not even part-time) You can also do crime, gamble, sell inherited properties, etc— just don't get a job. The easiest way is to become a royal.
+|No
+|No
+|Hard
+|Yes (Gold Digger if you're aiming for that)
+|-
+|Rich Justice
+|''Win a $1m+ lawsuit''
+|Have a botched plastic surgery and sue the surgeon for maximum damage which is slightly over $1m. Best if the surgeon has low credibility, which increases chance of it being botched.
+|No
+|No
+|Moderate
+|No
+|-
+|Roswell
+|''Have an alien encounter''
+|Have a situation with one of your specialty vehicle. There's a chance that you'll encounter an alien.
+|No
+|Yes
+|Moderate
+|No
+|-
+|Run Bitizen!
+|''Win a bet on Bitizen the horse''
+|Bet on the [[Horse Races]] for Bitizen, and have Bitizen win.
+|No
+|Yes
+|Very Hard
+|No
+|-
+|Sacrilege
+|''Play with the Holy Grail''
+|Receive the Holy Grail as an [[heirloom]] and play with it.
+|No
+|Yes 
+|Extreme
+|Yes if sold (Loaded)
+|-
+|Say Goodbye to Hollywood
+|''Get deported from the United States''
+|Have a character illegally emigrate to the United States (or immigrate there and commit a crime) and get deported back to their original country.
+|No
+|No
+|Easy
+|No
+|-
+|Skeezy
+|''Get called "skeezy"''
+|Get insulted by someone and have them call you "skeezy". There are many ways of getting insulted, such as random encounters, arguing or getting insulted back.
+|No
+|Yes
+|Hard
+|No
+|-
+|Snake Snack
+|''Eat a snake''
+|Be offered a snake by friends as an exotic food and select "Yes, that might be tasty". Note that this could give your character food poisoning but it is easily curable. Snakes and snake venom may also be offered by a witch doctor.
+|No
+|Yes
+|Moderate
+|No
+|-
+|Spookmaster
+|''Discover all 11 totems in the Halloween Scavenger Hunt''
+|Collect all objects from the [[Scavenger Hunts|Halloween Scavenger Hunt]].
+|TBA
+|No
+|Moderate
+|No
+|-
+|Star-Spangled Bitizen
+|''TBA''
+|Collect all objects from the [[Scavenger Hunts|Independence Day Scavenger Hunt]].
+|No
+|No
+|Moderate
+|Yes (Famous for the Football Badge)
+|-
+|Sweepstakes
+|''Win the sweepstakes''
+|Have [[notifications]] on for the sweepstakes and win the prize.
+|No
+|Yes
+|Hard
+|No
+|-
+|There's Always Canada
+|''Emigrate to Canada''
+|Have a character who is not Canadian, press the "Emigrate" button and choose "Canada" when it pops up.
+|No
+|No
+|Easy
+|No
+|-
+|Totes Compatible
+|''Complete the 12 Zodiac Scavenger Hunt''
+|Collect all objects from the [[Scavenger Hunts|Zodiac Scavenger Hunt]].
+|TBA
+|No
+|Moderate
+|No
+|-
+|Try & Stop Me
+|''Violate a restraining order''
+|Have a restraining order placed on your character through stalking or endlessly calling/texting/gifting your ex. Call/text them once more after receiving the order.
+|No
+|No
+|Easy
+|No
+|-
+|Ultimate Betrayal
+|''Your spouse leaves you following a gender reassignment''
+|Be married and get gender reassignment surgery. Unless your spouse is bisexual, your spouse will not approve of your new gender and leave you.
+|No
+|No
+|Moderate
+|No
+|-
+|Unethical
+|''Bribe a college official''
+|Be very rich and have low smarts. Your kid will have low smarts too— if they apply to a university and get rejected, a popup will come up that will let you bribe an official.
+|No
+|Yes
+|Hard
+|No
+|-
+|Winnipeg, Eh?
+|''Visit Winnipeg on vacation''
+|Go on vacation and find Winnipeg, Canada when it pops up. You can also get the achievement if you honeymoon there.
+|No
+|Yes
+|Moderate
+|No
+|-
+|ZAP!
+|''Get struck by lightning''
+|Be struck by lightning. Note that it can max your stats or completely ruin them.
+|No
+|Yes
+|Very Hard
+|Yes (Unlucky if the character dies regardless of if they are under age 30)
+|}
+</table-progress-tracking>
+
+== Special Careers==
+
+===Sports===
+<table-progress-tracking table-id="30" unique-column-index="1">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+! Description
+!How to Achieve
+!Does it require in-app purchases?
+! Chance-Based?
+!Difficulty
+!Can also earn a [[Ribbons|Ribbon?]]
+|-
+|Canton
+|''Get inducted into the football hall of fame''
+|Become a professional football player. Practice every skill every year, train every year, never dope and be on a strong team so you can win more championships. 5 or so years after you retire, you may be inducted into the hall of fame.
+|No
+|No
+|Hard
+|Yes (Famous/Rich)
+|-
+|Full Ride 
+|''Accept an athletic scholarship''
+|Join one of the sports teams that you can play professionally later on and practice every year all throughout school. When you graduate highschool, you may be offered an athletic scholarship at a university. 
+|No
+|No
+| Moderate
+|No
+|-
+|Lance
+|''Win a championship while doping''
+|While a professional sports player, start doping, and have your team win the championship the next year.
+|No
+|No
+|Moderate
+|Yes (Famous/Rich) 
+|-
+|Cristiano
+|''Win the Ballon d'Or''
+|Become a professional soccer player. Practice every skill every year and train every year and if you're good enough, one year you'll win the Ballon d'Or for being the best player in the league.
+|No
+|No
+|Moderate
+|Yes (Famous/Rich)
+|-
+|Giggsy
+|''Win 13 career championships''
+|Become a professional sports player and join a strong team. Have your team win the championship at least 13 times.
+|No
+|No
+|Very Hard
+|Yes (Famous/Rich) 
+|-
+|Hooker 
+|''Get paid to be a hooker''
+|Play the hooker position for a rugby team.
+|No
+| Yes
+|Easy
+|Yes (Famous/Rich)
+|}
+</table-progress-tracking>
+
+=== Music===
+<table-progress-tracking table-id="31" unique-column-index="1">
+{| class="article-table mw-collapsible"
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+! Difficulty
+!Can also earn a [[Ribbons|Ribbon?]]
+|-
+| Bling Bling
+|''Have a record earn a diamond certification''
+|Join a band or become a solo artist and create an album. If the album becomes vastly popular, it could earn diamond certification.
+|No
+|Yes
+|Very Hard
+|Yes (Famous or Rich)
+|-
+|Didgeridoo'er
+|''Master the didgeridoo''
+|Visit Activities > Mind & Body > Instruments and practice the didgeridoo until the skills bar is full. Best start in childhood, as didgeridoo practice is expensive, and have music as your talent. 
+|No
+|No
+|Moderate
+|No 
+|-
+|Keep it on the Down Hoe 
+|''Perform at a hoedown''
+|Join a band or become a solo artist. If you ask for a concert, one of the concerts that might show up is a hoedown. Perform at the hoedown.
+|No
+|Yes
+|Easy 
+| Yes (Famous or Rich)
+|-
+|Lyrical Legend
+|''Release 25+ studio albums in one life''
+|Join a band or become a solo artist. Release a studio album every year for 25 years. You can't release more than one album or single per year.
+|No
+|No
+|Moderate
+|Yes (Famous or Rich)
+|-
+|Moves Like Jagger
+|''Go on tour at age 75+''
+|Join a band or become a solo artist. Release an album, perform at a concert and/or go on tour every year to increase or maintain popularity. When you are 75 years or older, go on tour.
+|No
+|No
+|Easy
+|Yes (Famous or Rich)
+|}
+</table-progress-tracking>
+
+===Acting===
+<table-progress-tracking table-id="32" unique-column-index="1">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-
+Based?
+!Difficulty
+!Can also earn
+a [[Ribbons|Ribbon]]?
+|-
+|Baby, I'm Bollywood! 
+|''Play a leading role in a Bollywood film''
+|Become an actor in India and have the leading role in a Bollywood film. 
+|No
+|No
+|Easy
+|Yes (Famous) 
+|-
+|Best in Show
+|''Win an award for Best Actor''
+|Keep joining movies/TV shows. Keep practicing, developing character and have a good relationship with the rest of the cast.
+|No
+|Yes
+|Moderate
+|Yes (Famous)
+|-
+|Boo! Boooo! 
+|''Get booed offstage at an awards show''
+|???
+|No
+|Yes
+|Hard
+|???
+|-
+|Co-Star Calmer
+|''Comfort a nervous co-star''
+|When the popup appears detailing a nervous co-star, choose the "Comfort" option.
+|No
+|Yes
+|Easy
+|No
+|-
+|Deadpan Performance
+|''Get hired to play a zombie as an extra''
+|Choose the "Extra" option until the option to play as a zombie appears.
+|No
+|Yes
+| Very Easy
+|No
+|-
+|Por Siempre con Amor
+|''Star in a long-running telenovela''
+|Become an actor in a Latin American country (i.e. Colombia) and have a reoccurring role in a telenovela (Latin American soap opera).
+|No
+|No
+|Moderate
+| Yes (Famous)
+|-
+|Smells Like Asscar
+|''Win an award for Worst Picture''
+|???
+|No
+|Yes
+|Hard
+|???
+|-
+|That's Showbiz
+|''Get dropped by a talent agent''
+|Have your agent drop you. This is usually done by failing to get auditions.
+|No
+|No 
+|Very Easy
+|No 
+|-
+|Worst than Bennifer
+|''Experience critics call your film worse than Gigli''
+|Star in a movie with very low script quality. 
+|No
+| No
+|Easy
+|Yes (Famous)
+|}
+</table-progress-tracking>
+
+===Street Hustling===
+<table-progress-tracking table-id="33" unique-column-index="1">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Acheive
+!Chance-Based? 
+!Difficulty
+!Can also earn
+a [[Ribbons|Ribbon]]?
+|-
+|Benevolent Beast
+|''Panhandle change from an animal''
+|While panhandling, a popup may appear detailing a animal encounter. When this appears, simply choose the "Ask it for change" option. Be warned that the creature may attack you.
+|Yes
+| Moderate 
+|No
+|-
+|Bravo
+|''Receive standing ovation''
+|To maximize your chances for this achievement select "Street Performer" hustle, master the hustle so your skill bar is full and have 100% street smarts. Then age up and there will be a chance someone gives you a standing ovation. This will appear as "Respect" popup.
+|Yes
+|Moderate
+| ???
+|-
+| Pan Flute Pro
+|''Become a master Peruvian pan flutist''
+|Visit Activities > Mind & Body > Instruments and practice the pan flute until the skill bar is full. Best start at childhood to save on money.
+|No
+| Moderate
+|No
+|-
+|Pearl Necklace
+|''Recieve a pearl necklace on the street''
+|Either panhandle or busk, and recieve a pearl necklace.
+|Yes
+|Moderate
+|No
+|-
+|Stand Your Ground
+|''Refuse to leave after being asked to by a cop''
+|When the scenario for a police asking you to leave, select any option besides "Move to a new street".
+|No
+|Easy
+|No
+|-
+| Sucker
+|''Sell a tourist fake weed''
+|Get very high Street Smarts and start the "Fake Weed" scam. After this, simply wait for an opportunity to scam a tourist to appear and successfully scam them.
+|Yes
+|Moderate
+|???
+|-
+|Tossed Salad
+|''Eat a tossed salad on the street''
+|Either panhandle or busk, and then eat the tossed salad of someone gives it to you. Beware that the salad might give you food poisoning. 
+|Yes
+|Moderate
+|No
+|}
+</table-progress-tracking>
+
+===Business===
+<table-progress-tracking table-id="34" unique-column-index="1">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Chance-based?
+!Difficulty 
+!Can Also earn a [[Ribbon|Ribbon?]]
+|-
+|Chipping In
+|''Acquire a semiconductor company''
+|Purchase a semiconductor business. 
+|No
+|Very Hard
+|???
+|-
+|Expansion
+|''Lead a company with 100+ facilities''
+|Run a successful business and continue opening up new facilities until you are operating at least 100 facilities simultaneously. 
+|No
+|Moderate
+|???
+|-
+| Feeding Families
+|''Lead a company with 1,000+ employees''
+|Run a successful business and continue opening up new facilities until there are over a thousand people working for you.
+|No
+|Moderate
+|???
+|-
+|It's All Yours
+|''Get offered a CEO position''
+|If you became a CEO (either buy running a business or through a normal corporate job) and then stopped; there is a very high chance that a random company will offer you a job as their CEO a few years later.
+| Yes
+|Easy
+|Yes (Boss Man)
+|-
+|Lawsuit & Tie
+|''Get sued by an employee''
+|Fire or yell at any employee, they may sue you afterwards.
+|No
+|Easy
+|No
+|-
+|Meals on Wheels
+|''Start a food truck business''
+|Select the food truck option when choosing a business to start/buy, in the special careers section.
+|No
+|Easy
+| No
+|-
+|Now Buy Twitter
+|''Introduce a new electric car''
+|Start/Buy a Car manufacturer, add a new product and select the electric car option when prompt. Difficulty based on necessary capital.
+|No
+|Moderate
+|No
+|-
+|Phlegmployee
+|''Spit at an employee''
+|Use the yell option on an employee and there will be a chance that you will spit at them. 
+|Yes
+|Hard
+|No
+|-
+| Taco Tuesday
+|''Buy your team tacos on Tuesday''
+|You can randomly get an request by your employees to buy them tacos. Strangely, this works any day of the week as of May 2025.
+|Yes
+| Moderate
+|No
+|}
+</table-progress-tracking>
+
+===Astronaut===
+<table-progress-tracking table-id="35" unique-column-index="1">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description 
+!How to Achieve
+!Chance-based?
+!Difficulty
+!Can also earn a ribbon?
+|-
+|Moon Prism Power
+|''Discover a locket on the Moon''
+| A random event that can occur on the moon will pop up where you have to pick up an item. This has a random chance of being a locket.
+|Yes
+|Moderate
+|No
+|-
+|Apocalypse Later 
+|''Save the Earth from annihilation''
+|A random event may occur where you will have to click to shoot down an asteroid heading towards Earth.
+| Yes
+|Hard
+|No 
+|-
+|Marvin
+|''Set foot on Mars''
+| Go to missions, and click "Martian Exploration". You will have to be a General rank and have a fairly high reputation.
+| No
+|Hard
+|No
+|-
+|Holy Sh...
+|''Discover a supermassive black hole''
+|When launching probes, you may discover a supermassive black hole.
+|Yes
+|Moderate
+|No
+|-
+|Eureka!
+|''Win the Noble Prize''
+|After making a discovery, publish your findings and you have the chance of winning a Noble Prize for the findings.
+|Yes
+| Hard
+|No
+|}
+</table-progress-tracking>
+
+===Model ===
+<table-progress-tracking table-id="36" unique-column-index="1">
+{| class="article-table mw-collapsible"
+|-
+!Achievement 
+!Description 
+!How to Achieve
+!Chance-based?
+!Difficulty 
+!Can also earn a ribbon?
+|-
+|Naomi Who? 
+|''Become a supermodel''
+|Be promoted to supermodel.
+|No
+|Moderate
+|No
+|-
+|Designer Threads
+|''Collect 10 unique haute couture fashions''
+|When walking in a Fashion Week, some of your sponsors may gift you haute couture outfits that you may choose to accept and keep.
+|No
+|Moderate
+|No
+|-
+|To The Nines
+|''Collect 20 unique haute couture fashions''
+|Collect 20 unique haute couture outfits.
+|No
+|Moderate
+|No
+|-
+| Style Icon
+|''Collect 30 unique haute couture fashions''
+|Collect 30 unique haute couture outfits
+|No
+|Hard
+|No
+|-
+|Oui, Oui!
+|''Walk in Paris Fashion Week''
+|After the promotion to elite model, you will be able to receive invitations to walk at a Fashion Week when you age up. The location of the Fashion Week is RNG.
+|Yes
+|Moderate
+|No
+|-
+|SuperModel
+|''Pose like a superhero during a shoot''
+|When asked to audition for a gig, you may be asked to pose like a superhero.
+|No 
+|Moderate
+|No
+|-
+|Model Mischief
+|''Receive a gig after sabotaging a fellow model''
+|Sabotage a colleague and get away with it. You may receive a modeling gig if you are successful in that endeavor. 
+|No
+|Moderate
+|No
+|}
+</table-progress-tracking>
+
+===Dealing===
+<table-progress-tracking table-id="37" unique-column-index="1">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+!Chance-based?
+!Difficulty
+!Can also earn a ribbon?
+|-
+|New Blood
+|''Join a cartel''
+|Commit a few crimes and deal a few times before the age of 18. After that, join a cartel. 
+|No
+|Easy
+|No 
+|-
+|Breaking Batch
+|''Successfully complete a drug run with product in test tubes''
+|When doing a supply run, there may be an option to use test tubes as packaging. Supply runs become available only after the promotion to runner.
+|Yes
+|Very Hard
+|No
+|-
+|Call Me Gustavo
+|''Become the leader of a cartel''
+| Become a Kingpin/Queenpin.
+|No
+|Moderate
+|No
+|-
+|Cocaine Bear 
+|''Drop package in a forest''
+|When doing a supply run, there may be an option to drop the package in the forest.
+|Yes
+|Easy
+|No
+|-
+|The Expendables
+|''Kill one of your cartel members with your own product''
+| Manufacturers and above can manufacture product and test products on cartel members. Test any high danger substance on cartel members with low health until one of them overdose.
+|Yes
+|Moderate
+|No
+|-
+|The Last Dab
+|''Make a stepparent overdose''
+|If you have a stepparent, either Deal (via the [[Relationships]] Tab) or Plug (via the [[Careers/Occupation|Occupation]] Tab) drugs until they die from a drug overdose. If you have God mode, toggle their health and smarts to 0%. (As of v3.15.2, the achievement still ticks with a regular parent.)
+|Yes
+| Moderate
+| No
+|-
+|Love-Hate Situationship
+|''Make a rival cartel member addicted to a drug''
+|Sell drugs to/party with an NPC in your turf with "Rival Dealer" next to their name. There is a chance they may get addicted.
+|Yes
+|Moderate
+|No
+|-
+|We Run This Town
+|''Cartel has 100% infamy''
+|Infamy can increase through gang wars and through expanding your turf. 
+|No
+|Moderate
+|No
+|-
+| Scapegoat 
+|''Have someone go to prison for you''
+|If you are caught, select the Scapegoat option in prison. Sometimes, someone may offer to go in your stead before you are sent to prison. 
+|No
+|Moderate
+|No
+|-
+|Prison Plug
+|''Sell drugs to someone in prison''
+|While in prison, sell drugs to another prisoner.
+|No
+|Moderate 
+| No
+|-
+|Kingslayer
+|''Kill a cartel leader''
+|Send a lieutenant with high craziness to a gang war. If the rival leader dies, the achievement will tick.
+|Yes
+|Hard
+|No 
+|-
+|Kingpin of the Hill
+|''Take down 3 rival cartels''
+|Take down three rival gangs via the Gang War activity. This activity is only available if you are the leader of your cartel.
+|No
+|Hard
+| No
+|-
+|Dirty Cop
+|''Sell drugs to a cop''
+|Sell drugs to a police officer NPC on your turf. If you have God Mode, toggle their smarts and willpower to 0% and party with them to get them addicted/raise their addiction before selling it to them.
+|No
+|Hard
+|No
+|}
+</table-progress-tracking>
+
+==Expansion Packs==
+
+===Stock Market===
+<table-progress-tracking table-id="38" unique-column-index="1">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+! Description
+!How to Acheive
+!Chance-Based?
+!Difficulty
+! Can also earn a [[Ribbons|Ribbon]]?
+|-
+|Martha 
+|''Go to prison for insider trading''
+|Do insider trading, and get caught. 
+| Yes
+|Moderate
+| ???
+|-
+|Off the Blockchain
+|''Earn $5m in crypto profits''
+|Make $5 million off of cryptocurrency.
+|Yes
+|Hard
+|???
+|-
+|Riding the Bull
+|''Earn $10m in stock profits''
+|Make $10 million off of the stock market.
+|Yes
+|Very Hard
+| ???
+|-
+|Bottomed Out 
+|''Own a cryptocurrency that goes to zero''
+|Own a cryptocurrency that's value is 0
+|Yes 
+|Very Hard
+| ???
+|-
+|BTLF 
+|''Invest in BitLife''
+|Invest in Bitlife on the Investment page
+|Yes 
+|Hard
+| ???
+|}
+</table-progress-tracking>
+
+=== Landlord===
+<table-progress-tracking table-id="39" unique-column-index="1">
+{| class="article-table mw-collapsible"
+|-
+!Achievement
+!Description
+!How to Achieve
+! Chance-Based? 
+!Difficulty
+!Can I also earn a Ribbon?
+|-
+|House Haunters
+|''Rent out a haunted property''
+|Buy a haunted property and rent it out
+|No
+|Very Easy
+|No
+|-
+|Slumlord
+|''Earn $1m renting run-down properties''
+|Buy many high value properties with low conditions and rent them out, you will eventually make $1 million. 
+|No
+|Medium 
+|Yes (Rich or Monopoly)
+|-
+|Lord of the Land
+|''Rent out 10+ properties at once''
+|Buy 10 properties and rent them all out at once
+|No 
+|Easy
+|No
+|-
+|Joint Ownership
+|''Marry a tenant''
+|Build a relationship with a tenant and eventually ask them out and marry them
+|No 
+|Easy 
+|No 
+|-
+|Worth Diddly Squat 
+|''Lose a $250k+ property to a squatter''
+|Live in a country with laws that allow squatters to keep their homes after living there for a certain amount of time (Australia, for example)and let the person squat at your house for a few years, then they will get to keep the home for themselves
+| Yes
+|Moderate
+|No
+|-
+|Both Hands Red
+| ''Walk in on a tenant playing Twister''
+|Rent out a house and drop in on the client, there is a chance they will be playing Twister
+|Yes
+|Hard
+| No
+|-
+|Scrooged
+
+|''Evict a tenant who has 3+ children''
+|Evict a tenant who has 3 or more children.
+|No
+|Moderate
+|No
+|- 
+|Beverly Hillbillies
+|''Rent out a mansion with an outhouse''
+|Add the outhouse amenity to the house and rent it out. 
+|No
+|Easy
+|No
+|-
+|Close your eyes…
+|''Make a wish''
+|Buy a Storybook house, add the Wishing Well amenity, use the Wishing Well.
+|No
+|Moderate 
+|No
+|- 
+|All-Inclusive
+|''Sell a fully-upgraded villa''
+|Buy a villa and improve it to the end and sell it
+|No
+| Moderate
+|???
+|-
+| New Lease, Who Dis?
+|''Sell a property with tenants living in it''
+|Sell a property with tenants living in it.
+|Yes
+|Moderate
+|No
+|-
+|BLTV Cribs
+|''Fully upgraded 10 properties worth $1m+''
+|Purchase at least 10 properties that are, individually, worth at least $1 million, and then fully upgrade them.
+|No
+|Very Hard
+|???
+|-
+|Spirited Away
+|''Have a tenant die in the hands of a ghost''
+|Rent a haunted house with a ghost that has high activeness and low friendliness.
+|Yes
+|Moderate 
+|No
+|}
+</table-progress-tracking>
+
+=== Black Market ===
+<table-progress-tracking table-id="40" unique-column-index="1">
+{| class="mw-collapsible fandom-table “article-table" mw-collapsible”
+!Achievement
+!Description
+!How to Achieve
+!Chance-based?
+!Difficulty
+!Can I also earn a Ribbon?
+|- 
+|Show & Tell
+|''Open a museum''
+|Purchase a museum and fill it with at least one exhibit.
+|No
+|Easy
+|??? 
+|-
+|Mummy Dearest
+|''Put your mother in a museum''
+| Upon the death of your mother, have her taxidermied and then put her on display in a museum exhibit.
+|No 
+|Easy
+| ???
+|-
+|Amateur Collector
+|''Collect 50 unique treasures''
+|Collect at least 50 of the treasures that are currently in game one time.
+|No
+|Moderate
+|???
+|-
+|Advanced Collector
+|
+''Collect 150 unique treasures''
+|Collect at least 150 of the treasures that are currently in game one time.
+| No
+|Moderate 
+| ???
+|-
+|Expert Collector
+|''Collect 200 unique treasures''
+|Collect at least 200 of the treasures that are currently in game one time.
+| No
+|Hard 
+|???
+|-
+|For the Hoard
+|''Collect every treasure''
+|Collect every treasure currently in game.
+|No
+|Very Hard
+| ???
+|-
+|Bang!
+|''Win an auction''
+|Attend an auction at any of the available auction houses and bid on any item up for auction. If your bid is the highest by the end, you will win the item and be awarded the achievement.
+
+|Yes
+|Very Easy
+|???
+|-
+|You’re Trippin’
+|''Purchase a product from the Street Chemist''
+|Purchase anything from the street chemist.
+|No
+|Very Easy
+| ???
+|-
+| Smaug could never!
+|''Fill every exhibit in your museum''
+|Purchase a museum, expand every additional floor and wing, and then fill every exhibit with a belonging.
+|No
+|Moderate
+|??? 
+|-
+|}
+</table-progress-tracking>
+
+=== Casino ===
+<table-progress-tracking table-id="41" unique-column-index="1">
+{| class="mw-collapsible fandom-table “article-table" mw-collapsible”
+!Achievement
+!Description
+!How to Achieve
+!Chance-based?
+!Difficulty
+!Can I also earn a Ribbon?
+|- 
+|Roll the Dice
+|''Open a casino''
+|
+|No
+|Easy
+|??? 
+|-
+|Lucky!
+|Collect a lucky charm
+|
+|No 
+|Moderate
+| ???
+|-
+|Big Winner
+|Win an accessory from a casino game
+|
+|No
+|Moderate
+|???
+|-
+|Be My Lucky Star
+|
+''Hire an artist-in-residence at your casino''
+|
+| No
+|Moderate 
+| ???
+|-
+|Ace in the Hole
+|Hook up with your celebrity artist-in-residence
+|
+|
+|
+|
+|-
+|High Roller Alert
+|Upgrade a casino to a luxury casino
+|
+|
+|
+|
+|-
+|Jackpot
+|Win a slot game with triple golden tadpoles
+|
+|
+|
+|
+|-
+|Le Flush
+|Win Texas hold 'em with a royal flush
+|
+|
+|
+|
+|-
+|Card Shark
+|Win 8 casino accessories
+|
+|
+|
+|
+|-
+|All Decked Out
+|Win all 16 casino accessories 
+|
+|
+|
+|
+|-
+|Bitlife HQ
+|Max out a circus-themed luxury casino's popularity
+|
+|
+|
+|
+|}
+</table-progress-tracking>
+
+===Cult ===
+<table-progress-tracking table-id="42" unique-column-index="1">
+{| class="mw-collapsible fandom-table “article-table" mw-collapsible”
+!Achievement 
+!Description
+!How to Achieve
+!Chance-based?
+! Difficulty 
+! Can I also earn a Ribbon?
+|- 
+| BitLife Barbz
+|''Start a commune as a famous rapper''
+| Achieve fame as a rapper, and then start up your own commune.
+|No
+|Moderate
+|???
+|-
+| Higher Calling
+|''Embark on a spiritual journey''
+|Perform a spiritual journey ceremony at your commune’s compound.
+|No
+|Very Easy
+|???
+|-
+|MEGA Commune
+|''Gather a following of over 5,000 people''
+|Start up your own commune, and continue to recruit people in various ways until you’ve achieved a membership of at least 5,000 followers.
+|No
+|Moderate
+|???
+|-
+|Behind These Walls
+|''Fully upgrade a commune plot to a compound''
+|Upon starting up your own commune, you have the option to purchase a communal plot to make your own. After you make this purchase, you can upgrade the plot in various ways, and eventually you will have upgraded it to the maximum level. 
+|No
+|Hard
+|???
+|-
+|Look What I Can D—Oh…
+|''Watch a devoted communard perish''
+| ???
+|Yes
+|Easy
+| ???
+|-
+|Righteous Fury
+
+|''Have a communard murder a dissenter''
+
+| ??? 
+|No 
+|Hard
+| ???
+|-
+|IT’S A MIRACLE
+|''Cleanse a communard of a disease''
+|???
+|Yes 
+| Very Hard
+|??? 
+|-
+|Grande Dame 
+|''Give birth to 25 babies in a single cult''
+|Be a female who is still capable of birthing children, and hook up with male communards until you’ve given birth to at least 25 babies.
+|Yes
+| Hard
+|???
+|-
+|Everything The Light Touches
+|''Receive an aircraft from a communard''
+|Each communard has the ability to donate offerings to you as their leader; offerings may be monetary or a belonging. When offered an aircraft, you should accept it in order to receive the achievement.
+|Yes
+|Hard 
+| ??? 
+|-
+|The Immortal Ones
+|''Taxidermy 15 communards in a single cult''
+|Upon the death of a communard, if you are given the choice to taxidermy their body, you should do so. Continue doing this until you’ve successfully had at least 15 communards taxidermied.
+|No
+|Moderate
+| ???
+|- 
+| Told You So
+|''Lecture your followers about a dead rule-breaker''
+| Upon the death of a follower as a result of breaking a rule, lecture the rest of the followers about it.
+|Yes
+|Very Easy
+|???
+|- 
+|Cultural Phenomenon
+|''Amass a following of 500,000 people''
+|Start up your own commune, and continue to recruit people in various ways until you’ve achieved a membership of at least 500,000 followers.
+|No 
+| Very Hard
+|??? 
+
+|-
+|Love Guru
+|''Hook up with 50 communards in a single cult''
+|In a single cult, hook up with at least 50 of your commune’s communards.
+|No
+|Moderate
+| ???
+|}
+</table-progress-tracking>
+
+=== Zoo===
+<table-progress-tracking table-id="43" unique-column-index="1">
+{| class="mw-collapsible fandom-table"
+!Achievement 
+!Description
+!How to Achieve
+!Chance-Based? 
+! Difficulty
+!Can I also earn a ribbon?
+|-
+|Myth Busted
+|''Purchase a rare animal''
+|Purchase an animal that has 'RARE' in a red box in white text next to its name in the zoo's Trading Post.
+|Yes
+|Easy
+| ???
+|-
+|Welcome to the Jungle
+|''Purchase a zoo''
+|Purchase a zoo.
+|No
+|Very Easy
+(If you have the money)
+|???
+|-
+|Koalified
+|''Fill an entire habitat with koalas''
+|Purchase a jungle habitat and buy 20 koalas to go in it.
+|No
+|Moderate 
+|???
+|-
+|I Noah Guy
+|''Completely fill a large zoo with animals''
+|Purchase a large zoo (or upgrade from a medium zoo), then buy all the habitat slots, then fill every habitat with the max animals (20 per habitat).
+| No
+|Moderate
+| ???
+|-
+|Cap-ybara
+|''Collect all unique animal hats''
+|Collect all [[Zoo|animal hats]]. 
+|No
+|Hard
+|???
+|-
+|Mini Menagarie
+|''Completely fill a small zoo with animals''
+|Purchase a small zoo, then buy all the habitat slots, then fill every habitat with the max animals (20 per habitat).
+|No
+| Moderate
+|???
+|-
+|Oh, the Zoo-manity
+|''Completely fill a medium zoo with animals''
+|Purchase a medium zoo (or upgrade from a small zoo), then buy all the habitat slots, then fill every habitat with the max animals (20 per habitat). 
+|No
+|Moderate
+| ???
+|-
+|Circle of Life 
+|''Witness an animal-on-animal crime''
+|Encounter animal-to-animal conflict.
+|Yes
+| Hard
+|???
+|}
+</table-progress-tracking>
+
+===Secret Agent===
+<table-progress-tracking table-id="44" unique-column-index="1">
+{| class="mw-collapsible fandom-table"
+!Achievement
+!Description
+!How to Achieve
+!Chance-Based?
+!Difficulty
+!Can I also earn a ribbon?
+|-
+|Through the Backdoor
+|''Steal $3,000,000 in an infiltration attempt''
+|Infiltrate into a medium/high security agency  (preferably high as the agency's more likely to have at least $3M) and steal $3,000,000/+.
+|No
+|Moderate
+| ???
+|-
+| Stealth +1
+|''Have an agency with 25% Prestige''
+| Have had a few successful missions with skilled agents and the agency should have around 25% Prestige.
+|No 
+| Easy/Moderate
+|???
+|-
+|Mission: Probable
+|''Have an agency with 50% Prestige''
+|Have had many successful missions with skilled agents.
+|No
+|Moderate 
+|??? 
+|-
+|Legends Never Die
+|''Have an agency with 100% Prestige''
+| Have had numerous successful missions - you should succeed every mission you take, with majority of your agents being Special Operatives.
+|No
+|Hard
+|???
+|-
+|The Kingsmen
+|''Start a spy agency as a royal''
+|As any member of the royal family, start a spy agency.
+|No
+|Easy (If you were born a royal)
+| ???
+|-
+|The Nose
+|''Expose 5 double agents in your agency''
+|If one or many of you agents are acting up it may hint that they are double agents. You can expose them as double agents. You will need to expose at least 5 agents.
+|Yes
+|Moderate
+| ???
+|-
+|Fully Loaded
+|''Collect all 16 spy gadgets''
+| Buy all the spy gadgets - You will need 100% Prestige to unlock them all.
+|No 
+|Moderate/Hard
+| ???
+|-
+| Cull of Duty 
+|''Assassinate 10 agents in your agency''
+|Kill 10 agents using an agent or yourself.
+|No
+|Hard
+| ???
+|-
+|Turning Tables
+|''Get an agent to assassinate a stepparet''
+| Commission an agent to kill one of your stepparents.
+|No
+|Moderate
+|???
+|-
+|D.O.A
+|Taxidermy 15 agents in your agency
+| When an agent dies, taxidermy them. You need to do this 15 times.
+|No
+|Hard
+|???
+|-
+|Gold Fingers
+|''Have 5 Special Operatives in your agency''
+|Have 5 Special Operatives by training them to their level or poaching ones from other agencies.
+|No
+|Moderate/Hard
+|???
+|-
+|Tooken
+|''Rescue a kidnapped family member''
+|Send an agent to save a kidnapped family member.
+|Yes
+|Hard
+|???
+|-
+|Lisence to Thrill
+|Have a Special Operative complete a Honeypot mission.
+|Send a Special Operative agent on a Honeypot mission.
+|No
+|Easy (If you have a Special Operative agent)
+|???
+|}
+</table-progress-tracking>
+
+=== Luxury ===
+<table-progress-tracking table-id="45" unique-column-index="1">
+{| class="mw-collapsible fandom-table"
+!Achievement
+!Description
+!How to Achieve
+!Chance-Based?
+!Difficulty
+!Can I also earn a ribbon?
+|-
+|Back-Kept Secret
+|Reach the top rank of any secret society
+|Become the highest rank in a secret society by attending meetings and choosing the correct options to impress the board
+|No
+|Moderate
+| ???
+|-
+|Duh Nuh Nuh Nuh  Nuh Nuh
+|Purchase a Batmobile
+|Purchase the vehicle named 'Batmobile'
+|Yes
+|Hard
+|No
+|-
+|Fortress of Solitude
+|Build a secret lair on a large island
+|Purchase a large island and build a secret lair on it. Normally around $1B
+|No
+|Moderate
+|No
+|-
+|Golden Schooner
+|Purchase a gold-plated luxury yacht
+|Obtain a boat license, and purchase a gold-plated yacht
+|Yes
+|Hard
+|No
+|-
+|Keep it on the Down-Low
+|Join a secret society
+|Join a secret society
+|No
+|Easy
+|No
+|-
+|Oprah 2.0
+|Donate $50,000,000 to a charity in a single donation
+|Have over $50,000,000 and donate this to a charity in one single donation
+|No
+|Easy
+|No
+|-
+|Paradise Found
+|Purchase an island
+|Purchase any sized island
+|No
+|Easy
+|
+|-
+|Target in Sight
+|Purchase Kim Air
+|Purchase a Gulfstream G650ER
+|Yes
+|Hard
+|
+|-
+|Time Lord
+|Own all 6 exotic watches
+|Own all 6 exotic watches
+|Yes
+|Hard
+|
+|-
+|Totally Pimped
+|Customise a luxury vehicle
+|Purchase any vehicle and choose a customisation
+|No
+|Easy
+|
+|}
+</table-progress-tracking>
+
+=== Racing ===
+<table-progress-tracking table-id="46" unique-column-index="1">
+{| class="fandom-table"
+|+
+!Achievement
+!Description
+!How to Achieve
+!Does it require in-app purchases?
+!Chance-Based?
+!Difficulty
+!Can I also earn a ribbon?
+|-
+|Absolute Unit
+|''Earn a Gold Demolition Derby License''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|Bet on Me
+|''Challenge another racer for cash and win''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|Cruisin' BitLife
+|''Go on a drive''
+|Earn a driver's license, buy a car, and ride in it.
+|No
+|No
+|Very Easy
+|No
+|-
+|Distance Over Time
+|''Set your own time trial records in every track''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|Gimme the Keys
+|''Win a rival racer's vehicle in a pink slip race''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|Greased Lightning
+|''Add 4 mods to a single race car''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|Kinda Fast. No So Furious.
+|''Earn a Gold Street Racing License''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|Le Saboteur
+|''Sabotage a rival racer's vehicle''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|Legal Eagle
+|''Win a lawsuit following a car accident''
+|Drive recklessly and get into a car accident, which can cause someone else to sue you. Choose the most expensive law firm to defend yourself from the suit.
+|No
+|A bit
+|Moderate
+|No
+|-
+|Off to the Races
+|''Purchase a race car garage for the first time''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|Oopsie
+|''Murder a rival racer by sabotaging their vehicle''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|Road Warrior
+|''Earn a Silver Demolition Derby License''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|Roadster
+|''Earn a Silver Street Racing License''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|Silver Streaker
+|''Earn a Silver Circuit Racing License''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|Slippery Devil
+|''Evade the cops while on a drive''
+|
+|TBA
+|
+|
+|
+|-
+|So Fast. Very Furious.
+|''Earn a Platinum Street Racing License''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|Souped Up
+|''Add a mod to one of your race cars''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|Speed Racer
+|''Earn a Gold Circuit Racing License''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|The Demolisher
+|''Earn a Platinum Demolition Derby License''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|The Need for Speed
+|''Earn a Platinum Circuit Racing License''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|The Road to Greatness
+|''Earn a single Mastery Star in any track''
+|
+|Yes (Racing)
+|
+|
+|
+|-
+|Victory Road
+|''Earn all Mastery Stars in all tracks''
+|
+|Yes (Racing)
+|
+|
+|
+|}
+</table-progress-tracking>
+
+=== Outdoor ===
+<table-progress-tracking table-id="47" unique-column-index="1">
+{| class="fandom-table"
+|+
+!Achievement
+!Description
+!How to Achieve
+!Does this require in-app purchases?
+!Chance-Based?
+!Difficulty
+!Can also earn a Ribbon?
+|-
+|Crikey!
+|''Earn the Animal Badge''
+|
+|Yes (Outdoor)
+|Yes
+|Hard
+|
+|-
+|Plant Daddy
+|''Earn the Plant Badge''
+|
+|Yes (Outdoor)
+|
+|
+|
+|-
+|Master Baiter
+|''Earn the Fishing Badge''
+|
+|Yes (Outdoor)
+|
+|
+|
+|-
+|Undah Da Sea
+|''Earn the Marine Life Badge''
+|
+|Yes (Outdoor)
+|
+|
+|
+|-
+|Cock of the Walk
+|''Earn the Bird Badge''
+|
+|Yes (Outdoor)
+|
+|
+|
+|-
+|Amateur Angler
+|''Catch a single fish''
+|
+|Yes (Outdoor)
+|
+|
+|
+|-
+|Schooled
+|''Catch 10 fish''
+|
+|Yes (Outdoor)
+|
+|
+|
+|-
+|Miami Vibes
+|''Catch a marlin''
+|
+|Yes (Outdoor)
+|Yes
+|
+|
+|-
+|That Dawg in Me
+|''Do a trick while off-roading''
+|
+|
+|No
+|
+|
+|-
+|Queso Cueva
+|''Reach the end of Grotta del Formaggio''
+|
+|Yes (Outdoor)
+|
+|Medium
+|
+|-
+|Engrade, Zubat!
+|''Reach the end of Gouffre Berger''
+|
+|Yes (Outdoor)
+|
+|Hard
+|
+|-
+|All-Terrain Chaos
+|''Purchase an ATV''
+|
+|
+|
+|Easy
+|
+|-
+|Ring, Ring
+|''Own a bicycle''
+|Purchase a bicycle at the Bike Shop or
+ask one of your parents to buy one for you.
+|No
+|No
+|Very Easy
+|No
+|}
+</table-progress-tracking>
+
+==Vampire==
+<table-progress-tracking table-id="80" unique-column-index="1">
+{| class="fandom-table"
+|+
+!Achievement
+!Description
+!How to Achieve
+!Does this require in-app purchases?
+!Chance-Based?
+!Difficulty
+!Can also earn a Ribbon?
+|-
+|Blood Bath
+|“Drain 100 people in one life”
+| Do as the description says
+|Yes (Vampire Mode)
+|No
+|Easy
+| TBD
+|-
+|Blood Money
+| “Become a vampiric billionaire”
+| Just become a billionaire and then become a vampire
+| Yes (Vampire Mode)
+|No
+| Easy
+| TBD
+|-
+|C’mere Renfield
+|“Acquire a familiar with 85+ Craziness”
+| Just find someone crazy and convert them into a vampire
+|Yes (Vampire Mode)
+| Yes/No
+| Medium/Easy
+| TBD
+|-
+|Meet the Cullens
+| “Turn a classmate into a vampire’’
+| works best in University or other higher edjucation
+|Yes (Vampire Mode)
+|No
+|Easy
+| TBD
+|-
+|Nosfergotu
+|“Hypnotize a woman to leave their lover”
+|
+|Yes (Vampire Mode)
+|No
+|Easy
+| TBD
+|-
+|Not Today, Buffy
+|“Kill a vampire hunter”
+|
+|Yes (Vampire Mode)
+|Yes
+|Easy
+|TBD
+|-
+|Thirst Trap
+|“Drain an ex”
+|
+|Yes (Vampire Mode)
+|No
+|Easy
+| TBD
+|-
+|Turning Coffins
+| ‘‘Convert a vampire hunter’’
+|
+|Yes (Vampire Mode)
+|Yes/No
+|Medium
+| TBD
+|-
+|Undead Overlord
+|''Become a Vampire Lord''
+|
+| Yes (Vampire Mode)
+|No
+|Yes/No
+| Medium
+|-
+|Unmade
+|''Murder your maker”
+|
+|Yes (Vampire Mode)
+|No
+|Easy
+| TBD
+|-
+|Army of the Undead
+|''Convert 100+ people into vampires in one life’’
+|
+|Yes (Vampire Mode)
+|No
+|Easy
+| TBD
+|-
+|Fangbang
+|''Hook up with 20+ vampires”
+|
+| Yes (Vampire Mode)
+|No
+|Easy
+|TBD
+|-
+|The Fang Gang
+|''Convert 10+ Prisoners into vampires’’
+|
+| Yes (Vampire Mode)
+|No
+|Very Easy
+|No
+|-
+|Together Forever
+|''Be Married to the same vampire for a 110+ years”
+|
+| Yes (Vampire Mode)
+|No
+|Hard
+|TBD
+|-
+|Vlad
+|''Become a vampiric Graphic Designer”
+|
+| Yes (Vampire Mode)
+|No
+|Very Easy
+|TBD
+|}
+</table-progress-tracking>
+==Former Achievements==
+Achievements that were once attainable in BitLife, but have been removed.
+{| class="sortable mw-collapsible mw-collapsed fandom-table article-table"
+|+
+!Achievement
+!Description
+!How to Achieve
+!Chance-Based?
+!Difficulty
+!Can also earn a [[Ribbons|Ribbon?]]
+!When was this removed?
+|-
+|Abort x10
+|''Have 10 abortions in one lifetime''
+|Have 10 pregnancies and choose abortion each time
+|No
+|Moderate
+|No
+|June 2019
+|}
+[[Category:BitLife]]
+[[Category:Life Achievements]]
+[[Category:Information]]
+[[Category:Gameplay]]
+[[Category:Features]]
+[[Category:Updates]]

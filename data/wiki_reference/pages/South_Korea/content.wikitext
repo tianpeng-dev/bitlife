@@ -1,0 +1,172 @@
+{{Infobox country
+|title1=South Korea
+|image1=[[File:South Korea.png]]
+|caption1=South Korea's flag.
+|country_name=South Korea
+|number_of_default_cities=5
+|when_was_it_added_to_ios=September 2018
+}}
+'''South Korea''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Seoul, along with Busan, Daegu, Gangnam, and Incheon. An [[achievements|achievement]] called ''K-Pop'' can be achieved for a character in South Korea who achieves [[fame]] as a singer.
+
+==Name List==
+South Korea is one of the few countries where people's names are backwards (the last name goes first), the others being [[Vietnam]] and [[Hungary]]. for example, "Park Hana". However, this occurs in the iOS version only. This is since names in these countries are given first.
+=== Male First Names ===
+* An
+* Ch'ae
+* Chi
+* Chom
+* Ha-joon
+* Hae
+* Hak
+* Ham
+* Hwang
+* Jae-min
+* Ji-ho
+* Ji-hu
+* Jimin
+* Jong-un
+* Joo-won
+* Joon-woo
+* Jun-seo
+* Jungkook
+* Keun-suk
+* Kil
+* Kun
+* Man
+* Min-jun
+* Mun
+* Namgung
+* P'ung
+* Pin
+* Pyon
+* Rang
+* Rim
+* Sang
+* Seokjin
+* Si
+* Si-won
+* Sip
+* So
+* Sobong
+* Sol
+* Sung
+* Tae-hyun
+* Taehyung
+* Tokko
+* Tong
+* Tu
+* Uh
+* Ya
+* Ye-jun
+* Yi Jung
+* Yoongi
+* Yop
+* Yu
+
+=== Female First Names ===
+* Ch'ang Se
+* Ch'o
+* Cha Chun
+* Da-eun
+* Go-eun
+* Ha-eun
+* Ha-yoon
+* Hak Chi
+* Hwangbo Soon
+* Hyon
+* Ji-a
+* Ji-woo
+* Ji-yoo
+* Jung
+* Kan Hyo
+* Kang
+* Kang Mi
+* Kangjon Ji
+* Kim Min
+* Kok Sun
+* Kong
+* Kwon
+* Kye Jung
+* Kye Su
+* Min-seo
+* Oh Ae
+* P'aeng Eun
+* P'o
+* Paek
+* Paek Un
+* Pang
+* Ran Jung
+* Ryo Seung
+* Ryon
+* Seo-hyeon
+* Seo-yeon
+* Seo-yun
+* Sin Ae
+* So-min
+* Sobong Seong
+* Somun Chun
+* T'ak
+* T'an Chun
+* Tae-yeon
+* To Ji
+* Tokko
+* Uh Se
+* Wi So
+* Yon
+* Yop Min
+* Yun Hye
+* sok Eul
+
+=== Surnames ===
+* Ahn
+* Bae
+* Baek
+* Cha
+* Cho
+* Choi
+* Eom
+* Gu
+* Gwak
+* Ha
+* Han
+* Hong
+* Hur
+* Hwang
+* Jang
+* Jeon
+* Ji
+* Jin
+* Jo
+* Jun
+* Jung
+* Kang
+* Kim
+* Ko
+* Kwon
+* Lee
+* Lim
+* Min
+* Mun
+* Na
+* Nam
+* Noh
+* Park
+* Seo
+* Seong
+* Shin
+* Sim
+* Son
+* Song
+* Sook
+* Whee-in
+* Yang
+* Yim
+* Yoon
+* Yu
+* Zhu
+
+== Gallery ==
+[[File:South Korea baby.jpeg|left|thumb|A baby born in South Korea.]]
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

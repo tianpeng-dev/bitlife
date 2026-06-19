@@ -1,0 +1,25 @@
+{
+  "title": "Raven Cross",
+  "pageid": 6127,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Raven_Cross",
+  "categories": [
+    "Americans",
+    "Burglars",
+    "Criminals",
+    "Fan_Characters",
+    "LGBT_Characters",
+    "Mail_Carriers",
+    "Old_people"
+  ],
+  "links": [
+    "Diego Cross",
+    "Edith Cross"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Raven_Cross/content.html",
+    "wikitext": "pages/Raven_Cross/content.wikitext",
+    "text": "pages/Raven_Cross/content.txt"
+  }
+}

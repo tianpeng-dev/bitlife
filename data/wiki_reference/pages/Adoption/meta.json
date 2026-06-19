@@ -1,0 +1,27 @@
+{
+  "title": "Adoption",
+  "pageid": 368,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Adoption",
+  "categories": [
+    "Activities",
+    "BitLife"
+  ],
+  "links": [
+    "Careers/Jobs",
+    "Crime",
+    "Fertility",
+    "Generations",
+    "House",
+    "IOS version",
+    "Nations",
+    "Orphanage",
+    "Stats"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Adoption/content.html",
+    "wikitext": "pages/Adoption/content.wikitext",
+    "text": "pages/Adoption/content.txt"
+  }
+}

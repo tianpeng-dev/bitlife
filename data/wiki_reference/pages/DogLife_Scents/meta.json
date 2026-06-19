@@ -1,0 +1,18 @@
+{
+  "title": "DogLife/Scents",
+  "pageid": 3914,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/DogLife%2FScents",
+  "categories": [
+    "DogLife"
+  ],
+  "links": [
+    "DogLife"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/DogLife_Scents/content.html",
+    "wikitext": "pages/DogLife_Scents/content.wikitext",
+    "text": "pages/DogLife_Scents/content.txt"
+  }
+}

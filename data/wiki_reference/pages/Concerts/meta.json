@@ -1,0 +1,18 @@
+{
+  "title": "Concerts",
+  "pageid": 1833,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Concerts",
+  "categories": [
+    "BitLife"
+  ],
+  "links": [
+    "Relationships"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Concerts/content.html",
+    "wikitext": "pages/Concerts/content.wikitext",
+    "text": "pages/Concerts/content.txt"
+  }
+}

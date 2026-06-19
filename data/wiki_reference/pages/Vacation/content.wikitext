@@ -1,0 +1,323 @@
+
+NOTE: The location lists are a work-in-progress.
+
+{{Infobox BitLifeApp
+|title1=Vacation
+|launched_on_ios:=September 2018 (default)
+|launched_on_android:=February 2019 (default)
+}}
+
+== Cruise ==
+Cruises are the more expensive option. The location list is less than the vacation list. Unlike Vacations, parents do not decide to take their children or not in childhood. Cruises also bring [[Stats|happiness]] up higher than vacations. There are four cabin choices, listed from cheapest to priciest: Interior; Ocean View; Balcony; Suite.
+
+=== Full Location List ===
+
+* Alaska Cruise
+* Bahamas Cruise
+* Bermuda Cruise
+* Caribbean Cruise
+* Hawaii Cruise
+* Mediterranean Cruise
+* Mexico Cruise
+* Nile River Cruise
+* Northern Europe Cruise
+* Panama Canal Cruise
+* Southeast Asia Cruise
+* Transatlantic Cruise
+
+== Vacation ==
+These are more like plane trips, and cost less than cruises. There are much more vacation locations than cruise locations. The four types of plane categories that can be paid for are Budget, Economy, Business and First. In childhood, parents may decide to take their child(s) with them, but the player can decide how their controlled NPC will react. They can choose to gratefully go, complain but go, or refuse. Visiting Winnipeg, Canada will unlock the "Winnipeg, Eh?"[[Achievements|achievement.]] [[Custom]] cities can also be added by the player and can show up as vacation spots. Families can now go on vacation together and parents may ask you whether you'd like to go with them. You may go and be appreciative, go begrudgingly, or refuse to go. Vacation options reset every year.
+
+=== Full location list ===
+
+==== Cities (Excluding Custom Cities)====
+* Abu Dhabi, UAE
+* Abuja, Nigeria
+* Accident, Maryland
+* Amsterdam, Netherlands
+* Anus, France
+* Athens, Greece
+* Auckland, New Zealand
+* Bali, Indonesia
+* Ballplay, Alabama
+* Banff, Canada
+* Bangkok, Thailand
+* Bangor, Maine
+* Bangs, Texas
+* Barcelona, Spain
+* Beaver, Arkansas
+* Beijing, China
+* Beirut, Lebanon
+* Berlin, Germany
+* Big Beaver, Pennsylvania 
+* Blowhard, Australia
+* Blowing Rock, North Carolina
+* Blue Ball, Pennsylvania
+* Bogotá, Colombia
+* Bohners Lake, Wisconsin
+* Brussels, Belgium
+* Bucharest, Romania
+* Budapest, Hungary
+* Buenos Aires, Argentina
+* Bumpass, Virginia
+* Cabo San Lucas, Mexico
+* Cancun, Mexico
+* Cartagena, Colombia
+* Caulkerbush, Scotland
+* Cebu, Philippines
+* Chiang Mai, Thailand
+* Chicago, Illinois
+* Climax Springs, Missouri
+* Cockermouth, England
+* Copenhagen, Denmark
+* Cumming, Georgia
+* Cusco, Peru
+* Damascus, Syria
+* Delhi, India
+* Dhaka, Bangladesh
+* Dickeyville, Wisconsin
+* Dick Johnson Township, Indiana
+* Ding Dong, Texas
+* Dildo, Newfoundland
+* Dubai, United Arab Emirates
+* Edinburgh, Scotland
+* Fanny, West Virginia
+* Fertile, Iowa
+* Fidelity, Missouri
+* Finger, Tennessee
+* Flint, Michigan
+* Florence, Italy
+* Fukushima, Japan
+* Galway, Ireland
+* Glasscock, Texas
+* Gold Coast, Australia
+* Havana, Cuba
+* Hell, Michigan
+* Helsinki, Finland
+* Ho Chi Minh City, Vietnam
+* Hollywood, California
+* Honolulu, Hawaii
+* Hooker, Oklahoma
+* Horneytown, North Carolina
+* Ibiza, Spain
+* Intercourse, Pennsylvania
+* Istanbul, Turkey
+* Jaipur, India
+* Jakarta, Indonesia
+* Jerusalem, Israel
+* Kabul, Afghanistan
+* Kathmandu, Nepal
+* Kickapoo, Kansas
+* Kiev, Ukraine
+* Kingston, Jamaica
+* Kraków, Poland
+* Kuala Lumpur, Malaysia
+* Kyoto, Japan
+* Las Vegas, Nevada
+* Lima, Peru
+* Lisbon, Portugal
+* London, England
+* Long Dick Creek, Iowa
+* Luang Prabang, Laos
+* Macau, China
+* Madrid, Spain
+* Manila, Philippines
+* Marrakesh, Morocco
+* Mazatlan, Mexico
+* Mecca, Saudi Arabia
+* Melbourne, Australia
+* Mexico City
+* Miami, Florida
+* Middelfart, Denmark
+* Milan, Italy
+* Montego Bay, Jamaica
+* Montreal, Quebec
+* Moorhead, Minnesota
+* Moorheadville, Pennsylvania
+* Moscow, Russia
+* Mosquitoville, Vermont
+* Nagasaki, Japan
+* Nassau, Bahamas
+* New York City
+* Okinawa, Japan
+* Onancock, Virginia
+* Osaka, Japan
+* Oslo, Norway
+* Paris, France
+* Penistone, England
+* Peterhead, Scotland
+* Phuket, Thailand
+* Pleasure Point, California
+* Plentywood, Montana
+* Pompei, Italy
+* Port-au-Prince, Haiti
+* Prague, Czech Republic
+* Puerta Vallarta, Mexico
+* Punta Cana, Dominican Republic
+* Pyongyang, North Korea
+* Québec, Canada
+* Quito, Ecuador
+* Reykjavík, Iceland
+* Rio de Janeiro, Brazil
+* Rome, Italy
+* Saint Lucia, St. Lucia
+* San Francisco, California
+* San Jose, Costa Rica
+* San Juan, Puerto Rico
+* Santiago, Chile
+* Santorini, Greece
+* São Paulo, Brazil
+* Seattle, Washington
+* Seoul, South Korea
+* Seville, Spain
+* Shanghai, China
+* Spread Eagle, Wisconsin
+* Stockholm, Sweden
+* St. Petersburg, Russia
+* Sugartit, Kentucky
+* Sydney, Australia
+* Taipei, Taiwan
+* Ta Ta Creek, British Columbia
+* Tel Aviv, Israel
+* Three Cocks, Wales
+* Three Legs Town, Ohio
+* Threeway, Virginia
+* Tijuana, Mexico
+* Titisee, Germany
+* Toad Suck, Arkansas
+* Tokyo, Japan
+* Toronto, Ontario
+* Truth or Consequences, New Mexico
+* Valparaíso, Chile
+* Vancouver, British Columbia
+* Venice, Italy
+* Vienna, Austria
+* Virginville, Pennsylvania
+* Warsaw, Poland
+* Washington, D.C.
+* Weed, California
+* Wellington, New Zealand
+* Wetwang, England
+* Winnipeg, Canada
+* Zurich, Switzerland
+
+==== Festivals and Events ====
+
+* Albuquerque Balloon Fiesta
+* Bonnaroo Festival, Tennessee
+* Bordeaux Wine Festival, France
+* Burning Man Festival, Nevada
+* Cannes Film Festival
+* Carnival, Rio de Janeiro
+* Coachella Festival, California
+* Comic-Con, California
+* Day of Dead Festival, Mexico
+* Daytona 500 Motor Race
+* Elephant Festival, India
+* Festival of Colors, India
+* Indianapolis 500
+* Kentucky Derby
+* La Tomatina Festival, Spain
+* Mardi Gras, New Orleans
+* Masters Golf Tournament
+* Monaco Grand Prix, Monaco
+* Oktoberfest, Munich
+* Running of the Bulls, Spain
+* Sapporo Snow Festival, Japan
+* Snow & Ice Festival, China
+* St. Patrick's Festival, Ireland
+* Sun Festival, Egypt
+* Tomorrowland Festival, Belgium
+* Tour de France
+
+==== Areas, Nature and Landmarks ====
+
+* Alaska
+* Amalfi Coast, Italy
+* Amazon Rainforest, Brazil
+* Angel Falls, Venezuela
+* Angkor Wat, Cambodia
+* Antigua
+* Area 51, Nevada
+* Argentine Patagonia
+* Aruba
+* Barbados
+* Bermuda
+* Big Bone Lick, Kentucky
+* Black Forest, Germany 
+* Blue Lagoon, Iceland
+* Bora Bora, French Polynesia
+* British Virgin Islands
+* Canary Islands
+* Cappadocia, Turkey
+* Cayman Islands
+* Chernobyl, Ukraine
+* Chilean Patagonia
+* Crete, Greece
+* Dead Sea, Israel
+* Disneyland, California
+* Disney World, Florida
+* Dracula’s Castle, Romania
+* Easter Island
+* Everglades, Florida
+* Fiji
+* Florida Keys
+* Forbidden City, China
+* French Riviera
+* Galápagos Islands
+* Gobi Desert, China
+* Grand Canyon, Arizona
+* Great Barrier Reef, Australia
+* Great Wall of China
+* Hong Kong
+* Iguazu Falls, Argentina
+* Kauai, Hawaii
+* Lake Como, Italy
+* Lake Titicaca, Bolivia
+* Loch Ness, Scotland
+* Machu Picchu, Peru
+* Maldives
+* Martinique
+* Maui, Hawaii
+* Meat Mountain, Alaska
+* Mount Everest, Nepal
+* Mount Fuji, Japan
+* Mount Kilimanjaro, Tanzania
+* Mount Rushmore, South Dakota
+* Napa Valley, California
+* Niagara Falls
+* Outback, Australia
+* Panama Canal
+* Pyramids of Egypt
+* Rainbow Mountains, Peru
+* Redwood Forest, California
+* Rock of Gibraltar
+* Sahara Desert
+* Scottish Highlands, Scotland
+* SeaWorld, California
+* Serengeti National Park, Tanzania
+* Shagnasty Island, Antarctica
+* Singapore
+* Snake Island, Brazil
+* South Pole
+* St. Barts
+* Stonehenge, England
+* Swiss Alps
+* Taj Mahal, India
+* Titty Hill, England
+* Universal Studios, California
+* US Virgin Islands
+* Vatican
+* Victoria Falls, Zimbabwe
+* Yellowstone National Park, Wyoming
+
+== Gallery ==
+<gallery>
+File:Vacation tab.jpeg
+File:Cruise tab.jpeg
+File:Vacation event.jpeg|A vacation event.
+File:Vacation family.jpeg|Character's family going on vacation.
+</gallery>
+[[Category:BitLife]]
+[[Category:Under construction]]
+[[Category:Activities]]

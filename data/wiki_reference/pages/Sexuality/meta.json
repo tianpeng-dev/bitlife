@@ -1,0 +1,20 @@
+{
+  "title": "Sexuality",
+  "pageid": 2351,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Sexuality",
+  "categories": [
+    "BitLife",
+    "Updates"
+  ],
+  "links": [
+    "Activities",
+    "Identity"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Sexuality/content.html",
+    "wikitext": "pages/Sexuality/content.wikitext",
+    "text": "pages/Sexuality/content.txt"
+  }
+}

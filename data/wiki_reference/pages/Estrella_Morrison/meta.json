@@ -1,0 +1,21 @@
+{
+  "title": "Estrella Morrison",
+  "pageid": 5235,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Estrella_Morrison",
+  "categories": [
+    "Fan_Characters",
+    "Mexicans",
+    "Musicians"
+  ],
+  "links": [
+    "Gabriela Morrison",
+    "Monica Morrison"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Estrella_Morrison/content.html",
+    "wikitext": "pages/Estrella_Morrison/content.wikitext",
+    "text": "pages/Estrella_Morrison/content.txt"
+  }
+}

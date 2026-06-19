@@ -1,0 +1,101 @@
+Casino
+A character unable to gamble in casinos due to the law.
+The
+Casino
+option is the first gambling activity a player can choose when they open the
+Activities
+tab. When the Casino button is pressed, the game will prompt the user with two casinos to visit, but it doesn't matter which casino the player visits. The player can also go to the casino if they are prompted by an event. In some
+countries
+, gambling is illegal so if your character is from one of those countries, selecting "Casino" will give a pop-up, "What? There are no casinos in (country) because gambling is illegal." and the character will not be allowed to bet in casinos unless they
+emigrate
+to a country that allows it. If a character gets into debt by spending more money than they have at a casino, they could get charged with defrauding a casino if caught and will be banned from that casino even if they do not get charged with the crime. In 2020, the money gambled can be entirely selected by the player.
+Contents
+1
+Betting
+2
+Games
+3
+Owning a Casino
+4
+Gallery
+Betting
+[
+]
+The player can bet what they want depending on their total amount of cash with the drop-down menu and then can play the game. Depending on if the player wins or loses the player can either leave with double the money or is in debt to the casino. If you are not able to pay your debt to the casino then you will be thrown in jail. Spouses can also argue with your character if you lose too much money at the casino. Additionally, betting too much will make the player develop an
+addiction
+to Gambling. Winning a lot of money at the casino can get the
+Highroller
+ribbon
+and becoming too addicted to gambling will help get the character the
+Addict
+ribbon. Emigrating to a Nation where gambling is illegal will not disqualify your character from earning that ribbon if they have done enough to achieve the ribbon otherwise.
+Games
+[
+]
+Currently, the only game that can be played for free is Blackjack. The player and their opponent start with 2 cards, one card being visible to the other player. Each player has to draw cards and have their cards sum to 21 without going over the limit. The player draws first and can stand, stop drawing and letting their opponent draw. If they get 21 or the highest number under 21, they get double what they betted. If the player gets 21 using only 2 cards (with an Ace card and either a 10 or a face card in any order), they get a Blackjack, which allows them to get triple what they betted. If they go over 21 or the lowest number under 21, they lose what they betted. If the player and opponent get the same number, the player earns nothing and gets back what they betted, and they will rematch. If the player goes over 21, they automatically lose, not letting the opponent draw. If the opponent gets a Blackjack, she will reveal the second card without giving the player a chance to draw, and if the player didn't get a Blackjack, they automatically lose. If the player gets 5 cards without busting, their hand is a Five Card Charlie, which beats the dealer's hand, no matter the sum of the cards. The dealer, however, cannot get Five Card Charlies, so even if the dealer has 5 cards and stands without busting, you could still beat her if you get a higher sum. In the Casino expansion pack, you have access to extended features, such as doubling your bet, which increases the wager by a factor of 2, but will only allow you to hit only once, as well as the chance to split your hand for the same bet value if the 2 cards that you originally get are of the same rank, up to 3 times. The final premium feature is insurance, which is offered when the first card revealed by the dealer is an Ace card, where you can ask for insurance for half the betting value, in which if the dealer gets a Blackjack, your hand will be insured, allowing your entire bet to be returned back to you.
+The other games are premium and can only be bought using the Casino expansion pack. There are 8 games in the expansion pack, adding up to 9 games in total. The 8 games are:
+Craps, a dice game that pays out randomly, where some values cause a reroll or a loss, but if the player gets a winning value, the payout is 1:1.
+High-low, a card game that makes the player guess whether or not the next card is of higher or lower ranking; as the player guesses, the winning increases, but if the player guesses incorrectly, they lose everything. There are 4 rounds with a maximum payout of 10:1.
+Keno, a lottery-like game where the player selects numbers and win (or lose) money depending on how many they guessed correctly. 1 match pays out 1:1, 2 matches 2:1, and 3 matches 3:1.
+Roulette, the original wheel of fortune with 14 slots, where the player can either bet a color or straight-up, with the payouts being 1:1 and 13:1, respectively.
+Slot machine, where the player matches symbols to win on a single payline (the center row). The symbols are shown below, with their winnings in credits:
+Golden Tadpole:
+3x: 20
+2x: 5
+Diamond:
+3x: 18
+2x: 4
+Coin:
+3x: 15
+2x: 3
+Grape: 12
+Melon: 10
+Lemon: 8
+Any 3 preciouses: 6
+Any 3 fruits: 3
+Sports Betting, where the player either bets on a basketball, baseball, hockey, or soccer game, with the payouts randomized.
+Texas Hold'em, where the player and an opponent gets 2 cards, and the player that makes the higher hand wins. The player can fold, which constitutes a loss, or they can raise, revealing the cards in the center. These are the possible poker hands that can be formed:
+Royal Flush: An Ace, a King, a Queen, a Jack, and a 10 of the same suit
+Straight Flush: 5 cards in a row of the same suit
+4 of a kind: 4 identically ranked cards
+Full House: 3 cards of a rank and 2 cards of another
+Flush: 5 cards of the same suit
+Straight: 5 cards in a row in ranking. Ranks cannot wrap around, as a Queen, a King, an Ace, a 2, and a 3 is NOT a straight.
+3 of a kind: 3 cards of the same rank
+2 pair: 2 sets of 2 cards of the same rank
+1 pair: 2 cards of the same rank
+High card: All other poker hands not fit in the other category.
+Three-Card Shuffle, where a card of a random suit and rank is selected, and the dealer will shuffle the cards. After shuffling, the player will pick a card to see if it is the same card that they selected. If it is, the payout is 1:1.
+You can get prizes when you play games in the casino.
+Owning a Casino
+[
+]
+You can own a casino with the expansion pack stated above. You can purchase between gambling dens, game parlors, clubhouses, proper casinos and luxury casinos. Like gambling, owning and operating a casino is illegal in countries where gambling is illegal.
+Casino Type
+Entertainment Capacity
+Amenity Capacity
+Game Rooms
+Gambling Den
+1
+2
+3
+Game Parlor
+2
+3
+4
+Clubhouse
+3
+4
+5
+Casino
+4
+5
+6
+Luxury Casino
+5
+6
+7
+Gallery
+[
+]
+A game of Blackjack played in a casino.

@@ -1,0 +1,312 @@
+{{Infobox country
+|title1=Spain
+|image1=[[File:Spain.png]]
+|caption1=Spain's flag.
+|country_name=Spain
+|number_of_default_cities=15
+|when_was_it_added_to_ios=September 2018 (default)
+}}
+'''Spain''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Madrid, along with A Coruña, Barcelona, Bilbao,  Granada, Malaga, Palma,  Pamplona, Pontevedra, Rota, San Sebastian, Seville, Valencia, Valladolid, and Zaragoza.
+== Name List ==
+=== Male First Names ===
+
+* Aaron
+* Adam
+* Abnar
+* Adonis 
+* Andriel 
+* Aniel 
+* Abdiel 
+* Adrian
+* Aitor
+* Alan
+* Alberto
+* Alfredo 
+* Alejandro
+* Alex
+* Alonso
+* Alonzo 
+* Alfonso 
+* Alfonzo 
+* Alvaro
+* Amir
+* Andres
+* Angel
+* Antonio 
+* Arnau
+* Asier
+* Axel
+* Armando 
+* Adriel 
+* Alexey
+* Alexander
+* Andre 
+* Andrew 
+* Adalberto 
+* Biel
+* Bruno
+* Benjamin 
+* Carlos
+* Christian 
+* Daniel
+* Dario
+* David
+* Diego
+* Dylan
+* Emilio
+* Enrique
+* Enzo
+* Eric
+* Fernando
+* Ferran
+* Francis
+* Francisco 
+* Gerard
+* Gabriel 
+* Gael
+* Gonzalo
+* Guillermo
+* Hector
+* Hugo
+* Ian
+* Ignacio 
+* Iker
+* Imran
+* Isaac
+* Ismael
+* Ivan
+* Izan
+* Jamie
+* Javier
+* Jesus
+* Joan
+* Joaquin 
+* Joel
+* Jon 
+* Jonathan 
+* Jorge
+* Jose
+* Juan
+* Juan Carlos
+* Juan Jose 
+* Juan Pablo 
+* Juan David
+* Juan Diego
+* Juan Sebastian 
+* Julio
+* Julian 
+* Leo
+* Leonardo 
+* Liam
+* Luca
+* Lucas
+* Luis
+* Luka
+* Manu
+* Manuel
+* Marc
+* Marco
+* Marcos
+* Mario
+* Martin
+* Mateo
+* Matias
+* Mauro
+* Miguel
+* Nacho
+* Nicolas
+* Nikola
+* Noah
+* Oliver
+* Omar
+* Oscar 
+* Pablo
+* Pau
+* Pedro
+* Placido
+* Pol
+* Ponce
+* Quino
+* Rafael
+* Raul
+* Rayan
+* Ricky
+* Roberto
+* Rodrigo 
+* Ruben
+* Rudy
+* Salvador
+* Samuel
+* Sammy
+* Santiago 
+* Saul
+* Sergio
+* Sebastian 
+* Tea
+* Thiago 
+* Victor
+* Wilmer 
+* Xabier
+* Xavi
+* Xavier 
+* Xabi
+* Yaniel
+* Yadiel 
+* Yanuel
+* Yussel
+* Yeriel 
+
+=== Female First Names ===
+* Abril
+* Adriana
+* Africa 
+* Aina
+* Ainara
+* Ainhoa
+* Aitana
+* Alba
+* Alejandra
+*Alexia
+* Alicia
+* Alma
+* Amelia 
+* Ana
+* Ana Sofia 
+* Ana Maria
+* Ana Lucia
+* Andrea
+* Angela
+* Ariadna
+* Blanca
+* Candela
+* Carla
+* Carlota
+* Carmen
+* Clara
+* Claudia
+* Daniela
+* Diana
+* Elena
+* Elsa
+* Emily 
+* Eva
+* Emma
+* Fernanda
+* Ines
+* Irene
+* Isabel
+* Isabella
+* Jimena
+* Julia
+* Laia
+* Laura
+* Leire
+* Leyre
+* Lola
+* Lily
+* Lucia
+* Maria
+* Maria Fernanda 
+* Marina
+* Marta
+* Martina
+* Nerea
+* Noa
+* Nora
+* Olivia
+* Paula
+* Penelope
+* Rocio
+* Sarah
+* Sara
+* Sofia
+* Teresa
+* Triana
+* Valentina
+* Valeria
+* Vega
+* Vera
+* Yasmin
+* Zoe
+
+=== Surnames ===
+* Albeniz
+* Arnaz
+* Alonso
+* Alvarado
+* Alvarez
+* Banderas
+* Bardem
+* Calvo
+* Cano
+* Carreras
+* Castillo
+* Castro
+* Costa
+* Cruz
+* Dali
+* Delgado
+* Diaz
+* Diez
+* Domingo
+* Dominguez
+* Fernandez
+* Garcia
+* Garrido
+* Gasol
+* Gil
+* Gomez
+* Gonzalez
+* Gutierrez
+* Hernandez
+*Hidalgo
+* Iglesias
+* Jimenez
+* Leon
+* Lopez
+* Marin
+* Martin
+* Martinez
+* Molina
+* Morales
+* Moreno
+* Munoz
+* Nadal
+* Navarro
+* Nunez
+* Ochoa
+* Ortega
+* Ortiz
+* Pena
+* Perez
+* Picasso
+* Prieto
+* Ramirez
+* Ramos
+* Reyes
+* Rios
+* Rodriguez
+* Romero
+* Rubio
+* Sanchez
+* Santos
+* Saez
+* Sanz
+* Segovia
+* Serrano
+* Suarez
+* Torres
+* Vazquez
+* Vega
+* Zapata 
+* Zambrano 
+* de Leon
+* de Los Santos 
+
+== Gallery ==
+<gallery>
+File:Spain baby.jpeg|A baby born in Spain.
+File:Spanish Royalty.jpg|A baby born into Spanish royalty.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

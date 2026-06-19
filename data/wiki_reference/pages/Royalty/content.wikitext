@@ -1,0 +1,202 @@
+<u>'''<big>This page is under renovation; the previous content of the page was a copy-paste of the patch notes. Want information on the update, check out the LevelWinner article linked below, or read the patch notes [[Updates|here]]!</big>'''</u>
+
+{{Infobox_BitLifeApp|title1=Royalty Update - V1.41|launched_on_ios:=September 7, 2020|launched_on_android:=April 19, 2021|image1=File: Better royal update pic.jpg}}
+
+Following the '''Royalty Update in September 2020''', players can now become royalty! (Note: this feature is only available when playing as a character in [[Belgium|Belgium,]] [[Denmark|Denmark,]] [[Japan|Japan,]]  [[Jordan|Jordan,]] [[Kuwait|Kuwait,]] [[Malaysia|Malaysia,]] [[Monaco|Monaco,]] [[Morocco|Morocco,]] [[Netherlands|Netherlands,]] [[Norway|Norway,]] [[Qatar|Qatar,]] [[Saudi Arabia|Saudi Arabia,]] [[Spain|Spain,]] [[Sweden|Sweden,]] [[Thailand|Thailand,]] [[United Arab Emirates|UAE,]] or [[United Kingdom|UK]].) They may be born into different tiers of royal families, or simply marry their way into one! When finally royal, characters can command whoever they'd like be executed, laws be passed or ignored, celebrities be invited into their royal homes, and more... And on top of that, manage a whole new "Respect" stat— closely tied to the already-existing [[Stats/Fame|"Fame"]] stat.
+
+'''Comment on this page what other information should be added here. Date of creation: January 12, 2021.'''
+
+[https://www.levelwinner.com/bitlife-royal-update-guide-everything-you-need-to-know-about-the-royal-update/ This LevelWinner article] on the update is a recommended read.
+
+== Types/Tiers of Royalty ==
+
+=== For Europeans ===
+In European countries, there are a whole lot more tiers other than Prince/Princess (the nobles)! This includes Baron/Baroness, Viscount/Viscountess, Earl/Countess, Marquess/Marchioness, and Duke/Duchess. The list is from descending to ascending ranks of power; characters with the title Baron/Baroness will start out with less money and less overall respect compared to characters with the title Duke/Duchess— in this case, Prince/Princess would be at the very top. When you are selecting a new character's rank in God Mode, this is also the arrangement present in the menu (descending to ascending moving downward).
+
+While a Princes/Princesses will have the ability to succeed their parents in becoming Kings/Queens, the members of other ranks will not have the same opportunity, regardless of their age and overall respect.
+
+=== For Non-Europeans ===
+In non-European countries, only the Prince/Princess option will be available, though the titles for King/Queen may be different to suit the particular culture of the country.
+
+Non-European countries where royalty is present and their variations:
+
+* '''Japan:''' Emperor/Empress
+* '''Jordan:''' King/Queen
+* '''Kuwait:''' Emir/Emira
+* '''Malaysia:''' King/Queen
+* '''Morocco:''' King/Queen
+* '''Qatar:''' Emir/Emira
+* '''Saudi Arabia:''' King/Queen
+* '''Thailand:''' King/Queen
+* '''United Arab Emirates:''' Emir/Emira
+*
+*
+*
+*
+*
+*
+*
+*
+
+== Becoming a Royal ==
+There are two ways to become a royal in BitLife; both pretty tough and chance-based, though one is solvable with the purchase of [[God Mode|God Mode.]]
+
+Firstly, the solvable one— being born as a royal can take quite a while to happen, especially in European countries (this should be obvious, but royalty is only available to countries that have existing monarchies; all of which are listed up above, in the first paragraph), what with all the different tiers and ranks. If player has God Mode, there is a drop-down menu that lets select from several options: Commoner, and the other ranks mentioned in the "Types/Tiers of Royalty" section directly above this one. When born as a royal, player gets assigned very own royal salary and royal home, usually a very, very old mansion of some sort. Players can’t sell this property, though they may hold parties there, you may exorcise whichever ghosts have decided to take residence, and you may renovate the place.
+
+Secondly, the non-solvable one— dating and eventually marrying a royal is pretty hard; managing to do so in the [[United Kingdom|UK]] will earn an achievement (detailed further in the "Achievements Unlockable" section) Players cannot accomplish this with the normal [[Dating App|Dating App,]] as they may only encounter royals from the regular "Find a Date" option, The celebrity dating app can pop up royals but only if you have 100,000 per select and live somewhere where they are royals. They will usually have large amounts of money and, of course, can only be found in countries with existing monarchies. After getting married, you'll behave much like a regular royal in the same tier as your spouse. 
+
+== All-New Activities and Menu ==
+[[File:Royalty activitiesactivity page.png|thumb|All royal-exclusive activities!]]As expected, there are a couple new activities that come with the Royal Update! Some of them are exclusive to only being a direct member of a monarchy, while some are available for any tier of royalty. Here is a breakdown for all the activities:
+
+*'''Abdicate''' (''Relinquish your title'') - Choosing this option will, first, have you confirm that you do want to surrender your royal status— after selecting "Yes", you will be shown a pop-up saying "You abdicated as _your_former_title_. You surrendered your royal status and _your_former_royal_estate_." and your former title. And that's really all you surrender— after this, you will no longer have access to the royal activity page, and you will lose your royal estate. You will keep all your wealth, assets, and fame, and your former royalty will have no effect on further gameplay. Your spouse may also argue with you. Unlocked at age 18.
+*'''Celebrity''' (''Mingle with the stars'') - While celebrities may show up in random scenarios, asking you to hang out (which you can reject, reject a bit more politely, or accept), you can also manually ask them out instead! Under the "Royalty" activities page, you can select "Celebrity", pick a famous person (real peoples' names) and an activity, and if they accept, you can go out with them for some "Happiness" points. Nothing else is really affected besides that, as your respect will not decrease or increase whether or not they accept or refuse. Unlocked at age 14.
+*'''Execute''' (''Have someone executed'') - This one is the first of the activities to actually affect your life as a royal! Upon selecting this activity, you will be prompted to choose someone to execute and a method of execution. They're all pretty brutal, like many (if not all) medieval execution and torture methods, such as "Burn at Stake", "Iron Maiden", "Running of the Bulls", and more. Your respect will lower to 0% and doing this multiple times will likely get you overthrown (covered in the "Respect Management" section). Unlocked at age 16 if you are the head of a monarchy.
+*'''Honorific''' (''Choose how to be addressed'') - Possible honorifics include "Your excellency", "Your grace", "Your highness", "Your majesty", and "Your royal highness". This doesn't really affect anything in-game, and can be used by any tier of royalty. Unlocked at age 6.
+*'''Law Review''' (''Support a new law'') - After selecting this option, you will see a law that has been proposed by your country's government and the option to denounce it or support it. Some examples of laws include helpful ones like "Ban ad traps", harmless ones like "Make 'Regular Show' required viewing for all school children aged 12 and older", and more frighteningly, "Legalise cell-phone tracking by the government". After choosing to either denounce or support, your respect will decrease or increase appropriately, though there will be no media outcry if you support a bad law or denounce a good one. Unlocked at age 6 if you are a member of a monarchical family.
+
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:left;" width="100%"
+|-
+!Law Review – Laws To Support (Incomplete)
+|-
+|
+* Prohibit people from hiking naked
+* Make it illegal to behave in a boomerly manner
+* Prohibit restaurants from describing menu items as world-famous without supporting documentation
+* Make it illegal for parents to buy birth control for their grown children
+* Force all prisoner in solitary confinement to listen to random singger on a repeated loop
+* Make robocalls illegal
+* Make manspreading illegal
+* Illegalize the assignment of homework
+* Ban shows that don't get good until the random number season
+* Fine people for not washing their hands after using the toilet
+* Require all citizen to thank someone daily
+* Ban the production and use of high-fructose syrup
+* Require restaurants to serve french fries on Friday
+* Require all citizens to speak a minimum of two languages
+* Ban plastic bags
+* Provide each citizen older than 18/17/16/15 (etc) a free bicycle/iPhone/PS4/iMac computer (prolly etc)
+* Criminalize people who scare-prank others
+* Forbid teenagers from using the world literally out of context
+* Criminalize the killing of Bigfoot, if found
+* Ban people from using Photoshop on application photos 
+* Require all passengers on commercial flights to applaud safe landings and boo crash landings.
+|}
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:left;" width="100%"
+|-
+!Law Review – Laws To Denounce (Incomplete)
+|-
+|
+* Make it illegal for parents to give stupid names to children
+* Ban reincarnation without written consent by the government
+* Make it illegal to wear anything camo patterned
+* Require criminals to give law enforcement a written notice at least 24 hours prior to commiting a crime
+* Ban the use of profanity by anyone under the age of 8 years old
+* Tax lemonade stand
+* Ban the sharing of Disney+/Amazone Prime/HBO login credentials
+* Make it illegal to wear sideburns/beards on Sundays
+* Make it a crime to forget the birthday of an immediate family member
+* Require coffee shops to serve decaffeinated coffee only after 8PM
+* Limit gamers to six consecutive hours of virtual reality
+* Require all citizens to donate a minimum of one body part to science upon death, if still available
+*Legalize all drugs
+* Require grown children to visit their parents weekly
+* Ban the movie ‘[title]’
+|}
+
+*'''Public Disservice''' (''Cause some chaos'') - Gives you a pop-up telling you what it is you did to cause some chaos in your country, and decreases your respect a bit. After, the media will complain to you about your recent actions, and you can either denounce them or apologize (covered in a little more detail in the "Respect Management" section below). Unlocked at age 6.
+
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:left;" width="100%"
+|-
+!Possible Disservices
+|-
+|
+* Banned [Movie/Show] in [Country] after discovering the character was used to make an [Unkind] meme about you.
+* Banned citizens/companies for making [Unkind] memes about royals.
+* Cancelled red meat.
+* Changed the national anthem of your country to a new song called '[Royal Title] [Name] [Best]'.
+* Claimed and Converted [Place 1] into [Place 2].
+* Created a new custom in [Country] requiring all party piñatas to be filled with [Something]
+* Created a new tax that will tax anything that is not currently being taxed.
+* Created a real-life hunger games and called it '[Royal Title] [Name] Games'.
+* Cut $[Number] in funding for [Place] and gave the money to [Name] in hopes of becoming besties.
+* Decimated large tracts of a wildlife refuge to build an exclusive world-class golf course for royals only.
+* Decreed that anytime a royal is appearing on live television, all citizens must utter the phrase "mad respect" in an audible expression of admiration.
+* Defunded a local children's hospital.
+* Denied an existence of a global pandemic despite reports from [Data].
+* Effectively shut off the internet/power grid across the entire country for [Number] weeks.
+* Enacted a mandate that will harshly punish anyone caught [Action] on a [Day of the Week]
+* Forced the nation into learning empathy by requiring all iPhone users to use Android phones and vice versa.
+* Helped some of your [Bad Smarts] friends land kush jobs [Company].
+* Made [Sport] the national sport of [Country].
+* Officially cut the ribbon at a sperm bank's grand opening, helping it get off to an explosive start. So many people came!
+* Organized and created a monopoly on a wine industry, leaving [Wine Brand] as the sole remaining brand.
+* Paid $[Number] to the judges of "[Country] Idol" to become the season winner.
+* Presented a check from the Royal Family for $[Number] to FlatEarth.Org/The Flat Earth Society./construct a state-of-the-art porn studio in downtown [City].
+* Promoted a new law to ban [Something] in [Country]
+* Provided some comfort to some local prostitutes by offering a free "park and ride" zone on your lap.
+* Reenacted 'The Emperor's New Clothes' in the town and made it required viewing for all university students in literature.
+|}
+
+*'''Public Service''' (''Perform royal duties'') - Gives you a pop-up telling you what it is you did to do good for your country, and increases your respect a bit. Unlocked at age 6.
+
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:left;" width="100%"
+|Possible Services
+|-
+|
+* Signed a decree that provides free supplies for all school children
+* Spent a Saturday feeding the homeless at a soup kitchen
+* Spent time visiting terminally ill kids at a hospital
+* Unveiled a plaque at [Place] in [City]
+* Presented a check from the Royal Family for $[Number] to a non-profit organisation
+* Decreed that all living mothers be honoured by all living children no less than once per week
+* Spoke about [Subject] at a [Place]
+* Christened a boat with a bottle of a champagne during a ceremonial ship launching.
+* Spent [Number] hours responding to [Letters/Emails/Postcards/Messages] from my loyal subjects
+* Donated a parcel of royal land to build an environmental research facility
+* Created a fundraising trust for nature preservation
+* Spent an evening [Interaction] with the elderly at a retirement community
+* Delivered a nationally televised address praising my country's citizens [Good trait]
+* Publicly declared my country as the best place to live on Earth
+* Rattled off "a night at the palace" and donated the money to the victims of a natural disaster
+* Read picture books to students at the library
+* Created a charity that provides financial aid for impoverished students
+* Gave a nationally televised speech from the throne to discuss the [Problems] for the United Kingdom
+* Donated some royal heirlooms to be auctioned off at a charity function
+* Attended the unveiling event and first service at a new house of worship in [City]
+* Spent the weekend wearing a bright orange vest while picking up litter alongside the highway
+* Spent an afternoon holding babies at the children's hospital
+* Sang a glorious rendition of the United Kingdom's national anthem at a basketball game
+* Visited an addiction treatment center and demonstrated how hugs are better than drugs
+* Funded a massive wildlife refuge
+|}
+
+== Respect Management ==
+Being a royal, even in real life, is not easy! You have to think about your actions and the way you come off to the public— while this is a highly toned down in-game, your character can still become the target of public outrage. Let's start with the "Respect" stat; closely tied to the already-existing "Fame" stat, Respect is the measurement of how well the public perceives you. Many different actions you take may increase or decrease this stat, and a too-low percentage could potentially get you overthrown!
+
+=== What Increases Your Respect ===
+Approving a good law, performing your royal duties (the "Public Service" action), getting married, succeeding the throne, and having a royal child (with your spouse, of course) will increase your respect in varying amounts.
+
+=== What Decreases Your Respect ===
+Approving a bad law, causing chaos (the "Public Disservice" action), executing someone, having a child out of wedlock, doing any of the activities under Fame, committing crimes, and being arrested by the police will decrease your respect in varying amounts.
+
+=== Dethronement ===
+Note that you cannot be dethroned in Japan or Saudi Arabia.
+
+When your respect depletes to 0%, the public can have you dethroned in a revolt.  You and your spouse's titles will be stripped from you and you will be exiled. If you have had children as a royal, they will come with you to your new home post exile. Exling will result in the Napoleon achievement being earned if it hasn't been already and you will live your life as a former royal which will appear on your character's headstone, as well as their spouse, who will argue with the character. Your character will also be stripped of their fortune (but may still have enough to afford things like house, jewelry and vehicles) as well as their title and home. The country you will be exiled to depends as it is randomised. You also may be killed by the public depending on your response to the pop-up. 
+
+After being exiled, you will automatically be denied of emigration, especially the country you were originally born in.<br /> [[File:Royalty execution activity.png|thumb|What happens when you execute someone...]]
+
+== [[Achievements]] Unlockable ==
+With the new update, a new category of [[achievements]] was added: Royalty.
+
+*'''Executioner''' – Execute 20 people
+*'''Markle''' – Marry into the British royal family
+*'''Monarch''' – Become a monarch 	
+*'''Napoleon''' – Get exiled to a distant land 
+*'''Reign Over Us''' – Reign as a monarch for 100 years
+
+Instructions and more details on completing these achievements are found in the achievements page linked above.
+
+== Ascending Ranks & Baby Outcomes ==
+If you have a older brother or sisters when you are born then ones the parent with the title dies, they will be king or queen. the only way you can be next in line as if you kill them or they die from something else before they have kids
+[[Category:BitLife]]

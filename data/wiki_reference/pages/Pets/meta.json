@@ -1,0 +1,25 @@
+{
+  "title": "Pets",
+  "pageid": 390,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Pets",
+  "categories": [
+    "BitLife",
+    "Updates"
+  ],
+  "links": [
+    "Death/Pets",
+    "Emigration",
+    "Encounter/Animal",
+    "Notifications",
+    "Relationships",
+    "Shopping",
+    "Stats"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Pets/content.html",
+    "wikitext": "pages/Pets/content.wikitext",
+    "text": "pages/Pets/content.txt"
+  }
+}

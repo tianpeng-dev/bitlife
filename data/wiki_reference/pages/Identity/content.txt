@@ -1,0 +1,45 @@
+Identity
+is a feature that can be accessed under Activities > Identity, and was added to iOS in June 2020 in the Pride Month Update.
+It allows you to either change your gender, change your name, or change your sexual orientation. In the same update that introduced these three options, an
+LGBT Dating App
+was added so you could specifically seek out others of a certain gender identity!
+Contents
+1
+Gender Identity
+1.1
+Pronouns
+2
+Changing Your Name
+3
+Sexual Orientation
+Gender Identity
+[
+]
+The screen for changing your gender identity!
+The options available in-game are Cisgender, Genderqueer, Non-Binary, and Transgender. It changes the gender/sexuality of other people in-game who are attracted to you and the other people in-game your character will be attracted to. This part of the identity feature can be changed as soon as your character turns 4. Although you can change your gender identity to whatever one you'd like it to be, characters have an already-set identity as soon as they are born (already-non-cisgender characters are rare!)
+If you choose "Genderqueer" or "Non-Binary", your sexual orientation will not be displayed in your profile (much like if you were straight).
+If your character is Transgender, their profile will show them as being Transgender. If they get gender reassignment surgery after they reach the age of 18, this will change to "Transsexual".
+(On an unrelated note) If you start off as gay, for example, and you switch your identity to "Transgender", your sexual orientation will automatically turn straight. However, there is currently a bug in which after surgery, your character will become attracted to the opposite gender of what they originally were if straight, gay or lesbian.
+(On another unrelated note) While this was, to an extent, in the game in previous versions, it was not as dynamic as it is now. The only way you could change your gender identity is by undergoing
+gender-reassignment surgery
+; genderqueer characters and non-binary characters were basically non-existent. If your character was straight and underwent the surgery to fully transition, your sexual orientation would stay straight, and you'd still be attracted to the opposite gender.
+Pronouns
+[
+]
+There are currently no options for characters to choose their own pronouns. Males (both cisgender and transgender) automatically have he/him pronouns used for them, females (both cisgender and transgender) automatically have she/her used for them, and non-binary and genderqueer people automatically have zie/zir used for them.
+Changing Your Name
+[
+]
+The screen for changing your name!
+The screen for changing your name in-game is a bit similar to the screen for selecting your child's name (however, this time, you have a freer reign on what the last name will be). The names can be randomised as the game gives you suggestions based on your nationality, but you can still edit the text boxes for an ultimately customisable experience.
+After changing your name, the process is handed over to the government— they may decline your request or allow you to change your name. If that happens, your family might not be pleased! Especially when your parents have a high religiousness; there is a chance they may get mad at you for changing your name, even if it was only your given name. They'll berate you and argue with you, but there's no way for them to force you to change your name back, since this option is only available when you turn 18 years old.
+If you start identifying as Transgender, you will be prompted to change your character's name. If you identify as Non-binary or Genderqueer, however, there is no automatic prompt, though you can still change their name.
+Sexual Orientation
+[
+]
+The screen for changing your sexual orientation!
+The options available in-game are straight, bisexual, and gay ("gay" as an umbrella term for homosexuality, no matter your gender, as it shows up as "gay" either way instead of "lesbian" if you are female). This, of course, changes the gender identities of the in-game people the game suggests you date. You may change this as soon as you turn 12 years old, and there is a set sexual orientation your character already feels, though you can still change it.
+This feature of the game is the only one that was
+originally available before the June 2020 update
+, though it has been revamped to become a lot more dynamic. For example, in past versions of the game, you could not change your sexual orientation; the button, rather than a screen prompting you to choose, would give you a pop-up saying how your character expressed themselves.
+Characters who are Non-binary or Genderqueer will have their sexual orientation based on their birth gender (if they are gay or straight).

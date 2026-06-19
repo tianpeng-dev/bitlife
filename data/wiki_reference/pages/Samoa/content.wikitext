@@ -1,0 +1,38 @@
+{{Infobox country
+|title1=Samoa
+|image1=[[File:Samoa.png]]
+|caption1=Samoa's flag.
+|country_name=Samoa
+|number_of_default_cities=1
+|when_was_it_added_to_ios=July 10, 2022
+}}'''Samoa''' is a [[Nations|country]] that was added to [[BitLife: Life Simulator|BitLife]] in July 10, 2022. Its default cities only include the capital, Apia.
+
+On July 10, 2022, new countries were added to both iOS and Android. Along with Samoa, there was also [[Andorra]], [[Angola]], [[Aruba]], [[Belize]], [[El Salvador]], [[Guatemala]], [[Guyana]], [[Haiti]], [[Nicaragua]], [[Papua New Guinea]], [[Paraguay]], [[Tunisia]], and [[Uganda]]. This was added in a bug fix update prior to the upcoming Business Update.
+
+Since it's inclusion of the game, the '''Independent State of Samoa''' is one of the nations where the '''<u>player cannot start a political career</u>''', despite being a Unitary Parliamentary Republic, it hasn't been explained why but possibly the developers simply forgot to add the special career. 
+
+==Information==
+==Name List==
+
+===First Names===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Name
+! Gender
+! Meaning
+|-
+|}
+
+===Surnames===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Surname
+! Meaning
+|-
+|}
+
+== Gallery ==
+[[File:Screenshot 20230817 063137 com.candywriter.bitlife~2.jpg|left|thumb|Example in Samoa.]]
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

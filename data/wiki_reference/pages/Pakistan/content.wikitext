@@ -1,0 +1,22 @@
+{{Infobox country
+|title1=Pakistan
+|image1=[[File:Pakistan.png]]
+|caption1=Pakistan's flag.
+|country_name=Pakistan
+|number_of_default_cities=5
+|when_was_it_added_to_ios=October 2019
+}}
+'''Pakistan''' is a [[Nations|country]] that was on BitLife in October 2019. Its default cities are the capital, Islamabad, along with Abbotabad, Karachi, Lahore, and Peshawar.
+
+Pakistan was added as a new country to BitLife in late October 2019 during the Haunted Update, as the only non-Haunted addition to the game. [[Czech Republic]], [[Ecuador]], [[Hong Kong]], [[Malaysia]], [[Monaco]], [[Morocco]], and [[Syria]] were also added at the same time.
+
+== Information ==
+Being an Islam-based country, female characters in BitLife will wear hijabs when they are adults. However unlike [[Afghanistan]], [[Iran]], [[Iraq]], [[Saudi Arabia]], or [[United Arab Emirates|UAE]], females do not have hijabs in Pakistan.
+
+Pakistan, along with [[Afghanistan]], [[Angola]], [[Belize]], [[El Salvador]], [[Guatemala]], [[Guyana]], [[Haiti]], [[Iraq]], [[Papua New Guinea]], [[Syria]] and [[Venezuela]], are the 12 countries in the game where [[Death|deaths]] are influenced by the country a character is from, in this case, characters can die from unexpected terrorist or battlefield attacks. Being killed by an attack under the age of 30 will give your character the ''Unlucky'' ribbon, making it easier to obtain (though there is a chance that they may end up getting a different ribbon besides ''Unlucky''). [[Family]] members can also die from these as well and it is likely that a parent or parents will die while your character is still very young. However, the death toll by terrorist and battlefield attacks are much lower in Pakistan, and don't happen as often.
+
+== Gallery ==
+<gallery>
+File:Pakistan baby.jpeg|A baby born in Pakistan.
+</gallery>{{Nations}}[[Category:BitLife]]
+[[Category:Nations]]

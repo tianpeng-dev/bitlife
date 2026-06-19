@@ -1,0 +1,28 @@
+[[File:Community College.jpg|thumb]]
+'''Community college''' is education the player can go to after finishing school, at the age of 18 or older. It can be found at occupation at [[Education]]. You will need to have done Community College for certain jobs. It is totally free to enroll in community college. You may have to go to Community College to pursue education at University if your grades were low in high school or you only received the GED.
+==Grades==
+If joining community college, the occupation button gets replaced with school. If you go there, you will see a grades, and a bar that is empty, filled partially or fully, depending on your grades. If very low, it will be red, if low, it will be orange and if decent or high it will be green. If joining education, the grades you start with depend on your smarts. Every time you age, your grades may drop or rise. If pressing on community college in school, you will have the option to study harder. This will increase your grades. Every time you decide to skip school your grades will drop. If your grades are too low you may be forced to drop out of community college the next time your age.
+
+==Stress==
+Stress depends on how much hours the player weekly spends on school, part-time jobs, full-time jobs, military or special careers. If the stress is too high, the player may get the [[Diseases|Disease]] high blood pressure. This is hard to cure by the doctor, but sometimes can be healed by the doctor or even the witch doctor. It will lower your health every time you age up if not being cured. If lowering your stress by for example leaving part-time jobs, the high blood pressure may be cured by itself. If continuing to have high stress, and left untreated, the player may get a massive heart attack, and [[Game over|die]]. Community College costs the player 40 hours a week.
+
+==Activities==
+
+===Class===
+If clicking on school, and then community college, you will see <nowiki>''Class''</nowiki> under Activities. You will also see a bar with your popularity. If clicking on the class button, you will see the other students, and a bar with your relationship with them. The popularity bar depends on your average relationship with other students. Your popularity and your relationship with students is random if joining community college. (Confirm) It can also depend on your looks stat. If clicking on a student, you can edit them, (Requires god mode) ask them out, (They will show up in your relations as your boyfriend/girlfriend if they accept) befriend them, (They will show up in your relations as a friend if they accept) compliment them, have a conversation with them, flirt with them, give them a gift, (Requires money to buy them a gift) insult them or mess with them.
+
+===Faculty===
+If clicking on this button under activities, you will see the teachers. You can see the professors and the dean here, and your relationship with them. Your relationship with them if random if joining school. You can click on them and edit them, (Requires god mode) act up in class, befriend them, compliment them, disrespect them, flirt with them, give them a gift, try to seduce them or suck up to them. These all require at least the Bitizen game pass exept for editing, which requires god mode.
+
+===Skipping school===
+You can click on skip school under the activities. You will be asked to confirm before doing this. You can do something with other students. This will lower your grades, so it is not advised to do this, since it risks you to get forced to drop out because of bad grades. You may also get sent to the dean’s office if you get caught.
+
+===Studying Harder===
+As mentioned before, you can choose to study harder underneath the activities. This will increase your grades, but does only increase your grades one time a year. If done multiple times a year, only the first time will increase your grades, and the following will not have any effect on your grades.
+
+===Dropping Out===
+You can decide to drop out of community college under the activities. If you do this, you will be asked to confirm. If confirmed, you will no longer be in community college, and will not be able to do jobs that require you to have done community college. You can also be forced to drop out if your grades are too low. If sent to [[Prison]], you will also be forced to drop out of community college.
+
+==Finishing Community College==
+It takes 2 years to finish community college, if not dropping out. If you have done community college, you will be able to join certain jobs that require you to have done community college. You can't join community college again after you finished it. You can first do community college and then go to university, but if you do university first you cannot do community college after. If you went to University and were expelled, you cannot go back to University even after the completion of Community College.
+[[Category:Education]]

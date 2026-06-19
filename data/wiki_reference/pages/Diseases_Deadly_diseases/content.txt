@@ -1,0 +1,124 @@
+Diseases/Deadly diseases
+Launched on iOS:
+September 2018 (default)
+Launched on Android:
+February 2019 (default)
+Deadly diseases
+are
+diseases
+that can end in
+death
+for your character. Some are easy to treat but must be treated to avoid dying. Others are harder to treat and a character must live with it for many years. Many can be contracted while a character is a child or teen and dying from one of these under age 30 will get the
+Unlucky
+ribbon.
+All are randomly contracted when aging up except rabies via animal encounters, and HIV via hook-ups or making love with inflicted mates. A web search may diagnose a deadly disease but it does not necessarily mean that your character will have one.
+Also, there are some diseases that are deadly in real life that are not deadly in the game, some of these include the Flu, Pneumonia, Cirrhosis, Staph Infection, Food Posioning and Ulcers. A player is more likely to die from complications from a disease if a player has low health.
+Disease
+Average difficulty to cure
+Average quickness of death
+Likeliness of dying
+Notes
+Cancers
+Hard
+Around 1-3 years if untreated
+Very likely
+Yellow fever
+Extreme
+About 1 year if untreated
+Extremely likely
+Caused by a mosquito bite. Incurable and lifelong
+Scarlet fever
+Easy
+About 1 year if untreated
+If untreated, extremely likely; if treated, very unlikely
+Can only be contracted when your character is a child or teen
+HIV
+Extreme
+Depends
+Sort of Likely
+The only deadly STD in Bitlife.
+Alzheimer's disease
+Extreme
+Around the rest of your life if on a diet or treated commonly. About 2-20 years
+Very likely
+Only contracted if your character is elderly.
+Rabies
+Easy
+About 1 year if not treated
+Very likely
+This illness is obtained by encountering animals on walks or having a job as a Roadkill Remover.
+Ebola
+Medium
+About 1-2 years if not treated
+Very likely
+Measles
+Easy
+About 1 year if not treated
+If untreated, extremely likely; if treated, very unlikely
+Can only be contracted when your character is a child
+Sickle cell disease
+Extreme
+Varies
+Likely
+Often contracted as a child
+Heart disease
+Medium
+About 1-2 years if not treated
+Very likely
+Most often contracted by middle-aged characters with low health. Can happen during childhood.
+Bubonic plague
+Easy
+About 1 year
+Very likely
+An
+achievement
+can be unlocked if a character gets the bubonic plague.
+Hepatitis C
+Medium
+About 3 years
+Likely
+Can be caused by a bad diet
+Whooping cough
+Easy
+About 1 year if untreated
+If untreated, extremely likely; if treated, very unlikely
+Can only be contracted when your character is a child or teen
+Mad cow disease
+Extreme
+About 1 year if untreated but 1-4 years if treated (unless it's fully cured)
+If untreated, extremely likely; if treated, likely
+Tuberculosis
+Easy
+About 1-5 years if not treated
+Extremely likely
+Diabetes
+Extreme
+About 10 years
+Kind of Likely
+Impossible to cure. Attempting to cure it adds +8 health into your health bar.
+Appendicitis
+Easy
+About 1 year if untreated
+If untreated, extremely likely; if treated, very unlikely
+Malaria
+Easy
+About 1 year
+Extremely likely
+Caused by a mosquito bite.
+High Blood Pressure
+Extreme
+About 1-10 years
+Extremely likely
+Treated easier with the Acupuncturists.
+Sleep Apnea
+Easy
+Around 1-10 years
+Likely
+Lupus
+Extreme
+About 1 year
+Extremely Likely
+Stroke
+Impossible
+Instant
+Certain

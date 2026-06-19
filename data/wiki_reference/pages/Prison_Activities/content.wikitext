@@ -1,0 +1,131 @@
+{{Infobox BitLifeApp
+|title1= Prison Activities
+|image1=[[File:EF69145B-690D-41C6-BBE1-1187901A771A.jpeg|thumb]]
+|launched_on_ios:=August 2019
+|launched_on_android:=
+|last_updated_on_ios:=January 2020
+}}
+
+Following the August 2019 [[Prison]] [[Updates|update]], there are new things that characters can do while in prison. There are 14 activities they can try. Some of these are part of [[Activities]] while some have been in prison before, while some activities are entirely new at the time of the update.
+
+{| class="article-table"
+!Activity
+!Description
+!Possible results
+!Notes
+|-
+|Appeal
+|Appeal your sentence in prison. Choose from 3 lawyers to appeal your sentence.
+|It could succeed, vindicating your character or taking years off their sentence. It could fail, leaving their sentence as is.
+|A character may only make one appeal per sentence. An [[Achievements|achievement]] can be unlocked if your character appeals and is vindicated. If vindicated, they will no longer be subjected to having a criminal record.
+|
+|-
+|Bribe
+|Bribe the guards with a sum of money for a certain amount of years of protection. Guards can protect your character from assault.
+|They can agree to take the bribe, decline, or sentence you more years for bribery.'
+|
+|-
+|Conjugal visit
+|Make love with a significant other or spouse
+|The guards may deny or agree, but your lover can still turn down the conjugal visit request even if guards agree. If a lover agrees and the guards agree, then they will make love. If guards are asked too many times for a conjugal visit, they will tell your character to stop asking.
+|Conjugal visits are illegal in some [[Nations]]. If it is illegal, the game will tell the player that they cannot do a conjugal visit per the laws.
+|-
+|Cry
+|Cry in prison
+|If lucky, no one will catch your character. If your character is caught, prisoners will laugh at them or a creepy prisoner will try to comfort your character in a creeper way.
+|Raises happiness and health; getting caught crying lowers respect and could get a character kicked out of a gang if they are in one.
+|-
+|Escape
+|Escape prison by succeeding a [[Minigames|puzzle]]
+|If your character passes, they will be out of prison and on the run. If they get caught or turn themselves in while trying to escape, they will have years added to their sentence for felony escape. They may choose "Never mind, go back to my cell" before starting the puzzle to avoid possibility of getting caught.
+|Characters only get one chance to escape per year. An achievement can be unlocked if they successfully escape. The puzzle difficulty varies by the level of security in the prison.
+|-
+|[[Prison/Gangs|Gangs]]
+|Try to join a gang
+|If your character has the level of respect or the prerequisite to join the gang they want to join, they will be allowed in. If they are rejected, they could risk being assaulted for trying to get in. Trying to join another gang while already in a gang will automatically get them rejected from the new gang and kicked out of the old gang.
+|Gangs are given a level of notoriety so joining a highly notorious gang requires a lot of respect. Some gangs require your character to be a certain way and your character will be rejected if they don't follow requirements even if highly respected. A character in a gang can still risk being kicked out The ''Tattletale Squad'' and ''Pussyfoots'' gangs are the only gangs not to have a level of respect or prerequisite, but are very weak and not respected. Players must be a [[Bitizenship|Bitizen]] to join gangs. Minimum-security prisons do not have gangs.
+Being rejected from a gang loses respect.
+|-
+|Infirmary
+|Seek medical treatment
+|The character may wait or demand to go in. The prison ward will decide if the character is really in need of treatment. They can cure the disease or ailment or it could be unsuccessful and the character will continue to suffer from it.
+|Medics cannot cure mental illnesses, if your character has a mental illness, the prison ward will still see them as fine.
+|-
+|Letter
+|Send someone in your [[Relationships]] a letter
+|The person in Relationships will read it and send one back or they could never send one back, depending on how high the Relationships bar is. Sometimes when sending a letter back, the guards may confiscate it before you can read it.
+|Sometimes if your relationship is high and you wrote them a letter, your family and lovers can send letters and CARE packages back to you. You may read/use it and respond back, ignore it, or return to sender. Returning to sender will lower the relationship.
+|-
+|[[Mind & Body]]
+|Get a small burst of [[Stats|health and smarts]]
+|Work out in the prison yard, visit the prison library, or meditate in your cell
+|This mimics the ''Mind & Body'' [[Activities|activity]] in the ''Activities'' section for non-prisoners.
+|-
+|Prison Jobs
+|Get a job while in prison
+|Have a small low-pay job in prison. Salary is usually 1 an hour.
+|Prisoners may only have one job. Can leave their job if they want another one.
+|-
+|Prison yard
+|Interact with other prisoners
+|Compliment a prisoner, mess with them, insult them, or assault them. Prisoners can return a compliment or insult back, or they may assault your character.
+|If your character is in a gang, the gang will fight a prisoner who assaults you. If your character is protected by a guard, the guard protects your character. If both your character and their assailant are in gangs, the gangs will fight each other. Characters will get along best with inmates in their own gang. Being rude to gang members or losing too many fights could get your character kicked out of a gang.
+|-
+|Riot
+|Try to start a riot with a chain of prisoners
+|The riot could succeed, earning massive respect for your character. It could fail by crashing into a wall, a prison guard, or by another prisoner in the chain. If the rioting chain crashes into a guard, they could have an extended sentence for enticing a riot.
+|Even if the riot is unsuccessful, it still builds respect for your character making them eligible to join certain Gangs.
+|-
+|[[Time Machine]]
+|Pay cash to go back in time
+|This can be used in any way the player pleases, usually used to get them out of their prison sentence.
+|This mimics the ''Time Machine'' activity in ''Activities'' for non-prisoners.
+|-
+|Surrender...
+|Ends your character's life
+|The game will ask if you want to give up the life of your character with "Continue this life" or "Surrender". If the player chooses "Surrender", the character's life and potential at getting the ribbon they could have gotten will end. If choosing "Continue this life", they will still be alive.
+|This mimics the ''Surrender..."'' activity in "Activities" for non-prisoners. Could risk getting the "Wasteful" ribbon.
+|}
+
+
+=== Juvenile Detention ===
+These are the activities that a juvenile delinquent can do in juvenile hall. When they turn 18, they will be transferred to prison to finish any remaining sentence, if they have one.
+
+{| class="article-table"
+!Activity
+!Description
+!Possible results
+!Notes
+|-
+|Cafeteria
+|Interact with the other delinquents. Similar to the Prison yard.
+|
+|
+|-
+|Cry
+|Cry in juvenile detention
+|If lucky, no one will catch your character. If your character is caught, prisoners will bully them.
+|Getting caught crying loses respect.
+|-
+|Escape
+|Escape juvie by succeeding a [[Minigames|puzzle]]
+|If your character passes, they will be out of prison and on the run. If they get caught or turn themselves in while trying to escape, they will have years added to their sentence for felony escape. They may choose "Never mind, go back to my cell" before starting the puzzle to avoid the possibility of getting caught. Like minimum-security prison, the puzzles start easy. Sometimes, when escaping, someone from your relationships (usually a parent) may immediately turn you back in, especially if you escape too many times, when escaping after committing a more serious crime, or if they have a low relationship.
+|Depending on the type of parents your character has, they could send you back.
+|-
+|Infirmary
+|Seek medical treatment
+|The character may wait or demand to go in. The prison ward will decide if the character is really in need of treatment. They can cure the disease or ailment or it could be unsuccessful and the character will continue to suffer from it.
+|Medics cannot cure mental illnesses, if your character has a mental illness, the prison ward will still see them as fine.
+|-
+|Letter
+|Send someone in your [[Relationships]] a letter
+|The person in Relationships will read it and send one back or they could never send one back, depending on how high the Relationships bar is. Sometimes when sending a letter back, the guards may confiscate it before you can read it.
+|Sometimes if your relationship is high and you wrote them a letter, your family and lovers can send letters and CARE packages back to you. You may read/use it and respond back, ignore it, or return to sender. Returning to sender will lower the relationship.
+|-
+|[[Time Machine]]
+|Pay cash to go back in time
+|This can be used in any way the player pleases, usually used to get them out of their prison sentence.
+|This mimics the ''Time Machine'' activity in ''Activities'' for non-prisoners.
+|}
+[[Category:BitLife]]
+[[Category:Updates]]

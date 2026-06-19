@@ -1,0 +1,334 @@
+{{Infobox country
+|title1=Andorra
+|image1=[[File:Andorra.png]]
+|caption1=Andorra's flag.
+|country_name=Andorra
+|number_of_default_cities=
+|when_was_it_added_to_ios=July 10, 2022
+}}'''Andorra''' is a [[Nations|country]] that was added to [[BitLife: Life Simulator|BitLife]] in July 10, 2022.
+
+On July 10, 2022, new countries were added to both iOS and Android. Along with Andorra, there was also [[Angola]], [[Aruba]], [[Belize]], [[El Salvador]], [[Guatemala]], [[Guyana]], [[Haiti]], [[Nicaragua]], [[Papua New Guinea]], [[Paraguay]], [[Samoa]], [[Tunisia]], and [[Uganda]]. This was added in a bug fix update prior to the upcoming Business Update.
+
+==Information==
+
+==Vital Statistics==
+
+
+
+Currency:  Euro (€)
+
+Default Cities: Andorra la Vella, Encamp, La Massana
+
+Graduation Age:  18
+
+Minimum Age to Drop out of School:  16
+
+Free University:  No
+
+Minimum Legal Driving Age:  18
+
+Same-Sex Dating Legal:  Yes
+
+Same-Sex Marriage Legal: Yes
+
+Changing Last Name After Marriage Permitted: Yes
+
+Free Healthcare: No
+
+Gambling Legal: Yes
+
+Death Penalty Legal: 
+
+Conjugal Visits Permitted: No
+
+Commercial Surrogacy Legal: Yes
+
+==Name List==
+
+===First Names===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Name
+! Gender
+! Meaning
+|- 
+| Adolfo
+| Male
+| Spanish and Italian form of Adolf.
+|-
+| Alejandro
+| Male
+| Spanish form of Alexander.
+|-
+| Andres
+| Male
+| Spanish form of Andrew.
+|-
+| Angela
+| Female
+| Feminine form of Angelus.
+|-
+| Antoni 
+| Male
+| Catalan form of Antonius.
+|-
+| Carla 
+| Female
+| Feminine form of Carlo, Carlos, or Carl.
+|-
+| Carmen 
+| Female
+| Medieval Spanish form of Carmel.
+|-
+| Caterina 
+| Female
+| Catalan form of Katherine.
+|-
+| Catalina
+| Female
+| Spanish form of Katherine.
+|-
+| Cesar 
+| Male
+| Provençal form of Caesar.
+|-
+| Claudi
+| Male
+| Catalan form of Claudius.
+|-
+| Cristina
+| Female
+| Spanish and Catalan form of Christina.
+|-
+| David
+| Male
+| From the Hebrew name ''דָּוִד (Dawid)'', which was derived from Hebrew ''דּוֹד (dod)'' meaning "beloved" or "uncle".
+|-
+| Dolors
+| Female
+| Catalan form of Dolores.
+|-  
+| Dominique
+| Female
+| French form of Dominic.
+|-
+| Emili
+| Female
+| Catalan form of Aemilius.
+|-
+| Enric
+| Male
+| 
+|-
+| Enrique
+| Male
+| 
+|-
+| Estefania
+| Female
+| 
+|-
+| Ester
+| Female
+|
+|-
+| Fabiana
+| Female
+| 
+|-
+| Felix
+| Male
+| 
+|-
+| Filipe
+| Male
+| 
+|-
+| Francisco
+| Male
+| 
+|-
+| Immaculada
+| Female
+| 
+|-
+| Javier
+| Male
+| 
+|-
+| Jorge
+| Male
+| 
+|-
+| Julio
+| Male
+| 
+|-
+| Lidia
+| Female
+| 
+|-
+| Magdalena
+| Female
+| 
+|-
+| Martina
+| Female
+| 
+|-
+| Oscar
+| Male
+| 
+|-
+| Pascal
+| Male
+| 
+|-
+| Patrick
+| Male
+| 
+|-
+| Pedro
+| Male
+| 
+|-
+| Pere
+| Male
+| 
+|-
+| Philippe
+| Male
+| 
+|-
+| Pilar
+| Female
+| 
+|-
+| Ramona
+| Female
+| 
+|-
+| Ruben
+| Male
+| 
+|-
+| Sergio
+| Male
+| 
+|-
+| Sonia
+| Female
+| 
+|-
+| Teresa
+| Female
+| 
+|-
+| Valentina
+| Female
+| 
+|-
+|Virginia
+|Female
+|
+|}
+
+
+===Surnames===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Surname
+! Meaning
+|-
+| Alvarez
+| 
+|-
+| Blanco
+| 
+|-
+| Calvo
+| 
+|-
+| Casal
+| 
+|-
+| Cortes
+| 
+|-
+| Diaz
+| 
+|-
+| Fernandez
+| 
+|-
+| Gil
+| 
+|-
+| Gomes
+| 
+|-
+| Gonzalez
+| 
+|-
+| Iglesias
+| 
+|-
+| Jimenez
+| 
+|-
+| Marin
+| 
+|-
+| Martin
+| 
+|-
+| Martinez
+| 
+|-
+| Mendes
+| 
+|-
+| Monate
+| 
+|-
+| Navarro
+| 
+|-
+| Pereira
+| 
+|-
+| Perez
+| 
+|-
+| Pinto
+| 
+|-
+| Pujol
+| 
+|-
+| Rossell
+| 
+|-
+| Rubio
+| 
+|-
+| Sanchez
+| 
+|-
+| Sole
+| 
+|-
+| Torres
+| 
+|-
+| Vila
+| 
+|-
+|}
+
+== Gallery ==
+<gallery>
+File:Andorra baby.jpeg|A baby born in Andorra.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

@@ -1,0 +1,21 @@
+{
+  "title": "Ana Jones",
+  "pageid": 5109,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Ana_Jones",
+  "categories": [
+    "Americans",
+    "Athletes",
+    "Fan_Characters"
+  ],
+  "links": [
+    "Payton Jackson",
+    "William Fernandez"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Ana_Jones/content.html",
+    "wikitext": "pages/Ana_Jones/content.wikitext",
+    "text": "pages/Ana_Jones/content.txt"
+  }
+}

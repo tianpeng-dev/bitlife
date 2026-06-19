@@ -1,0 +1,222 @@
+{{Infobox country
+|title1=Puerto Rico
+|image1=[[File:Puerto Rico.png]]
+|caption1=Example
+|country_name=Puerto Rico
+|number_of_default_cities=2
+|when_was_it_added_to_ios=June 2019
+}}
+'''Puerto Rico''' is a [[Nations|country]] that was on BitLife in June 2019. Its default cities are the capital, San Juan, along with Ponce.
+
+On June 9, 2019 on [[IOS version|iOS]]; new countries were added. Along with Puerto Rico; there was also [[Afghanistan]], [[Belgium]], [[Djibouti]], [[Dominican Republic]], [[Iraq]], [[Poland]], [[Switzerland]], [[Taiwan]], [[Thailand]], [[United Arab Emirates]], and [[Uruguay]]. It was added to Android September 21, 2019. Although Puerto Rico is a territory of the United States, it is treated as a country. And unlike its real life counterpart where emigrating from Puerto Rico to the United States is straightforward, the BitLife version may accept emigrants at a fee (or may not accept if they either have a criminal record or simply refuse entry).
+
+== Name List ==
+=== Male First Names ===
+* Abdiel
+* Alberto 
+* Adalberto
+* Abnar
+* Allam
+* Alfredo
+* Abel
+* Adrian
+* Alex
+* Armando
+* Alvaro 
+* Adriel
+* Alejandro
+* Andres
+* Angel
+*Anuel
+*Alexander
+*Alexandre
+*Benito 
+*Bruno
+* Carlos 
+* Diego
+* David
+* Eduardo
+* Edwin
+* Emmanuel
+* Esteban
+* Fabian
+* Franco
+* Fernando
+* Francisco
+* Gabriel
+* Gian
+* Gustavo
+* Hector
+* Ivan
+* Janiel
+* Javier
+* Jean
+* Jesus
+* Jomar
+* Jorge
+* Jose
+* Juan Jose
+* Juan Sebastian 
+* Juan
+* Julian
+* Luis
+* Manuel
+* Marc
+* Marco
+* Marcos
+* Miguel
+* Omar
+* Pedro
+* Rafael
+* Ricardo
+* Roberto
+* Sebastian
+* Sergio
+* Sammy
+* Salvador 
+* Victor
+* Xavier
+* Yadiel
+* Yahir
+* Yamil
+* Yandel
+* Yandiel
+* Yandiel Pedro
+* Yaniel
+* Yariel
+* Yeriel
+* Yeriel Jose
+
+=== Female First Names ===
+* Abril
+* Alejandra
+* Adriana
+* Alondra
+* Amaia
+* Annalisse
+* Antonella
+* Astrid
+* Ariana
+* Asuncion
+* Ana Maria 
+* Ana Sofia
+* Ana Lucia
+* Ana
+* Anna
+* Beatriz
+* Benita
+* Bernicia
+* Celestina
+* Clarita
+* Constanza
+* Elisa
+* Emilia
+* Esmeralda
+* Eva
+* Fernanda 
+* Genevalisse
+* Gabriela
+* Isabel
+* Isabella
+* Ivelisse
+* Jaslene
+* Julia
+* Karelma
+* Luisa
+* Luz
+* Mara
+* Maria
+* Maria Fernanda 
+* Marcia
+* Mariposa
+* Marisol
+* Marissa
+* Maritza
+* Mia
+* Olinda
+* Paloma
+* Paulita
+* Raina
+* Ramona
+* Risa
+* Rosalinda
+* Sofia
+* Sara
+* Sarah
+* Suelita
+* Tonia
+* Valentina
+* Valeria
+* Vanessa
+* Yara
+* Yuliana
+
+=== Surnames ===
+* Acosta
+* Albino
+* Alvarez
+* Arroyo
+* Ayala
+* Baez
+* Bonilla
+* Camacho
+*Campeche
+* Castro
+* Colon
+* Correa
+* Cortes
+* Cruz
+* Feliciano
+* Fernandez
+* Figueroa
+* Gonzalez
+* Garcia
+* Leon
+* Lamboi
+* Lugo
+* Lopez
+* Martin
+* Martinez
+* Mercado
+* Miranda
+* Molina
+* Montalvo
+* Morales
+* Negron
+*Nuñez
+* Ortiz
+* Pacheco
+* Padilla
+* Pagan
+* Perez
+* Ramirez
+* Ramos
+* Rios
+* Rivera
+* Reyes
+* Rodriguez
+* Ruiz
+* Saez
+* Santos
+* Sanchez
+* Santana
+* Santiago
+* Silva
+* Soltero
+* Soto
+* Salvador 
+* Torres
+*Texeira
+* Valle
+* Vargas
+* Vazquez
+* Vega
+* de Leon
+* de Los Santos
+
+== Gallery ==
+<gallery>
+File:Puerto Rico baby.jpeg|A baby born in Puerto Rico.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

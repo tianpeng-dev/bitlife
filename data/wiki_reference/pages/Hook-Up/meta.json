@@ -1,0 +1,20 @@
+{
+  "title": "Hook-Up",
+  "pageid": 453,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Hook-Up",
+  "categories": [
+    "BitLife"
+  ],
+  "links": [
+    "Diseases",
+    "Ribbons",
+    "Stats"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Hook-Up/content.html",
+    "wikitext": "pages/Hook-Up/content.wikitext",
+    "text": "pages/Hook-Up/content.txt"
+  }
+}

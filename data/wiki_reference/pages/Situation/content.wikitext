@@ -1,0 +1,9 @@
+''Not to be confused with [[Encounter]].''
+{{Disambig}}
+
+A '''Situation''' may refer to:
+
+*[[Situation/SOS|SOS Situation]], where a stranger is in a life-threatening situation and your character can try to save them.
+*[[Situation/Witnessing Crimes|Illegal Activity Situation]], where your character sees a stranger committing a crime or publicly being bad, and your character has to try and stop it.
+[[Category:BitLife]]
+[[Category:Events]]

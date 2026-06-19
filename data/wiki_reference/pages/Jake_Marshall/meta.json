@@ -1,0 +1,26 @@
+{
+  "title": "Jake Marshall",
+  "pageid": 3911,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Jake_Marshall",
+  "categories": [
+    "Americans",
+    "Characters",
+    "Engineers",
+    "Fan_Characters",
+    "Gulf_War_veterans",
+    "Iraq_War_veterans",
+    "Soldiers",
+    "Vietnam_veterans"
+  ],
+  "links": [
+    "Slobodan Marshall",
+    "United States"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Jake_Marshall/content.html",
+    "wikitext": "pages/Jake_Marshall/content.wikitext",
+    "text": "pages/Jake_Marshall/content.txt"
+  }
+}

@@ -1,0 +1,414 @@
+{{Infobox BitLifeApp|image1 = [[File:Accessories.png]]|launched_on_ios: = June 30, 2020|last_updated_on_ios: = July 27, 2020}}'''Accessories''' is an activity in BitLife which changes the appearance of your character. There are two types of accessories: Eyewear and Headwear. As of July 2020,  other characters can also wear accessories. As of August 2020, the player has the option to enable or disable accessories for NPCs. There are 395 accessories in total. Around the week of Halloween, masks are also available for characters to wear in-game. Unlike eyewear and headwear, these Halloween masks are available to all players and cannot be worn with other accessories. As of October 2024, accessories can be obtained through completing [[Challenges]], [[Scavenger Hunts]] and purchasing certain [[zoo]] animals.
+
+== List of Eyewear items ==
+{| class="article-table"
+!Name
+!Description
+!Image
+|-
+|Vacation Shades
+|Blue
+|
+|-
+|Pride Update Shades
+|Rainbow
+|
+|-
+|Blue Hearts
+|Cerulean
+|
+|-
+|Wellingtons
+|Seafoam 
+|
+|-
+|Violet Tigers
+|Violet
+|
+|-
+|Cool Cat Aviators
+|Aquamarine
+|
+|-
+|Wire Circlets
+|Rose Gold
+|
+|-
+|Welder Chic Goggle Frame
+|Red Hot/Moss Green
+|
+|-
+|Tween Gamer Shades
+|Silly Blue
+|
+|-
+|Blue Tiger Fashionistas
+|Wild Blue
+|
+|-
+|Newports
+|Cool Blue
+|
+|-
+|Clubmasters OG
+|Copper Smoke
+|
+|-
+|Lucky Winners
+|Indigo
+|
+|-
+|Breckenridge Summer
+|Forest Green
+|
+|-
+|Motor City Shades
+|Blue Smoke
+|
+|-
+|Jerry Simp Shades
+|Pansy Pink
+|
+|-
+|Purple Haze Hippy Shades
+|Purple
+|
+|-
+|Vaporwave Shades
+|Multi
+|
+|-
+|Groovy Gandhis
+|Baby Blue/Gentle Green
+|
+|-
+|Designer's Statement
+|Saddle Leather 
+|
+|-
+|Frameless Wenkels
+|Sabina Green
+|
+|-
+|Mary Caray Specs
+|Cracker Jack Red
+|
+|-
+|Classic Cool Aviators
+|
+|
+|-
+|Holly in the Hamptons
+|Long Island Lilac
+|
+|-
+|Commandos
+|Evergreen
+|
+|-
+|Capote Cool
+|Breakfast at Tiffany's Blue
+|
+|-
+|Sport Specs
+|
+|
+|-
+|Cool Cat Aviators
+|Purple Haze
+|
+|-
+|Classic Aviators
+|Rust
+|
+|-
+|Montys
+|
+|
+|-
+|Bolt-on HD Fashion Glass
+|Badass Black
+|
+|-
+|Summer of Shayne
+|Calabasas Copper
+|
+|-
+|Great Escape Chopper Goggles
+|King of Cool Rawhide
+|
+|-
+|Powder Bunny Goggles
+|French Fries Pizza Slice
+|
+|-
+|Food Blogger Shades
+|Medium Rare Red
+|
+|-
+|Cool Karen Shades
+|Navy Blue
+|
+|-
+|Biker Blades
+|Morning Dew
+|
+|-
+|Cousin Carls
+|Blue
+|
+|-
+|Cerulean Tigers
+|Cerulean
+|
+|-
+|Trumans
+|Blue Fade
+|
+|-
+|East Coast Aviators 
+|
+|
+|-
+|Golden Immortal Glasses
+|Beyond the Veil 
+|
+|-
+|Superstar Specs
+|Grape Bubblegum/Cotton Candy Blue
+|
+|-
+|Flower Powers
+|Age of Aquarius
+|
+|-
+|Elevation Shades
+|Black & Tan
+|
+|-
+|Quantum Wave Optical Goggles
+|Speed of Light Blue
+|
+|-
+|Uptown Socialites
+|Gregarious Green
+|
+|-
+|Seafoam Angel Shades
+|Seafoam
+|
+|-
+|Cupids
+|Romantic Red
+|
+|-
+|Classic Wayfarers
+|Organic Eggshell
+|
+|-
+|Aspen Mountain
+|Burnt Orange
+|
+|-
+|Goodson Wayfarers
+|Black
+|
+|-
+|Titanium Precision Eyewear
+|Space Grey
+|
+|-
+|Purple Angel Shades
+|Purple
+|
+|}
+
+== List of Headwear items ==
+{| class="article-table"
+!Name
+!Description
+!Image
+|-
+|Cozy Comfy Beanie Cap
+|Deep Ocean/Stone Blue
+|
+|-
+|I Love Booty Pirate's Cap
+|Back as Death
+|
+|-
+|Cheeky Peaky Blinder Cap
+|Troublemaker Teal
+|
+|-
+|Fruit Roll Wrap Hat
+|Blueberry Bubblegum
+|
+|-
+|Happy Comrade Hat
+|Cold Winter Coal 
+|
+|-
+| Timmy Cap
+|BitLife Red
+|
+|-
+|Acorn Beanie
+|Power to the Purple/Rover Green
+|
+|-
+|Ark Raider Hat
+|Worn Leather
+|
+|-
+|Naval Fleet Beret
+|Aquamarine
+
+|
+|-
+|Pleather Logo Cap
+|Pussycat Purple
+|
+|-
+|All-Weather Pleather Cap 
+|Morning Dew Blue/Greenlake
+|
+|-
+|Good Old-Timey Boater Hat
+|Golden Straw
+|
+|-
+|Flirty Flapper Hat
+|Roaring Orchid
+|
+|-
+| Vero Beach Fedora
+|Past Prime Purple 
+|
+|-
+|Just Say Bucket hat
+|
+|
+|-
+|Vintage Paperboy Hat
+|
+|
+|-
+|Killer Catch Trawler Beanie
+|Pomfret Purple
+|
+|-
+|Killer Catch Logo Cap
+|Driftwood Brown
+|
+|-
+| Cutesy Bow Cloche Hat
+|Speak Easy Green
+|
+|-
+|Dutch Boy Bucket Cap
+|Northern Eggplant
+|
+|-
+|Flowergorgan Turban
+|Stranger Things Pink
+|
+|-
+|Kerouac Plaid Hat
+|Boulder Blue
+|
+|-
+|NightCap Chowder Hat
+|
+|
+|-
+|Daily Derby Bowler
+|Brickhouse Red
+|
+|-
+|Mellow Mushroom Cap
+|Magic Mocha
+|
+|-
+| Pleather Dixie Cup Cap
+| Blue Lagoon Green
+|
+|-
+|Foxy Firestarter Wrap
+|Burnt Orange
+|
+|}
+
+==List of Masks==
+{| class="article-table"
+!Name
+!Image
+|-
+|Jack-o'-Lantern
+|
+|-
+|Sad Clown
+|
+|-
+|Wicked Witch
+|
+|-
+|Hawkeye
+|
+|-
+|Harlequin
+|
+|-
+|Count Dracula
+|
+|-
+|Soft-Boiled Skeleton
+|
+|-
+|Diablo
+|
+|-
+|Killer Clown
+|
+|-
+|Mustachio
+|
+|-
+|Mariposa
+|
+|-
+|Masquerade
+|
+|-
+|Hooter
+|
+|-
+|Skully
+|
+|-
+|Last Chance the Wrapper
+|
+|-
+|Oni
+|
+|-
+|Werewolf
+|
+|-
+|Mummbie
+|
+|-
+|Zombie
+|
+|-
+|Frankenmonster
+|
+|-
+|Spook-o'-Lantern
+|
+|-
+|Fang-o'-Lantern
+|
+|}
+[[Category:BitLife]]
+[[Category:Activities]]

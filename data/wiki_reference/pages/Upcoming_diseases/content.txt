@@ -1,0 +1,127 @@
+The upcoming diseases
+are set to expand the health and life simulation in BitLife, adding more variety, realism, and challenges to gameplay. Players will encounter a mix of infectious, genetic, chronic, neurological, and rare conditions, each with unique effects on characters’ health, happiness, and lifespan.
+Contents
+1
+1. Infectious / Contagious Diseases
+2
+2. Genetic / Congenital Conditions
+3
+3. Neurological / Mental Health Conditions
+4
+4. Gastrointestinal / Liver / Digestive
+5
+5. Respiratory / Skin / Ear
+6
+6. Rare / Deadly
+1. Infectious / Contagious Diseases
+[
+]
+😬Tetanus
+– Could occur after injuries; rare but serious.
+😷Dengue
+– Travel-related tropical disease.
+😷Monkeypox
+– Rare, contagious viral infection.
+😱Toxic shock syndrome
+- Caused by toxins in bacteria
+🤢Salmonella
+– Food poisoning; mild to severe.
+😩Polio
+– Rare; could cause paralysis.
+🙁Hand Foot and Mouth Disease
+– Usually mild; could affect kids.
+🤢Zika
+– Travel-related; could affect pregnancy.
+🙁Cooties
+– Fun/childhood “silly” disease; could be a humorous addition.
+🦐Paralytic Shellfish Poisoning
+– Could be tied to eating risky foods.
+2. Genetic / Congenital Conditions
+[
+]
+🧠Autism
+– Could influence social interactions and life choices.
+😐Down Syndrome
+– Could affect intelligence, health, and lifespan.
+😷Cystic Fibrosis
+– Serious genetic condition; affects lungs and digestion.
+😷Huntington’s Disease
+– Late-onset neurological disorder.
+😬Sjorgen's Syndrome
+- Skin dryness
+😬Cerebral Palsy
+– Affects mobility; could influence jobs and activities.
+😒Infertility
+– Could affect relationships and family planning.
+🦶Flat Foot
+– Minor effect on physical activities; fun detail.
+3. Neurological / Mental Health Conditions
+[
+]
+🧠ADHD
+– Could affect focus, school, work performance.
+😬Parkinson’s
+– Late-onset movement disorder.
+🧠Amnesia
+- Substantial difficulty in recalling old memories or forming new ones
+😷Bacterial Meningitis
+- Can be Deadly if untreated
+🧠Psychosis
+– Severe mental illness affecting perception and behavior.
+🙁OCD
+– Could affect daily routines and decisions.
+🙁Tourette’s Syndrome
+– Involuntary tics; humorous or challenging events.
+🫨Vertigo
+– Dizziness affecting mobility.
+😀Insensitivity to Pain
+– Rare condition; could lead to accidental injuries.
+😬Tinnitus
+– Ringing in ears; minor annoyance but realistic.
+4. Gastrointestinal / Liver / Digestive
+[
+]
+🤢Giardiasis
+– Parasite; causes diarrhea.
+😷Acid Reflux
+–  A chronic condition where stomach acid flows back up into the esophagus, causing irritation and damage
+🤢Cholera
+- Caused by contaminated water
+😷Crohn’s Disease
+– Chronic bowel inflammation.
+😷Irritable Bowel Syndrome (IBS)
+– Minor digestive issues; affects comfort.
+🤒Stomach Flu
+- Caused by Noroviruses
+😷Cirrhosis
+– Severe liver disease; could be linked to alcohol or hepatitis.
+😔Low Blood Pressure
+– Could affect stamina, fainting events.
+5. Respiratory / Skin / Ear
+[
+]
+😷COPD
+– Chronic lung disease; linked to smoking.
+🤒Sore Throat
+– Minor, common illness.
+😷Anthrax
+- A rare but serious illness
+🙁Warts
+– Minor cosmetic effect; harmless.
+😬Eczema
+– Could affect appearance and happiness.
+😡Rosacea
+– Redness on face; cosmetic/embarrassment effect.
+🤧Sinusitis
+– Minor illness; affects happiness or health.
+6. Rare / Deadly
+[
+]
+🧠vCJD
+– Mad-cow related disease; rare and fatal.
+😬Brain Eating Amoeba
+- Very fatal disease caused by dirty water
+🤢Lassa Fever
+– Caused by mosquitoes
+😫Fatal Familial Insomnia
+-  Rare, incurable genetic prion disease causing a progressive inability to sleep and leading to rapid death

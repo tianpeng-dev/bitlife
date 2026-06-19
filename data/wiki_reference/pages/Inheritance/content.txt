@@ -1,0 +1,5 @@
+After a player's parents die, they may receive a portion of their money.
+The player can change how their money/debt is inherited through
+Will & Testament
+.
+If the player's parents are NPCs (the player cannot switch to them and if the player switches to their child, all of the player's money and assets will be transferred to the child, though some items may be removed due to the child's age), they will only leave the player inheritance if the player had a good relationship with them. If they had low relationship, the player will not get anything.

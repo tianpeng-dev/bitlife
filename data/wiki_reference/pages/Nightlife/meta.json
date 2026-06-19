@@ -1,0 +1,20 @@
+{
+  "title": "Nightlife",
+  "pageid": 2408,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Nightlife",
+  "categories": [
+    "Activities",
+    "BitLife"
+  ],
+  "links": [
+    "Activities",
+    "Death"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Nightlife/content.html",
+    "wikitext": "pages/Nightlife/content.wikitext",
+    "text": "pages/Nightlife/content.txt"
+  }
+}

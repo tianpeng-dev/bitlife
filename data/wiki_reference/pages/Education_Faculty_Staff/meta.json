@@ -1,0 +1,21 @@
+{
+  "title": "Education/Faculty Staff",
+  "pageid": 994,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Education%2FFaculty_Staff",
+  "categories": [
+    "BitLife",
+    "Updates"
+  ],
+  "links": [
+    "Hook-Up",
+    "Lawsuit",
+    "Nations"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Education_Faculty_Staff/content.html",
+    "wikitext": "pages/Education_Faculty_Staff/content.wikitext",
+    "text": "pages/Education_Faculty_Staff/content.txt"
+  }
+}

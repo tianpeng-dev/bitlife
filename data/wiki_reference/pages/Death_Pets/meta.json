@@ -1,0 +1,23 @@
+{
+  "title": "Death/Pets",
+  "pageid": 405,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Death%2FPets",
+  "categories": [
+    "BitLife",
+    "Death",
+    "Medical"
+  ],
+  "links": [
+    "Death",
+    "Family",
+    "Pets",
+    "Relationships"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Death_Pets/content.html",
+    "wikitext": "pages/Death_Pets/content.wikitext",
+    "text": "pages/Death_Pets/content.txt"
+  }
+}

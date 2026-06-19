@@ -1,0 +1,238 @@
+{{Infobox country
+|title1=Argentina
+|image1=Argentina.png
+|caption1=Argentina's flag.
+|country_name=Argentina
+|number_of_default_cities=3
+|when_was_it_added_to_ios= September 2018 (default)
+|when_was_it_added_to_android=February 2019 (default)
+}}'''Argentina''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Buenos Aires, along with Córdoba and Rosario.
+== Name List ==
+=== Male First Names ===
+* Angel
+* Alberto
+* Alejandro 
+* Andres
+* Antonio 
+* Atahualpa
+* Bruno 
+* Benjamin 
+* Carlos
+* Cesar
+* Cesaro
+* Chano
+* Che
+* Claudio
+* Cristian
+* Cristiano
+* Christian 
+* Christiano
+* Damian
+* Daniel
+* Delmar
+* David
+* Diego
+* Emiliano
+* Emilio 
+* Edwin
+* Eduardo 
+* Emmanuel 
+* Esteban 
+* Efrain
+* Fabian
+* Fadrique
+* Gabriel
+* Garcia
+* Gaspar
+* Geraldo
+* Guillermo
+* Geronimo 
+* Hernan
+* Iago
+* Jeronimo 
+* Javier 
+* Jeremias
+* Jerrold
+* Jorge
+* Jose
+* Juan
+* Juan Diego 
+* Juan Jose 
+* Juan Pablo 
+* Juan Sebastian 
+* Julian
+* Leonardo
+* Lionel
+* Luis
+* Lobo
+* Mateo
+* Marco
+* Marcos
+* Matias
+* Mauricio
+* Mauro
+* Milton
+* Nahuel
+* Nicolas
+* Oliverio
+* Paulo
+* Pablo
+* Paz
+* Pedro
+* Prospero
+* Raulo 
+* Samuel 
+* Sandro
+* Santiago
+* Sebastian 
+* Santino
+* Santo
+* Saul
+* Sergio
+* Stefano
+* Thiago
+* Tito
+* Tomas
+* Toro
+* Ulrich
+* Victor
+* Wenceslao
+* Yadiel 
+* Yanuel
+* Yefri 
+
+=== Female First Names ===
+* Arabella
+* Ana
+* Ana Sofia
+* Arcelia
+* Armena
+* Brandye
+* Carletta
+* Carmencita
+* Catalina
+* Chiquita
+* Chrisanna
+* Clarinda
+* Danita
+* Devera
+* Daniela
+* Earlena
+* Elena
+* Emilia
+* Ester
+* Fabiola
+* Faqueza
+* Fausta
+* Florida
+* Frescura
+* Fernanda 
+* Isabel
+* Itsaso
+* Josefa
+* Julieta
+* Leonora
+* Lluvia
+* Lucia
+* Luciana
+* Luisana
+* Lupita
+* Madrona
+* Manuela
+* Marcela
+* Maria
+* Maria Fernanda 
+* Marcia
+* Marietta
+* Martina
+* Maxima
+* Mercedes
+* Nailea
+* Neva
+* Novia
+* Paula
+* Paz
+* Pilar
+* Rosalinde
+* Rosamaria
+* Rosario
+* Saturnina
+* Sofia
+* Valentina
+* Xiomarys
+* Zoe
+* Zaira
+* Zaneta
+
+=== Surnames ===
+* Acosta
+* Alonso
+* Alvarez
+* Ardonza
+* Arias
+* Arnal
+* Bautistuta
+* Benitez
+* Blanco
+* Cabrera
+* Castro
+* Diaz
+* Dias
+* Dominguez
+* Fernandez
+* Ferrari
+* Gimenez
+* Gomez
+* Gonzalez
+* Guevara
+* Gutierrez
+* Hernandez
+* Herrera
+* Icardi
+* Iglesias
+* Lopez
+* Maradona
+* Martin
+* Martinez
+* Medina
+* Mendez
+* Messi
+* Molina
+* Moreno
+* Nara
+* Nunez
+* Ortiz
+* Otero
+* Pereyre
+* Perez
+* Ramirez
+* Ramos
+* Rey
+* Rodriguez
+* Rossi
+* Ruiz
+* Russo
+* Salazar 
+* Sanchez
+* Silva
+* Sosa
+* Torres
+* Torrez
+* Varela
+* Vasquez
+* Vidal
+* Vega 
+* Vera
+* Vergara 
+* Vergara 
+*
+* de
+
+== Gallery ==
+<gallery>
+File:Argentina baby.jpeg|A baby born in Argentina.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

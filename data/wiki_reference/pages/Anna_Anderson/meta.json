@@ -1,0 +1,22 @@
+{
+  "title": "Anna Anderson",
+  "pageid": 5178,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Anna_Anderson",
+  "categories": [
+    "Athletes",
+    "British_People",
+    "Fan_Characters",
+    "French_People"
+  ],
+  "links": [
+    "Aaron Anderson",
+    "Mary Joe Thiel"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Anna_Anderson/content.html",
+    "wikitext": "pages/Anna_Anderson/content.wikitext",
+    "text": "pages/Anna_Anderson/content.txt"
+  }
+}

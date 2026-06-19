@@ -1,0 +1,28 @@
+{
+  "title": "Heirloom",
+  "pageid": 625,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Heirloom",
+  "categories": [
+    "BitLife",
+    "Features",
+    "Items",
+    "Under_construction",
+    "Updates"
+  ],
+  "links": [
+    "Achievements",
+    "Assets",
+    "Casino",
+    "Generations",
+    "Karma",
+    "Lottery",
+    "Ribbon"
+  ],
+  "fetched_at": "2026-06-18T03:35:30.110242+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Heirloom/content.html",
+    "wikitext": "pages/Heirloom/content.wikitext",
+    "text": "pages/Heirloom/content.txt"
+  }
+}

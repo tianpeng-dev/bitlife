@@ -1,0 +1,27 @@
+Alternative Doctors
+Launched on iOS:
+September 2018 (default)
+Launched on Android:
+February 2019 (default)
+The
+Alternative Doctor
+is a group of other types of doctors that are not a
+regular doctor
+. There are four alternative doctors; the acupuncturist, the chiropractor, colon hydrotherapy, and the homeopathic doctor. The acupuncturist works best on conditions such as fibromyalgia, insomnia, and scoliosis. The chiropractor works best on gout, bunions, and a few conditions that the acupuncturist works on as well. The homeopathic doctor can sometimes treat conditions but is mostly ineffective and very rarely works, although visiting him improves health. Colon hydrotherapy improves health and has a chance to cure colon cancer, but does not cure any other illnesses.
+List of diseases/ailments which can be cured by acupuncture/Chiropractor:
+Anxiety
+Arthritis
+Asthma
+Bowel incontinence
+Bunions-Acupuncture
+Depression
+Erectile Dysfunction
+Fibromyalgia
+Gout
+Hay fever
+Hemorrhoids
+High blood pressure
+Insomnia
+Kidney Stones
+Migraines
+Scoliosis

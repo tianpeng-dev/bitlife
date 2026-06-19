@@ -1,0 +1,21 @@
+{
+  "title": "Relationships/Spouses",
+  "pageid": 391,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Relationships%2FSpouses",
+  "categories": [
+    "BitLife"
+  ],
+  "links": [
+    "Crime",
+    "Emigration",
+    "Murder",
+    "Will/Testament"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Relationships_Spouses/content.html",
+    "wikitext": "pages/Relationships_Spouses/content.wikitext",
+    "text": "pages/Relationships_Spouses/content.txt"
+  }
+}

@@ -1,0 +1,210 @@
+{{Infobox country
+|title1=Uruguay
+|image1=[[File:Uruguay.png]]
+|caption1=Uruguay's flag.
+|country_name=Uruguay
+|number_of_default_cities=3
+|when_was_it_added_to_ios=June 2019
+|when_was_it_added_to_android=September 2019
+}}
+'''Uruguay''' is a [[Nations|country]] that was on BitLife in June 2019. Its default cities are the capital, Montevideo, along with Punta del Este and Salto.
+
+On June 9, 2019 on [[IOS version|iOS]]; new countries were added. Along with Uruguay; there was also [[Afghanistan]], [[Belgium]], [[Djibouti]], [[Dominican Republic]], [[Iraq]], [[Poland]], [[Puerto Rico]], [[Switzerland]], [[Taiwan]], [[Thailand]], and [[United Arab Emirates]]. It was added to Android September 21, 2019. In the [[Challenges|420 challenge]], Uruguay is one of many nations where cannabis is legal.
+== Name List ==
+=== Male First Names ===
+* Adrian
+* Andres
+* Alejandro
+* Armando
+* Angel
+* Antonio 
+* Arturo 
+* Bruno
+* Benjamin 
+* Camilo
+* Chuminga
+* Daniel
+* Diego
+* David
+* Domingo
+* Elias
+* Emanuel 
+* Emmanuel
+* Emiliano
+* Emilio 
+* Esteban
+* Ezequiel
+* Fabian
+* Fausto
+* Federico
+* Ferdinand
+* Fernando 
+* Francisco
+* Franco
+* Gabriel
+* Gerardo
+* Gonzalo
+* Guillermo
+* Ignacio
+* Jamiro
+* Javier
+* Jhovany
+* Jorge
+* Jose
+* Juan
+* Juan Diego
+* Juan Jose
+* Juan Pablo 
+* Juan Sebastian 
+* Julian
+* Leandro
+* Luis
+* Marco
+* Marcos
+* Manuel
+* Marcel
+* Marcelo
+* Matias
+* Mauricio
+* Miguel
+* Pablo
+* Ricardo
+* Roberto
+* Rodolfo
+* Rodrigo
+* Samuel
+* Santiago
+* Sebastian
+* Sergio
+* Salvador 
+* Thiago
+* Tomas
+* Valentin
+* Victor
+* Vitali
+
+=== Female First Names ===
+* Agustina
+* Alejandra
+* Alexia
+* Alicia 
+* Aliana
+* Alma
+* Ana
+* Ana Lucia
+* Ana Maria 
+*
+* Anabela
+* Anahi
+* Beatriz
+* Camila
+* Carolina
+* Catalina
+* Daniela
+* Diana
+* Eva
+* Emilia
+* Estefani
+* Fernanda
+* Flor
+* Florencia
+* Gabriela
+* Gimena
+* Isabel
+* Jamila
+* Jimena
+* Josefina
+* Leticia
+* Lourdes
+* Lucia
+* Luciana
+* Luisa
+* Magela
+* Mahia
+* Manuela
+* Marcia
+* Maria
+* Maria Fernanda 
+* Marina
+* Marti
+* Michelle 
+* Martina
+* Mia
+* Paula
+* Priscila
+* Selena
+* Shanti
+* Sofia
+* Stefany
+* Valentina
+* Valeria
+* Violeta
+* Yamila
+* Yuliana 
+
+=== Surnames ===
+* Abasto 
+* Acosta 
+* Alvarez
+* Alvarado 
+*
+* Almon
+* Benitez
+* Castillo 
+* Cabrera
+* Cardozo
+* Castro
+* Correa
+* Costa
+* Cruz
+* Delgado
+* Diaz
+* Dias
+* Ferreira 
+* Garza 
+* Ferreir
+* Garcia
+* Gomez
+* Gonzalez
+* Gutierrez
+* Guzman
+* Hernandez
+* Lopez
+* Machado
+* Marquez
+* Martinez
+* Medina
+* Mendez
+* Morales
+* Moreira
+* Nuez
+* Olivera
+* Ortiz
+* Pereira
+* Pereyra
+* Perez
+* Pintos
+* Ramirez
+* Ramos
+* Reyes
+* Rivero
+* Rodriguez
+* Romero
+* Sanchez
+* Santos
+* Silva
+* Silvera
+* Sosa
+* Suarez
+* Techera
+* Torres
+* Vazquez
+* Viera
+* de Leon
+* de Los Santos
+
+== Gallery ==
+[[File:Uruguay baby.jpeg|left|thumb|A baby born in Uruguay.]]
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

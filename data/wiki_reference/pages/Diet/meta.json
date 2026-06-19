@@ -1,0 +1,19 @@
+{
+  "title": "Diet",
+  "pageid": 3559,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Diet",
+  "categories": [
+    "Activities",
+    "Under_construction"
+  ],
+  "links": [
+    "Achievements"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Diet/content.html",
+    "wikitext": "pages/Diet/content.wikitext",
+    "text": "pages/Diet/content.txt"
+  }
+}

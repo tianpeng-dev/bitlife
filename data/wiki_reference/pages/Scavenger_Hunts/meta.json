@@ -1,0 +1,43 @@
+{
+  "title": "Scavenger Hunts",
+  "pageid": 5094,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Scavenger_Hunts",
+  "categories": [
+    "BitLife",
+    "Features",
+    "Under_construction",
+    "Updates"
+  ],
+  "links": [
+    "Accessories",
+    "Addictions",
+    "Adoption",
+    "BitLife: Life Simulator",
+    "Career Collections",
+    "Casino",
+    "Concerts",
+    "Crime",
+    "Diet",
+    "Ghosts",
+    "Heirloom",
+    "Mind & Body",
+    "Murder",
+    "Music",
+    "Nightlife",
+    "Pets",
+    "Prison",
+    "Prison/Activities",
+    "Rehab",
+    "Relationships/Spouses",
+    "Salon & Spa",
+    "Social Media",
+    "Witch Doctor"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Scavenger_Hunts/content.html",
+    "wikitext": "pages/Scavenger_Hunts/content.wikitext",
+    "text": "pages/Scavenger_Hunts/content.txt"
+  }
+}

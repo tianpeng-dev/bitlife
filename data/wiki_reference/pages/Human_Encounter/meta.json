@@ -1,0 +1,22 @@
+{
+  "title": "Human Encounter",
+  "pageid": 4386,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Human_Encounter",
+  "categories": [
+    "Stubs"
+  ],
+  "links": [
+    "CatLife",
+    "DogLife",
+    "Household",
+    "Pet Shop",
+    "Shelter"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Human_Encounter/content.html",
+    "wikitext": "pages/Human_Encounter/content.wikitext",
+    "text": "pages/Human_Encounter/content.txt"
+  }
+}

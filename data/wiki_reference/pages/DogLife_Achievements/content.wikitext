@@ -1,0 +1,505 @@
+{{Template:Under construction}}
+'''Achievements''' are special rewards for completing tasks in DogLife. Achievements can only be unlocked once. They do not have to be completed in one lifetime, unless the achievement says so. Some achievements take hard work while some are easy and other are random chance.
+
+As of December 3, 2021, there are 61 achievements to unlock, divided into 7 different categories. 
+
+==List of Achievements==
+{| class="article-table mw-collapsible"
+|+Longevity
+|-
+!Achievement
+!Description
+!How to Achieve
+!Chance-Based?
+! Difficulty
+!Can also earn a [[DogLife/Ribbons|Ribbon?]]
+|-
+|Complete a Life
+|''Complete a full life''
+|Start and finish a life from birth to death
+|No
+|Easy
+|Yes
+(Any ribbon can be earned)
+|-
+|Mature Mammal
+|''See your 15th birthday''
+|Live until your 15th birthday.
+|Yes
+|Medium
+|No
+|-
+|Still Learning New Tricks
+|''See your 20th birthday''
+|Live until your 20th birthday
+|Yes
+|Hard 
+|No
+|-
+|Quarter-centenarian
+|''See your 25th birthday''
+|Live until your 25th birthday
+|Yes
+|Very Hard
+|Yes (Old Yeller)
+|}
+{| class="article-table mw-collapsible"
+|+Mating
+|-
+!Achievement
+!Description
+!How to Achieve
+!Chance-Based?
+!Difficulty
+!Can you also earn a [[DogLife/Ribbons|Ribbon?]]
+|-
+|Birthing Company
+|''Give birth to a litter of 3''
+|Mate with an animal. After aging up, you may give birth to a trio of offspring.
+|Yes
+|Hard
+|No
+|-
+|Family Ties
+|''Successfully mate with an offspring''
+|Spawn offspring, then successfully mate with it.
+|No
+|Moderate
+|No
+|-
+|Fertile Furball
+|''Have 30 offsprings in one life''
+|Mate with enough animals to where you give birth to a total of 30 offspring in one life.
+|No
+|Very Hard
+|Yes (Fertile)
+|-
+|Here's to Evolution
+|''Have an interspecies tryst''
+|Mate with an animal of a different species.
+|Yes
+|Hard
+|No
+|-
+|Horndog
+|''Have 10 mates in one life''
+|Mate with as many animals as possible. Make sure you have a good relationship with them or else they’ll reject you.
+|No
+|Hard
+|Yes (Horn Dog)
+|-
+|Pleasant Perfume
+|''Attract multiple males to your scent''
+|Release enough hormones from your scent to where two or more mates respond to your scent.
+|Yes
+|Very Hard
+|No
+|}
+{| class="article-table mw-collapsible"
+|+Human
+|-
+!Achievement
+!Description
+!How to Achieve
+!Chance-Based?
+!Difficulty
+!Can you also earn a [[DogLife/Ribbons|Ribbon?]]
+|-
+|A Clean Hit
+|''Break someone's bong''
+|Choose the activity “play with yourself”. If lucky, you might break someone’s bong by accident.
+|Yes
+|Hard
+|No
+|-
+|A Subtle Sting
+|''Sniff a sweaty crotch''
+|Sniff a human’s crotch that smells like sweat.
+|Yes
+|Hard
+|No
+|-
+|Authority Issues
+|''Maul your owner to death''
+|Use a strong attack, such as “maul”, “chomp”, “graze”, and “mangle” against your owner’s weak spot such as the neck, throat, jaw, or skull.
+|Yes
+|Moderate
+|No
+|-
+|Delivered to the Heavens
+|''Kill the mailman''
+|Use a strong attack, such as “maul”, “chomp”, “graze”, and “mangle” against the mailman’s weak spot such as the neck, throat, jaw, or skull.
+|Yes
+|Moderate
+|No
+|-
+|Do It for the Kids
+|''Try to save a marrige''
+|Have married owners. When one of them invites a random person to the house, attack the random person.
+|Yes
+|Hard
+|No
+|-
+|Interbreeder
+|''Hump a human's leg''
+|Hump a human’s leg in scenarios that have the option. This achievement used to be easier to earn as in the older version, you could hump a human’s leg as an interaction, but this was removed in the newer version, making it harder.
+|Yes (Used to be No)
+|Hard (Used to be Easy)
+|No
+|-
+|Love Wins
+|''Support your owner coming out''
+|Have one of your owners come out of the closet, then choose to cuddle with them.
+|Yes
+|Hard
+|No
+|-
+|Not Very Lice
+|''Get called a fleabiscut''
+|Get insulted many times until a human calls you a fleabiscuit. The mailman is the most recommended for this.
+|Yes
+|Hard
+|No
+|-
+|Service Animal Certified
+|''Save someone's life''
+|Have a choking owner, then, if you live with more owners, bark for help. They may come and rescue the choking person.
+|Yes
+|Hard
+|Yes (Hero Dog)
+|-
+|They See Me Rollin'
+|''Go for a ride in a Rolls Royce''
+|You must have rich owners with a Rolls Royce. If they take you to a random place, choose to cooperate with them.
+|Yes
+|Hard
+|Yes (Lucky Dog in most cases)
+|-
+|Well-traveled
+|''Emigrate with your owner''
+|Have an owner that emigrates and brings you to the new country.
+|Yes
+|Hard
+|No
+|}
+{| class="article-table mw-collapsible"
+|+Disease
+|-
+!Achievement
+!Description
+!How to Achieve
+!Chance-Based?
+!Difficulty
+!Can you also earn a [[DogLife/Ribbons|Ribbon?]]
+|-
+|Addict
+|''Develop a drug addiction''
+|Try a drug that you see during a party, then choose to try it. You may develop an addiction.
+|Yes
+|Moderate
+|No
+|-
+|An Apple a Day
+|''Get kicked out of the vet's office''
+|Behave badly at the vet: either act up or attack the vet, and they might refuse to treat you.
+|Yes
+|Easy
+|No
+|-
+|Foam at the Mouth
+|''Contract rabies''
+|Mate with an animal that has rabies, and you will be infected. You may also randomly be diagnosed with it at the vet’s office.
+|Yes
+|Hard
+|Yes (Unlucky if it kills your animal under the age of 3)
+|-
+|Infected!
+|''Give rabies to another animal''
+|Attack or mate with another animal while you have rabies, and you will infect them.
+|No
+|Easy
+|No
+|-
+|Rabid Creature
+|''Give rabies to a human''
+|Attack a human while you have rabies, and you will affect them.
+|No
+|Moderate
+|No
+|-
+|Witchcraft
+|''Get cured of a disease by the witch doctor''
+|Choose the “Witch Doctor” activity while you are on the street, and the witch doctor may cure you of any diseases you have after you spend an amount of Pubic Hairs or Whiskers.
+|Yes
+|Hard
+|No
+|}
+{| class="article-table mw-collapsible"
+|+Rejection
+|-
+!Achievement
+!Description
+!How to Achieve
+!Chance-Based?
+!Difficulty
+!Can you also earn a [[DogLife/Ribbons|Ribbon?]]
+|-
+|& Stay Out!
+|''Get kicked out on the street''
+|Behave badly at a home, and you may get kicked out onto the street.
+|Yes
+|Hard
+|No
+|-
+|Bad Product
+|''Get kicked out of the pet store''
+|Behave badly at the pet store, and you may be kicked out.
+|Yes
+|Easy
+|No
+|-
+|Over Sheltered
+|''Get returned to the shelter''
+|Behave badly at a home, and you may be returned to the shelter if you were adopted there.
+|Yes
+|Easy
+|No
+|-
+|Revolving Merchandise
+|''Get returned to the pet store''
+|Behave badly at a home, and you may be returned to the pet store for a refund if you were purchased there.
+|Yes
+|Moderate
+|No
+|}
+{| class="article-table mw-collapsible"
+|+Escape
+|-
+!Achievement
+!Description
+!How to Achieve
+!Chance-Based?
+!Difficulty
+!Can you also earn a [[DogLife/Ribbons|Ribbon?]]
+|-
+|Bustin' Out!
+|''Escape from home''
+|Escape from home from the puzzle where each set lands on the lock and activates it.
+|No
+|Moderate
+|No
+|-
+|Iatrophobia
+|''Escape from the vet's office''
+|Escape from the vet’s office by choosing “try to escape” when you are taken there and play the Pac-Man-like minigame.
+|No
+|Moderate
+|No
+|-
+|Nonfatal Decision
+|''Escape from the shelter''
+|Escape from the shelter from the maze puzzle while avoiding being caught by a shelter employee. This also immediately happens after you start a riot if you're lucky enough to have a chance to escape without solving the puzzle.
+|No
+|Moderate
+|No
+|-
+|Not for Sale
+|''Escape from the pet store''
+|Escape from the pet store from the maze puzzle while avoiding being caught by a pet store employee.
+|No
+|Moderate
+|No
+|-
+|Sly Cooper
+|''Evade the animal catcher''
+|Evade the animal catcher from the minigame to jump over the obstacles when the event happens.
+|No
+|Moderate
+|No
+|}
+{| class="article-table mw-collapsible"
+|+General
+|-
+!Achievement
+!Description
+!How to Achieve
+!Chance-Based?
+!Difficulty
+!Can you also earn a [[DogLife/Ribbons|Ribbon?]]
+|-
+|2-pc Wing Dinner
+|''Eat a bird''
+|Interact with a bird by choosing to eat it.
+|No
+|Easy
+|No
+|-
+|A New Leash on Life
+|''Have your name changed''
+|Get purchased or adopted, and your owners may change your name.
+|Yes
+|Moderate
+|No
+|-
+|Around the Block
+|''Live on 10 streets in one life''
+|Choose the “Wander” activity while living on the street 10 times and wander to a new street.
+|No
+|Moderate
+|Yes (Wanderer)
+|-
+|BDE: Big Dog Energy
+|''Have a large dog submit to you''
+|Provoke a large dog with low aggression and strength, and they may submit to you.
+|Yes
+|Hard
+|Yes (Alpha if you’re aiming for that)
+|-
+|Chicken Run
+|''Have a run in with animal control''
+|While living on the street, have the event where you are chased by the animal control happen.
+|Yes
+|Easy
+|No
+|-
+|Fear the Fangs
+|''Bite a tiger''
+|While attacking a tiger, choose to bite it.
+|No
+|Moderate
+|No
+|-
+|Funny Bone
+|''Attack a clown''
+|Have an encounter with a clown trying to pet you and choose to attack it.
+|Yes
+|Hard
+|No
+|-
+|Furry Legend
+|Complete every other achievement
+|Complete all achievements
+|Yes (Some achievements are)
+|Extreme
+|No
+|-
+|Guerrilla Warfare
+|''Survive a gorilla attack''
+|Be attacked by a gorilla and survive the attack. Easier if you have high health.
+|Yes
+|Very Hard
+|No
+|-
+|Just Around the Riverbend
+|''Cross a river safely''
+|Wander to a random habitat. You may get the Crossy Road minigame, and successfully reach the other side.
+|No
+|Hard
+|No
+|-
+|Life Sentence
+|''Survive 10 consecutive years in the shelter''
+|Survive in the shelter for 10 years in a row without getting adopted, euthanized, or dying.
+|No
+|Very Hard
+|No
+|-
+|My Mane Man
+|''Cuddle with a lion''
+|Interact with a lion by choosing to cuddle with it.
+|No
+|Easy
+|No
+|-
+|Nosed Around
+|''Add 50 animals to your scent database''
+|Sniff 50 animals as an interaction.
+|No
+|Very Hard
+|No
+|-
+|One Trick Pony
+|''Master a trick''
+|Practice a trick in the “Tricks” section until it is full.
+|No
+|Moderate
+|No
+|-
+|Pawcifist
+|''Submit to an aggressor''
+|During an aggression scenario, choose to submit to the aggressor.
+|No
+|Easy
+|Yes (Omega if you’re aiming for that)
+|-
+|Porcelain Springs
+|''Drink out of the toilet''
+|Act up in a home, pet store, or shelter, and you may end up drinking out of the toilet.
+|Yes
+|Hard
+|No
+|-
+|Ruh-roh, Raggy!
+|''Have a paranormal encounter''
+|Live in a haunted house with ghosts, and you may encounter one of them
+|Yes
+|Hard
+|No
+|-
+|Show-off
+|''Master 10 tricks in one life''
+|Practice 10 tricks in the “Tricks” section until the bar for each trick is full.
+|No
+|Hard
+|Yes (Trickster)
+|-
+|Snitch Stitch
+|''Get another animal spayed or neutered''
+|Have a good relationship with a human, and they may spay or neuter an aggressor.
+|Yes
+|Hard
+|No
+|-
+|That's Amore
+|''Slurp a spaghetti noodle''
+|Have your owner(s) at a home feed you a spaghetti noodle if used "Beg for Food" as an interaction
+|Yes
+|Hard
+|No
+|-
+|The Nose Knows
+|''Locate a lost animal in your scent database''
+|Have an animal that your owners sell, and locate it in the “Scents” section.
+|No
+|Easy
+|No
+|-
+|Time Traveler
+|''Use the time machine''
+|Use the Time Machine from the “Activities” section or to undo death.
+|No
+|Easy
+|No
+|-
+|We are Castaways
+|''Stow away on a ship to a distant land''
+|Complete the minigame in the sewer and get on a boat. Choose to board it, and you will end up in a different country.
+|No
+|Moderate
+|No
+|-
+|Why Is It Spicy?
+|''Sniff an animal that smells like wasabi''
+|Sniff an animal that smells like wasabi as an interaction.
+|Yes
+|Hard
+|No
+|-
+|ZAP!
+|''Get struck by lightning''
+|Be struck by lightning at random. It may raise all your stats or completely ruin them.
+|Yes
+|Very Hard
+|Yes (Unlucky if it kills your animal regardless of whether or not it’s under the age of 3)
+|}
+[[Category:DogLife]]

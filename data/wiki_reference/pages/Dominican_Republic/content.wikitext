@@ -1,0 +1,218 @@
+{{Infobox country
+|title1=Dominican Republic
+|image1=[[File:Dominican Republic.png]]
+|caption1=Dominican Republic's flag.
+|country_name=Dominican Republic
+|number_of_default_cities=3
+|when_was_it_added_to_ios=June 2019
+|available_on_android_as_well=Yes
+}}'''Dominican Republic''' is a [[Nations|country]] that was on BitLife in June 2019. Its default cities are the capital, Santo Domingo, along with Punta Cana and Puerto Plata.
+
+On June 9, 2019 on [[IOS version|iOS]]; new countries were added. Along with Dominican Republic; there was also [[Afghanistan]], [[Belgium]], [[Djibouti]], [[Iraq]], [[Poland]], [[Puerto Rico]], [[Switzerland]], [[Taiwan]], [[Thailand]], [[United Arab Emirates]], and [[Uruguay]]. It was added to Android September 21, 2019.
+
+== Name List ==
+=== Male First Names ===
+* Abnar
+* Adalberto
+* Adonis
+* Andriel
+* Aniel
+* Antonio
+* Bruno
+* Benjamin 
+* Carlos
+* Daniel
+* Diego
+* David
+* Edgar
+* Emiliano
+* Emilio 
+* Emmanuel 
+* Engel
+* Esteban
+* Felipe
+* Francisco
+* Fernando 
+* Franco
+* Gabriel
+* Geovanny
+* Hanley
+* Jasiel
+* Javier
+* Jhonny
+* Jose
+* Juan
+* Juan Jose
+* Juan Diego 
+* Juan Pablo
+* Juan Sebastian  
+*
+* Julian
+* Leandro
+* Luis
+* Manny
+* Manuel
+* Marco
+* Marcos
+* Marcel
+* Mateo
+* Miguel
+* Omar
+* Oscar
+* Osmin
+* Osner
+* Pablo
+* Paolo
+* Pedro
+* Rafael
+* Ramy
+* Rodrigo
+* Salvador
+* Sammy
+* Santiago
+* Sebastian 
+* Tomas
+* Valentino
+* Wilfredo
+* Wilmer
+* Yadiel
+* Yanuel
+* Yandiel 
+* Yefri
+
+=== Female First Names ===
+* Abril
+* Agostina
+* Alai
+* Aldana
+* Aniela
+* Ariana
+* Angela 
+* Ana
+* Ana Sofia
+* Astrid 
+* Belen
+* Bianca
+* Brisa
+* Candela
+* Carina
+* Cecilia
+* Celina
+* Dana
+* Diana
+* Daniela
+* Estefania
+* Emma
+* Fatima
+* Fernanda
+* Gabriela
+* Gisela
+* Ibel
+* Jorgelina
+* Kiara
+* Lara
+* Leisa
+* Leysa
+* Lourdes
+* Luana
+* Lucia
+* Lujan
+* Maria
+* Maria Fernanda 
+* Marcia
+* Marcela
+* Mariela
+* Paola
+* Pilar
+* Paula
+* Selene
+* Sol
+* Sofia
+* Tiara
+* Valentina
+* Victoria
+* Violetta
+* Vita
+* Yamila
+* Yazmin
+* Yesica
+* Yuliana
+
+=== Surnames ===
+* Abreu
+* Alcantara
+* Almanzar
+* Almonte
+* Andujar
+* Aybar
+* Baez
+* Beltre
+* Berroa
+* Cortes 
+* Cortez
+* Camilo
+* Cuevas
+* Cruz
+* Diaz
+* Dias
+* Encarnacion
+* Estevez
+* Estrella
+* Feliz
+* Ferreras
+* Figuereo
+* Frias
+* Gomez
+* Garcia 
+* Garza
+* Guzman
+* Liriano
+* Lora
+* Marte
+* Mateo
+* Mercedes
+* Montas
+* Moreta
+* Morales 
+* Nunez
+* Olivo
+* Ortiz
+* Payano
+* Pena
+* Peralta
+* Polanco
+* Pujols
+* Perez
+* Rodriguez 
+* Reynoso
+* Rijo
+* Rosario
+* Ramirez 
+* Santos
+* Saez
+* Santana
+* Sarante
+* Severino
+* Silverio
+* Suero
+* Salazar 
+* Sanchez 
+* Tavarez
+* Tejada
+* Torres 
+* Urena
+* Valdez
+* Valoy
+* Veras
+* Villar
+* de Leon
+* de Los Santos 
+
+== Gallery ==
+<gallery>
+File:Dominican Republic baby.jpeg|A baby born in Dominican Republic.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

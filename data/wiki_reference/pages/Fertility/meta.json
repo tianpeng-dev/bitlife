@@ -1,0 +1,23 @@
+{
+  "title": "Fertility",
+  "pageid": 360,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Fertility",
+  "categories": [
+    "Activities",
+    "BitLife",
+    "Medical"
+  ],
+  "links": [
+    "Activities",
+    "Lawsuit",
+    "Nations",
+    "Plastic Surgery"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Fertility/content.html",
+    "wikitext": "pages/Fertility/content.wikitext",
+    "text": "pages/Fertility/content.txt"
+  }
+}

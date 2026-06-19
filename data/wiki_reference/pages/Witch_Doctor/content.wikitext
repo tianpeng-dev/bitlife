@@ -1,0 +1,49 @@
+{{Infobox BitLifeApp
+|title1= Witch Doctor
+|image1=
+|launched_on_ios:= September 2018 (default)
+|launched_on_android:= February 2019 (default)
+}}The '''Witch Doctor''' is a type of [[Doctor (disambiguation)|doctor]] that can be used to cure a disease. It is most commonly used when the [[Medical Doctor]] and/or the Alternative Doctor doesn't work. If you attempt to get cured by the witch doctor, there is a chance you will be cured of your disease. Otherwise, it may kill you. If a character [[Death|dies]] from a witch doctor, it may say their "life was cut short by a witch doctor" or vaguely, "died in mysterious circumstances" but in some cases, the gravestone will say "murdered by a witch doctor", meaning it could be intentional that the witch doctor is killing. On average, the witch doctor's treatments will not cure or kill you, but could lower your [[Stats|bars]], especially your health bar. There is an [[Achievements|achievement]] you can obtain if your [[Diseases|ailment]] is cured by the witch doctor. It is believed that any disease or ailment can be cured by the witch doctor but it is rare that it will actually happen.
+
+== Substances that can be given by the Witch Doctor ==
+* Ant feces
+* Baby mouse soaked in rice wine
+
+* Bat's liver
+* Chihuahua hair
+* Cobra venom
+* Cow urine
+* Dill weed
+*Donkey penis
+* Fermented shark
+*Filet of fenny snake
+*Fish eyes
+* Green bubbling liquid from a cauldron
+
+* Human placenta
+* Leech therapy
+
+* Leg of lizard
+* Lion's blood
+
+* Monkey ejaculate
+* Raw komodo dragon egg
+*Red and white mushroom
+* Root of hemlock
+* Scale of dragon
+*Sheep testicles
+*Toad
+* Toe of frog
+* Tongue of dog
+*Tree bark
+*Warthog rectum
+*Whale Liver
+*Whale meat
+
+== Gallery ==
+<gallery>
+File:Screenshot witch doctor death not made explicit.jpeg|A character killed by the witch doctor. The gravestone doesn't make explicit that the witch doctor killed the character.
+File:Screenshot witch doctor death made explicit.jpeg|A character killed by the witch doctor. The gravestone makes explicit that the witch doctor killed the character.
+</gallery>
+[[Category:Medical]]
+[[Category:BitLife]]

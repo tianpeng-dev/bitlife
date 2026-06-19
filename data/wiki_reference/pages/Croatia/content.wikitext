@@ -1,0 +1,18 @@
+{{Infobox country
+|title1=Croatia
+|image1=[[File:Croatia.png]]
+|caption1=Croatia's flag.
+|country_name=Croatia
+|number_of_default_cities=3
+|when_was_it_added_to_ios=May 9, 2020 
+}}
+'''Croatia''' is a [[Nations|country]] that was added to BitLife in version 1.36. Its default cities are the capital, Zagreb, along with Dubrovnik and Split.
+
+== Gallery ==
+<gallery>
+File:Croatia baby.jpeg|A baby born in Croatia.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

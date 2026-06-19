@@ -1,0 +1,24 @@
+{
+  "title": "Teddy Bunker",
+  "pageid": 4085,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Teddy_Bunker",
+  "categories": [
+    "Americans",
+    "Businesspeople",
+    "Fan_Characters",
+    "Lobbyists",
+    "Politicians",
+    "Soldiers",
+    "Vietnam_veterans"
+  ],
+  "links": [
+    "Harry Pickler"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Teddy_Bunker/content.html",
+    "wikitext": "pages/Teddy_Bunker/content.wikitext",
+    "text": "pages/Teddy_Bunker/content.txt"
+  }
+}

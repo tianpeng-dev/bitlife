@@ -1,0 +1,37 @@
+{{Infobox country
+|title1=Uganda
+|image1=[[File:Uganda.png]]
+|caption1=Uganda's flag.
+|country_name=Uganda
+|number_of_default_cities=
+|when_was_it_added_to_ios=July 10, 2022
+}}'''Uganda''' is a [[Nations|country]] that was added to [[BitLife: Life Simulator|BitLife]] in July 10, 2022.
+
+On July 10, 2022, new countries were added to both iOS and Android. Along with Uganda, there was also [[Andorra]], [[Angola]], [[Aruba]], [[Belize]], [[El Salvador]], [[Guatemala]], [[Guyana]], [[Haiti]], [[Nicaragua]], [[Papua New Guinea]], [[Paraguay]], [[Samoa]], and [[Tunisia]]. This was added in a bug fix update prior to the upcoming Business Update.
+
+==Information==
+==Name List==
+
+===First Names===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Name
+! Gender
+! Meaning
+|-
+|}
+
+===Surnames===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Surname
+! Meaning
+|-
+|}
+
+== Gallery ==
+<gallery>
+File:Uganda baby.jpeg|A baby born in Uganda.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

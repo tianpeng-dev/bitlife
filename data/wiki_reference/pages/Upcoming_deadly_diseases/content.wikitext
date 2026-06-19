@@ -1,0 +1,112 @@
+
+== '''Tetanus 😬''' ==
+
+* Chance of cure after visiting doctor: 70% (higher if vaccinated or treated early)
+* Likelihood of death: Moderate to High
+* Notes: Contracted via deep cuts or wounds; causes muscle spasms
+* Average quickness of death: Days to weeks if untreated
+
+== '''Cystic Fibrosis 😷''' ==
+
+* Chance of cure: 5–10% (mostly managed with medication/lung therapy)
+* Likelihood of death: High
+* Notes: Chronic genetic disease affecting lungs and digestion; requires lifelong care
+* Average quickness of death: Usually decades, gradual decline
+*
+
+== '''Anthrax 😷''' ==
+
+* Chance of cure: 50% 
+* Likelihood of death: High
+* Notes: Caused by contaminated meat
+
+== '''Cholera 🤢''' ==
+
+* Chance of cure: 75% 
+* Likelihood of death: High
+* Notes: An acute bacterial infection 
+
+== '''Fatal Familial Insomnia 😫''' ==
+
+* Chance of cure: 1%
+* Likelihood of death: High
+* Notes: Chronic prion disease affecting ability to sleep
+* Average quickness of death: 1-3 years
+
+== '''Parkinson’s Disease 😬''' ==
+
+* Chance of cure: 0% (can only manage symptoms)
+* Likelihood of death: Moderate in late stages
+* Notes: Progressive neurological disorder; affects movement
+* Average quickness of death: 10–20 years after onset
+
+== '''Dengue (Severe / Hemorrhagic) 😷''' ==
+
+* Chance of cure: 60% with hospitalization
+* Likelihood of death: Moderate
+* Notes: Tropical viral infection; severe forms can cause bleeding and organ failure
+* Average quickness of death: Days to 2 weeks in severe cases
+
+== '''vCJD (Variant Creutzfeldt-Jakob Disease)🧠''' ==
+
+* Chance of cure: 0%
+* Likelihood of death: Very High
+* Notes: Fatal prion disease causing neurological decline
+* Average quickness of death: Months to 1–2 years after onset
+
+== '''Brain eating amoeba 😬''' ==
+
+* Chance of cure: 0%
+* Likelihood of death: Extremely high
+* Notes: Caused by dirty freshwater going up your nose
+* Average quickness of death: Hours to months
+
+== '''Huntington’s Disease 😷''' ==
+
+* Chance of cure: 0%
+* Likelihood of death: Very High
+* Notes: Late-onset genetic disorder; gradual brain degeneration
+* Average quickness of death: 10–25 years after first symptoms
+
+== '''Cirrhosis 😷''' ==
+
+* Chance of cure: 10–20% if detected early and alcohol intake stopped
+* Likelihood of death: High
+* Notes: Severe liver damage; can result from alcohol abuse or hepatitis
+* Average quickness of death: Months to years depending on severity
+
+== '''Polio 😩''' ==
+
+* Chance of cure: 0% (supportive care only)
+* Likelihood of death: Moderate
+* Notes: Rare today; can cause paralysis, especially in children
+* Average quickness of death: Weeks to months in severe cases
+
+== '''Monkeypox 😷''' ==
+
+* Chance of cure: 50–70% with medical care
+* Likelihood of death: Low to Moderate
+* Notes: Usually mild but dangerous for immunocompromised patients
+* Average quickness of death: 1–3 weeks
+
+== '''Paralytic Shellfish Poisoning 🦐''' ==
+
+* Chance of cure: 50% with hospital treatment
+* Likelihood of death: High
+* Notes: Caused by eating toxic shellfish; leads to paralysis and respiratory failure
+* Average quickness of death: Hours to days
+
+== '''Salmonella 🤢''' ==
+
+* Chance of cure: 70–90% with fluids and antibiotics
+* Likelihood of death: Very low
+* Notes: Foodborne illness; severe cases can cause dehydration or sepsis
+* Average quickness of death: Days to 1–2 weeks
+
+== '''Zika (Pregnancy-related)🦠''' ==
+
+* Chance of cure: N/A (treatment is supportive)
+* Likelihood of death: Indirect (mainly affects fetus)
+* Notes: Can cause fetal death or severe birth defects; usually mild for adults
+* Average quickness of death: Not usually fatal to adult
+[[Category:Medical]]

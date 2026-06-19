@@ -1,0 +1,36 @@
+{
+  "title": "Relationships",
+  "pageid": 230,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Relationships",
+  "categories": [
+    "BitLife",
+    "Features",
+    "Under_construction"
+  ],
+  "links": [
+    "Achievements",
+    "Age",
+    "Assault",
+    "Bitizenship",
+    "BitLife",
+    "Careers",
+    "Casino",
+    "Emigration",
+    "Fame",
+    "Generations",
+    "Lawsuit",
+    "Nations",
+    "Options",
+    "Pets",
+    "Relationships/Spouses",
+    "Ribbons",
+    "Stats"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Relationships/content.html",
+    "wikitext": "pages/Relationships/content.wikitext",
+    "text": "pages/Relationships/content.txt"
+  }
+}

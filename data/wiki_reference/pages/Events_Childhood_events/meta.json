@@ -1,0 +1,22 @@
+{
+  "title": "Events/Childhood events",
+  "pageid": 384,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Events%2FChildhood_events",
+  "categories": [
+    "BitLife",
+    "Events"
+  ],
+  "links": [
+    "Assets",
+    "Driving License",
+    "Emoji",
+    "Nations"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Events_Childhood_events/content.html",
+    "wikitext": "pages/Events_Childhood_events/content.wikitext",
+    "text": "pages/Events_Childhood_events/content.txt"
+  }
+}

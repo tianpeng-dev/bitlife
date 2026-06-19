@@ -1,0 +1,48 @@
+{{Infobox BitLifeApp
+|title1=Fame Update - V1..15
+|image1=[[File:Statfame.png|thumb]]
+|launched_on_ios:=April 26, 2019
+|launched_on_android:=August 16, 2019
+}}
+Following the '''Fame Update in April 2019''', BitLife added the ability to become famous! While the concept has now been fleshed out in [[Updates|later updates]], like the [[Music]] and [[Sports|Pro Sports]] ones, the only ways to become famous in the original update was to become a model, singer or music composer (no special careers yet, these two were just like regular jobs), writer, or game developer. However, the all-new activities covered below were included in the first update.
+
+
+
+Characters can now gain fame through certain jobs; such as being a model,  a porn actor, a writer, a game dev, an actor/actress, a [[Music|musician]], a magician, a reporter, a social media influencer, or a professional [[Sports|athlete]]. Being part of a [[Royalty|royal family]] will also grant you fame!
+
+Becoming famous will grant you the Famous [[ribbon]]!<br />
+
+== New Activities ==
+[[File:Fame actions.png|thumb|The Fame menu under activities!]]
+While it will be a bit low at the beginning of your career, being famous also unlocks new interactions under Activities > Fame (''Manage your fame''):
+
+*'''Book''' (''Write a book'') - Here, you can choose the title of your book, should a publishing company choose to publish your book. After picking a title and spending a little bit of money, a popup will tell you whether your book is an absolute flop, a disappointment, a commercial failure, a commercial success, a well recieved, a bestseller, or an overnight bestseller (these are not all the results possible; feel free to add them if you get a new result), and how much money you earned from the book. This will increase your fame accordingly.
+*'''Commercial''' (''Do a TV commercial'') - Here, you can agree to do a commercial or decline to do so— if you are famous enough to receive an offer. The popup will include the company extending the offer, the company type, the commercial type (local, regional, or international), and the amount of money you'll receive from accepting. After agreeing, you will receive the money and see the public's reception to the commercial. This will increase your fame accordingly.
+*'''Photo Shoot''' (''Pose for a magazine'') - Here, you can sign up to pose for a magazine or decline to do so. The popup will include the magazine offering, the type of shot you'll be doing (clothed, swimsuit, topless, nude, nude centrefold), and the amount of money you'll receive from accepting. After agreeing, you will receive the money and see the public's reception to the commercial. This will increase your fame accordingly. Sometimes, your spouse or your parent might argue with you if they think your photo shoot was way too indecent!
+*'''Talk Show''' (''Go on a talk show'') - Here, you can go on someone's talk show or decline the opportunity. The popup will include the name of the talk show offering. Unlike the other options, you won't be receiving money from this. After agreeing, you will see the public's reception to your appearance, depending on whether you embarrassed yourself, did an "okay" job, or made a great impression on the viewers.
+
+==Social Media==
+Becoming a [[Social Media|social media]] influencer without becoming famous in other ways is possible, though a bit challenging. Doing this will yield you the "Influencer" [[ribbon]], though there are many other requirements.
+
+Famous people gain followers faster than regular people. You can verify your account when your fame stat is high enough (or, if you're not famous, when you have 100,000 followers on the social media platform) though this has little impact on gameplay. Celebrities will also start following you once you're famous, especially if you compliment them from the "Celebrity" tab. Making a post will usually raise your fame a small amount, depending on how many views/likes it gets. Promoting products that your followers don't like, on the other hand, can decrease your fame.
+
+== Miscellaneous Information ==
+[[File:Royal outrage.png|thumb|When the Emir of Kuwait goes on a talk show...]]
+Famous characters periodically face random scenarios. Examples include having a stalker (you can plead with them, ignore them, or call the police), being insulted by another famous person (ignore them or insult them back), and paparazzi trying to photograph you at inconvenient times (pose, ignore them, or hide your face). The response you select can affect your fame in either direction. You can try to choose wisely (or recklessly!) but what seems like a "good" or "bad" response may or may not have the expected result.
+
+Fame decreases if you quit the job that made you famous, get less attractive or even just older (especially for a model or movie star), if a [[Music|musician]] stops producing albums, if an athlete stops practising their skills, or if the character otherwise stops putting effort into raising or maintaining their level of fame.
+
+Members of a [[Royalty|royal family]] are automatically famous, but doing fame-related activities can bring negative attention from the press as it's seen as exploiting their position for profit, or spreading royal propaganda. You can denounce critics or apologise, though both options can potentially damage your fame/respect and repeated offenses will raise critics' anger level. When anger is low, denouncing critics is usually safe (but is best done sparingly). If anger is high, apologising is a better bet.
+
+== Variations Depending on Your Career ==
+When famous, the UI background will change from plain white to white with a pattern corresponding to the reason of your fame. As a [[Royalty|royal]], the pattern will be of crowns; as a [[Sports|professional athlete]], the pattern will be of soccer balls; as a [[Music|musician]], the pattern will be of music notes (unless you are producing pop music). For the rest, the pattern will be of stars!
+
+It is common for people to confuse the other stats that come with these different careers with fame, but they are completely different. They are often confused because these stats will show up at the bottom of the screen while you are playing (the fame stat will be the one to show up in the profile, though):
+
+*'''Popularity''' - Available when you are a [[Music|musician]]. This corresponds to your popularity as a band or solo artist; it is increased when you produce new albums and singles or perform concerts and go on world tours— doing any of the "Fame" activities does not have any effect.
+*'''Greatness''' - Available when you are an [[Sports|athlete]]. This corresponds to your greatness as a sports player, your performance during competitions and championships, and is overall an overview of your other sports-related stats. Like in the previous item, doing any of the "Fame" activities does not have any effect.
+*'''Reputation''' - Available when you are an actor/actress. This corresponds to your reputation as an actor/actress, it is increased when the TV show/movie reaches a high popularity with you having high participation when it happens, and your actions when given events. High reputation may help keep your role in a TV show/movie. -doing any of the "Fame" activities does not have any effect.
+
+Some more clarification on the overlap between fame and [[royalty]]; if you are part of a [[Royalty|royal family]], you will not have a fame stat. Instead, the bar that shows up at the bottom and in your profile will be for "Respect". However— this page will [[Social Media|count]] it as fame, as it gives you access to the activities exclusive to fame like writing a book and appearing in a commercial.
+[[Category:BitLife]]
+[[Category:Updates]]

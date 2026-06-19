@@ -1,0 +1,11 @@
+{{Infobox BitLifeApp
+|title1=Rehab
+|launched_on_ios:=September 2018 (default)
+|launched_on_android:=February 2019 (default)
+}}
+'''Rehab''' is an [[Activities|activity]] that can be accessed when the main character is 18 or older. The purpose of the Rehab option is to cure an addiction the player's character is struggling with. As of now, there are three ways to cure an addiction: you can attend an Alcoholics Anonymous meeting, you can get a hypnotherapy session or you can attend a Rehab Center. Rarely, [[Mind & Body|meditation]] has cured addictions without rehab.
+
+The hypnotherapy and the Rehab Center cost money, but they are likely to be more effective. Plus, the player can do every action in the Rehab section even if they do not suffer from an addiction. Alcoholics Anonymous is free and should be tried before rehab.
+Sometimes, if the character works for a group or a company, they can prohibit you from attending the Rehab Center.
+[[Category:Medical]]
+[[Category:BitLife]]

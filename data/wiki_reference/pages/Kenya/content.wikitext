@@ -1,0 +1,20 @@
+<nowiki></nowiki>
+
+{{Infobox country
+|title1=Kenya
+|image1=[[File:Kenya.png]]
+|caption1=Kenya's flag.
+|country_name=Kenya
+|number_of_default_cities=2
+|when_was_it_added_to_ios=December 19, 2019}}
+
+'''Kenya''' is a [[Nations|country]] that was on BitLife in December 2019. Its default cities are the capital, Nairobi, along with Mombasa.
+
+In December 2019 on iOS; new countries were added. Along with Kenya; there was also Austria, Bahamas, Costa Rica, DR Congo, Kazakhstan, Kuwait, Lebanon, Mongolia, Nepal, Ukraine, and Vietnam. This was added in the ''Friends'' Update.
+
+== Gallery ==
+<gallery>
+File:Kenya baby.jpeg|A baby born in Kenya.
+</gallery>{{Nations}}
+[[Category:Nations]]
+[[Category:BitLife]]

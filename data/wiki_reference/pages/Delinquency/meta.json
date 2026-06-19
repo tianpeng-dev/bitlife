@@ -1,0 +1,19 @@
+{
+  "title": "Delinquency",
+  "pageid": 2205,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Delinquency",
+  "categories": [
+    "BitLife"
+  ],
+  "links": [
+    "Crime",
+    "Nations"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Delinquency/content.html",
+    "wikitext": "pages/Delinquency/content.wikitext",
+    "text": "pages/Delinquency/content.txt"
+  }
+}

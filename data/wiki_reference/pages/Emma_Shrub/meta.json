@@ -1,0 +1,21 @@
+{
+  "title": "Emma Shrub",
+  "pageid": 4862,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Emma_Shrub",
+  "categories": [
+    "Americans",
+    "Auditors",
+    "Fan_Characters",
+    "Politicians"
+  ],
+  "links": [
+    "Henry Shrub"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Emma_Shrub/content.html",
+    "wikitext": "pages/Emma_Shrub/content.wikitext",
+    "text": "pages/Emma_Shrub/content.txt"
+  }
+}

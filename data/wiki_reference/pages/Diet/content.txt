@@ -1,0 +1,29 @@
+Diets are an option for bitlife, which you can access from mind and body. Some of the diets are beneficial to health, some Increase happiness, and some are harmful!
+Note: Going on the harmful "Hot Cheetos" diet can earn you an
+Achievement.
+1.30
+Version #
+Released on iOS:
+February 2020
+Released on Android:
+March 2020
+Increase Health
+[
+]
+Vegan: Raises Health, Lowers happiness, can cause malnutrition
+Keto: Lowers happiness, raises health
+Mediterranean: Raises health and happiness
+Paleo: Raises Health, Lowers happiness
+South Beach: Raises health
+Vegetarian: Raises health, can cause malnutrition
+Weight Watchers: Raises happiness and health
+Jenny Craig: Raises happiness and health
+Whole30: Raises health, Lowers happiness
+Decrease Health
+[
+]
+Atkins: Lowers health
+High Calorie: Lowers health, Raises happiness
+Hot Cheetos: Lowers health
+Liquid: Lowers health and happiness, can cause malnutrition
+Tapeworm: Lowers health

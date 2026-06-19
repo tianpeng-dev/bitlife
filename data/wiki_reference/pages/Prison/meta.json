@@ -1,0 +1,36 @@
+{
+  "title": "Prison",
+  "pageid": 108,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Prison",
+  "categories": [
+    "BitLife"
+  ],
+  "links": [
+    "Achievements",
+    "Addictions",
+    "Adoption",
+    "BitLife",
+    "Canada",
+    "Crime",
+    "Death",
+    "Diseases",
+    "Emigration",
+    "Hook-Up",
+    "IOS version",
+    "IOS Version",
+    "Japan",
+    "Minigames",
+    "Prison/Activities",
+    "Relationships",
+    "Ribbon",
+    "Ribbons",
+    "Will/Testament"
+  ],
+  "fetched_at": "2026-06-18T03:35:30.110242+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Prison/content.html",
+    "wikitext": "pages/Prison/content.wikitext",
+    "text": "pages/Prison/content.txt"
+  }
+}

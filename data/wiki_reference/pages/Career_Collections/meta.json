@@ -1,0 +1,21 @@
+{
+  "title": "Career Collections",
+  "pageid": 4072,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Career_Collections",
+  "categories": [
+    "BitLife",
+    "Features",
+    "Information"
+  ],
+  "links": [
+    "Careers/Jobs",
+    "Education"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Career_Collections/content.html",
+    "wikitext": "pages/Career_Collections/content.wikitext",
+    "text": "pages/Career_Collections/content.txt"
+  }
+}

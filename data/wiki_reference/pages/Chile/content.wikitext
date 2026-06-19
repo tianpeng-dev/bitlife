@@ -1,0 +1,216 @@
+{{Infobox country
+|title1=Chile
+|image1=[[File:Chile.png]]
+|caption1=Chile's flag.
+|country_name=Chile
+|number_of_default_cities=2
+|when_was_it_added_to_ios=September 2018 (default)
+}}'''Chile''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Santiago, along with Valdivia.
+
+== Name List ==
+=== Male First Names ===
+* Agustin
+* Alexis
+* Alejandro 
+* Alonso
+* Amaro
+* Andres
+* Angel
+* Antonio
+* Augusto
+* Bastian
+* Benjamin
+* Beto
+* Bruno
+* Carlos
+* Carmelo
+* Cristian
+* Cristiano 
+* Cristobal
+* Daniel
+* David
+* Diego
+* Emiliano
+* Emilio 
+* Emmanuel 
+* Ernesto 
+* Felipe
+* Fernando
+* Francisco 
+* Francano
+* Franco
+* Gabriel
+* Gasper 
+* Hernan
+* Ignacio
+* Jacobo
+* Jaime
+* Joel
+* Jeremias
+* Jesus
+* Joaquin
+* Jorge 
+* Jose
+* Juan
+* Juan Diego
+* Juan Jose
+* Juan Pablo
+* Juan Sebastian 
+* Lautaro
+* Leon
+* Lucas
+* Manuel
+* Marco
+* Marcos
+* Mateo
+* Matias
+* Maximiliano
+* Maximilio
+* Maximo
+* Miguel
+* Nico
+* Nicolas
+* Pablo
+* Patricio
+* Renato
+* Roberto
+* Samuel
+* Santiago
+* Sebastian
+* Tomas
+* Vicente
+* Zacarias
+
+=== Female First Names ===
+* Abril
+* Agustina
+* Alejandra 
+* Amanda
+* Ana
+* Ana Sofia 
+* Antonella
+* Antonia
+* Brenda
+* Camila
+* Catalina
+* Constanza
+* Consuela
+* Elisabet
+* Emilia
+* Emily
+* Eva
+* Fernanda
+* Flor
+* Florencia
+* Francisca
+* Grace
+* Gloria
+* Guadalupe
+* Ignacia
+* Isabella
+* Isidora
+* Ivanna
+* Javiera
+* Josefa
+* Julieta
+* Laura
+* Lizbeth
+* Lorena
+* Macarena
+* Maite
+* Maria
+* Maria Fernanda 
+* Martina
+* Matilda
+* Mia
+* Michelle
+* Morena
+* Maximilia
+* Nora
+* Octavia
+* Paulina
+* Paulina
+* Renata
+* Sofia
+* Tatiana
+* Tia
+* Trinidad
+* Valentina
+* Valeria
+* Valerie
+* Victoria
+
+=== Surnames ===
+* Aguilar 
+* Alvarez 
+* Araya
+* Bravo
+* Campos
+* Carrasco
+* Castillo
+* Castro
+* Contreras
+* Cortes
+* Cruz
+* Delgado 
+* Diaz
+* Dias
+* Espinoza
+* Escobar 
+* Fernandez 
+* Figueroa
+* Fuentes
+* Flores
+* Garcia
+* Garza
+* Gomez
+* Gonzalez
+* Gutierrez
+* Guzman
+* Hernandez
+* Herrera
+* Jara
+* Jimenez 
+* Martinez
+* Matta
+* Miranda
+* Molina
+* Morales
+* Munoz
+* Neruda
+* Nunez
+* Orellana
+* Perez
+* Pinera
+* Ramirez
+* Ramos
+* Reyes
+* Riquelme
+* Rivera
+* Rodriguez
+* Rojas
+* Ruiz
+* Salazar 
+* Sanchez
+* Sandoval
+* Sepulveda
+* Silva
+* Soto
+* Tapia
+* Torres
+* Valenzuela
+* Vargas
+* Vasquez
+* Vazquez 
+* Vera
+* Vega
+* Vergara
+
+== Gallery ==
+<gallery>
+File:Chile baby.jpeg|A baby born in Chile.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

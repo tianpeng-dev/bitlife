@@ -1,0 +1,19 @@
+{{Infobox country
+|title1=Czech Republic
+|image1=[[File:Czech Republic.png]]
+|caption1=Czech Republic's flag.
+|country_name=Czech Republic
+|number_of_default_cities=3
+|when_was_it_added_to_ios=October 2019
+}}'''Czech Republic''' is a [[Nations|country]] that was on BitLife in October 2019. Its default cities are the capital, Prague, along with Brno and Ostrava.
+
+Czech Republic was added as a new country to BitLife in late October 2019 during the Haunted Update, as the only non-Haunted addition to the game. [[Ecuador]], [[Hong Kong]], [[Malaysia]], [[Monaco]], [[Morocco]], [[Pakistan]], and [[Syria]] were also added at the same time.
+
+== Gallery ==
+<gallery>
+File:Czech Republic baby.jpeg|A baby born in Czech Republic.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

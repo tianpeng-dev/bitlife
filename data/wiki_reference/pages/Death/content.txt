@@ -1,0 +1,220 @@
+Death
+Icon indicating a deceased character. There is only 1 icon.
+Launched on iOS:
+September 2018 (default)
+Launched on Android:
+February 2019 (default)
+Death
+indicates a finish to your character's life and is signalled with blood running down the screen along with the first notes of Toccata and Fugue in D minor by Bach, or Taps if it is a fallen soldier. Once a character dies, their title changes to "Deceased".
+A tombstone/obituary shows up on the screen immediately after death; showing the ribbon earned, your character's name, age when died, net worth, country/city of residence, career, education, number of children and grandchildren (if applicable), number of lovers (if applicable), number of murders (if applicable), number of years spent in prison (if applicable), a short description of their life, and two bars indicating their happiness level at the time of death and karma.
+Options displayed are journal (which lets you reread the character's life), bulldoze (which erases the tombstone from all your characters' cemetery), share, and continue. After continue, you can pick whether to start a new random/custom life, start over as the same character, or continue as one of their children. If the player has
+God Mode
+membership they may switch to a life of their child without needing to die beforehand.
+Contents
+1
+Surrendering
+2
+Old age
+3
+Illness
+4
+Witch Doctor
+5
+Failed Murder
+6
+Assault
+7
+Animal Encounter
+8
+Failed Rescue
+9
+Drug Overdose
+10
+Struck by lightning
+11
+Botched Plastic Surgery
+12
+Mauled by an exotic pet
+13
+Terrorist Attacks
+14
+Unsuccessful Military Deployment
+15
+Execution
+16
+Not Paying a Hitman
+17
+Cheating a Train Robbery
+18
+Vehicular Accidents
+19
+Having someone attack you with a deadly weapon
+20
+Mafia Family
+21
+Eliminated by screen (upcoming, possibly rejected)
+Surrendering
+[
+]
+Surrendering at 0.
+At any point, the player is able to surrender (commit suicide). When in jail, the surrender button is more visible. When the player surrenders, they will always get the
+wasteful
+ribbon. Surrendering is also known as "suicide". A character as young as 0 can do this, making this the only method a character can die from at age 0.
+Old age
+[
+]
+Once the player gets too old, they might die by complications of old age. This may have a higher chance depending on the player's health. Living to 120 or more can get the
+Geriatric
+ribbon.
+Illness
+[
+]
+Depending on the player's choices, or by random chance, they might get ill. Some diseases are easily curable by visiting the
+medical doctor
+while others may be very difficult to cure. Leaving an illness untreated for too long will cause the player to die. Having a terminal or deadly illness especially with low health can kill the player. If the player is under 30 and dies within a few years of contracting a deadly illness, they get the
+Unlucky
+ribbon
+unless they qualify better for another ribbon.
+Following the Part-time Jobs update, if your character is overstressed, they will suffer high blood pressure and could die from a sudden heart attack or stroke. It is also possible to die of an immediate sudden heart attack without high blood pressure if spooked too hard by active and unfriendly
+Ghosts
+.
+Witch Doctor
+[
+]
+If the player decides to get treatment from the witch doctor, there is a chance they will die. This happens at random but having low/no health and/or a preexisting condition increases chances. It is also more possible with repeated treatments. Some resources like toad or bubbling green liquid in a cauldron are more likely to kill a character, sometimes just taking one or two is enough to kill the character. The witch doctor may forcefully feed deadly substances if your character throws away a DogLife sticker heirloom but this is survivable. The gravestone will sometimes say that the character was "murdered by a witch doctor", meaning it is possible that some witch doctors kill characters intentionally!
+Failed
+Murder
+[
+]
+If the player fails to
+murder someone
+, there is a chance that the player gets murdered by the person they tried to murder. The player can be strangled back if they attempted to strangle. They can be fired back at if they attempted a drive-by shooting. They may be clubbed by a bigger stick if they attempted to club with a stick. The target will jump out of the way and leave your character to fall down the stairs if they tried to push them down a flight of stairs. The target will jump out of the way and throw you and the toaster in the bath if you tried to electrocute them. The target will stuff the underwear in your mouth if you attempted to pull an
+atomic wedgie
+. The target will scare you into falling into the bear trap head first if you dug a bear trap. The target will grab the stake and stab your heart if you tried to impale them. The target will throw you off the cliff if you tried to push them off a cliff. The target will sell their house to an actual angry Karen and have them scare you to death if you try to scare them to death. The target will catch the ball and pitch it to your head if you tried to pitch a fastball to their head. The target will switch your iced tea with theirs if you tried to poison them. The target will switch your morning smoothie with theirs if you picked "Elephant Laxative".
+Assault
+[
+]
+Killed in an assault
+If the player is assaulted many times, there is a chance they will die even if the injuries do not look deadly. Characters can also die being assaulted by a weapon, like a grenade or blowgun. Although the characters in the game can attack you with weapons, the player is currently unable to do so. There is an achievement if a character gets assaulted with a medieval weapon such as a crossbow, a sword, etc. If a character died after a regular assault, their tombstone will read "I died after sustaining massive injuries in an assault". If assaulted with a weapon, it will say "I died after being attacked with a (weapon)." Sometimes your character can be assaulted with a strange makeshift assault weapon like a dildo or a car. In an August 2019 update, if your character is in
+prison
+and they are beaten to death by one of the
+gangs,
+it will say "I died after being beaten to death by the (gang name) gang". If the player died to only one assault, they will get the
+Wasteful
+ribbon.
+Animal Encounter
+[
+]
+In some scenarios, the player encounters an animal and has four choices to pick. Either to rescue it, retreat slowly, pet the animal or run for their character's lives. All carry a risk of dying, but the last two have the highest chance of resulting in death. There is an achievement for being killed by a hippopotamus. Some animals could give characters rabies and they could die from it if they do not have it cured. If they were under 30 when they died from rabies, they could get the
+Unlucky
+ribbon.
+Failed Rescue
+[
+]
+In
+scenarios
+that require the player to save someone, there is a chance that if the player intervenes, the player will die. The character will still get the
+Hero
+ribbon even though the character they tried to save most likely died as well, showing an act of sacrifice. In the scenario pertaining to the gorilla, a character can get the "Gorilla and the Fist"
+achievement.
+Drug Overdose
+[
+]
+Players can be offered drugs to their character in clubs, in prison, or simply on its own. The player could die from a drug overdose if they have an untreated
+addiction
+and after
+aging up
+, they will die as soon as they have aged up and can no longer handle their addiction. While characters can be addicted to many types of alcohol and drugs, the only ones that can end in death are oxycodone, cough syrup, cocaine/crack, meth, heroin, morphine, GHB, MDMA, ketamine, sleeping pills, valium, vicodin and PCP. This can be precautioned by the
+health
+bar falling in percentage. In some cases, the player could also die from an overdose just by agreeing to take a drug one time. In some cases, there is a pop-up situation where the player sees a massive amount of a certain drug, and can sometimes overdose and die if pressing "Consume all of it". Many characters who get the
+Stupid
+ribbon die due to overdoses or could get the
+Rowdy
+ribbon if the drugs were obtained while clubbing. The youngest that a character can overdose on drugs is 14, however some family members can die at 1 due to the flawed nature of the game.
+Pets
+can also die this way suddenly after someone takes them to a party where they accidentally ingested too many drugs and alcohol
+Struck by lightning
+[
+]
+Randomly, the player will be struck by lightning. This will raise all their stats to 100 or bring all their stats to 0 and will possibly kill them. If the player dies this way, they will get the
+unlucky
+ribbon even if they were older than 30. As with the terrorist death, this event is very sudden.
+Botched Plastic Surgery
+[
+]
+Sometimes after a botched
+plastic surgery
+, the damage will be so high, the player will die from complications. In a death by botched gender reassignment surgery, the player will stay as their original sex when they die and it will not change. The Brazilian Butt Lift, Liposuction, Gender Reassignment and Tummy Tuck have the highest chances for death by damage. As of November 2019, plastic surgeons now have reputation and a low reputation increases the likelihood of botched surgery. When someone dies this way, the tombstone will say "(name) died at the operating table at the age of (age) after a botched (kind of plastic surgery)."
+Mauled by an exotic pet
+[
+]
+If the player is mauled by their pet tigers, lions etc. many times due to them training it or lecturing it, the player will die. It is also possible, but much less common, for a character to die by being attacked by a more domesticated pet, like a cat or dog, but usually this happens only if their pet has high craziness.
+Pets
+can also
+die
+from being attacked by exotic pets or simply any pet bigger, crazier, or more aggressive than them in a pop-up scenario.
+Terrorist Attacks
+[
+]
+Following the update in 2022, if the character is living in Iraq, Papua New Guinea, Pakistan, Syria, Afghanistan, Angola, or Venezuela, they have a chance of dying randomly during a terrorist attack such as getting into a car with explosives, stepping on a landmine and blown to smithereens, getting executed by terrorists while running errands, being caught in an explosion in town, a mortar attack, or catching a stray bullet during a shootout, etc. This will reward the player with the
+Unlucky
+ribbon if they didn't do much in their life, this will more likely happen if the character is at a young age. Since then, the
+Unlucky
+ribbon is a bit easier to achieve. These type of deaths are very sudden and happen immediately after aging and can happen at any age without warning. Family members may also die to terrorist attacks but pets are exempt.
+Unsuccessful Military Deployment
+[
+]
+Serving the military and failing the Minesweeper game
+Following the update of July 2019, players who have characters in the military will be deployed to a foreign country and have to solve a minefield puzzle. In the puzzle, they will tap tiles and figure out how many mines are by the tiles. After flagging mines, if a character accidentally does the puzzle wrong, they will set off a mine and be blown up. This will usually result in death and explain how the mine killed the character. The character will achieve the
+Hero
+ribbon for their sacrifice.
+This is the only death that is not signaled by the first notes of Toccata and Fugue in D minor; instead it is signaled by Taps.
+Execution
+[
+]
+Following the 8/8/2019 update, if you murder or attempt to murder someone, or being falsely accused of a murder, you can die after being executed by hanging, lethal injection, firing squad, or electric chair in countries where capital punishment is legally practiced. If a character spends a long time in prison or commits many crimes to get the death penalty, they will get the
+Scandalous
+ribbon. Sometimes a character could have a life sentence in prison but could become a death sentence if they escaped during their life sentence and especially if they committed more crimes after that such as failing to steal a car, assaulting players, failing to pickpocket someone, failing to burgle a house or attempting or committing another murder and getting caught for it. When a character is given a death sentence, it will say the method of execution and the time it will happen. It will always happen on the character's birthday, so when a character
+ages up
+to that age, they will be executed unless given a stay of execution. Characters could have a stay of execution, meaning they will have their execution delayed a few more years or the government could decide that they do not need to be put to death, instead serving a life sentence, which can give the
+Mercy Me
+achievement. Usually if a character is sent to jail at a young age and only gets executed for one murder with very little prison time, the character could get the
+Wasteful
+ribbon for throwing their young life away for crime and punishment. If the player is living in the USA, they can get executed in any state even if said state has abolished the death penalty. Family and friends can die from execution but only by royal execution. If your character is the highest title in royalty, they may execute family and friends and the death will show up with "They died after being executed." Executions are more medieval and cruel.
+Not Paying a Hitman
+[
+]
+Following the January 2020 update, if the player is approached by a hitman after they kill a person, they may ask for more money in exchange for not killing them. The player can either tell the hitman that it's a deal, or run away. Either can kill the player but the latter has a higher chance.
+Cheating a Train Robbery
+[
+]
+When your character is committing the Train Robbery crime, if the player manually alters the time on their device rather than waiting for the time legitimately, the train will plow over the character and kill them on the spot. This also includes changing the time zone and waiting a shorter amount of time. Previously, altering the time would successfully rob the train in the same way that it would if one was legitimately waiting for it. This death is the result of the developers patching this bug/cheat.
+Vehicular Accidents
+[
+]
+Following the Luxury update, your character can purchase special vehicles. Accidents may occasionally occur, especially if they have an empty enjoyment bar, and if your character chooses the wrong option or sits back and accepts their fate in a scenario, they could die. These include, but are not limited to plane accidents, helicopter accidents, and boating accidents. Accidents are more likely to happen if the vehicle has been owned for many years and in bad condition. Sometimes these accidents might turn out to be a nightmare and the player can get an achievement for this. There is also a rare chance that your character dies while taking flight lessons, most probably due to low karma.
+Having someone attack you with a deadly weapon
+[
+]
+When your character attacks or annoys someone, the person may attack you back and kill you. Some ways this could happen are by having someone throw a grenade at you, having them shoot you, choke you, and multiple other ways. The person could be anyone, even including classmates at your character's school, and they can 'revenge' on you in this way when you do something that isn't wrong at all like reporting their bullying to the headmaster. Sometimes Ghosts can use weapons to fight you if you try to exorcise them, too.
+On rare events, if you have
+enemies
+, (enemy name) can enter at your home (even you have not buy a house) with a deadly weapon. You can argue at your enemy, reason of him/her, run for your life or ask him/her for forgiveness. If you tried to flee and your enemy catch you, ask him for forgiveness, argue or give him a reason unsuccessfully, your enemy will attack you with his/her deadly weapon, if the damages is too severe, you will died and get the
+Mediocre
+ribbon. If fails (only causes severe damages who not lead to death but who decreases your stats), you can attack your enemy back, runaway or call the police.
+In
+Mafia
+, visitors can also attack you with deadly weapons. If you unsuccessfully getting pardonned, the visitor will whacked you and kill you.
+For
+Witnessing crimes
+, if you try to intervene (in rare cases, you will stop them without get attacked) or call the police (sometimes), the person committing the crime can attack you with a deadly weapon, and possibly kill you.
+Mafia Family
+[
+]
+If you are in the
+Mafia
+and do something that makes the family upset, such as becoming a rat, refusing a godfather’s order, or ditching the family after you have taken the oath, you have a good chance to be whacked out by the family. They will kill you in a brutal way, if not that they will beat you up, similar to as if you had the choice.
+Eliminated by screen (upcoming, possibly rejected)
+[
+]
+If the player is eliminated by an NPC or itself, a chart labelled as "Eliminated By:" will appear on the screen and the value will be the full name of the NPC who caused this game over and the relationship type surrounded in brackets (e.g. Paul Martin (Co-Worker)) or "A random <type of stranger>". If the character had gone into a car accident or a botched deployment, the value will instead read "Self", implying that the character had eliminated itself.

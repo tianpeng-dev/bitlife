@@ -1,0 +1,35 @@
+{
+  "title": "BitLife: Life Simulator",
+  "pageid": 541,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/BitLife%3A_Life_Simulator",
+  "categories": [
+    "BitLife",
+    "Candywriter",
+    "Games",
+    "Under_construction"
+  ],
+  "links": [
+    "Achievements",
+    "Activities",
+    "Age",
+    "Bitizenship",
+    "Careers",
+    "Custom",
+    "DogLife",
+    "Education",
+    "Fertility",
+    "God Mode",
+    "Merchandise",
+    "Mind & Body",
+    "Nations",
+    "Pets",
+    "Stats"
+  ],
+  "fetched_at": "2026-06-18T03:35:30.110242+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/BitLife__Life_Simulator/content.html",
+    "wikitext": "pages/BitLife__Life_Simulator/content.wikitext",
+    "text": "pages/BitLife__Life_Simulator/content.txt"
+  }
+}

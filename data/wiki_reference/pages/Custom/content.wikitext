@@ -1,0 +1,16 @@
+{{Infobox BitLifeApp
+|title1=Custom
+|image1=CustomLife.PNG
+|caption1=An example of a customed life.
+}}'''Custom''' aspects of BitLife are created by the player and not randomly generated. There are four aspects of the game that are customizable: ''[[Characters]]'', ''Custom'' lives are lives where the player will play as a custom character and choose their name, gender, country, and city as opposed to a random life where these are randomized; but their appearance and stats will still be random unless [[God Mode]] is acquired.
+
+== Custom People ==
+Custom characters are characters that can be added into the gameplay and show up at random times. They can be [[Relationships|your husband/wife,]] your boyfriend/girlfriend, a hook-up, a friend, your sibling's/half-sibling's/adopted sibling's significant other, your ex's husband/wife, your classmates and teachers, your children's significant other, or even names of characters in movie titles. However, custom names are still not appearing in co-workers and supervisors. Custom character's names may also show up in random news stories when a character [[Age|ages]] up. To add a custom character, insert a first and last name and a gender. Names from custom characters can show up in business names as well, such as in lawyers, doctors and plastic surgeons, car dealerships, job employers, and more, usually being the surname only. When your character dies, they used to be able to "Haunt this game" and show up like a custom character in the game or other games. However, this has since been removed
+
+== Custom Scenarios ==
+As of June 2019, [[IOS version|iOS]] users can make their own situations and encounters in BitLife with the "Scenario Creator". However this is just a template and is not interactive, like a real scenario in BitLife. So far this feature is only on [[IOS version|iOS.]] Custom scenarios will always have the "Custom" header in the top right corner. In v1.30 in February 2020, this feature was temporarily removed due to the new design. It was brought back in v1.31 2 weeks later.
+
+== Custom [[cities]] ==
+Custom cities are cities from certain countries that are in the game that players can add for their characters, and if the player makes a custom life, they can choose for the character to live in the custom city. Custom cities may also show up as a honeymoon destination or vacation destination.
+[[Category:BitLife]]
+[[Category:Updates]]

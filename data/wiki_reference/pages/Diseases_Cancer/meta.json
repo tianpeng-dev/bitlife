@@ -1,0 +1,25 @@
+{
+  "title": "Diseases/Cancer",
+  "pageid": 124,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Diseases%2FCancer",
+  "categories": [
+    "BitLife",
+    "Medical"
+  ],
+  "links": [
+    "Death",
+    "Death/Pets",
+    "Diseases/Deadly diseases",
+    "Pets",
+    "Plastic Surgery",
+    "Relationships",
+    "Ribbons"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Diseases_Cancer/content.html",
+    "wikitext": "pages/Diseases_Cancer/content.wikitext",
+    "text": "pages/Diseases_Cancer/content.txt"
+  }
+}

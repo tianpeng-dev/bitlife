@@ -1,0 +1,39 @@
+{
+  "title": "BitLife - Life Simulator Wiki",
+  "pageid": 4,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/BitLife_-_Life_Simulator_Wiki",
+  "categories": [
+    "BitLife",
+    "Browse",
+    "Features",
+    "Jobs_in_Bitlife_Wiki_Fandom",
+    "Main_Page_with_Rule_Link",
+    "Updates"
+  ],
+  "links": [
+    "Achievements",
+    "BitLife: Life Simulator",
+    "Careers",
+    "CatLife",
+    "Challenges",
+    "Characters",
+    "DogLife",
+    "Education",
+    "Manual of Style",
+    "Nations",
+    "Pets",
+    "Profile",
+    "Relationships",
+    "Ribbons",
+    "Shopping",
+    "Stats",
+    "Twilight's Zone Wiki: Wiki rules"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/BitLife_-_Life_Simulator_Wiki/content.html",
+    "wikitext": "pages/BitLife_-_Life_Simulator_Wiki/content.wikitext",
+    "text": "pages/BitLife_-_Life_Simulator_Wiki/content.txt"
+  }
+}

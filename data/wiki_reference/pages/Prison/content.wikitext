@@ -1,0 +1,129 @@
+{{Infobox BitLifeApp
+|title1=Prison
+|image1=[[File:FelonyEscape.png|thumb]]
+|launched_on_ios:=
+|launched_on_android:=|caption1=|last_updated_on_ios:=|last_updated_on_android:=|reddit:=|twitter:=}}
+In ''[[BitLife]]'', if the player is caught committing a [[crime]], they can go to '''Prison'''. They will be fired from their job/dishonorably charged from the military/forced to drop out of university and their new title will be "Prisoner". On iOS in August 2019, the background is changed to a prison background and the character's face will have a cage with bars over it. Characters can still get a prison job, but these are low-pay. There are also many more [[Prison/Activities|things to do]] in prison. The new activities were added in Android in February 2020.
+== Sentence ==
+The sentence depends on the type and amount of crimes the player has committed. If the player goes to prison more than once, the sentence of the crime doubles each time. Years can be added on by assaulting a police officer or (sometimes) a fellow inmate, inciting a riot, attempting to bribe the guards or being caught trying to escape.
+
+As of August 8, 2019, [[IOS Version|iOS]] players now can receive a [[Death|death sentence]] if their crime is severe enough. It is also possible to receive a false sentence. They can also have a life sentence in prison and can be put into either a minimum, medium, or maximum security prison. Committing higher crimes gets a higher security prison and bad behaviour in prison could move a character into a higher-level security prison.
+
+In some countries, like [[Canada]] and [[Japan]], it is also possible for your character to be falsely accused of a crime they did not commit.
+== Escaping ==
+Each year, the player has an option to try escaping prison. The player will have to go through a [[Minigames|minigame]], which they may quit immediately when the minigame starts. There are no consequences for quitting, but they can't escape jail again that year. If the player tries to escape, they have to get past the guard and get to the exit. The guard moves twice for every one move the player makes. However, the guard always moves to the player in the same line the player is at. If trapped by walls, the guard will be unable to make moves where the wall blocks them.
+
+If the player fails the [[Minigames|minigame]] and the guard catches them (or if they surrender, an action available after making any move), they return back to prison but this time with a couple more years added to their sentence with the felony "Attempted escape".
+
+If the player succeeds, they will gain back the freedom of going to the casino, seeking the doctor, and also get an [[Achievements|achievement]] for escaping (if they have not gotten it yet). However, they may still be unable to [[Adoption|adopt]] or find work in certain jobs because of their criminal record. Successfully escaping prison multiple times in one life gets the [[Ribbons|Houdini ribbon]]. [[Emigration|Emigrating]] legally to another country while as an escaped convict will not track the crimes committed unless the character returns back to their original country. Trying to enlist into the military or choosing "Call the police" to any scenario that applies will automatically get them caught and sent back to prison.
+
+In the latest update, there have been new escape puzzles. Maximum-security prisons have much more complex escape routes while minimum-security prisons have simpler escape routes. There is a mix of new puzzles and existing puzzles in each level of security. A prisoner brought back after escaping will most likely be sent to a maximum-security prison.
+
+If the character is a juvenile and escapes juvenile hall, there is a chance that character's parent(s) could send them back (usually if the player has lower/empty relationships with their parents), and the player will end with the [[Ribbon#Jailbird|Jailbird ribbon]], if this event happens ten times or more, the player will get the [[Ribbons|Houdini ribbon]] instead.
+
+There is a buyable item called "Get Out of Jail Card", which, when used, instantly gives the character an escape.
+
+== Riots ==
+[[File:EF69145B-690D-41C6-BBE1-1187901A771A.jpeg|thumb|alt=|Screenshot of the riot minigame]]Once every year, the player has the option to incite a riot. In order to succeed, the player must complete a [https://en.wikipedia.org/wiki/Snake_(video_game_genre) Snake] minigame. Starting a riot will greatly boost their respect stat and greatly decrease their behavior. There is a very rare chance that your character will escape in a riot. If the player manages to, they gain the Aftermath [[Achievements|achievement]].
+
+When rioting, the player controls their character's movements via four arrows or by swiping. The objective of the game is to recruit other prisoners by moving into them. When a prisoner is recruited, they will position themselves directly behind the character, creating a chain of prisoners, and a new prisoner appears. 
+
+The number of prisoners required to complete a riot is indicated above the game's arena. Initially, the recruitment goal is ten prisoners, but the goal will slowly increase if the player incites multiple riots over the course of their sentence. When the player has recruited half or more of total goal, guards will appear in a random location every time a new prisoner does. The guards do not move, but will end the game if the player attempts to recruit them. Additionally, if the player runs into the walls of the arena or their chain of prisoners, the game ends.
+
+When the recruitment goal is met, the player and other prisoners will spread out and begin "attacking" the guards. The riot may cause some people to become injured and/or die (this does not affect the inmates within the prison yard). On Android, the player has a chance to be charged with Inciting a Riot, which will add one year to their sentence. The player may also be beaten by the guards during the riot, and will lose a certain amount of health. The player cannot die when rioting, even if they lose all health points.
+
+If the player fails when starting a riot, they may be charged regardless. They are unable to start another riot that year.
+
+== Appeals ==
+The player can try to send an appeal to one of three law firms. The player has to pay for the appeals to make this possible. If they fail, they can no longer send appeals that year. If they succeed, they will be found not guilty of their crimes and get released from jail. In some cases, they will remain in jail but will have a considerable number of years taken off of their sentence. The most expensive law firm is the best to pick as the chances of being found not guilty are high if you do so, though there is a chance that you will still lose the appeal.
+
+== Paroles ==
+As of the 8/8/2019 update, if you have a long sentence and serve a considerable amount of years in it without escaping, you can be sent on parole board, and you'll have to answer a question. If you answer the question correctly, you will be released early.
+
+Players whose characters are in prison and have their notifications on may receive a notification where their character is being offered parole— much like the other events that work on notifications, if they open the app within an hour, they'll also be prompted with a chance to be released early.
+
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:left;" width="100%"
+|-
+!Parole Board questions & answer options
+|-
+|
+{| class="article-table"
+!Question
+!Choices
+|-
+|Do you feel that you've been rehabilitated?
+|
+# Fo' Sho'
+# I don't have any idea what that means
+# I think I'm ready for another chance
+# I think so
+# I'm like 90% rehabilitated 
+# I'm ready to rejoin society
+# No, anything but
+# Prisons don't rehabilitate
+# Sir, yes sir!
+# There is no question about it, sir!
+# Yeah, I'm improving every day
+# You know it!
+|-
+|Do you plan on getting a job if paroled?
+|
+# Getting a job is my top priority
+# Handjobs all day!
+# I can't wait to work# I hope to find work that would empower me
+# I'm excited about my future career
+# I'm not trying to work
+# I'm ready to be gainfully employed
+# You know I'll get my hustle on
+# You know it!
+|-
+|Do you regret your mistakes?
+|
+# #NoRegrets
+# I have been innocent all along
+# I wish I could take them back
+# I'm remorseful for my actions
+# No more boo-boos for me
+# No, but I won't make them again
+# They weren't mistakes
+# Yes, I feel guilty for my wrongdoings
+|-
+|Do you think you'll struggle to readjust to society?
+|
+# Hell no!
+# I really feel I'm ready for the outside
+# No, I'm in the right mind frame now
+# No, I've mastered the criminal life
+|-
+|What do you miss most outside?
+|
+# Intimacy
+# Live events
+# The food selection
+# Working
+|-
+|Why should you be released?
+|
+# I deserve a second chance
+# I feel I've been corrected
+# I'm ready to start my new life
+# So I can get some booty
+|}
+|}
+
+== Interacting with [[Relationships]] ==
+In nations that allow this, a character can set up a conjugal visit with their lover but to do so, the guards and the lover must agree before visiting. The visit is like a [[hook-Up|hook-up]] and the lover will not help escape from prison. The guards will not allow your character to ask for too many conjugal visits and will tell them to stop if they continue doing so too many times in a year.
+[[File:Screenshot prison yard.jpeg|thumb|Other inmates in the Prison yard.]]
+Characters may also send and receive mail from family and lovers but could risk having it confiscated by the guards. Family members may send care packages and your character may accept and use the item, ignore, or return to sender. If the package is returned to sender, the relationship will lower. There is a chance the guards may confiscate your package and give you a beating (decreasing your health and happiness), no matter which option you choose. 
+
+== Trivia ==
+* The player gets more events to try various drugs or alcohol than if they weren't in jail. The drugs and alcohol become more dangerous(?) and normal [[addictions|addiction]] rules still apply.
+* The player is able to end their lives in jail, ending their run.
+* If the player's family member dies, they won't be able to attend their funeral but might still get an [[Will/Testament|inheritance]] sometimes.
+** Divorce can happen while in prison and usually leads in a hefty settlement against your character. Breakups can also happen while in prison, and players can choose to wish them well, insult them one last time, or beg them to stay. They cannot assault them since they are in prison.
+* The player's health declines quicker in prison, making them more susceptible to [[diseases]]. This cannot be prevented with boosts as they do not appear in prison, Players with jail sentences of 50 years or higher likely will not survive to see their release.
+* As of August 8th, 2019, [[IOS version|iOS]] players now can do more activities in prison, such as having conjugal visits with lovers and joining gangs. Some countries do not legalize conjugal visits and minimum-security prisons don't have gangs, so they are not always available. Conjugal visits cannot be done if the lover does not oblige.
+* Escape puzzles are harder in maximum security and need more precision and take much longer to complete. If your character was caught escaping, they will go to at least a medium security prison unless they have emigrated.
+*If the player is in a crime syndicate and is sent to prison, then escapes, they will remain in the crime syndicate. All other jobs as well as any kind of education will be forced to dismiss the player.
+
+[[Category:BitLife]]

@@ -1,0 +1,40 @@
+{
+  "title": "Stats",
+  "pageid": 345,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Stats",
+  "categories": [
+    "BitLife",
+    "Features",
+    "Information",
+    "Profile",
+    "Updates"
+  ],
+  "links": [
+    "Age",
+    "Alternative Doctor",
+    "Assets",
+    "Bitizenship",
+    "Careers/Job activities",
+    "Death/Pets",
+    "Diseases",
+    "Education",
+    "Fame",
+    "Family",
+    "Ghosts",
+    "Hook-Up",
+    "Medical Doctor",
+    "Minigames",
+    "Pets",
+    "Prison/Gangs",
+    "Relationships",
+    "Ribbons",
+    "Social Media"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Stats/content.html",
+    "wikitext": "pages/Stats/content.wikitext",
+    "text": "pages/Stats/content.txt"
+  }
+}

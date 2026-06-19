@@ -1,0 +1,23 @@
+The '''Dating App''' is one of the ways you can find [[Relationships|love]] in the game! It becomes available when you turn 18 years old, but it requires you to pay $100 (or the currency of whichever country you're playing in) each time you want to find a date. There are two versions of the app; the original, simply called "Dating App" with the description "Find love on the dating app", and the LGBTQ+ version (which was released in the June 2020 Pride Month Update) called "Gay Dating App" with the description "''Find your ideal LGBTQ lover''"— but this will be covered later on this page. Both options can be found under Activities > Love.
+
+Like the other options for finding love, sometimes the Dating App runs out of people for you to swipe left and right— that's alright, since this can be remedied the same as the other options by exiting and re-entering the game.
+
+<br />
+
+== Regular Dating App ==
+[[File:Regular dating app.png|thumb|Your options after choosing the regular Dating App!]]
+After selecting this option, you will be faced with a couple of choices to make about your ideal partner. Firstly, their age range (18-20 is the first. Afterwards, the ranges are by decade, such as 20-29 and 30-39. The options stop at 79 and then 80+), and, second, their net worth range (depending on your current net worth).
+[[File:Dating app find.jpg|left|thumb|While this screen was grabbed after using the LGBT Dating App, both screens are similar enough that there are virtually no differences.]]
+When finished, you can press the "Let's try it" button; this will subtract $100 (or, again, whatever is the equivalent money sign in your country) from your bank account and will show you the screen to the left.
+
+If you press "Go on a date", you will begin dating your match just as it is when you meet someone using the usual "Date" option under Activities > Love > Date. If you press "No, try again", you'll have to pay again, but you'll get another match with the same requirements you'd set.
+
+The text on the timeline shows up as "The dating app paired me with a _match's job_ named _match's name_"
+
+== LGBTQ+ Dating App ==
+Just like with the regular dating app, after selecting this option, you'll be faced with some choices. The first option is still the same, age range, but when on the LGBT Dating App, you won't be able to set your ideal net worth range. Instead, you can choose what you'd like your partner's gender identity to be— the options goes as follows: Female, Male, Genderqueer, Non-Binary, Transgender Female, Transgender Male.
+[[File:Lgbt dating app.png|thumb|Your options after choosing the LGBT Dating App!]]
+Aside from that, there are no other differences from the regular dating app. 
+
+The LGBTQ+ Dating App is unavailable in countries where LGBT dating is banned, such as Kenya, Egypt, Malaysia, Singapore, Saudi Arabia, Afghanistan, 
+[[Category:BitLife]]

@@ -1,0 +1,195 @@
+{{Infobox country
+|title1=Singapore
+|image1=[[File:Singapore.png]]
+|caption1=Singapore's flag.
+|country_name=Singapore
+|number_of_default_cities=1
+|when_was_it_added_to_ios=March 2019
+|available_on_android_as_well=Yes
+}}
+'''Singapore''' is a [[Nations|city-state]] added to BitLife in March 2019. Its only default city is itself.
+
+Singapore was part of a March 2019 [[Updates|update]] that added 8 new countries into the game. The other 7 were [[Portugal]], [[Norway]], [[Indonesia]], [[Denmark]], [[Finland]], [[Estonia]], and [[Romania]]. This update was also the update that brought [[Pets]] for the first time, and was also the first to have multiple new countries being added other than the ones originally released.
+== Name List ==
+=== Male First Names ===
+* Aati
+* Adam
+* Adrian
+* Alex
+* Alfred 
+* Andre
+* Andrew 
+* Alexander 
+*
+*
+* Benjamin
+* Christopher
+* Damien
+* Devaraja 
+* Daniel
+* Darren
+* Desmond
+* Eric
+* Ethan
+* Eugene 
+* Ian
+* Jason
+* Javier
+* Jay
+* Joseph
+* Joshua
+* Ken
+* Kenny
+* Lance
+* Lee
+* Leon
+* Lim
+* Louis
+* Mark
+* Megat
+* Martin
+* Michael
+* Muhammad 
+* Nathaniel
+* Nicholas
+* Norman
+* Oscar
+* Paul
+* Roy
+* Russell
+* Ryan
+* Sean
+* Syed
+* Shane
+* Shahrul 
+* Saiful
+* Timothy
+* Titus
+* Tony
+* Xavier
+* Yusri
+* Yones
+* Zander
+
+=== Female First Names ===
+* Alexis
+* Alicia
+* Amanda
+* Ashley
+* Aminah
+* Beth
+* Charmaine
+* Cheryl
+* Chloe
+* Claudia
+* Carmen
+* Emily
+* Esther
+* Eunice
+* Elaine 
+* Erny
+* Felicia
+* Fenny
+* Gladys
+* Grace
+* Hannah
+* Hazel
+* Iris
+* Isabelle
+* Iyana
+* Jasmine
+* Jean
+* Jia En
+* Jing Yi
+* Joanne
+* Joyce
+* Karen
+* Kelly
+* Kim
+* Kimberly
+* Lim
+* Michelle
+* Min
+* Maryam
+* Mitchie
+* Nasuha
+* Natalie
+* Nicole
+* Nina
+* Nurul
+* Rachel
+* Rebecca
+* Samantha 
+* Sarah
+* Siti
+* Sofia
+* Sophie
+* Tara
+* Tuti
+* Valerie
+* Vanessa
+* Yi Ling
+
+=== Surnames ===
+* Acharya
+* Agarwal
+* Anand
+* Bakshi
+* Babu
+* Bai
+* Cai
+* Chen
+* Dai
+* Du
+* Fan
+* Fong
+* Goh
+* Hao
+* He
+* Hong
+* Huang
+* Jiang
+* Jin
+* Khatri
+* Kong
+* Li
+* Lim
+* Lin
+* Liu
+* Lu
+* Megat
+* Ng
+* Ong
+* Pan
+* Patel
+* Ren
+* Shen
+* Sheng
+* Syed
+* Shi
+* Tan
+* Teo
+* Wang
+* Wong
+* Wu
+* Xia
+* Xie
+* Xiong
+* Xu
+* Yang
+* Yao
+* Yu
+* Zhang
+* Zheng
+* Zhong
+* Zhuang
+* Zhuo
+* Zou
+
+== Gallery ==
+<gallery>
+File:Singapore baby.jpeg|A baby born in Singapore.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]
+[[Category:Homophobic Countries]]

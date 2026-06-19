@@ -1,0 +1,218 @@
+{{Infobox country
+|title1=Vietnam
+|image1=[[File:Vietnam.png]]
+|caption1=Vietnam's flag.
+|country_name=Vietnam
+|number_of_default_cities=6
+|when_was_it_added_to_ios=December 19, 2019
+}}'''Vietnam''' is a [[Nations|country]] that was on BitLife in December 2019. Like China, Vietnam is also one-party country but unlike China, your character that live in Vietnam still can working as School Board Director and Mayor of each cities. Its default cities are the capital, Hanoi, along with Biên Hòa, Cần Thơ, Đà Nẵng, Hai Phong, and Ho Chi Minh City.
+
+
+
+In December 2019 on iOS; new countries were added. Along with Vietnam; there was also [[Austria]], [[Bahamas]], [[Costa Rica]], [[DR Congo]], [[Kazakhstan]], [[Kenya]], [[Kuwait]], [[Lebanon]], [[Mongolia]], [[Nepal]], and [[Ukraine]]. This was added in the ''Friends'' Update.
+
+==Name List==
+Vietnam is one of the two countries where people's names are backwards (last name goes first) for example, "Hoàng Tiên", the others being [[South Korea]] and [[Hungary]].
+
+===First Names===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Name
+! Gender
+! Meaning
+|-
+|Ân
+|Male
+|From Sino-Vietnamese 恩 ''(ân)'' meaning "favour, grace".
+|-
+|Bá
+|Female
+|From Sino-Vietnamese 伯 ''(bá)'' meaning "paternal uncle, father's older brother".
+|-
+|Bê
+|Female
+|Means "doll" in Vietnamese.
+|-
+|Bian
+|Female
+|Meaning "secret" in Vietnamese, rarely used as a given name.
+|-
+|Đình
+|Male
+|From Sino-Vietnamese ''廷 (đình)'' meaning "courtyard".
+|-
+|Đức
+|Male
+|From Sino-Vietnamese ''德 (đức)'' meaning "virtue".
+|-
+|Giang
+|Male
+|From Sino-Vietnamese ''江 (giang)'' meaning "river".
+|-
+|Hải
+|Male
+|From Sino-Vietnamese ''海 (hải)'' meaning "sea, ocean".
+|-
+|Han
+|Female
+|Means "lively" in Lao, "brave, daring" in Thai and "gesture, style, manner, appearance" in Burmese.
+|-
+|Hằng
+|Female
+|From Sino-Vietnamese ''姮 (hằng)'' meaning "lady".
+|-
+|Hiền
+|Male
+|From Sino-Vietnamese 賢 ''(hiền)'' meaning "virtuous, worthy, wise".
+|-
+|Hương
+|Female
+|From Sino-Vietnamese ''香 (hương)'' meaning "fragrant".
+|-
+|Khán
+|Male
+|Variant of Khánh (from Sino-Vietnamese ''慶 (khánh)'' meaning "congratulate, celebrate").
+|-
+|Lan
+|Female
+|From Sino-Vietnamese 璘 ''(lân)'' meaning "lustre of jade" or 麟 ''(lân)'' referring to the qilin (a mythical creature in Chinese mythology).
+|-
+|Loan
+|Female
+|From Sino-Vietnamese ''鸞 (loan)'', which refers to a mythological bird.
+|-
+|Ngọc
+|Female
+|From Sino-Vietnamese ''玉 (ngọc)'' meaning "jade, precious stone, gem".
+|-
+|Ngọn
+|Female
+|Possibly a variant of Ngọc.
+|-
+|Nữ
+|Female
+|Means "female, woman" in Vietnamese.
+|-
+|Quyền
+|Male
+|From Sino-Vietnamese ''權 (quyền)'' meaning "power, right, authority".
+|-
+|Tấn
+|Female
+|From Sino-Vietnamese 晉 ''(tấn)'' meaning "advance, increase, promote".
+|-
+|Thich
+|Male
+|Unknown.
+|-
+|Tiên
+|Female
+|From Sino-Vietnamese ''仙 (tiên)'' meaning "immortal, transcendent, celestial being, fairy".
+|-
+|Trai
+|Male
+|Means "oyster" in Vietnamese.
+|-
+|Trang
+|Male
+|From Sino-Vietnamese ''妝 (trang)'' meaning "adornment, makeup".
+|-
+|Tuyết
+|Female
+|From Sino-Vietnamese ''雪 (tuyết)'' meaning "snow".
+|-
+|Vinh
+|Male
+|From Sino-Vietnamese ''榮 (vinh)'' meaning "glory".
+|-
+|Xuân
+|Male
+|From Sino-Vietnamese ''春 (xuân)'' meaning "spring (the season)".
+|}
+
+===Surnames===
+{| class="wikitable mw-collapsible mw-collapsed article-table sortable" width="100%"
+|-
+! Surname
+! Meaning
+|-
+|Banh
+|Unknown.
+|-
+|Bùi
+|Vietnamese form of Pei, from Sino-Vietnamese ''裴 (bùi)''.
+|-
+|Buu
+|A royal Vietnamese surname created by the Nguyễn Dynasty.
+|-
+|Đàm
+|Vietnamese form of Tan, from Sino-Vietnamese 譚 ''(đàm)''.
+|-
+|Dang
+|Unknown.
+|-
+|Đào
+|Vietnamese form of Tao, from Sino-Vietnamese 陶 ''(đào)''.
+|-
+|Đỗ
+|Vietnamese form of Du, from Sino-Vietnamese ''杜 (đỗ)''.
+|-
+|Du
+|From Chinese ''杜 (dù)'' meaning "stop, prevent" or "birchleaf pear tree".
+|-
+|Giang
+|From Sino-Vietnamese ''江 (giang)'' meaning "river".
+|-
+|Hoa
+|Unknown.
+|-
+|Hoàng
+|Vietnamese form of Huang, from Sino-Vietnamese ''黃 (hoàng)''.
+|-
+|Huang
+|From Chinese ''黄 (huáng)'' meaning "yellow".
+|-
+|Lê
+|Vietnamese form of Li, from Sino-Vietnamese ''黎 (lê)''.
+|-
+|Mai
+|From Sino-Vietnamese ''梅 (mai)'' meaning "plum, apricot" (refers specifically to the species Prunus mume).
+|-
+|Nguyễn
+|Vietnamese form of Ruan, from Sino-Vietnamese ''阮 (nguyễn)''. This is the most common Vietnamese surname, accounting for over a third of the population.
+|-
+|Phùng
+|Vietnamese form of Feng, from Sino-Vietnamese 馮 ''(phùng)''.
+|-
+|Ta
+|Unknown.
+|-
+|Thái
+|Vietnamese for Cai.
+|-
+|Thanh
+|From Sino-Vietnamese ''青 (thanh)'' meaning "blue, green, young" or ''聲 (thanh)'' meaning "sound, voice, tone".
+|-
+|Tôn
+|Vietnamese form of Sun.
+|-
+|Trần
+|Vietnamese form of Chen, from Sino-Vietnamese ''陳 (trần)''.
+|-
+|Triệu
+|Vietnamese form of Zhao, from Sino-Vietnamese 趙 ''(triệu)''.
+|-
+|Trịnh
+|Vietnamese form of Zheng, from Sino-Vietnamese 鄭 ''(trịnh)''.
+|-
+|Võ
+|Variant of Vũ, used more often in southern Vietnam.
+|-
+|}
+
+== Gallery ==
+<gallery>
+File:Vietnam baby.jpeg|A baby born in Vietnam.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

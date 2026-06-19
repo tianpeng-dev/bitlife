@@ -1,0 +1,25 @@
+{
+  "title": "Android version",
+  "pageid": 696,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Android_version",
+  "categories": [
+    "BitLife",
+    "Under_construction"
+  ],
+  "links": [
+    "Achievements",
+    "BitLife",
+    "Fame",
+    "Ghosts",
+    "IOS version",
+    "Nations",
+    "Prison"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Android_version/content.html",
+    "wikitext": "pages/Android_version/content.wikitext",
+    "text": "pages/Android_version/content.txt"
+  }
+}

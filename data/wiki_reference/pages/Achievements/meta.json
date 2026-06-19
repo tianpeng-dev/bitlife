@@ -1,0 +1,52 @@
+{
+  "title": "Achievements",
+  "pageid": 186,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Achievements",
+  "categories": [
+    "BitLife",
+    "Features",
+    "Gameplay",
+    "Information",
+    "Life_Achievements",
+    "Updates"
+  ],
+  "links": [
+    "Afghanistan",
+    "Belgium",
+    "Bitizenship",
+    "Careers/Occupation",
+    "Challenges",
+    "Crime",
+    "Death",
+    "Diseases",
+    "Encounter/Animal",
+    "Events",
+    "Generations",
+    "Ghosts",
+    "God Mode",
+    "Heirloom",
+    "Heirlooms",
+    "Hook-Up",
+    "Horse Races",
+    "Monaco",
+    "Notifications",
+    "Pets",
+    "Prison/Gangs",
+    "Relationships",
+    "Ribbon",
+    "Ribbons",
+    "Saudi Arabia",
+    "Scavenger Hunts",
+    "Situation/SOS",
+    "South Korea",
+    "Turkey",
+    "Zoo"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Achievements/content.html",
+    "wikitext": "pages/Achievements/content.wikitext",
+    "text": "pages/Achievements/content.txt"
+  }
+}

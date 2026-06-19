@@ -1,0 +1,18 @@
+{{Infobox country
+|title1=Lebanon
+|image1=[[File:Lebanon.png]]
+|caption1=Lebanon's flag.
+|country_name=Lebanon
+|number_of_default_cities=1
+|when_was_it_added_to_ios=December 19, 2019
+}}
+'''Lebanon''' is a [[Nations|country]] that was on BitLife in December 2019. Its default cities are only the capital, Beirut.
+
+In December 2019 on iOS; new countries were added. Along with Lebanon; there was also Austria, Bahamas, Costa Rica, DR Congo, Kazakhstan, Kenya, Kuwait, Mongolia, Nepal, Ukraine, and Vietnam. This was added in the ''Friends'' Update.
+
+== Gallery ==
+<gallery>
+File:Lebanon baby.jpeg|A baby born in Lebanon.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

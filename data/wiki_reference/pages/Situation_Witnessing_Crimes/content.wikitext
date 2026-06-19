@@ -1,0 +1,10 @@
+''Not to be confused with [[Encounter]].''
+{{Infobox scenario
+|title1=Situation
+|scenario_type:=Situation
+|description:=Your character will see a stranger committing a crime or wrongdoing. How will your character stop it?
+|also_on_android=Yes
+}}
+A '''Situation''' is an event where your character sees [[Random strangers|someone]] committing a crime or doing something in public and your character can try to intervene, call the police, or do nothing. If your character calls the police, it will help them get closer to the ''Model Bitizen'' [[Ribbons|ribbon.]] Sometimes if your character intervenes or is caught calling the police on the stranger, that stranger may argue or assault your character. If they argue, your character can argue back, ignore, or assault them. If the stranger chooses to assault your character, your character can call the police on that, fight back, or walk away. The police can be called again if the stranger assaults your character and the police will either arrest the stranger, complain at you for "wasting their time", or come too late and the stranger will flee. Your character can [[Lawsuit|sue]] if assaulted regardless of result and will have a higher chance of winning if they did not fight back and did very little to provoke the assault. Your character could also face [[Prison|prison]] if found [[Crime|guilty]] of assault even if they were not the first to assault. Unlike the [[Situation/SOS|SOS Situation,]] your character does not have a risk of dying if they choose wrong (besides assault), but will not directly get the ''Hero'' ribbon for intervening. In the January 2020 crime update, your character can do delinquent things similar to what the strangers have done.
+[[Category:Events]]
+[[Category:BitLife]]

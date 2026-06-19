@@ -1,0 +1,22 @@
+
+
+
+{{Infobox_BitLifeApp|image1 = God Mode.png|launched_on_ios: = March 26, 2020|launched_on_android: = June 12, 2020}}
+
+'''God Mode''' costs $8.99, and is a one time payment. This feature is not a part of [[Bitizenship]]. It is a feature in BitLife that let you edit anyone's name, looks, and stats in the game and be able to change this as many times as you want, excluding skin colour. It also allows you to edit your own character's looks and attribute before you start your custom life; editing your custom life's appearance lets you customize how your character would look in the ages of 21 to 44, and other ages depend on it. You can change your appearance and can change your royalty status in [[Nations]] that have monarchy. However, you cannot change your birthday, conception method, sibling(s), or pet color.
+
+==Trivia==
+
+*After you edit a character, on the journal it's written stuff such as "I'm not sure what has gotten into my (name) lately", "My (name) seems like a whole different person" etc.
+
+* This is the sixth paid feature of BitLife after Bitizenship,the [[Time Machine]],Boss Mode,Challenge Vault and [[SuperStar Mode|Superstar Mode]].
+
+== Gallery ==
+
+
+== Videos ==
+[[File:I_found_an_infamous_ad_on_BitLife,_just_now.|center|thumb]]
+[[File:Screenshot god mode character appereance.jpg|thumb|Changing a character's appereance using God Mode.]]
+[[File:Screenshot god mode character appereance.jpg|thumb|2x2px]]
+[[Category:BitLife]]
+[[Category:Updates]]

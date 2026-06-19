@@ -1,0 +1,39 @@
+{
+  "title": "Assault",
+  "pageid": 4493,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Assault",
+  "categories": [
+    "BitLife",
+    "Crimes",
+    "Features"
+  ],
+  "links": [
+    "Achievements",
+    "Activities",
+    "Careers/Jobs",
+    "Crime",
+    "Death/Family",
+    "Education",
+    "Enemy encounter",
+    "Events",
+    "Game over",
+    "Ghosts",
+    "Lawsuit",
+    "Mind & Body",
+    "Murder",
+    "Pets",
+    "Prison",
+    "Random strangers",
+    "Relationships",
+    "Situation",
+    "Situation/Witnessing Crimes",
+    "Stats"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Assault/content.html",
+    "wikitext": "pages/Assault/content.wikitext",
+    "text": "pages/Assault/content.txt"
+  }
+}

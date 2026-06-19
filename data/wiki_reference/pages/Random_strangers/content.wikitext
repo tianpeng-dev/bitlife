@@ -1,0 +1,203 @@
+{{Infobox BitLifeApp
+|title1= Random strangers
+|image1=[[File:Blindmanseeing.png|thumb]]
+|launched_on_ios:=September 2018 (default)
+|launched_on_android:=February 2019 (default)
+}}
+Within BitLife there are many random strangers, including moneyed strangers, who you may interact with. They can be good or bad.
+
+==Things random strangers do==
+*Insult your character or their loved one by calling them a bad name. Your character can forgive them, insult them back, or assault them or even beg them to watch their language. Sometimes they could be assaulted by the stranger and could fight back, walk away, beg them to keep your hands to themselves, or call police.
+*Scenario says "[Action], a [stranger] calls you [Insult]!" (formerly "Someone called you [Insult]")
+**If the stranger assaults your character, they can be [[Lawsuit|sued.]]
+*[[Situation/Witnessing Crimes|Commit a crime or publicly disturb the peace]]. A character can intervene, do nothing, or call the police. Sometimes they could be assaulted by the stranger and could fight back, walk away, beg them to keep your hands to themselves, or call police.
+*Scenario says "While walking to place of interest, you witness a [stranger causing trouble]!" (formerly e.g. "You witness someone littering!"
+*If a [[Pets|pet]] runs away and your character tried looking but couldn't find it, sometimes the stranger will find it for you. You can thank them or let them keep it. The stranger may also return it if your character releases it.
+*Random strangers can respond to a character doing a Freelance Gig and it will say their name and how many hours your character worked for them multiplied by the hourly rate.
+*Random strangers can buy your car for the price your character offered, or could haggle them for a lower price.
+*If your character commits a [[Crime]], random strangers could be involved.
+**Their houses can be burgled.
+**If your character is caught stealing a car, the stranger who owns the car will stop them, either calling the police or assaulting them.
+**Random Strangers can be options for who to murder or hire a hitman to kill.
+**They can be pickpocketed.
+*If you turn on [[Notifications]], random strangers are involved in a few.
+**If your character does not pick up money off the ground quickly enough, a random stranger will pick it up first.
+**If your character's car is about to get stolen, but they respond quick enough to the notification, they can stop the random stranger from stealing it.
+*Sell houses. If you sell an expensive house, a random moneyed stranger instead will come to sell houses
+.
+==Random strangers in the game==
+*A bartender
+*A [[Bitizenship|bitizen]]
+*A beggar
+*A biker
+*A blind man
+*A bodybuilder
+*A bougie woman
+*A bouncer
+*A bus driver
+*A businessman
+*A cam girl
+*A cheerleader
+*A chef
+*A Chinese tourist
+*A clown
+*A club promoter
+*A cocktail server
+*A college kid
+*A college professor
+*A construction worker
+*A cosplayer
+*A cowboy
+*A crackhead
+*A creeper
+*A crossdresser
+*A cuck(old)
+*A cyclist
+*A deaf man
+*A degenerate
+*A dirty old man
+*A DJ
+*A doctor
+*A drag queen
+*A drifter
+*A drug addict
+*A drug dealer
+*A drunk
+*A dumb blonde
+*A farmer
+*A firearms activist
+*A Fortnite fanatic
+*A furry
+*A gangster
+*A geek
+*A hippie
+*A hipster
+*A hobo
+*A homeless person
+*A hooligan
+*A jock
+*A juggler
+*A junkie
+*A Karen
+*A K-pop stan
+*A little old lady
+*A local politician
+*A lumberjack
+*A magician
+*A mall cop
+*A manager
+*A manspreader
+*A mariachi singer
+*A marijuana farmer
+*A mime
+*A missionary
+*A mobster
+*A monk
+*A nail technician
+*A neckbeard
+*A neighbor
+*A nerd
+*A nun
+*A pervert
+*A petitioner
+*A pickpocket
+*A pimp
+*A plus-sized model
+*A porn star
+*A pothead
+*A priest
+*A professional athlete
+*A protester
+*A punk rocker
+*A rabbi
+*A rapper
+*A redneck
+*A referee
+*A Russian hacker
+*A skateboarder
+*A sneakerhead
+*A social media influencer
+*A soldier
+*A stockbroker
+*A stoner
+*A street sweeper
+*A surfer dude
+*A surveyor
+*A tech bro
+*A Tiktoker
+*A tour guide
+*A tourist
+*A tree-hugger
+*A troubadour
+*A vagabond
+*A volunteer
+*A young millennial
+*A YouTube celebrity
+*An accountant
+*An airline pilot
+*An Amish person
+*An exotic dancer
+*An illegal immigrant
+*An Instagram model
+*An Instagram thot
+*An old geezer
+*An old hag
+*An old man
+*An outlaw
+
+==Random moneyed strangers in the game==
+* Ambassador
+* Baron
+* Baroness
+* Bigwig
+* Bigwig banker
+* Billionaire
+* Bureaucrat
+* Business magnate
+* Business mogul
+* Business tycoon
+* Celebrity
+* CEO
+* Count
+* Countess
+* Drug kingpin
+* Drug lord
+* Duchess
+* Duke
+* Elite Instagram model
+* Entertainment mogul
+* Famous pornstar
+* Fat cat
+* Former president
+* Hollywood superstar
+* Lottery jackpot winner
+* Mega influencer
+* Oil Baron
+* Oligarch
+* Overlord
+* Politician
+* Professional baseball player
+* Professional bowler
+* Professional boxer
+* Professional fighter
+* Professional football player
+* Professional gamer
+* Professional golfer
+* Professional hockey player
+* Professional race car driver
+* Professional rugby player
+* Professional soccer player
+* Professional surfer
+* Professional swimmer
+* Professional tennis player
+* Sheikh
+* Socialite
+* Sports executive
+* Sultan
+* Supermodel
+* Tech mogul
+* Trillionaire
+* VIP
+* World-renowned DJ
+* YouTube megastar
+[[Category:BitLife]]

@@ -1,0 +1,25 @@
+{
+  "title": "Careers/Jobs",
+  "pageid": 167,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Careers%2FJobs",
+  "categories": [
+    "BitLife",
+    "Information",
+    "Under_construction"
+  ],
+  "links": [
+    "Career Collections",
+    "Emigration",
+    "Jail",
+    "Lawsuit",
+    "Ribbon",
+    "Royalty"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Careers_Jobs/content.html",
+    "wikitext": "pages/Careers_Jobs/content.wikitext",
+    "text": "pages/Careers_Jobs/content.txt"
+  }
+}

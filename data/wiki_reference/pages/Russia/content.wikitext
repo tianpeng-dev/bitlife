@@ -1,0 +1,195 @@
+{{Infobox country
+|title1=Russia
+|image1=[[File:Russia.png]]
+|caption1=Russia's flag.
+|country_name=Russia
+|number_of_default_cities=2
+|when_was_it_added_to_ios=September 2018 (default)
+}}
+'''Russia''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Moscow, along with St. Petersburg.
+
+Although Russia is currently in a state of war due to the invasion of Ukraine, there are no [[Death|deaths]] related to terrorist or battlefield attacks.
+== Name List ==
+=== Male First Names ===
+* Anton
+* Artem
+* Alexei
+* Andrei
+* Anatoli 
+* Aleksander 
+* Benjamin 
+* Berezin
+* Boris
+* Daniel
+* Daniil
+* David
+* Dmitri
+* Fedor
+* Fyodor
+* Gleb
+* Georgi
+* Igor
+* Ilya
+* Ivan
+* Kashirin
+* Kashnikov
+* Kirill
+* Konstantin
+* Kurochkin
+* Kutepov
+* Lev
+* Leo
+* Leon
+* Mark
+* Markin
+* Matvei
+* Maxim
+* Mikhail
+* Misalov
+* Misha
+* Nikita
+* Nikolai
+* Pavel
+* Pervak
+* Pogrebnov
+* Roman
+* Sapogov
+* Sergei
+* Silvestrov
+* Solomakhin
+* Stepan
+* Timofei
+* Timur
+* Titov
+* Ustinov
+* Vitaly
+* Vladimir
+* Vladislav
+* Yaroslav
+* Yeshevsky
+* Yuvelev
+* Zheglov
+
+=== Female First Names ===
+* Aleksandra
+* Akinfeeva 
+* Anna
+* Alyona
+* Ananyeva
+* Anastasia
+* Alina 
+* Arina
+* Avdeyeva
+* Ayn
+* Chernova
+* Chupalova
+* Darya
+* Dasha
+* Diana
+* Ekaterina
+* Elizabeta
+* Eva
+* Ilyushina
+* Irina
+* Katerina
+* Kira
+* Korosukova
+* Kosorukova
+* Kristina
+* Ksenia
+* Kurdina
+* Lilova
+* Margarita
+* Maria
+* Milana
+* Oksana
+* Olga
+* Petrova
+* Polina
+* Ruchkina
+* Salkova
+* Semichayevskaya
+* Serpionova
+* Shchedrina
+* Siyanitsa
+* Sofia
+* Streltsova
+* Svetlana
+* Taisia
+* Tsitsyanova
+* Ulyana
+* Valentina
+* Varvara
+* Vasilisa
+* Vera
+* Veronika
+* Viktoria
+* Yulia
+* Yuryeva 
+* Yemelyanova
+
+=== Surnames ===
+* Alekseevna
+* Alesnarovich
+* Alexeev
+* Andreevna
+* Chekhov
+* Denisovna
+* Dmitrievich
+* Egorov
+* Fedorov
+* Fyodorovich
+* Gorbachev
+* Igorievna
+* Innokentievich
+* Ivanov
+* Jerkov
+* Konstantinovna
+* Kozlov
+* Kruschchev
+* Kuznetsov
+* Lebedev
+* Makarovna
+* Mihailov
+* Molotov
+* Nikolaev
+* Olegovich
+* Orlov
+* Pavlov
+* Pavlovna
+* Petrov
+* Popov
+* Putin
+* Putina
+* Rand
+* Rostislavovna
+* Ruslanovich
+* Ruslanovna
+* Savalievich
+* Semenov
+* Smirnov
+* Sokolov
+* Stanislavovich
+* Stepanov
+* Stepanovna
+* Svyatoslavovich
+* Tarasovna
+* Tchaikovsky
+* Tikhonovna
+* Timofeyevna
+* Trotsky
+* Valentinovna
+* Valeryevich
+* Vasiliev
+* Volkov
+* Yakovna
+* Yermolayevich
+* Yurievich
+* Zakharovich
+
+== Gallery ==
+<gallery>
+File:Russia baby.jpeg|A baby born in Russia.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

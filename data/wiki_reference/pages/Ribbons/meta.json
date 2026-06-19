@@ -1,0 +1,45 @@
+{
+  "title": "Ribbons",
+  "pageid": 142,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Ribbons",
+  "categories": [
+    "BitLife",
+    "Features",
+    "Life_Achievements",
+    "Pages_with_broken_file_links",
+    "Ribbons",
+    "Under_construction",
+    "Updates"
+  ],
+  "links": [
+    "Activities",
+    "Age",
+    "Bitizenship",
+    "BitLife",
+    "Candywriter",
+    "Crime",
+    "Death",
+    "Education",
+    "Generations",
+    "God Mode",
+    "Heirlooms",
+    "IOS version",
+    "Jail",
+    "Karma",
+    "Lawsuit",
+    "Military",
+    "Pets",
+    "Relationships",
+    "Royalty",
+    "Situation",
+    "Situation/SOS",
+    "Stats"
+  ],
+  "fetched_at": "2026-06-18T03:35:30.110242+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Ribbons/content.html",
+    "wikitext": "pages/Ribbons/content.wikitext",
+    "text": "pages/Ribbons/content.txt"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Mind & Body",
+  "pageid": 1212,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Mind_%26_Body",
+  "categories": [
+    "Activities",
+    "BitLife"
+  ],
+  "links": [
+    "Achievements",
+    "Activities",
+    "Age",
+    "Assets",
+    "Diseases",
+    "Karma",
+    "Medical Doctor",
+    "Minigames",
+    "Prison",
+    "Relationships",
+    "Stats",
+    "Updates"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Mind___Body/content.html",
+    "wikitext": "pages/Mind___Body/content.wikitext",
+    "text": "pages/Mind___Body/content.txt"
+  }
+}

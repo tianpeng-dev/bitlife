@@ -1,0 +1,19 @@
+{{Infobox country
+|title1=Bahamas
+|image1=[[File:Bahamas.png]]
+|caption1=Bahamas' flag.
+|country_name=Bahamas
+|number_of_default_cities=1
+|when_was_it_added_to_ios=December 19, 2019
+}}'''Bahamas''' is a [[Nations|country]] that was on BitLife in December 2019. Its default cities are only the capital, Nassau.
+
+In December 2019 on iOS; new countries were added. Along with the Bahamas; there was also [[Austria]], [[Costa Rica]], [[DR Congo]], [[Kazakhstan]], [[Kenya]], [[Kuwait]], [[Lebanon]], [[Mongolia]], [[Nepal]], [[Ukraine]], and [[Vietnam]]. This was added in the ''Friends'' Update.
+
+== Gallery ==
+<gallery>
+File:Bahamas baby.jpeg|A baby born in Bahamas.
+</gallery>
+
+{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

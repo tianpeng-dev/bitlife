@@ -1,0 +1,19 @@
+{
+  "title": "Psychiatrist",
+  "pageid": 2502,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Psychiatrist",
+  "categories": [
+    "Medical"
+  ],
+  "links": [
+    "Activities",
+    "Doctor (disambiguation)"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Psychiatrist/content.html",
+    "wikitext": "pages/Psychiatrist/content.wikitext",
+    "text": "pages/Psychiatrist/content.txt"
+  }
+}

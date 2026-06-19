@@ -1,0 +1,19 @@
+{{Infobox country
+|title1=DR Congo
+|image1=[[File:DR Congo.png]]
+|caption1=DR Congo's flag.
+|country_name=DR Congo
+|number_of_default_cities=3
+|when_was_it_added_to_ios=December 19, 2019
+}}'''DR Congo''' (Democratic Republic of Congo) is a [[Nations|country]] that was released on BitLife in December 2019. Its default cities are the capital, Kinshasa along with Lubumbashi and Mbuji-Mayi.
+
+In December 2019 on iOS; new countries were added. Along with DR Congo; there was also Austria, Bahamas, Costa Rica, Kazakhstan, Kenya, Kuwait, Lebanon, Mongolia, Nepal, Ukraine, and Vietnam. This was added in the ''Friends'' Update.
+
+== Gallery ==
+<gallery>
+File:DR Congo baby.jpeg|A baby born in DR Congo.
+</gallery>
+
+{{Nations}}
+[[Category:Nations]]
+[[Category:BitLife]]

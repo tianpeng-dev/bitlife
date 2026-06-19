@@ -1,0 +1,25 @@
+{
+  "title": "CMarc",
+  "pageid": 3618,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/CMarc",
+  "categories": [
+    "Americans",
+    "Fan_Characters",
+    "Musicians",
+    "Soldiers",
+    "Vietnam_veterans"
+  ],
+  "links": [
+    "Becky Marconi",
+    "Moe Marconi",
+    "Stanley Phelps",
+    "Vernon Marconi"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/CMarc/content.html",
+    "wikitext": "pages/CMarc/content.wikitext",
+    "text": "pages/CMarc/content.txt"
+  }
+}

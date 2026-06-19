@@ -1,0 +1,244 @@
+{{Infobox BitLifeApp
+|title1=Astronaut
+|image1=[[File:Astronaut.png.webp|thumb]]
+|launched_on_ios:=2023
+|launched_on_android:=2023}}The '''Astronaut''' career is a special [[Careers/Jobs|career]] where your character can train and apply for a position in the National Aeronautics and Space Administration (NASA), ROSCOSMOS, the European Space Agency (ESA), or other space agencies as an astronaut. 
+
+==Available Countries==
+Not all countries have a space program, meaning that they are not entitled to access the job pack. While some countries have them, they may not offer Moon and Mars expeditions.
+
+To successfully become an astronaut, players should ensure they are born (if they have [[God Mode]]) or [[Emigration|emigrate]] to one of the following countries:
+*[[Australia]]
+*[[Canada]]
+*[[France]]
+*[[Germany]] 
+*[[Hungary]]
+*[[India]] 
+*[[Italy]]
+*[[Japan]]
+*[[Malaysia]]
+*[[Poland]]
+*[[Russia]]
+*[[United Kingdom]]
+*[[United States]]
+
+==Education ==
+Players should ensure they complete high school with high [[stats]] in smartness and have avoided any trouble. This may be done through studying and attending Space Camp. In addition, joining the ''Brainy'' or ''Nerdy'' [[Education/Cliques|Cliques]] and engaging with [[Education|extracurricular groups]] such as the ''Academic Decathlon Club'', ''Astronomy Club'', ''Robotics Club'', ''Science Club'' may boost players' chances in obtaining a scholarship. You can get athletic scholarships by joining an sports team (football, basketball, volleyball, baseball, swim, and ice hockey) and having a high performance stat. Keep in mind that this might lead you to being on a [[sports]] team.
+
+===University===
+After graduating high school, players must attend [[Education|University]] and later, the Space Academy for two years. Players should apply for courses majoring in the STEM field such as: 
+*Biology
+*Chemistry
+*Computer Science
+*Engineering
+*Information Systems
+*Mathematics
+*Physics
+
+These majors are the most effective for getting accepted into the Space Academy. While other majors may work as well, your character may get rejected. In addition, attending space camp and joining STEM clubs may improve your chances of entering into Space Academy. 
+
+===Space Academy ===
+After graduating from university, players will be required to apply to Space Academy and train for two years to become an astronaut. The following requirements must be fulfilled or else your character will be rejected:
+*Pilot's Licence
+*High Health Stat (75%+)
+*High Smart Stat (75%+)
+*STEM Degree
+*No [[Crime|Criminal Record]] 
+
+=== After Getting Accepted===
+After getting accepted, the hard part begins. When you get accepted, you unlock a new panel with several important options, technical training, flight training, and fitness training. Fitness training is the most irrelevant, however you should still use it, as fitness is important to your career. Flight training will open a minigame, similar to classic arcade games Galaga and Asteroids. The player pilots a spaceship through an asteroid field, dodging asteroids and UFOs. The objective of the game is to last 20 seconds without colliding with a UFO or asteroid. So much as BRUSHING against an asteroid or UFO will cause you to fail. Technical training, the third option, is also the most important. During technical training, the player will attend a lecture. During the lecture, the player will be asked a space related question. The difficulty of these questions vary greatly. Space academy is made extremely difficult by the fact that you have to do all three of these repeatedly in under two years. You have to do enough technical and flight training to make the red “performance” bar turn green. This is difficult, and can take multiple tries to complete. Having good [[karma]] will increase your performance gain. If you manage not to flunk out of space academy, then congratulations, you are set for the space program!
+
+==Astronaut Job==
+[[File:Example Nasa Cadet.jpg|thumb]]
+After you finish space academy, you need to apply for the space program from your [[Nations|country]] (for simplicity, we will use the NASA as an example). In the NASA interview, the interviewer will ask you a random question from technical training. After getting the question correct, you will enter NASA as a cadet. Cadet [[Money|salary]] is usually only 60,000-68,000, which is not very good for an astronaut. There are four missions the player can go on, research experiment, spacewalk, lunar exploration, and martian exploration. These missions are expanded on below.
+
+===Clearances===
+<gallery type="slideshow" widths="250">
+Cadet Rank Insignia.png|Cadet Rank Insignia 
+Captain Rank Insignia .png|Captain Rank Insignia 
+Major Rank Insignia.png|Major Rank Insignia 
+General Rank Insignia.png|General Rank Insignia
+</gallery>
+
+Some missions and activities require a certain clearance. Clearances can be unlocked via getting a promotion due to high reputation and respect. The player starts at “Cadet”, then “Captain”, “Major”, and finally, “General”. You can request higher ranks after leaving the Space Academy. Majors unlock Lunar missions and Generals unlock Martian missions respectfully. Unfortunately, players cannot be promoted to Space Director and may be forced to retire due to old age. While reapplying is possible, players will be inevitably be forced again to retire.
+
+==Missions and Artifacts== 
+
+As an astronaut, there are four missions you can apply for; Research Experiment, Spacewalk, Lunar Exploration, and Martian Exploration. You can only do one mission each year, and can be rejected from missions due to low health or low reputation.
+
+===Low Clearance Missions===
+As a cadet, you can only access Research Experiment and Spacewalk. Spacewalk is by far the safest, with the “risk” bar usually being very low. There is almost no danger involved in spacewalk. Research Experiment, however is more dangerous. During this mission, your director will ask you to perform an experiment. You have the option to conduct it, lie about doing it, or flat out refuse to do it. Even the safest experiments can easily result in [[death]]. There are particularly dangerous experiments, like one where your director will instruct you to take crack cocaine in space. If you get one that seems dangerous, lie about doing it. Several scenarios can occur during these missions, such as the mission being cancelled, the spaceship minigame, and damage to the ship.
+
+===Higher Clearance Missions===
+If the player has a high reputation and good stats, they might get promoted to a higher clearance. After being promoted to "Major", the player unlocks Lunar Missions. After being promoted to "General", the player unlocks Martian Missions. These missions are magnitudes more dangerous than the cadet missions. While on these missions, your crew may nominate you to do a specific task (ex. transporting goods for a new colony). Sometimes, the player will fail these, or in rare cases, die doing them. Refusing these tasks will lower your reputation and may cause your director to argue with you.
+
+===Artifacts===
+While on Lunar or Martian missions, the player may find items on the surface. These items are artifacts, and they function similarly to [[Heirloom|heirlooms]] and other [[assets]]. These items can be donated, sold, scrapped, passed down to children, and, uniquely to artifacts, published. [[Artifacts]] will soon have a page of their own.
+*Emojis listed below may differ from artifacts found in the game.
+<table-progress-tracking table-id="1" unique-column-index="2">
+{| class="article-table sortable" border="0" cellspacing="1" cellpadding="1" style="width:500px;"
+|-
+! scope="col" |Emoji
+! scope="col" |Artifact
+! scope="col" | Location
+! scope="col" |Clearance Required 
+|-
+|🪛 
+|Alien Screwdriver
+| Mars
+| Captain 
+|-
+|
+|Cat Shaped Hot Air Balloon 
+|Moon
+|Major 
+|-
+|🔔
+|Cow Bell
+|Both
+|Major/Captain
+|-
+|🍄
+|Dried Up Mushroom
+|Mars
+|Captain
+|-
+| 🪨
+|Eye-Shaped Rock
+|Mars
+|Captain
+
+|-
+|
+|Fossilized Scat
+|Mars 
+|Captain
+|-
+|
+|Fossilized Tentacle
+|Mars
+|Captain
+|-
+|
+|Gold Wand
+|Both
+|Major/Captain
+|-
+|
+|Golden Olive Branch
+| Moon
+|Major
+|-
+|
+|Golf Ball
+|Moon
+|Major
+|-
+|🧀
+|Green Cheese Wedge
+|Moon
+
+|Major
+|-
+|
+|Green Thumb Ring
+|Mars
+|Captain
+|-
+|
+|Human Waste Bag
+|Moon
+|Major
+|-
+|💎 
+|Iridescent Sapphire
+|Mars
+|Captain
+|-
+|
+|Jade Rabbit's Foot
+|Mars
+|Major
+|-
+|🪨
+|Lunar Rock
+|Moon
+|Major
+|-
+|
+|Lunar Soil
+|Moon
+|Major
+|-
+|
+|Mars Rover Tire
+|Mars
+|Major 
+|-
+|🪨
+|Martian Rock
+|Mars
+|Captain
+|-
+|
+|Martian Soil
+|Mars
+|Captain
+|-
+|🪨
+|Meteorite
+|Both
+|Major/Captain
+|-
+|
+|Moon Dust
+|Moon
+|Major
+|-
+|
+|Moon Rock
+|Moon
+|Captain
+|-
+|
+|Orca Tooth
+|Moon
+| Major
+|-
+|
+|Pearlescent Rock
+| Moon
+|Major
+|-
+|🥔
+|Potato
+|Mars
+|Captain
+
+|-
+|
+|Sand Worm Tooth
+|Mars
+|Captain
+|-
+|⭐
+|Star-Shaped Locket
+|Moon
+|Major
+|-
+|
+|Tattered Dog Collar
+|Moon
+|Major
+|}
+</table-progress-tracking>
+
+==Discoveries==
+The player can sometimes discover planets, galaxies, black holes, asteroids, nebulae, stars, and other space objects after they design and launch a probe. These can all be named and published about. The player can also find and decode alien messages using the transmitter. To decode a message correctly, pick the message that matches the amount of characters in the original message exactly. Getting it correct and publishing your findings will result in a massive reputation boost. Another publication mechanic is the “scan” feature. Using the scan feature, you can scan the Sun, Mercury, Venus, the Moon, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto, and Deep Space at certain times and frequencies. There is a roughly 1/6 chance that the player will find a unique signal. These can be published about, and, if they are noteworthy, result in a large reputation boost.
+
+==Trivia == 
+*A random event will occur, where the player is instructed to "save the world" by placing a minigame where they are required to control a spaceship. Failing this minigame will lead to  the [[Death]] of your character and succeeding will lead to the ''Apocalypse Later'' [[Achievements|Achievement]].
+*All European countries, even those that are not in the European Union, have access to the European Space Agency.
+*The astronaut career is considered by most of the community to be the most difficult special career in the game.
+[[Category:Careers]]
+[[Category:Special Careers]]

@@ -1,0 +1,13 @@
+'''Combat''' is a feature that allows the player and NPCs to fight. More info to be added
+{| class="fandom-table"
+|+List of secondary assaults
+!Outbound
+!Inbound
+|-
+|
+* You pulled their earlobes, bruising them!
+* You stuck a finger in their ear, damaging their eardrum
+|
+* They pulled your earlobes, bruising them!
+* They stuck a finger in your ear, damaging your eardrum
+|}

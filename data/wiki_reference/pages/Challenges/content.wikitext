@@ -1,0 +1,39 @@
+{{Infobox_BitLifeApp|launched_on_ios: = February 23, 2020 |launched_on_android: = March 22, 2020
+|image1 = Challenges.png}}'''''Note''': This page only includes official in-game Challenges, NOT suggested challenges.''
+
+'''Challenges''' are worldwide goals done a few times each month with players around the globe. A ticker tape will run when a challenge is upcoming or active. Players may complete any ongoing '''challenges''' by completing all the requirements as long as they are connected to the Internet. Once a challenge is completed, it will be displayed on the Challenges tab and you'll see your rank based on how early you completed. The first Challenge to ever be live was the Alphabet challenge, followed by the Ghostbusters and Shamrock challenges. The April Fools' challenge became the first challenge to ever be on iOS and Android at the same time so that [[Android version|Android]] catches up with iOS. Winning a challenge earns [[Accessories]].
+
+== Archived Challenges Catalog ==
+'''''Note''': This section might be outdated; as of September 7th, 2020, archived challenges no longer show up in the game.''
+
+BitLife added the Archived Challenges Catalog on [[IOS version|iOS]] on April 5, 2020, and is not available on Android as of yet. This was added to let players complete some of the Challenges they may not have completed when they were live. The Alphabet, Ghostbusters, Shamrock, Gold Digger, and Black Widow challenges are Archived. In October 2022, all of a players uncompleted challenges were put into a challenge vault, which players have to pay for access to. Sometimes if a challenge is completed but the game does not recognize it, a character may have to [[Age]] up or exit and re-enter the game for it to take effect.
+
+==List of BitLife Challenges==
+=== 2020 Challenges ===
+{{Template:2020 Challenges}}
+
+=== 2021 Challenges ===
+{{Template:2021 Challenges}}
+
+=== 2022 Challenges ===
+{{Template:2022 Challenges}}
+
+=== 2023 Challenges ===
+{{Template:2023 Challenges}}
+
+=== 2024 Challenges ===
+{{Template:2024 Challenges}}
+
+=== 2025 Challenges ===
+{{Template:2025 Challenges}}
+
+=== 2026 Challenges ===
+{{Template:2026 Challenges}}
+
+==Notes==
+<references group="note" />
+
+[[Category:BitLife]]
+[[Category:Updates]]
+[[Category:Features]]
+[[Category:Life Achievements]]

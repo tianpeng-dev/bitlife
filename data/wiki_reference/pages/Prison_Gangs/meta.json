@@ -1,0 +1,20 @@
+{
+  "title": "Prison/Gangs",
+  "pageid": 563,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Prison%2FGangs",
+  "categories": [
+    "BitLife",
+    "Updates"
+  ],
+  "links": [
+    "Bitizenship",
+    "Stats"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Prison_Gangs/content.html",
+    "wikitext": "pages/Prison_Gangs/content.wikitext",
+    "text": "pages/Prison_Gangs/content.txt"
+  }
+}

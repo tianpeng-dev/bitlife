@@ -1,0 +1,17 @@
+{{Infobox country
+|title1=South Africa
+|image1=[[File:South Africa.png]]
+|caption1=South Africa's flag.
+|country_name=South Africa
+|number_of_default_cities=4
+|when_was_it_added_to_ios=September 2018
+}}'''South Africa''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the legislative capital, Cape Town, along with Durban, Johannesburg, and Soweto.
+
+South Africa, alongside [[Morocco]] and [[Nigeria]] are the only countries where a capital is not a default city. South Africa has three capitals and only one of them is included. Cape Town (legislative) is included, but Pretoria (executive) and Bloemfontein (judicial) are not.
+
+== Gallery ==
+<gallery>
+File:South Africa baby.jpeg|A baby born in South Africa.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

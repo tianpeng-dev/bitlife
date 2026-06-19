@@ -1,0 +1,90 @@
+{{Template:Under construction}}
+
+{|class = "article-table"
+!Activity
+!Description
+!Options
+!
+Minimum age to do activities   
+|-
+|[[DogLife/Act Up|Act Up]]
+|''Act up at the shelter''
+|Cause mischief at the shelter. You may be reprimanded by the shelter employees if you do this.
+|None
+|-
+|[[DogLife/Attention|Attention]]
+|''Try to attract attention''
+|Attract attention from humans. You may be approached by one and be adopted by it.
+|
+|-
+|[[DogLife/Escape|Escape]]
+|''Attempt to escape''
+|You will play a puzzle minigame where the shelter employee moves twice for every move you make. You may or may not escape or be caught and reprimanded.
+|1 year
+|-
+|[[DogLife/Play|Play]] (Not available in shelter)
+|''Play with yourself''
+|Play with yourself.  Warning: If you’re unlucky, you may end up breaking something by mistake.
+|None
+|-
+|[[DogLife/Riot|Riot]] (Only available in shelter)
+|''Try to start a riot''
+|You will play a “Snake” minigame where you must recruit at least 10 animals and avoid bumping into walls, shelter employees, or other animals. You may sustain injuries if it is successful but will gain respect. If unsuccessful, you may be assau,ted by other animals or reprimanded by shelter employees.
+|1 year
+|-
+|[[DogLife/Scavenge|Scavenge]] (Only available in street)
+|''Scavenge for food''
+|There will be a memory minigame where you must guess the trash can with the food after they are shuffled. If you win, you will gain health, and if you fail, you will have to wait until the next 3 months.
+|1 year
+|-
+|[[DogLife/Scents|Scent]] (Only available for females)
+|''Attract a mate''
+|Release a scent. Your scent may or may not attract any males, but if it does, you have the opportunity to mate with them.
+|1 year
+|-
+|[[DogLife/Sewer|Sewer]]
+|''Go for a swim in the sewer''
+|You will play a minigame similar to Flappy Bird where you must jump between the pipes. If you collide with one of them you will sustain injuries.
+|1 year
+|-
+|[[DogLife/Time Machine|Time Machine]]
+|''Travel back in time''
+|You can choose how far you want to travel. This can be as short as 3 months and as long as 3 years. 
+|3 months
+|-
+|[[DogLife/Tricks|Tricks]]
+|''Practice a trick''
+|
+* Shake Hands
+* Roll Over
+* Speak
+* Play Dead
+* Spin Around
+* Wave
+* Give a Kiss
+* Bow
+* Give Hugs
+* Fist Bump
+* High Five
+* Twerk
+* Sing
+|6 months
+|-
+|[[DogLife/Wander|Wander]]
+|''Wander to a different habitat''
+|You will wander to a different street.
+|1 year
+|-
+|[[DogLife/Witch Doctor|Witch Doctor]]
+|''Seek alternative treatments''
+|It will cost a random amount of Public Hairs or Whiskers. It may cure you of any diseases you have, split your stats in half, or kill you.
+|
+|-
+|Surrender...
+|
+|The game will say, “Don’t give up on “your name”! If you choose “Surrender”, you will die and your potential will end. If you choose “Continue this life”, you will stay alive.
+|None
+|}
+
+[[Category:DogLife]]
+[[Category:DogLife/Activities]]

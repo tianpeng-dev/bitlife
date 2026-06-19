@@ -1,0 +1,138 @@
+Every animal and every human in
+DogLife
+has a scent. The player can discover someone's scent by sniffing them: doing this will add the animal to the Scent Database (currently only pets can be added to it, not humans).
+The Scent Database can show the player the animal's current status (if they are alive, dead or missing) and if they paid to unlock TopDog you can access the ability to locate a missing animal.
+This is a list of all scents present in DogLife (not complete):
+Alfredo
+Anice
+Apple pie
+Baby wipe
+Bacon
+Bacon grease
+Balsamic vinaigrette
+Beef and broccoli
+Beef gravy
+Berries
+Bleach
+Blood
+Bologna
+Bonfire smoke
+Burnt popcorn
+Burnt rubber
+Burnt toast
+Car exhaust
+Cat hair
+Cheeseburger
+Cheese-flavored potato chips
+Chicken feet
+Chicken lo mein
+Chicken sandwich
+Chili peppers
+Chlorine
+Chunky milk
+Cigar ash
+Cinnamon
+Citrus-scented floor cleaner
+Coffee grounds
+Condom
+Crap
+Daffodils
+Day-old spinach
+Decaying flesh
+Deli ham
+Deli turkey
+Desperation
+Diarrhea
+Dinner
+Dirt
+Disaster
+Disease
+Dog drool
+Dog hair
+Dog poop
+Dumpster fire
+Dumpster juice
+Earwax
+Expired milk
+Flowers
+French fries
+Fresh linen
+Freshly cut grass
+Fresh oysters
+Fresh-ground coffee
+Grease
+Hamburger
+Hot cocoa
+Hot dogs
+Hot garbage
+Korean restaurant's dumpster
+Landfill
+Leftover Chinese food
+Leftover Cuban food
+Leftover Indian food
+Leftover Japanese food
+Lighter fluid
+Limes
+Lo mein
+Lunch Combo No. 4
+Manure
+Mayonnaise
+Moldy cheese
+Moscato
+Motor oil
+Mucus
+Mustard
+Nicotine
+Oatmeal
+Oat milk
+Old boot
+Old coins
+Onions
+Pastrami
+Peppermint
+Permanent markers
+Petroleum jelly
+Pickler pig's feet
+Pickles
+Pile of crap
+Pile of garbage
+Poop
+Potting soil
+Rain water
+Roses
+Rotisserie chicken
+Rotten bacon
+Rotten bananas
+Rotten eggs
+Rotten peppers
+Rubber
+Saliva
+Salmon
+Sausage gravy
+Sawdust
+Sewage
+Skim milk
+Skunk
+Smog
+Snow
+Soap dish
+Soiled underwear
+Sour whipped cream
+Spinach juice
+Strawberry jam
+Swamp water
+Sweaty feet
+Tampon
+Toe jam
+Turkey gravy
+Turkey sandwich
+Toilet water
+Used sanitary pad
+Urine
+Vinaigrette dressing
+Vomit
+Wet fart
+Wet, musky socks
+Whipped cream
+Yeast
+Yogurt

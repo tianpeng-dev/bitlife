@@ -1,0 +1,212 @@
+{{Infobox country
+|title1=Ireland
+|image1=[[File:Ireland.png]]
+|caption1=Ireland's flag.
+|country_name=Ireland
+|number_of_default_cities=3
+|when_was_it_added_to_ios=September 2018
+}}
+'''Ireland''' is an original [[Nations|country]] that was on BitLife in September 2018. Its default cities are the capital, Dublin, along with Cork and Shannon.
+== Name List ==
+=== Male First Names ===
+* Adam
+* Alex
+* Aaron
+* Aidan
+* Alexander
+* Ben
+* Bobby
+* Bono
+* Brendan
+* Brandon
+* Callum
+* Charlie
+* Cian
+* Cillian 
+* Colm
+* Conor
+* Daniel
+* Darragh
+* David
+* Dylan
+* Dermot
+* Eoin
+* Eric
+* Evan
+* Finn
+* Fionn
+* Harry
+* Jack
+* Jacob
+* Jake
+* James
+* Jamie
+* John
+* Joseph
+* Joshua
+* Kevin
+* Kyle
+* Liam
+* Luke
+* Mason
+* Matthew
+* Max
+* Michael
+* Mick
+* Nathan
+* Noah
+* Oisin
+* Oliver
+* Oscar
+* Patrick
+* Peter
+* Rian
+* Robert
+* Rowan
+* Sam
+* Samuel
+* Sean
+* Sheamus
+* Tadhg
+* Thomas
+* Tom
+* William
+* Zachary 
+
+=== Female First Names ===
+* Abbie
+*Abigail
+*Agnes
+*Aishling
+*Aisling
+*Alanna
+*Alice
+* Amelia
+* Amy
+* Aoife
+* Ava
+* Anna
+* Bella
+* Caoimhe
+* Cara
+* Carrie
+* Chloe
+* Ciara
+* Clodagh
+* Ella
+* Ellie
+* Emily
+* Emma
+* Erin
+* Eva
+* Eve
+* Faye
+* Fiadh
+* Freya
+* Grace
+* Hannah
+* Holly
+* Isabella
+* Isabelle
+* Jessica
+* Kate
+* Katie
+* Laura
+* Lauren
+* Layla
+* Leah
+* Lily
+* Lucy
+* Mia
+* Molly
+* Nia
+* Niamh
+* Olivia
+* Penny
+* Peggy
+* Rachel
+* Robyn
+* Roisin
+* Ruby
+* Sadie
+* Saoirse
+* Sara
+* Sarah
+* Sinead
+* Sophia
+* Sophie
+* Zoe
+
+=== Surnames ===
+*
+* Bennett 
+* Brown
+* Byrne
+* Campbell
+* Collins
+* Davis
+* Davies
+* Dewey
+* Doherty
+* Driscoll
+* Duffy
+* Evans
+* Farrell
+* Fithen
+* Graham
+* Griffiths
+* Hamilton
+* Harries
+* Howell
+* Hughes
+* James
+* Jenkins
+* Johnston
+* Johnson
+* Jones
+* Kelly
+* Lewis
+* Lynch
+* Maguire
+* Martin
+* McDonagh
+* McGregor
+* McGuinness
+* McLaughlin
+* Moore
+* Morgan
+* Moss
+* Murphy
+* Murray
+* O'Brien
+* O'Connor
+* O'Neill
+* O'Reilly
+* O'Toole
+* Owen
+* Phillips
+* Popkin
+* Price
+* Prothero
+* Quinn
+* Rees
+* Robinson
+* Ronan
+* Samuel
+* Sheehan
+* Smyth
+* Stewart
+* Taffe
+* Thomas
+* Thompson
+* Walsh
+* Williams
+* Wilson
+* Young
+
+== Gallery ==
+<gallery>
+File:Ireland baby.jpeg|A baby born in Ireland.
+</gallery>{{Nations}}
+[[Category:BitLife]]
+[[Category:Nations]]

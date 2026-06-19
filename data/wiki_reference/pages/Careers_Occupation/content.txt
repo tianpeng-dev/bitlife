@@ -1,0 +1,69 @@
+Occupations
+are your character's
+job
+. They are listed in the "
+Job
+" tab of your screen.
+Contents
+1
+Schedule
+2
+Education
+3
+Freelance Gigs
+4
+Job Recruiter
+5
+Jobs
+6
+Military
+7
+Part-Time Jobs
+8
+Special Careers
+Schedule
+[
+]
+The schedule indicates how much stress your character is in and how busy their workload is. Being too stressed may lead to high blood pressure and your character could
+die
+from a sudden heart attack or stroke stemming from the stress caused.
+Education
+[
+]
+This is where your character goes to be a student and become better educated to get a high-paying career. Some careers require a certain level of education as a prerequisite.
+Freelance Gigs
+[
+]
+These are small one-time gigs to earn money. Players can decide what they would like to do and how much money they'd like per hour. After posting the ad, it will show who responded and how many hours your character worked for them. Examples of these gigs include babysitter, pet sitter, dog walker, handyman, and others. If the gigs are charged for a large amount of money, people are less likely to respond to them, which usually happens with the handyman gug.
+Job Recruiter
+[
+]
+This is where you will get an interview for a random job that will be listed. Its mechanics will be the same as a regular job interview and your character will be hired if they answer the following question correctly.
+Jobs
+[
+]
+These are full-time jobs. Characters may only have one of these at a time and can resign or retire at any time. If the character has an interview and answers the following question correctly, they will be hired. Scenarios pertaining to the job may occur. Full-time jobs can be
+collected
+as a career collection if the character has worked at least 20 years serving that job.
+Military
+[
+]
+This is a full-time career starting when your character is at least 18 and ending no later than the mandatory retirement age of 62. Your character may request honorary discharge if they wish. Characters may desert the military but with consequences. If your character has finished University, they may apply as an officer; if not, they can simply enlist. There is a career collection as an enlistee and as an officer of each branch of the military: Army, Navy, Air Force, Marines, or Coast Guard. Military characters may get deployed and finish a
+minefield puzzle
+to earn an Honourary Medal which they may keep, pawn off, or refuse, or may get blown up by a mine and suffer fatal injuries.
+Part-Time Jobs
+[
+]
+Part-time jobs are hourly waged jobs and a character may have more than one. Some part-time jobs are for the university your character is at if they are seeking education, and the jobs will be tendered when they stop becoming a student there.
+Special Careers
+[
+]
+These are careers that are different from any other type of occupation and have a major impact on the gameplay. As of October 2024, there are ten special career packs: Actor,
+Astronaut
+,
+Athlete
+, Business,
+Mafia
+, Musician, Politican, Street Hustler,
+Model
+and Dealer. But these packs cost $4.99 each (real money) unless you buy them with Boss Mode, which is $11.99.

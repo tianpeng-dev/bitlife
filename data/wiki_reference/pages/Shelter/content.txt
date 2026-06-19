@@ -1,0 +1,170 @@
+In
+DogLife
+and
+CatLife
+, the
+Pet Shelter
+is one of the four places that you can start your Dog/cat's life with the others being a
+Pet Shop
+,
+House
+, and
+Street
+.
+Contents
+1
+Description
+2
+Activites
+2.1
+Escaping
+2.2
+Riots
+2.3
+Interacting with other dogs/cats
+2.3.1
+Options
+2.3.2
+Agression
+2.4
+Interactions with employees
+Description
+[
+]
+The Pet Shelter is the one of the fourth choices that you started a new dog/cat's life, you have chances to being adopted.
+You can be sent to the shelter :
+Street
+: If you gets chased by
+Human Encounter
+or
+Authority Shelter Encounter
+, the minigame starts and you need to jump all obstacles until finished line, if you fail the minigame, you will transferred to shelter (you have chances to be take to
+House
+, Human Encounter only).
+Pet Store
+: If you misbehaving too many times, eating pets, or still too longer without being adopted, you will be transferred to shelter.
+House
+: There are many options to being kick out of your home.
+You can be send back to shelter/or kick out to the street if you misbehaving or attack your owners/other pets.
+You will be automatically be send to animal shelter if you gets caught after kill your owner (there are chances you getting euthanized for doing this)
+If you owner died, there are 50/50 chances to being send back to animal shelter or being transferred in a new house.
+Depending of your behave, you can be sent to the veterinairy :
+Spayed
+/
+Neutered
+: If you misbehaving too many times or get babies, you will sent to the veterinairy office to being sprayed/neutered. You can act up, attack the veterinairy, accept the fate or try to escape (if succeeds, you becomes a street dog/cat but you're not able to see your puppies). Depending of your behave, the veterinairy can sprayed/neutered you anyways or refuse to see you (employees will argue at you for doing this).
+Euthanazied
+: If you are too violent with employees, kill your owners at home (you will send to shelter by
+animal authority control
+before getting euthanaized), too old or sick, you will be euthanaized by the veterinairy.
+Activites
+[
+]
+There are many activites in the animal shelter.
+Escaping
+[
+]
+Like in
+BitLife: Life Simulator
+, you have an option to try escaping shelter each three months. You will have to go through a minigame, which they can either quit immediately when the minigame starts. This will allow no consequences, but they can't escape shelter again that three months. If the animal tries to escape, they have to get past the guard and get to the exit. The guard moves twice for every one move the player makes. However, the guard always moves to the player in the same line the player is at. If trapped by walls, the guard will be unable to make moves where the wall blocks them.
+If you fails the minigame and the guard catches you (or if you surrender), you will return back to your cell and (employee name) will argue with you for trying to escape the shelter.
+If you succeeds, you will be freedom and continue your life onto the street, but there are schances to being caught by animal control or
+Human Encounter
+, and the animal needs to escape them via minigame, if the animal fails, he will return back to the shelter (or being took to owner in his/her house). If succeeds, the animal still continues his/her life onto the street.
+Riots
+[
+]
+Like in
+BitLife
+'s
+Prison
+. The dog/cat is able to start a riot in shelter. A successful riot will cause some dogs/cats and guards to be injured and/or dead. If they fail at starting a riot, they will be assaulted by the other dogs/cats, and risk getting charged if they bumped into a guard but still gain respect. Depending on the severity of the assault, the dog/cat. loses health. If the dog/cat gets caught starting the riot, (employee name) will argue with him for inciting a riot.
+Rioting requires you to go through a minigame much like the classic Snake— using directional arrows, collect different aniamsl (the required number is indicated at the top and increases each time you riot) while avoiding bumping into the walls, police officers, or even your chain of dogs/cats! After a set number of dogs/cats are recruited, guards will start appearing one by one on the screen. When you finish recruiting all the dogs/cats needed, they will all split up and attack the guards. The aftermath of a riot usually results in a some injuries and deaths.
+Interacting with other dogs/cats
+[
+]
+The dog/cat can have other interactions with other dogs/cats, you can attack, bark, loved, mess, play, seek attention, snarl, submit or sniff him/her. There are a chance that the dog/cat being caught by (employee name) or being attacked back from the other animal.
+Animals with high respect or aggression will agresses the dog/cat more times, the dog/cat have many choices.
+Options
+[
+]
+Attack
+: The player has the choice to attack a random pet. Doing that will result an attack back, a submission or nothing. However, the dog/cat will be reprimanded for his misbehavior.
+Bark
+: The player can bark at a pet. Doing that will result an attack back, a submission or nothing.
+Cuddle
+: The player can choice to cuddle with a random pet. However, pets will empty/low relationship will attack or ignore you.
+Eat
+: The player can eat his own puppies and can be successful or fail. However, the dog/cat will be reprimanded for his misbehavior.
+Love
+: If you tries to nuzzle with a pet, there is a chance that the pet will attack or ignore you if you have empty/low relationship with him/her.
+Mate
+: You can mate a random pet. There is a chance that the pet refused you, be unable to have a erection or accept you but there is a chance that you caught
+rabies
+.
+Mess
+: If you mess with a pet, there is a chance that he attack you for doing this or he could submit to you.
+Nuzzle
+: You can choice to nuzzle with a random pet. However, pets will empty/low relationship will attack or ignore you.
+Play
+: Playing with a pet is the best chance, because you will incrase your relationship speedly and you will not be attacked by the pet that you choiced. However, there are a rare chance that the pet choice to ignore you, that happens if you get already attacked early.
+Seek Attention
+: You intimidate a pet. They may attack you or submit to you.
+Sniff
+: Sniffing a pet will show you their scent and could improve your relationship but this also has a chance that you get attacked for doing this.
+Submit
+: If you gets attacked by a pet, you can choice to submit to him. But doing this will decrase your respect by a high amount and there are a chance that your assaillant want to humiliates you. You can also choice to submit to a pet without getting attacked, but you will decrase your respect anyways.
+Agression
+[
+]
+During the agression, the player has many choices.
+Ignore him/her
+/
+Walk away from him/her
+: The dog/cat can choice to ignore his animal encounter, but animals with highest respect or agression can attack the dog/cat anyways.
+Attack back
+: The dog/cat can attack his encounter if he gets an aggression, doing this will result an attack back or submit, or the dog/cat will be caught by (employee name) for doing this.
+Submit to him/her
+: If the dog/cat gets an aggression or not, he can submits to his encounter but doing this will lose respect, there are a chance that your assaillant humiliate you before leaving.
+Get help
+: If you get aggressed by a animal, you can alert (employee name) or others pets.
+(employee name)'
+: If the dog/cat choose to alert (employee name), (employee name) can argue at him/her for fighting with (encounter name) if you are low or empty relationship with the employee, play with (encounter name), spray/neutered your assaillant or just ignore the dog/cat, or in rare cases, even reprimand you instead of the agressor, but doing this will lose respect.
+Animals
+: If the dog/cat choose to alert (animal name), (animal name) can ignore him or attack (encounter name), doing this will have higher respect.
+Witnesses
+: If a pet tries to attack another pet :
+Help
+: You can choose to help the assaillant to attack the victim, and increase your respect. However, employees will argue at you for doing this.
+Defend
+: Your assaillant will attack you and causing injuries (and sometimes can lead to death), tried to attack you, or fleeds. Doing this will increase your relationship with the victim.
+Interactions with employees
+[
+]
+The dog/cat can interacts with the employees of the shelter, the dog/cat has many choices.
+Attack him/her
+: The dog/cat can attack (employee name) voluntary or after reveived a discipline. If the employee dies, you will be euthanazied.
+Bark
+: The dog/cat can bark at (employee name), doing this will result (employee name) will argue back with the dog/cat for doing this.
+Beg
+: The dog/cat can beg for food at (employee name), doing this will result (employee name) will argue back with the dog/cat for doing this unless they have high relationship.
+Hump
+Jump
+: The dog/cat can jump into (employee name), doing this will result (employee name) will argue back.
+Lick
+: The dog/cat can lick with (employee name). However, low/empty relationships employees will push you away.
+Lunge
+: The dog/cat can lunge to (employee name), doing this will result (employee name) will argue back with the dog/cat for doing this.
+Mess
+: The dog/cat can mess with (employee name), doing this will result (employee name) will argue back with the dog/cat for doing this.
+Nuzzle
+: The dog/cat can nuzzle with (employee name), doing this will result a reward, but doing this with employees with lowest relationship will push you away.
+Seek Attention
+Snarl
+: The dog/cat can snarl at (employee name), doing this will result (employee name) will argue back with the dog/cat for doing this.
+Sniff
+: The dog/cat can sniff (employee name) butt and get to know their scent, doing this will result (employee name) will argue back with the dog/cat for doing this.
+Spend time
+: The dog/cat can nuzzle with (employee name), doing this with employees with lowest relationship will result a argue back for doing this. The last option is considered like an animal abuse and not a misbehavior.
+Spray
+: The dog/cat can spray at (employee name), doing this will result a argue back for doing this.

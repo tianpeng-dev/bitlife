@@ -1,0 +1,37 @@
+{
+  "title": "Events",
+  "pageid": 128,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Events",
+  "categories": [
+    "BitLife",
+    "Events",
+    "Gameplay",
+    "Under_construction"
+  ],
+  "links": [
+    "Achievements",
+    "Bitizenship",
+    "BitLife",
+    "Careers",
+    "Childhood events",
+    "Encounter/Animal",
+    "Encounter/Sexual",
+    "Events/Childhood events",
+    "Events/Limited-time events",
+    "Karma",
+    "Prison",
+    "Random strangers",
+    "Relationships",
+    "Ribbons",
+    "Situation/SOS",
+    "Situation/Witnessing Crimes",
+    "Stats"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Events/content.html",
+    "wikitext": "pages/Events/content.wikitext",
+    "text": "pages/Events/content.txt"
+  }
+}

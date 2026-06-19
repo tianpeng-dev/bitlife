@@ -1,0 +1,21 @@
+{
+  "title": "Brooklyn Cha",
+  "pageid": 6007,
+  "url": "https://bitlife-life-simulator.fandom.com/wiki/Brooklyn_Cha",
+  "categories": [
+    "Americans",
+    "Arubans",
+    "Fan_Characters"
+  ],
+  "links": [
+    "Benjamin Cha II",
+    "Ha-Eun Cha X"
+  ],
+  "fetched_at": "2026-06-18T07:04:17.882731+00:00",
+  "source": "bitlife-life-simulator.fandom.com/api.php",
+  "files": {
+    "html": "pages/Brooklyn_Cha/content.html",
+    "wikitext": "pages/Brooklyn_Cha/content.wikitext",
+    "text": "pages/Brooklyn_Cha/content.txt"
+  }
+}
