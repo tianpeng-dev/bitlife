@@ -12,7 +12,8 @@ const statLabelKeys: Record<keyof LifeState["stats"], Parameters<typeof ui>[1]> 
 
 const deathCauseKeys: Record<string, Parameters<typeof ui>[1]> = {
   old_age: "causeOldAge",
-  low_health: "causeLowHealth"
+  low_health: "causeLowHealth",
+  accident: "causeAccident"
 };
 
 function formatLog(entry: LifeLogEntry, locale: Locale): string {

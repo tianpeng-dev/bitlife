@@ -66,6 +66,7 @@ export function generateLife({ seed, catalog }: { seed: string; catalog: GameCat
     diseases: [],
     flags: [],
     freeActivitiesCompletedThisYear: [],
+    pendingConsequences: [],
     log: [
       {
         id: "birth",

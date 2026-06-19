@@ -27,6 +27,78 @@ describe("engine", () => {
     expect(result.logs.some((entry) => entry.messageKey === "log.choice_resolved")).toBe(true);
   });
 
+  it("schedules hidden future consequences for risky choices", () => {
+    const life = {
+      ...generateLife({ seed: "risky-butterfly", catalog }),
+      age: 18,
+      pendingEventId: "burnout_warning",
+      stats: { happiness: 60, health: 80, smarts: 50, looks: 50 }
+    };
+
+    const result = resolveEventChoice({ life, catalog, choiceId: "push" });
+
+    expect(result.life.pendingConsequences?.length).toBeGreaterThan(0);
+    expect(result.life.pendingConsequences?.[0]).toMatchObject({
+      source: "choice",
+      originId: "burnout_warning",
+      choiceId: "push"
+    });
+  });
+
+  it("applies due butterfly consequences during age-up", () => {
+    const life = {
+      ...generateLife({ seed: "queued-butterfly", catalog }),
+      age: 9,
+      pendingEventId: undefined,
+      stats: { happiness: 70, health: 80, smarts: 50, looks: 60 },
+      pendingConsequences: [
+        {
+          id: "test-injury",
+          source: "choice" as const,
+          originId: "skip_school",
+          choiceId: "skip",
+          triggerAge: 10,
+          outcome: "injury" as const,
+          intensity: 3
+        }
+      ]
+    };
+
+    const result = advanceYear({ life, catalog });
+
+    expect(result.life.age).toBe(10);
+    expect(result.life.pendingConsequences).toEqual([]);
+    expect(result.life.stats.health).toBeLessThan(80);
+    expect(result.logs.some((entry) => entry.messageKey === "log.butterfly.injury")).toBe(true);
+    expect(result.life.log.at(-1)?.messageKey).toBe("log.butterfly.injury");
+  });
+
+  it("can end a life from a fatal butterfly consequence", () => {
+    const life = {
+      ...generateLife({ seed: "fatal-butterfly", catalog }),
+      age: 20,
+      pendingEventId: undefined,
+      pendingConsequences: [
+        {
+          id: "test-fatal",
+          source: "activity" as const,
+          originId: "night_out",
+          triggerAge: 21,
+          outcome: "fatal_accident" as const,
+          intensity: 5
+        }
+      ]
+    };
+
+    const result = advanceYear({ life, catalog });
+
+    expect(result.life.alive).toBe(false);
+    expect(result.life.pendingEventId).toBeUndefined();
+    expect(result.life.pendingConsequences).toEqual([]);
+    expect(result.life.death?.causeOfDeath).toBe("accident");
+    expect(result.logs.some((entry) => entry.messageKey === "log.butterfly.fatal_accident")).toBe(true);
+  });
+
   it("settles death immediately when an event choice depletes health", () => {
     const life = {
       ...generateLife({ seed: "choice-death", catalog }),

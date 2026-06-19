@@ -107,6 +107,7 @@ export type UiKey =
   | "submitAnonymous"
   | "causeOldAge"
   | "causeLowHealth"
+  | "causeAccident"
   | "leaderboardTitle"
   | "leaderboardFailed"
   | "leaderboardLoading"
@@ -224,6 +225,7 @@ const uiText: Record<Locale, Record<UiKey, string>> = {
     submitAnonymous: "匿名提交",
     causeOldAge: "自然老去",
     causeLowHealth: "健康衰竭",
+    causeAccident: "意外事故",
     leaderboardTitle: "排行榜",
     leaderboardFailed: "排行榜加载失败。",
     leaderboardLoading: "排行榜加载中...",
@@ -340,6 +342,7 @@ const uiText: Record<Locale, Record<UiKey, string>> = {
     submitAnonymous: "Submit anonymously",
     causeOldAge: "Old age",
     causeLowHealth: "Health failure",
+    causeAccident: "Accident",
     leaderboardTitle: "Leaderboard",
     leaderboardFailed: "Leaderboard failed to load.",
     leaderboardLoading: "Loading leaderboard...",

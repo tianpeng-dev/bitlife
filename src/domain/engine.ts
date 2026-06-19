@@ -2,9 +2,17 @@ import type { GameCatalog } from "../content/schema";
 import { clampRelationship, clampStat } from "./clamp";
 import { applyEffect } from "./effects";
 import { stageForAge } from "./lifeGenerator";
-import { createRng } from "./rng";
+import { createRng, type Rng } from "./rng";
 import { buildDeathSummary } from "./scoring";
-import type { CareerState, DiseaseState, EducationState, LifeLogEntry, LifeState } from "./types";
+import type {
+  CareerState,
+  ConsequenceOutcome,
+  DiseaseState,
+  EducationState,
+  LifeLogEntry,
+  LifeState,
+  PendingConsequence
+} from "./types";
 
 interface EngineResult {
   life: LifeState;
@@ -20,15 +28,179 @@ function createLog(life: LifeState, messageKey: string, params?: Record<string, 
   };
 }
 
-function settleDeath(life: LifeState, catalog: GameCatalog, causeOfDeath: string): LifeState {
-  if (!life.alive || life.stats.health > 0) return life;
-
-  return {
+function settleDeath(life: LifeState, catalog: GameCatalog, causeOfDeath: string, force = false): LifeState {
+  if (!life.alive || (!force && life.stats.health > 0)) return life;
+  const deadLife = {
     ...life,
     alive: false,
     pendingEventId: undefined,
-    death: buildDeathSummary({ life: { ...life, alive: false, pendingEventId: undefined }, catalog, causeOfDeath })
+    pendingConsequences: []
   };
+
+  return {
+    ...deadLife,
+    death: buildDeathSummary({ life: deadLife, catalog, causeOfDeath })
+  };
+}
+
+function choiceLooksRisky(choiceId: string, effects: GameCatalog["events"][number]["choices"][number]["effects"]): boolean {
+  const riskyChoiceIds = new Set(["argue", "push", "ignore", "keep", "fight", "hide", "accuse", "buy", "scroll"]);
+  return (
+    riskyChoiceIds.has(choiceId) ||
+    effects.some((effect) => (effect.stats?.health ?? 0) <= -3 || Boolean(effect.addDiseaseId))
+  );
+}
+
+function outcomeWeights(risky: boolean, life: LifeState): Array<{ value: ConsequenceOutcome; weight: number }> {
+  const fragileHealth = life.stats.health <= 35;
+  return [
+    { value: "lucky_break", weight: risky ? 6 : 16 },
+    { value: "injury", weight: risky ? 24 : 8 },
+    { value: "reputation", weight: 14 },
+    { value: "regret", weight: risky ? 22 : 10 },
+    { value: "health_scare", weight: risky || fragileHealth ? 18 : 6 },
+    { value: "relationship_echo", weight: 14 },
+    { value: "fatal_accident", weight: risky ? 2 : 0.35 }
+  ];
+}
+
+function scheduleButterflyConsequences({
+  life,
+  source,
+  originId,
+  choiceId,
+  risky
+}: {
+  life: LifeState;
+  source: PendingConsequence["source"];
+  originId: string;
+  choiceId?: string;
+  risky: boolean;
+}): LifeState {
+  if (!life.alive) return life;
+
+  const rng = createRng(`${life.seed}:butterfly:schedule:${life.age}:${source}:${originId}:${choiceId ?? "none"}:${life.log.length}`);
+  const chance = risky ? 100 : source === "choice" ? 38 : 26;
+  if (rng.int(1, 100) > chance) return life;
+
+  const count = risky && rng.int(1, 100) <= 18 ? 2 : 1;
+  const pending = [...(life.pendingConsequences ?? [])];
+  for (let index = 0; index < count; index += 1) {
+    const delay = rng.int(1, life.age <= 12 ? 6 : 4);
+    const outcome = rng.weighted(outcomeWeights(risky, life));
+    const triggerAge = life.age + delay;
+    pending.push({
+      id: `${source}-${originId}-${choiceId ?? "activity"}-${life.age}-${index}-${rng.int(1000, 9999)}`,
+      source,
+      originId,
+      choiceId,
+      triggerAge,
+      outcome,
+      intensity: rng.int(risky ? 2 : 1, risky ? 5 : 4)
+    });
+  }
+
+  return { ...life, pendingConsequences: pending };
+}
+
+function addDisease(life: LifeState, diseaseId: string, severity: number): LifeState {
+  if (life.diseases.some((disease) => disease.id === diseaseId)) return life;
+  return {
+    ...life,
+    diseases: [...life.diseases, { id: diseaseId, severity, diagnosed: false, yearsActive: 0 }]
+  };
+}
+
+function applyButterflyOutcome(
+  life: LifeState,
+  catalog: GameCatalog,
+  consequence: PendingConsequence,
+  rng: Rng
+): LifeState {
+  let next = structuredClone(life);
+  const amount = (min: number, max: number) => rng.int(min, max) * consequence.intensity;
+
+  switch (consequence.outcome) {
+    case "lucky_break":
+      next = applyEffect(next, {
+        cash: amount(80, 420),
+        stats: { happiness: amount(1, 3), smarts: rng.int(0, 2) }
+      });
+      break;
+    case "injury":
+      next = applyEffect(next, {
+        stats: { health: -amount(4, 9), happiness: -amount(1, 3), looks: -rng.int(0, consequence.intensity * 2) }
+      });
+      if (rng.int(1, 100) <= 65) {
+        next = addDisease(next, "sprained_ankle", 10 + consequence.intensity * 4);
+      }
+      break;
+    case "reputation":
+      next = applyEffect(next, {
+        stats: { happiness: amount(-2, 3), looks: amount(-1, 2) },
+        relationship: amount(-2, 3),
+        cash: amount(-40, 120)
+      });
+      break;
+    case "regret":
+      next = applyEffect(next, {
+        stats: { happiness: -amount(3, 7), smarts: rng.int(-2, 1), health: -rng.int(0, consequence.intensity * 2) },
+        relationship: -rng.int(0, consequence.intensity * 3)
+      });
+      if (rng.int(1, 100) <= 35) {
+        next = addDisease(next, "anxiety", 8 + consequence.intensity * 4);
+      }
+      break;
+    case "health_scare":
+      next = applyEffect(next, {
+        stats: { health: -amount(5, 10), happiness: -amount(1, 4) },
+        cash: -amount(50, 180)
+      });
+      next = addDisease(next, rng.pick(["flu", "migraine", "back_pain", "high_blood_pressure"]), 10 + consequence.intensity * 5);
+      break;
+    case "relationship_echo":
+      next = applyEffect(next, {
+        relationship: amount(-3, 5),
+        stats: { happiness: amount(-2, 3) }
+      });
+      break;
+    case "fatal_accident":
+      next.stats.health = 0;
+      next = settleDeath(next, catalog, "accident", true);
+      break;
+  }
+
+  if (next.alive) {
+    next = settleDeath(next, catalog, "low_health");
+  }
+  return next;
+}
+
+function applyDueButterflyConsequences(life: LifeState, catalog: GameCatalog): EngineResult {
+  let next = structuredClone(life);
+  const pending = next.pendingConsequences ?? [];
+  const due = pending.filter((consequence) => consequence.triggerAge <= next.age);
+  next.pendingConsequences = pending.filter((consequence) => consequence.triggerAge > next.age);
+  const logs: LifeLogEntry[] = [];
+
+  for (const consequence of due) {
+    const rng = createRng(`${next.seed}:butterfly:resolve:${consequence.id}:${next.age}`);
+    next = applyButterflyOutcome(next, catalog, consequence, rng);
+    const log = createLog(next, `log.butterfly.${consequence.outcome}`, {
+      originId: consequence.originId,
+      choiceId: consequence.choiceId ?? "",
+      source: consequence.source
+    });
+    next.log = [...next.log, log];
+    logs.push(log);
+
+    if (!next.alive) {
+      next.pendingConsequences = [];
+      break;
+    }
+  }
+
+  return { life: next, logs };
 }
 
 function progressEducation(life: LifeState, catalog: GameCatalog): EducationState {
@@ -121,6 +293,7 @@ export function advanceYear({ life, catalog }: { life: LifeState; catalog: GameC
   if (!life.alive) return { life, logs: [] };
 
   const rng = createRng(`${life.seed}:age:${life.age + 1}`);
+  const logs: LifeLogEntry[] = [];
   let next: LifeState = structuredClone(life);
   next.age += 1;
   next.stage = stageForAge(next.age);
@@ -143,7 +316,15 @@ export function advanceYear({ life, catalog }: { life: LifeState; catalog: GameC
     relationship: clampRelationship(person.relationship + rng.int(-2, 1))
   }));
 
-  if (!next.pendingEventId && next.age >= 6) {
+  const log = createLog(next, "log.age_up", { age: next.age });
+  next.log = [...next.log, log];
+  logs.push(log);
+
+  const consequenceResult = applyDueButterflyConsequences(next, catalog);
+  next = consequenceResult.life;
+  logs.push(...consequenceResult.logs);
+
+  if (next.alive && !next.pendingEventId && next.age >= 6) {
     const eligibleEvents = catalog.events.filter((event) => {
       const underMax = event.maxAge === undefined || next.age <= event.maxAge;
       return next.age >= event.minAge && underMax;
@@ -154,14 +335,12 @@ export function advanceYear({ life, catalog }: { life: LifeState; catalog: GameC
     }
   }
 
-  const log = createLog(next, "log.age_up", { age: next.age });
-  next.log = [...next.log, log];
-
-  if (next.stats.health <= 0) {
+  if (next.alive && next.stats.health <= 0) {
     next = settleDeath(next, catalog, "low_health");
-  } else if (next.age >= 90 && rng.int(1, 100) <= next.age - 85) {
+  } else if (next.alive && next.age >= 90 && rng.int(1, 100) <= next.age - 85) {
     next.alive = false;
     next.pendingEventId = undefined;
+    next.pendingConsequences = [];
     next.death = buildDeathSummary({
       life: next,
       catalog,
@@ -169,7 +348,7 @@ export function advanceYear({ life, catalog }: { life: LifeState; catalog: GameC
     });
   }
 
-  return { life: next, logs: [log] };
+  return { life: next, logs };
 }
 
 export function performActivity({
@@ -206,6 +385,12 @@ export function performActivity({
   const log = createLog(next, "log.activity", { activityId });
   next.log = [...next.log, log];
   next = settleDeath(next, catalog, "low_health");
+  next = scheduleButterflyConsequences({
+    life: next,
+    source: "activity",
+    originId: activity.id,
+    risky: activity.group === "risk"
+  });
   return { life: next, logs: [log] };
 }
 
@@ -232,5 +417,12 @@ export function resolveEventChoice({
   const log = createLog(next, "log.choice_resolved", { eventId: event.id, choiceId });
   next.log = [...next.log, log];
   next = settleDeath(next, catalog, "low_health");
+  next = scheduleButterflyConsequences({
+    life: next,
+    source: "choice",
+    originId: event.id,
+    choiceId,
+    risky: choiceLooksRisky(choice.id, choice.effects)
+  });
   return { life: next, logs: [log] };
 }

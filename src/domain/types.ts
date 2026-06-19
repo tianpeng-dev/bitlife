@@ -32,6 +32,27 @@ export interface DiseaseState {
   yearsActive: number;
 }
 
+export type ConsequenceSource = "choice" | "activity";
+
+export type ConsequenceOutcome =
+  | "lucky_break"
+  | "injury"
+  | "reputation"
+  | "regret"
+  | "health_scare"
+  | "relationship_echo"
+  | "fatal_accident";
+
+export interface PendingConsequence {
+  id: string;
+  source: ConsequenceSource;
+  originId: string;
+  choiceId?: string;
+  triggerAge: number;
+  outcome: ConsequenceOutcome;
+  intensity: number;
+}
+
 export interface EducationState {
   stage: "none" | "primary" | "secondary" | "university" | "graduated";
   yearsCompleted: number;
@@ -64,6 +85,7 @@ export interface LifeState {
   diseases: DiseaseState[];
   flags: string[];
   freeActivitiesCompletedThisYear?: string[];
+  pendingConsequences?: PendingConsequence[];
   log: LifeLogEntry[];
   pendingEventId?: string;
   death?: DeathSummary;
