@@ -92,11 +92,15 @@ function StatusDock({ life, locale }: { life?: LifeState; locale: Locale }) {
 
 export function App() {
   const [locale, setLocale] = useState<Locale>("zh-CN");
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [showStatusDock, setShowStatusDock] = useState(true);
+  const [soundEnabled, setSoundEnabled] = useState(false);
   const life = useGameStore((state) => state.life);
   const selectedView = useGameStore((state) => state.selectedView);
   const lastFeedback = useGameStore((state) => state.lastFeedback);
   const error = useGameStore((state) => state.error);
   const startNewLife = useGameStore((state) => state.startNewLife);
+  const exitGame = useGameStore((state) => state.exitGame);
   const advanceYear = useGameStore((state) => state.advanceYear);
   const chooseEvent = useGameStore((state) => state.chooseEvent);
   const doActivity = useGameStore((state) => state.doActivity);
@@ -109,6 +113,12 @@ export function App() {
 
   const handleStart = () => {
     startNewLife(`life-${Date.now()}`);
+    setIsMenuOpen(false);
+  };
+
+  const handleExit = () => {
+    exitGame();
+    setIsMenuOpen(false);
   };
 
   const activeView: SelectedView =
@@ -118,9 +128,23 @@ export function App() {
     <main className="app-shell">
       <div className="app-frame">
         <header className="top-bar">
-          <div>
-            <span>{ui(locale, "appTitle")}</span>
-            <strong>{ui(locale, "appSubtitle")}</strong>
+          <div className="brand-row">
+            <button
+              type="button"
+              className="menu-button"
+              aria-label={ui(locale, "menuLabel")}
+              aria-expanded={isMenuOpen}
+              aria-controls="main-menu"
+              onClick={() => setIsMenuOpen((current) => !current)}
+            >
+              <span aria-hidden="true" />
+              <span aria-hidden="true" />
+              <span aria-hidden="true" />
+            </button>
+            <div className="brand-copy">
+              <span>{ui(locale, "appTitle")}</span>
+              <strong>{ui(locale, "appSubtitle")}</strong>
+            </div>
           </div>
           <div className="top-actions">
             <button type="button" onClick={() => setLocale(locale === "zh-CN" ? "en-US" : "zh-CN")}>
@@ -128,6 +152,39 @@ export function App() {
             </button>
             <span className="status-pill">{life ? ui(locale, "ageStatus", { age: life.age }) : ui(locale, "newGameStatus")}</span>
           </div>
+          {isMenuOpen ? (
+            <div id="main-menu" className="main-menu" role="menu" aria-label={ui(locale, "menuTitle")}>
+              <div className="main-menu__heading">
+                <span>{ui(locale, "menuTitle")}</span>
+              </div>
+              <button type="button" role="menuitem" onClick={handleStart}>
+                <span>{ui(locale, "startLife")}</span>
+                <strong>{ui(locale, "newLife")}</strong>
+              </button>
+              <button type="button" role="menuitem" onClick={handleExit}>
+                <span>{ui(locale, "exitGame")}</span>
+                <strong>{life ? ui(locale, "ageStatus", { age: life.age }) : ui(locale, "newGameStatus")}</strong>
+              </button>
+              <button
+                type="button"
+                role="menuitemcheckbox"
+                aria-checked={showStatusDock}
+                onClick={() => setShowStatusDock((current) => !current)}
+              >
+                <span>{ui(locale, "statusDisplay")}</span>
+                <strong>{ui(locale, showStatusDock ? "statusVisible" : "statusHidden")}</strong>
+              </button>
+              <button
+                type="button"
+                role="menuitemcheckbox"
+                aria-checked={soundEnabled}
+                onClick={() => setSoundEnabled((current) => !current)}
+              >
+                <span>{ui(locale, "soundSetting")}</span>
+                <strong>{ui(locale, soundEnabled ? "soundOn" : "soundOff")}</strong>
+              </button>
+            </div>
+          ) : null}
         </header>
 
         <div className="screen">
@@ -169,7 +226,7 @@ export function App() {
             );
           })}
         </nav>
-        <StatusDock life={life} locale={locale} />
+        {showStatusDock ? <StatusDock life={life} locale={locale} /> : null}
       </div>
     </main>
   );

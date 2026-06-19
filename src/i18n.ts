@@ -8,6 +8,15 @@ export type UiKey =
   | "ageStatus"
   | "newGameStatus"
   | "languageToggle"
+  | "menuLabel"
+  | "menuTitle"
+  | "exitGame"
+  | "statusDisplay"
+  | "statusVisible"
+  | "statusHidden"
+  | "soundSetting"
+  | "soundOn"
+  | "soundOff"
   | "navLife"
   | "navActivities"
   | "navRelationships"
@@ -106,6 +115,15 @@ const uiText: Record<Locale, Record<UiKey, string>> = {
     ageStatus: "{age}岁",
     newGameStatus: "新局",
     languageToggle: "EN",
+    menuLabel: "主菜单",
+    menuTitle: "菜单",
+    exitGame: "退出游戏",
+    statusDisplay: "状态显示",
+    statusVisible: "已显示",
+    statusHidden: "已隐藏",
+    soundSetting: "声音设置",
+    soundOn: "已开启",
+    soundOff: "已关闭",
     navLife: "人生",
     navActivities: "活动",
     navRelationships: "关系",
@@ -203,6 +221,15 @@ const uiText: Record<Locale, Record<UiKey, string>> = {
     ageStatus: "Age {age}",
     newGameStatus: "New",
     languageToggle: "中文",
+    menuLabel: "Main menu",
+    menuTitle: "Menu",
+    exitGame: "Exit game",
+    statusDisplay: "Status display",
+    statusVisible: "Visible",
+    statusHidden: "Hidden",
+    soundSetting: "Sound",
+    soundOn: "On",
+    soundOff: "Off",
     navLife: "Life",
     navActivities: "Activities",
     navRelationships: "Relations",

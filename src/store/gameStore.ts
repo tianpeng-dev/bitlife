@@ -3,7 +3,7 @@ import { catalog } from "../content/catalog";
 import { advanceYear as engineAdvanceYear, performActivity, resolveEventChoice } from "../domain/engine";
 import { generateLife } from "../domain/lifeGenerator";
 import type { LifeState, StatKey } from "../domain/types";
-import { listCompletedLives, loadActiveLife, saveActiveLife, saveCompletedLife } from "../storage/indexedDb";
+import { clearActiveLife, listCompletedLives, loadActiveLife, saveActiveLife, saveCompletedLife } from "../storage/indexedDb";
 
 export type SelectedView = "life" | "activities" | "relationships" | "career" | "tombstone" | "leaderboard";
 export type FeedbackEntry =
@@ -26,6 +26,7 @@ export interface GameStore {
   error?: string;
   hydrateActiveLife(): Promise<void>;
   startNewLife(seed: string): void;
+  exitGame(): void;
   advanceYear(): void;
   chooseEvent(choiceId: string): void;
   doActivity(activityId: string): void;
@@ -104,6 +105,10 @@ export const useGameStore = create<GameStore>((set, get) => ({
     const life = generateLife({ seed, catalog });
     persist(life, (error) => set({ error }));
     set({ life, selectedView: "life", lastFeedback: undefined, error: undefined });
+  },
+  exitGame() {
+    void clearActiveLife().catch((error) => set({ error: errorMessage(error) }));
+    set({ life: undefined, selectedView: "life", lastFeedback: undefined, error: undefined });
   },
   advanceYear() {
     const current = get().life;

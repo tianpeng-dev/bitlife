@@ -1,4 +1,4 @@
-import { render, screen, waitFor } from "@testing-library/react";
+import { render, screen, waitFor, within } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
 import { vi } from "vitest";
 import { App } from "../App";
@@ -35,6 +35,7 @@ describe("App", () => {
     storageMocks.listCompletedLives.mockReset();
     storageMocks.listCompletedLives.mockResolvedValue([]);
     storageMocks.clearActiveLife.mockReset();
+    storageMocks.clearActiveLife.mockResolvedValue(undefined);
     useGameStore.getState().resetForTest();
   });
 
@@ -52,6 +53,30 @@ describe("App", () => {
 
     await userEvent.click(screen.getByRole("button", { name: "年龄\+1" }));
     expect(screen.getAllByText("1岁").length).toBeGreaterThan(0);
+  });
+
+  it("opens the main menu and toggles shell settings", async () => {
+    render(<App />);
+    await waitFor(() => expect(storageMocks.loadActiveLife).toHaveBeenCalledOnce());
+
+    await userEvent.click(screen.getByRole("button", { name: "开始新人生" }));
+    expect(screen.getByLabelText("状态")).toBeInTheDocument();
+
+    await userEvent.click(screen.getByRole("button", { name: "主菜单" }));
+    const menu = screen.getByRole("menu", { name: "菜单" });
+    expect(within(menu).getByRole("menuitem", { name: /开始新人生/ })).toBeInTheDocument();
+    expect(within(menu).getByRole("menuitem", { name: /退出游戏/ })).toBeInTheDocument();
+
+    await userEvent.click(within(menu).getByRole("menuitemcheckbox", { name: /状态显示/ }));
+    expect(screen.queryByLabelText("状态")).not.toBeInTheDocument();
+
+    const soundToggle = within(menu).getByRole("menuitemcheckbox", { name: /声音设置/ });
+    await userEvent.click(soundToggle);
+    expect(soundToggle).toHaveAttribute("aria-checked", "true");
+
+    await userEvent.click(within(menu).getByRole("menuitem", { name: /退出游戏/ }));
+    expect(storageMocks.clearActiveLife).toHaveBeenCalledOnce();
+    expect(screen.getByRole("button", { name: "开始新人生" })).toBeInTheDocument();
   });
 
   it("hydrates on mount and lets dead lives navigate to read-only tabs", async () => {
