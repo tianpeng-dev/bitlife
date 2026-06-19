@@ -63,22 +63,34 @@ export function LifeView({
 
   return (
     <section className="life-view stack">
-      <header className="life-card panel">
-        <div>
-          <span className="kicker">{life.alive ? ui(locale, "currentLife") : ui(locale, "lifeEnded")}</span>
-          <h1>{life.name}</h1>
-          <p>
-            {ui(locale, "ageLabel")}：{life.age}
-          </p>
+      <header className="life-card">
+        <div className="life-card__identity">
+          <span>{life.alive ? ui(locale, "currentLife") : ui(locale, "lifeEnded")}</span>
+          <strong>{life.name}</strong>
         </div>
-        <div className="tag-row">
+        <div className="life-card__meta">
+          <span>{ui(locale, "ageStatus", { age: life.age })}</span>
           <span>{countryName}</span>
-          <span>{life.city}</span>
           <span>${formatNumber(locale, life.cash)}</span>
         </div>
       </header>
 
       {error ? <p className="error-text">{error}</p> : null}
+
+      <section className="panel life-log-panel">
+        <div className="panel-heading">
+          <h2>{ui(locale, "lifeLog")}</h2>
+          <span>{life.log.length}</span>
+        </div>
+        <ol className="log-list">
+          {recentLogs.map((entry) => (
+            <li key={entry.id}>
+              <span>{ui(locale, "ageStatus", { age: entry.age })}</span>
+              <p>{formatLog(entry, locale)}</p>
+            </li>
+          ))}
+        </ol>
+      </section>
 
       {life.pendingEventId ? (
         <EventPanel eventId={life.pendingEventId} locale={locale} onChoose={onChoose} />
@@ -97,21 +109,6 @@ export function LifeView({
       >
         {ui(locale, "ageUp")}
       </button>
-
-      <section className="panel">
-        <div className="panel-heading">
-          <h2>{ui(locale, "lifeLog")}</h2>
-          <span>{life.log.length}</span>
-        </div>
-        <ol className="log-list">
-          {recentLogs.map((entry) => (
-            <li key={entry.id}>
-              <span>{ui(locale, "ageStatus", { age: entry.age })}</span>
-              <p>{formatLog(entry, locale)}</p>
-            </li>
-          ))}
-        </ol>
-      </section>
     </section>
   );
 }

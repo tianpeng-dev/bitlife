@@ -174,7 +174,6 @@ button:disabled {
 }
 
 .hero h1,
-.life-card h1,
 .view-heading h1,
 .empty-state h1,
 .tombstone h1 {
@@ -189,7 +188,6 @@ button:disabled {
 .hero p,
 .view-heading p,
 .empty-state p,
-.life-card p,
 .panel p {
   margin: 0;
   color: rgba(23, 32, 42, 0.72);
@@ -242,22 +240,61 @@ button:disabled {
   box-shadow: 0 12px 32px rgba(23, 32, 42, 0.08);
 }
 
-.life-card,
 .panel {
   padding: 16px;
 }
 
 .life-card {
-  display: grid;
-  gap: 14px;
-  background:
-    linear-gradient(135deg, rgba(244, 200, 94, 0.25), transparent 55%),
-    #fffaf0;
+  display: flex;
+  min-height: 50px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  border-bottom: 1px solid rgba(23, 32, 42, 0.08);
+  padding: 2px 2px 10px;
 }
 
-.life-card h1 {
-  margin-top: 4px;
-  font-size: 36px;
+.life-card__identity {
+  display: grid;
+  min-width: 0;
+  gap: 2px;
+}
+
+.life-card__identity span,
+.life-card__meta span {
+  color: rgba(23, 32, 42, 0.56);
+  font-size: 11px;
+  font-weight: 900;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.life-card__identity strong {
+  overflow: hidden;
+  color: #17202a;
+  font-size: 16px;
+  font-weight: 950;
+  line-height: 1.1;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.life-card__meta {
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 6px;
+  max-width: 54%;
+}
+
+.life-card__meta span {
+  min-height: 24px;
+  border-radius: 999px;
+  padding: 5px 8px 0;
+  background: rgba(23, 32, 42, 0.06);
+  color: rgba(23, 32, 42, 0.64);
+  white-space: nowrap;
 }
 
 .tag-row {
@@ -399,10 +436,16 @@ button:disabled {
 
 .log-list {
   display: grid;
-  gap: 10px;
+  gap: 12px;
   margin: 0;
   padding: 0;
   list-style: none;
+}
+
+.life-log-panel {
+  border-color: rgba(36, 169, 65, 0.22);
+  background: #fffdf5;
+  box-shadow: 0 14px 34px rgba(23, 32, 42, 0.1);
 }
 
 .log-list li {
@@ -416,6 +459,13 @@ button:disabled {
   color: #ff5a3d;
   font-size: 12px;
   font-weight: 950;
+}
+
+.life-log-panel .log-list p {
+  color: rgba(23, 32, 42, 0.82);
+  font-size: 14px;
+  font-weight: 760;
+  line-height: 1.55;
 }
 
 .age-button {

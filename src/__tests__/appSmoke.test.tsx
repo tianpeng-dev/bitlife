@@ -47,11 +47,11 @@ describe("App", () => {
 
     await userEvent.click(screen.getByRole("button", { name: "中文" }));
     await userEvent.click(screen.getByRole("button", { name: "开始新人生" }));
-    expect(screen.getByText(/年龄：0/)).toBeInTheDocument();
+    expect(screen.getAllByText("0岁").length).toBeGreaterThan(0);
     expect(screen.getByLabelText("状态")).toBeInTheDocument();
 
     await userEvent.click(screen.getByRole("button", { name: "年龄\+1" }));
-    expect(screen.getByText(/年龄：1/)).toBeInTheDocument();
+    expect(screen.getAllByText("1岁").length).toBeGreaterThan(0);
   });
 
   it("hydrates on mount and lets dead lives navigate to read-only tabs", async () => {
