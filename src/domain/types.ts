@@ -63,6 +63,7 @@ export interface LifeState {
   career: CareerState;
   diseases: DiseaseState[];
   flags: string[];
+  freeActivitiesCompletedThisYear?: string[];
   log: LifeLogEntry[];
   pendingEventId?: string;
   death?: DeathSummary;

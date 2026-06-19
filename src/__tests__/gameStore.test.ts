@@ -124,6 +124,17 @@ describe("gameStore", () => {
     expect(storageMocks.saveActiveLife).not.toHaveBeenCalled();
   });
 
+  it("sets an error instead of throwing when a free activity repeats in the same year", () => {
+    const life = lifeWith({ age: 10, pendingEventId: undefined, freeActivitiesCompletedThisYear: ["study"] });
+    useGameStore.setState({ life });
+
+    expect(() => useGameStore.getState().doActivity("study")).not.toThrow();
+
+    expect(useGameStore.getState().life).toBe(life);
+    expect(useGameStore.getState().error).toContain("Activity study was already completed this year");
+    expect(storageMocks.saveActiveLife).not.toHaveBeenCalled();
+  });
+
   it("performs activities even when an event is pending", () => {
     const life = lifeWith({ pendingEventId: "quiet_year" });
     useGameStore.setState({ life });

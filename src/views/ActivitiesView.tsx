@@ -42,7 +42,9 @@ export function ActivitiesView({
         {catalog.activities.map((activity) => {
           const ageLocked =
             life.age < activity.minAge || (activity.maxAge !== undefined && life.age > activity.maxAge);
-          const disabled = !life.alive || ageLocked;
+          const isFreeActivity = activity.cost === undefined || activity.cost <= 0;
+          const doneThisYear = isFreeActivity && (life.freeActivitiesCompletedThisYear ?? []).includes(activity.id);
+          const disabled = !life.alive || ageLocked || doneThisYear;
           const costLabel = activity.cost ? ui(locale, "cost", { amount: activity.cost }) : ui(locale, "free");
 
           return (
@@ -55,7 +57,13 @@ export function ActivitiesView({
             >
               <span>{ui(locale, groupLabelKeys[activity.group])}</span>
               <strong>{contentLabel(locale, activity.labelKey)}</strong>
-              <small>{ageLocked ? ui(locale, "availableAt", { age: activity.minAge }) : costLabel}</small>
+              <small>
+                {ageLocked
+                  ? ui(locale, "availableAt", { age: activity.minAge })
+                  : doneThisYear
+                    ? ui(locale, "activityDoneThisYear")
+                    : costLabel}
+              </small>
             </button>
           );
         })}

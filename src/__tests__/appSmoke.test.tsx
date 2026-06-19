@@ -102,6 +102,23 @@ describe("App", () => {
     expect(screen.queryByRole("dialog", { name: "选择影响" })).not.toBeInTheDocument();
   });
 
+  it("disables completed free activities for the current year", async () => {
+    storageMocks.loadActiveLife.mockResolvedValue(
+      lifeWith({
+        age: 10,
+        pendingEventId: undefined,
+        freeActivitiesCompletedThisYear: ["study"]
+      })
+    );
+
+    render(<App />);
+
+    await userEvent.click(await screen.findByRole("button", { name: "活动" }));
+    const studyButton = screen.getByRole("button", { name: /努力学习/ });
+    expect(studyButton).toBeDisabled();
+    expect(within(studyButton).getByText("今年已完成")).toBeInTheDocument();
+  });
+
   it("hydrates on mount and lets dead lives navigate to read-only tabs", async () => {
     const deadLife = lifeWith({
       age: 82,

@@ -124,6 +124,7 @@ export function advanceYear({ life, catalog }: { life: LifeState; catalog: GameC
   let next: LifeState = structuredClone(life);
   next.age += 1;
   next.stage = stageForAge(next.age);
+  next.freeActivitiesCompletedThisYear = [];
   next.stats.happiness = clampStat(next.stats.happiness + rng.int(-2, 2));
   next.stats.health = clampStat(next.stats.health + rng.int(-2, 1));
   next.stats.smarts = clampStat(next.stats.smarts + rng.int(0, 1));
@@ -188,10 +189,18 @@ export function performActivity({
   if (life.age < activity.minAge || !underMax) {
     throw new Error(`Activity ${activityId} is not available`);
   }
+  const isFreeActivity = activity.cost === undefined || activity.cost <= 0;
+  const completedFreeActivities = life.freeActivitiesCompletedThisYear ?? [];
+  if (isFreeActivity && completedFreeActivities.includes(activity.id)) {
+    throw new Error(`Activity ${activityId} was already completed this year`);
+  }
 
   let next = structuredClone(life);
   for (const effect of activity.effects) {
     next = applyEffect(next, effect);
+  }
+  if (isFreeActivity) {
+    next.freeActivitiesCompletedThisYear = [...completedFreeActivities, activity.id];
   }
   next = treatDiseases(next, catalog, activityId);
   const log = createLog(next, "log.activity", { activityId });

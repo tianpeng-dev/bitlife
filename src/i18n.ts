@@ -59,6 +59,7 @@ export type UiKey =
   | "activitiesReady"
   | "activitiesPending"
   | "availableAt"
+  | "activityDoneThisYear"
   | "free"
   | "cost"
   | "groupMindBody"
@@ -175,6 +176,7 @@ const uiText: Record<Locale, Record<UiKey, string>> = {
     activitiesReady: "每项活动会改变属性、金钱或关系。",
     activitiesPending: "活动按年龄开启；当前事件可以稍后处理。",
     availableAt: "{age}岁后可用",
+    activityDoneThisYear: "今年已完成",
     free: "免费",
     cost: "花费 ${amount}",
     groupMindBody: "身心",
@@ -290,6 +292,7 @@ const uiText: Record<Locale, Record<UiKey, string>> = {
     activitiesReady: "Each activity can change stats, cash, or relationships.",
     activitiesPending: "Activities unlock by age; the current event can be handled later.",
     availableAt: "Available at {age}",
+    activityDoneThisYear: "Done this year",
     free: "Free",
     cost: "Costs ${amount}",
     groupMindBody: "Mind & body",

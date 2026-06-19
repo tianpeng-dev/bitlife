@@ -30,7 +30,34 @@ describe("activities and death", () => {
     const result = performActivity({ life, catalog, activityId: "study" });
 
     expect(result.life.stats.smarts).toBeGreaterThan(life.stats.smarts);
+    expect(result.life.freeActivitiesCompletedThisYear).toContain("study");
     expect(result.logs[0].messageKey).toBe("log.activity");
+  });
+
+  it("rejects repeating the same free activity in one year", () => {
+    const life = { ...generateLife({ seed: "repeat-free", catalog }), age: 10 };
+    const result = performActivity({ life, catalog, activityId: "study" });
+
+    expect(() => performActivity({ life: result.life, catalog, activityId: "study" })).toThrow(
+      "Activity study was already completed this year"
+    );
+  });
+
+  it("allows the same free activity again after aging up", () => {
+    const life = { ...generateLife({ seed: "repeat-next-year", catalog }), age: 10, pendingEventId: undefined };
+    const activityResult = performActivity({ life, catalog, activityId: "study" });
+    const ageResult = advanceYear({ life: activityResult.life, catalog });
+
+    expect(ageResult.life.freeActivitiesCompletedThisYear).toEqual([]);
+    expect(() => performActivity({ life: ageResult.life, catalog, activityId: "study" })).not.toThrow();
+  });
+
+  it("allows paid activities to repeat in one year", () => {
+    const life = { ...generateLife({ seed: "repeat-paid", catalog }), age: 10, cash: 1000 };
+    const firstResult = performActivity({ life, catalog, activityId: "read_book" });
+
+    expect(() => performActivity({ life: firstResult.life, catalog, activityId: "read_book" })).not.toThrow();
+    expect(firstResult.life.freeActivitiesCompletedThisYear).toEqual([]);
   });
 
   it("throws a useful error for a missing activity", () => {
