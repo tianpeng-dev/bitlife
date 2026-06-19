@@ -35,7 +35,6 @@ export function ActivitiesView({
     <section className="stack">
       <div className="view-heading">
         <h1>{ui(locale, "activitiesTitle")}</h1>
-        <p>{life.pendingEventId ? ui(locale, "activitiesPending") : ui(locale, "activitiesReady")}</p>
       </div>
       {error ? <p className="error-text">{error}</p> : null}
       <div className="activity-list">
