@@ -1,4 +1,5 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, type CSSProperties, type KeyboardEvent } from "react";
+import { EventPanel } from "./components/EventPanel";
 import { StatBar } from "./components/StatBar";
 import { catalog } from "./content/catalog";
 import type { LifeState, Locale, StatKey } from "./domain/types";
@@ -50,22 +51,79 @@ function feedbackText(locale: Locale, entry: FeedbackEntry): string {
   });
 }
 
-function FeedbackPanel({ feedback, locale }: { feedback?: ActionFeedback; locale: Locale }) {
+function feedbackStrength(entry: FeedbackEntry): number {
+  if (entry.type === "stat") return Math.min(100, Math.max(10, Math.abs(entry.delta) * 18));
+  if (entry.type === "cash") return Math.min(100, Math.max(12, Math.abs(entry.delta) / 8));
+  if (entry.type === "relationship") return Math.min(100, Math.max(10, Math.abs(entry.delta) * 18));
+  return 100;
+}
+
+function feedbackTone(entry: FeedbackEntry): "positive" | "negative" | "neutral" {
+  if (entry.type === "stat" || entry.type === "cash" || entry.type === "relationship") {
+    if (entry.delta > 0) return "positive";
+    if (entry.delta < 0) return "negative";
+  }
+  if (entry.type === "death" || entry.type === "disease") return "negative";
+  return "neutral";
+}
+
+function FeedbackPanel({
+  feedback,
+  locale,
+  onDismiss
+}: {
+  feedback?: ActionFeedback;
+  locale: Locale;
+  onDismiss(): void;
+}) {
   if (!feedback) return null;
 
+  const handleKeyDown = (event: KeyboardEvent<HTMLDivElement>) => {
+    if (event.key === "Enter" || event.key === " ") {
+      event.preventDefault();
+      onDismiss();
+    }
+  };
+
   return (
-    <section className="feedback-panel" role="status" aria-live="polite">
-      <strong>{ui(locale, feedback.source === "choice" ? "choiceFeedbackTitle" : "activityFeedbackTitle")}</strong>
-      {feedback.entries.length > 0 ? (
-        <ul>
-          {feedback.entries.map((entry, index) => (
-            <li key={`${entry.type}-${index}`}>{feedbackText(locale, entry)}</li>
-          ))}
-        </ul>
-      ) : (
-        <p>{locale === "zh-CN" ? "没有明显变化。" : "No visible change."}</p>
-      )}
-    </section>
+    <div
+      className="modal-backdrop feedback-backdrop"
+      role="button"
+      tabIndex={0}
+      onClick={onDismiss}
+      onKeyDown={handleKeyDown}
+    >
+      <section
+        className="feedback-panel"
+        role="dialog"
+        aria-live="polite"
+        aria-modal="true"
+        aria-labelledby="feedback-panel-title"
+      >
+        <h2 id="feedback-panel-title">
+          {ui(locale, feedback.source === "choice" ? "choiceFeedbackTitle" : "activityFeedbackTitle")}
+        </h2>
+        {feedback.entries.length > 0 ? (
+          <ul>
+            {feedback.entries.map((entry, index) => (
+              <li key={`${entry.type}-${index}`} data-tone={feedbackTone(entry)}>
+                <span>{feedbackText(locale, entry)}</span>
+                <div
+                  className="effect-meter"
+                  style={{ "--effect-width": `${feedbackStrength(entry)}%` } as CSSProperties}
+                  aria-hidden="true"
+                >
+                  <span />
+                </div>
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p>{ui(locale, "noVisibleChange")}</p>
+        )}
+        <small>{ui(locale, "effectContinue")}</small>
+      </section>
+    </div>
   );
 }
 
@@ -95,6 +153,7 @@ export function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [showStatusDock, setShowStatusDock] = useState(true);
   const [soundEnabled, setSoundEnabled] = useState(false);
+  const [isFeedbackOpen, setIsFeedbackOpen] = useState(false);
   const life = useGameStore((state) => state.life);
   const selectedView = useGameStore((state) => state.selectedView);
   const lastFeedback = useGameStore((state) => state.lastFeedback);
@@ -110,6 +169,12 @@ export function App() {
   useEffect(() => {
     void hydrateActiveLife();
   }, [hydrateActiveLife]);
+
+  useEffect(() => {
+    if (lastFeedback) {
+      setIsFeedbackOpen(true);
+    }
+  }, [lastFeedback]);
 
   const handleStart = () => {
     startNewLife(`life-${Date.now()}`);
@@ -188,7 +253,6 @@ export function App() {
         </header>
 
         <div className="screen">
-          <FeedbackPanel feedback={lastFeedback} locale={locale} />
           {activeView === "life" ? (
             <LifeView
               life={life}
@@ -196,7 +260,6 @@ export function App() {
               locale={locale}
               onStart={handleStart}
               onAgeUp={advanceYear}
-              onChoose={chooseEvent}
             />
           ) : null}
           {activeView === "activities" ? (
@@ -227,6 +290,12 @@ export function App() {
           })}
         </nav>
         {showStatusDock ? <StatusDock life={life} locale={locale} /> : null}
+        {activeView === "life" && life?.pendingEventId ? (
+          <EventPanel eventId={life.pendingEventId} locale={locale} onChoose={chooseEvent} />
+        ) : null}
+        {isFeedbackOpen ? (
+          <FeedbackPanel feedback={lastFeedback} locale={locale} onDismiss={() => setIsFeedbackOpen(false)} />
+        ) : null}
       </div>
     </main>
   );

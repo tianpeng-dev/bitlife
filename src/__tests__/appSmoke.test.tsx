@@ -79,6 +79,28 @@ describe("App", () => {
     expect(screen.getByRole("button", { name: "开始新人生" })).toBeInTheDocument();
   });
 
+  it("shows pending choices and feedback as modals", async () => {
+    storageMocks.loadActiveLife.mockResolvedValue(
+      lifeWith({
+        age: 8,
+        pendingEventId: "school_quiz"
+      })
+    );
+
+    render(<App />);
+
+    const choiceDialog = await screen.findByRole("dialog", { name: "学校" });
+    expect(choiceDialog).toBeInTheDocument();
+    await userEvent.click(within(choiceDialog).getByRole("button", { name: "认真准备" }));
+
+    const feedbackDialog = await screen.findByRole("dialog", { name: "选择影响" });
+    expect(feedbackDialog).toBeInTheDocument();
+    expect(screen.queryByRole("dialog", { name: "学校" })).not.toBeInTheDocument();
+
+    await userEvent.click(feedbackDialog);
+    expect(screen.queryByRole("dialog", { name: "选择影响" })).not.toBeInTheDocument();
+  });
+
   it("hydrates on mount and lets dead lives navigate to read-only tabs", async () => {
     const deadLife = lifeWith({
       age: 82,

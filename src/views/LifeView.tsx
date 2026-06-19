@@ -1,4 +1,3 @@
-import { EventPanel } from "../components/EventPanel";
 import { catalog } from "../content/catalog";
 import type { LifeLogEntry, LifeState, Locale } from "../domain/types";
 import { contentLabel, formatNumber, ui } from "../i18n";
@@ -32,15 +31,13 @@ export function LifeView({
   error,
   locale,
   onStart,
-  onAgeUp,
-  onChoose
+  onAgeUp
 }: {
   life?: LifeState;
   error?: string;
   locale: Locale;
   onStart(): void;
   onAgeUp(): void;
-  onChoose(choiceId: string): void;
 }) {
   if (!life) {
     return (
@@ -92,13 +89,11 @@ export function LifeView({
         </ol>
       </section>
 
-      {life.pendingEventId ? (
-        <EventPanel eventId={life.pendingEventId} locale={locale} onChoose={onChoose} />
-      ) : (
+      {!life.pendingEventId ? (
         <section className="panel empty-state">
           <p>{ui(locale, "noEvent")}</p>
         </section>
-      )}
+      ) : null}
 
       <button
         className="age-button"

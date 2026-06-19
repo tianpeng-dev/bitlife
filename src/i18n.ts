@@ -34,8 +34,17 @@ export type UiKey =
   | "noEvent"
   | "lifeLog"
   | "ageUp"
+  | "eventQuestion"
+  | "effectContinue"
+  | "noVisibleChange"
   | "choiceFeedbackTitle"
   | "activityFeedbackTitle"
+  | "eventFamily"
+  | "eventSchool"
+  | "eventCareer"
+  | "eventHealth"
+  | "eventRelationship"
+  | "eventMisc"
   | "statHappiness"
   | "statHealth"
   | "statSmarts"
@@ -141,8 +150,17 @@ const uiText: Record<Locale, Record<UiKey, string>> = {
     noEvent: "这一年没有未处理事件。准备好就长大一岁。",
     lifeLog: "人生记录",
     ageUp: "年龄+1",
+    eventQuestion: "你会怎么做？",
+    effectContinue: "点击任意处继续",
+    noVisibleChange: "没有明显变化。",
     choiceFeedbackTitle: "选择影响",
     activityFeedbackTitle: "活动影响",
+    eventFamily: "家庭",
+    eventSchool: "学校",
+    eventCareer: "职业",
+    eventHealth: "健康",
+    eventRelationship: "关系",
+    eventMisc: "事件",
     statHappiness: "快乐",
     statHealth: "健康",
     statSmarts: "智力",
@@ -247,8 +265,17 @@ const uiText: Record<Locale, Record<UiKey, string>> = {
     noEvent: "No pending event this year. Age up when you are ready.",
     lifeLog: "Life log",
     ageUp: "Age +1",
+    eventQuestion: "What will you do?",
+    effectContinue: "Tap anywhere to continue",
+    noVisibleChange: "No visible change.",
     choiceFeedbackTitle: "Choice effects",
     activityFeedbackTitle: "Activity effects",
+    eventFamily: "Family",
+    eventSchool: "School",
+    eventCareer: "Career",
+    eventHealth: "Health",
+    eventRelationship: "Relationship",
+    eventMisc: "Event",
     statHappiness: "Happiness",
     statHealth: "Health",
     statSmarts: "Smarts",
