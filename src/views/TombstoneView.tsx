@@ -2,19 +2,20 @@ import { useState } from "react";
 
 import { submitTombstone } from "../api/tombstonesClient";
 import { catalog } from "../content/catalog";
-import type { LifeState } from "../domain/types";
+import type { LifeState, Locale } from "../domain/types";
+import { contentLabel, formatNumber, ui } from "../i18n";
 
-const deathCauseLabels: Record<string, string> = {
-  old_age: "自然老去",
-  low_health: "健康衰竭"
+const deathCauseKeys: Record<string, Parameters<typeof ui>[1]> = {
+  old_age: "causeOldAge",
+  low_health: "causeLowHealth"
 };
 
-function formatTombstoneTag(tag: string) {
+function formatTombstoneTag(tag: string, locale: Locale) {
   const achievement = catalog.achievements.find((item) => item.id === tag);
-  return achievement ? catalog.locales["zh-CN"][achievement.labelKey] : tag;
+  return achievement ? contentLabel(locale, achievement.labelKey) : tag;
 }
 
-export function TombstoneView({ life, onStart }: { life?: LifeState; onStart(): void }) {
+export function TombstoneView({ life, locale, onStart }: { life?: LifeState; locale: Locale; onStart(): void }) {
   const [shareId, setShareId] = useState<string>();
   const [error, setError] = useState<string>();
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -22,10 +23,10 @@ export function TombstoneView({ life, onStart }: { life?: LifeState; onStart(): 
   if (!life?.death) {
     return (
       <section className="panel empty-state tombstone">
-        <h1>墓碑</h1>
-        <p>人生结束后，这里会显示总结。</p>
+        <h1>{ui(locale, "tombstoneTitle")}</h1>
+        <p>{ui(locale, "tombstoneEmpty")}</p>
         <button className="primary-button" type="button" onClick={onStart}>
-          开始新人生
+          {ui(locale, "startLife")}
         </button>
       </section>
     );
@@ -43,7 +44,7 @@ export function TombstoneView({ life, onStart }: { life?: LifeState; onStart(): 
         seed: life.seed,
         ageAtDeath: life.death.ageAtDeath,
         causeOfDeath: life.death.causeOfDeath,
-        summary: catalog.locales["zh-CN"][life.death.summaryKey] ?? life.death.summaryKey,
+        summary: contentLabel(locale, life.death.summaryKey),
         tags: life.death.tags,
         score: life.death.score,
         stats: life.stats,
@@ -54,8 +55,8 @@ export function TombstoneView({ life, onStart }: { life?: LifeState; onStart(): 
       });
       setShareId(result.shareId);
     } catch {
-      setError("提交失败，请稍后重试。");
-      alert("提交失败，请稍后重试。");
+      setError(ui(locale, "submitFailed"));
+      alert(ui(locale, "submitFailed"));
     } finally {
       setIsSubmitting(false);
     }
@@ -65,34 +66,38 @@ export function TombstoneView({ life, onStart }: { life?: LifeState; onStart(): 
     <section className="panel tombstone">
       <span>R.I.P.</span>
       <h1>{life.name}</h1>
-      <p>享年 {life.death.ageAtDeath} 岁</p>
+      <p>{ui(locale, "deathAge", { age: life.death.ageAtDeath })}</p>
       <dl>
         <div>
-          <dt>死因</dt>
-          <dd>{deathCauseLabels[life.death.causeOfDeath] ?? life.death.causeOfDeath}</dd>
+          <dt>{ui(locale, "deathCause")}</dt>
+          <dd>
+            {deathCauseKeys[life.death.causeOfDeath]
+              ? ui(locale, deathCauseKeys[life.death.causeOfDeath])
+              : life.death.causeOfDeath}
+          </dd>
         </div>
         <div>
-          <dt>净资产</dt>
-          <dd>${life.death.netWorth.toLocaleString("zh-CN")}</dd>
+          <dt>{ui(locale, "netWorth")}</dt>
+          <dd>${formatNumber(locale, life.death.netWorth)}</dd>
         </div>
         <div>
-          <dt>得分</dt>
+          <dt>{ui(locale, "score")}</dt>
           <dd>{life.death.score}</dd>
         </div>
       </dl>
       <div className="tag-row">
         {life.death.tags.map((tag) => (
-          <span key={tag}>{formatTombstoneTag(tag)}</span>
+          <span key={tag}>{formatTombstoneTag(tag, locale)}</span>
         ))}
       </div>
-      {shareId ? <p>分享编号：{shareId}</p> : null}
+      {shareId ? <p>{ui(locale, "shareId", { id: shareId })}</p> : null}
       {error ? <p role="alert">{error}</p> : null}
       <div className="button-row">
         <button type="button" disabled={isSubmitting || Boolean(shareId)} onClick={handleSubmit}>
-          {isSubmitting ? "提交中..." : "匿名提交"}
+          {isSubmitting ? ui(locale, "submitting") : ui(locale, "submitAnonymous")}
         </button>
         <button className="primary-button" type="button" onClick={onStart}>
-          开始新人生
+          {ui(locale, "startLife")}
         </button>
       </div>
     </section>

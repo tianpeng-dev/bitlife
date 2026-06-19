@@ -102,6 +102,21 @@ describe("engine", () => {
     expect(result.life.pendingEventId).toBe("family_picnic");
   });
 
+  it("does not present event choices before age six", () => {
+    let life = generateLife({ seed: "early-choice-gate", catalog });
+
+    for (let age = 1; age <= 5; age += 1) {
+      life = advanceYear({ life, catalog }).life;
+      expect(life.age).toBe(age);
+      expect(life.pendingEventId).toBeUndefined();
+    }
+
+    const result = advanceYear({ life, catalog });
+
+    expect(result.life.age).toBe(6);
+    expect(result.life.pendingEventId).toBeDefined();
+  });
+
   it("progresses education and career during age-up", () => {
     let life = { ...generateLife({ seed: "career-progress", catalog }), age: 17, stats: { happiness: 80, health: 80, smarts: 95, looks: 70 } };
 

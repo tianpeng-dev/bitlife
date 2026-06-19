@@ -142,7 +142,7 @@ export function advanceYear({ life, catalog }: { life: LifeState; catalog: GameC
     relationship: clampRelationship(person.relationship + rng.int(-2, 1))
   }));
 
-  if (!next.pendingEventId) {
+  if (!next.pendingEventId && next.age >= 6) {
     const eligibleEvents = catalog.events.filter((event) => {
       const underMax = event.maxAge === undefined || next.age <= event.maxAge;
       return next.age >= event.minAge && underMax;
@@ -181,7 +181,6 @@ export function performActivity({
   activityId: string;
 }): EngineResult {
   if (!life.alive) throw new Error("Cannot perform activities after death");
-  if (life.pendingEventId) throw new Error("Resolve pending event before activities");
 
   const activity = catalog.activities.find((item) => item.id === activityId);
   if (!activity) throw new Error(`Missing activity ${activityId}`);

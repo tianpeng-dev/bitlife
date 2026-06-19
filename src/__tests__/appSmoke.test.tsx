@@ -42,8 +42,13 @@ describe("App", () => {
     render(<App />);
     await waitFor(() => expect(storageMocks.loadActiveLife).toHaveBeenCalledOnce());
 
+    await userEvent.click(screen.getByRole("button", { name: "EN" }));
+    expect(screen.getByRole("button", { name: "Start new life" })).toBeInTheDocument();
+
+    await userEvent.click(screen.getByRole("button", { name: "中文" }));
     await userEvent.click(screen.getByRole("button", { name: "开始新人生" }));
     expect(screen.getByText(/年龄：0/)).toBeInTheDocument();
+    expect(screen.getByLabelText("状态")).toBeInTheDocument();
 
     await userEvent.click(screen.getByRole("button", { name: "年龄\+1" }));
     expect(screen.getByText(/年龄：1/)).toBeInTheDocument();

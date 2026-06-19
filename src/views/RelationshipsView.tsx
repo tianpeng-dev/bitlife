@@ -1,20 +1,21 @@
-import type { LifeState, RelationshipType } from "../domain/types";
+import type { LifeState, Locale, RelationshipType } from "../domain/types";
+import { ui } from "../i18n";
 
-const relationLabels: Record<RelationshipType, string> = {
-  parent: "父母",
-  sibling: "手足",
-  friend: "朋友",
-  lover: "恋人",
-  spouse: "伴侣",
-  child: "孩子"
+const relationLabelKeys: Record<RelationshipType, Parameters<typeof ui>[1]> = {
+  parent: "relationParent",
+  sibling: "relationSibling",
+  friend: "relationFriend",
+  lover: "relationLover",
+  spouse: "relationSpouse",
+  child: "relationChild"
 };
 
-export function RelationshipsView({ life }: { life?: LifeState }) {
+export function RelationshipsView({ life, locale }: { life?: LifeState; locale: Locale }) {
   if (!life) {
     return (
       <section className="panel empty-state">
-        <h1>关系</h1>
-        <p>开始新人生后，你的家人和朋友会出现在这里。</p>
+        <h1>{ui(locale, "relationshipsTitle")}</h1>
+        <p>{ui(locale, "relationshipsEmpty")}</p>
       </section>
     );
   }
@@ -22,21 +23,23 @@ export function RelationshipsView({ life }: { life?: LifeState }) {
   return (
     <section className="stack">
       <div className="view-heading">
-        <h1>关系</h1>
-        <p>亲密度会随事件和活动上下波动。</p>
+        <h1>{ui(locale, "relationshipsTitle")}</h1>
+        <p>{ui(locale, "relationshipsHint")}</p>
       </div>
       {life.relationships.length === 0 ? (
         <section className="panel empty-state">
-          <p>这一生还没有可记录的关系。</p>
+          <p>{ui(locale, "noRelationships")}</p>
         </section>
       ) : (
         <div className="relationship-list">
           {life.relationships.map((person) => (
             <article className="panel relationship-card" key={person.id}>
               <div>
-                <span>{relationLabels[person.relationType]}</span>
+                <span>{ui(locale, relationLabelKeys[person.relationType])}</span>
                 <h2>{person.name}</h2>
-                <p>{person.age}岁 · {person.alive ? "健在" : "已故"}</p>
+                <p>
+                  {ui(locale, "ageStatus", { age: person.age })} · {person.alive ? ui(locale, "alive") : ui(locale, "dead")}
+                </p>
               </div>
               <strong>{person.relationship}</strong>
             </article>

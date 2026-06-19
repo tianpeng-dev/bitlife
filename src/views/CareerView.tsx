@@ -1,48 +1,49 @@
 import { catalog } from "../content/catalog";
-import type { LifeState } from "../domain/types";
+import type { LifeState, Locale } from "../domain/types";
+import { contentLabel, formatNumber, ui } from "../i18n";
 
-const educationLabels: Record<LifeState["education"]["stage"], string> = {
-  none: "未入学",
-  primary: "小学",
-  secondary: "中学",
-  university: "大学",
-  graduated: "已毕业"
+const educationLabelKeys: Record<LifeState["education"]["stage"], Parameters<typeof ui>[1]> = {
+  none: "eduNone",
+  primary: "eduPrimary",
+  secondary: "eduSecondary",
+  university: "eduUniversity",
+  graduated: "eduGraduated"
 };
 
-export function CareerView({ life }: { life?: LifeState }) {
+export function CareerView({ life, locale }: { life?: LifeState; locale: Locale }) {
   if (!life) {
     return (
       <section className="panel empty-state">
-        <h1>职业</h1>
-        <p>开始新人生后，教育和职业履历会在这里更新。</p>
+        <h1>{ui(locale, "careerTitle")}</h1>
+        <p>{ui(locale, "careerEmpty")}</p>
       </section>
     );
   }
 
   const career = catalog.careers.find((item) => item.id === life.career.careerId);
-  const careerTitle = life.career.title ?? (career ? catalog.locales["zh-CN"][career.titleKey] : "暂无职业");
+  const careerTitle = life.career.title ?? (career ? contentLabel(locale, career.titleKey) : ui(locale, "noCareer"));
 
   return (
     <section className="stack">
       <div className="view-heading">
-        <h1>职业</h1>
-        <p>学习、兼职和工作活动会逐步改变职业状态。</p>
+        <h1>{ui(locale, "careerTitle")}</h1>
+        <p>{ui(locale, "careerHint")}</p>
       </div>
       <section className="panel career-grid">
         <article>
-          <span>教育</span>
-          <h2>{educationLabels[life.education.stage]}</h2>
-          <p>已完成 {life.education.yearsCompleted} 年</p>
+          <span>{ui(locale, "education")}</span>
+          <h2>{ui(locale, educationLabelKeys[life.education.stage])}</h2>
+          <p>{ui(locale, "completedYears", { years: life.education.yearsCompleted })}</p>
         </article>
         <article>
-          <span>工作</span>
+          <span>{ui(locale, "work")}</span>
           <h2>{careerTitle}</h2>
-          <p>年薪 ${life.career.salary.toLocaleString("zh-CN")}</p>
+          <p>{ui(locale, "annualSalary", { amount: formatNumber(locale, life.career.salary) })}</p>
         </article>
         <article>
-          <span>表现</span>
+          <span>{ui(locale, "performance")}</span>
           <h2>{life.career.performance}</h2>
-          <p>工作 {life.career.years} 年</p>
+          <p>{ui(locale, "workYears", { years: life.career.years })}</p>
         </article>
       </section>
     </section>

@@ -1,36 +1,28 @@
 import { EventPanel } from "../components/EventPanel";
-import { StatBar } from "../components/StatBar";
 import { catalog } from "../content/catalog";
-import type { LifeLogEntry, LifeState } from "../domain/types";
+import type { LifeLogEntry, LifeState, Locale } from "../domain/types";
+import { contentLabel, formatNumber, ui } from "../i18n";
 
-const statLabels: Array<[keyof LifeState["stats"], string]> = [
-  ["happiness", "快乐"],
-  ["health", "健康"],
-  ["smarts", "智力"],
-  ["looks", "颜值"]
-];
-
-const stageLabels: Record<LifeState["stage"], string> = {
-  early_childhood: "幼年",
-  childhood: "童年",
-  teen: "青少年",
-  adult: "成年",
-  elder: "老年"
+const stageLabelKeys: Record<LifeState["stage"], Parameters<typeof ui>[1]> = {
+  early_childhood: "stageEarlyChildhood",
+  childhood: "stageChildhood",
+  teen: "stageTeen",
+  adult: "stageAdult",
+  elder: "stageElder"
 };
 
-function formatLog(entry: LifeLogEntry): string {
-  const zh = catalog.locales["zh-CN"];
-  const base = zh[entry.messageKey] ?? entry.messageKey;
+function formatLog(entry: LifeLogEntry, locale: Locale): string {
+  const base = contentLabel(locale, entry.messageKey);
   if (entry.messageKey === "log.age_up" && typeof entry.params?.age === "number") {
-    return `${base} 年满 ${entry.params.age} 岁`;
+    return locale === "zh-CN" ? `${base} 年满 ${entry.params.age} 岁` : `${base} Age ${entry.params.age}`;
   }
   if (entry.messageKey === "log.activity" && typeof entry.params?.activityId === "string") {
     const activity = catalog.activities.find((item) => item.id === entry.params?.activityId);
-    return activity ? `${base} ${zh[activity.labelKey]}` : base;
+    return activity ? `${base} ${contentLabel(locale, activity.labelKey)}` : base;
   }
   if (entry.messageKey === "log.choice_resolved" && typeof entry.params?.eventId === "string") {
     const event = catalog.events.find((item) => item.id === entry.params?.eventId);
-    return event ? `${base} ${zh[event.promptKey]}` : base;
+    return event ? `${base} ${contentLabel(locale, event.promptKey)}` : base;
   }
   return base;
 }
@@ -38,12 +30,14 @@ function formatLog(entry: LifeLogEntry): string {
 export function LifeView({
   life,
   error,
+  locale,
   onStart,
   onAgeUp,
   onChoose
 }: {
   life?: LifeState;
   error?: string;
+  locale: Locale;
   onStart(): void;
   onAgeUp(): void;
   onChoose(choiceId: string): void;
@@ -52,14 +46,12 @@ export function LifeView({
     return (
       <section className="hero stack">
         <div className="hero__masthead">
-          <span className="hero__eyebrow">Text Life</span>
-          <h1>把一生装进口袋</h1>
-          <p>
-            从出生开始推进年龄，处理事件、经营关系、选择活动，看看这一次会活成怎样的人。
-          </p>
+          <span className="hero__eyebrow">{ui(locale, "appTitle")}</span>
+          <h1>{ui(locale, "heroTitle")}</h1>
+          <p>{ui(locale, "heroCopy")}</p>
         </div>
         <button className="primary-button" type="button" onClick={onStart}>
-          开始新人生
+          {ui(locale, "startLife")}
         </button>
       </section>
     );
@@ -67,68 +59,59 @@ export function LifeView({
 
   const recentLogs = [...life.log].slice(-5).reverse();
   const country = catalog.countries.find((item) => item.id === life.countryId);
-  const countryName = country ? catalog.locales["zh-CN"][country.nameKey] : life.countryId;
+  const countryName = country ? contentLabel(locale, country.nameKey) : life.countryId;
 
   return (
     <section className="life-view stack">
       <header className="life-card panel">
         <div>
-          <span className="kicker">{life.alive ? "当前人生" : "人生已结束"}</span>
+          <span className="kicker">{life.alive ? ui(locale, "currentLife") : ui(locale, "lifeEnded")}</span>
           <h1>{life.name}</h1>
-          <p>年龄：{life.age}</p>
+          <p>
+            {ui(locale, "ageLabel")}：{life.age}
+          </p>
         </div>
         <div className="tag-row">
           <span>{countryName}</span>
           <span>{life.city}</span>
-          <span>${life.cash.toLocaleString("zh-CN")}</span>
+          <span>${formatNumber(locale, life.cash)}</span>
         </div>
       </header>
 
       {error ? <p className="error-text">{error}</p> : null}
 
-      <section className="panel">
-        <div className="panel-heading">
-          <h2>状态</h2>
-          <span>{stageLabels[life.stage]}</span>
-        </div>
-        <div className="stats-grid">
-          {statLabels.map(([key, label]) => (
-            <StatBar key={key} label={label} value={life.stats[key]} />
-          ))}
-        </div>
-      </section>
-
       {life.pendingEventId ? (
-        <EventPanel eventId={life.pendingEventId} onChoose={onChoose} />
+        <EventPanel eventId={life.pendingEventId} locale={locale} onChoose={onChoose} />
       ) : (
         <section className="panel empty-state">
-          <p>这一年没有未处理事件。准备好就长大一岁。</p>
+          <p>{ui(locale, "noEvent")}</p>
         </section>
       )}
-
-      <section className="panel">
-        <div className="panel-heading">
-          <h2>人生记录</h2>
-          <span>{life.log.length} 条</span>
-        </div>
-        <ol className="log-list">
-          {recentLogs.map((entry) => (
-            <li key={entry.id}>
-              <span>{entry.age}岁</span>
-              <p>{formatLog(entry)}</p>
-            </li>
-          ))}
-        </ol>
-      </section>
 
       <button
         className="age-button"
         type="button"
         onClick={onAgeUp}
         disabled={!life.alive || Boolean(life.pendingEventId)}
+        aria-label={ui(locale, "ageUp")}
       >
-        年龄+1
+        {ui(locale, "ageUp")}
       </button>
+
+      <section className="panel">
+        <div className="panel-heading">
+          <h2>{ui(locale, "lifeLog")}</h2>
+          <span>{life.log.length}</span>
+        </div>
+        <ol className="log-list">
+          {recentLogs.map((entry) => (
+            <li key={entry.id}>
+              <span>{ui(locale, "ageStatus", { age: entry.age })}</span>
+              <p>{formatLog(entry, locale)}</p>
+            </li>
+          ))}
+        </ol>
+      </section>
     </section>
   );
 }

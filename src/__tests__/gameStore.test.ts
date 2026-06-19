@@ -81,6 +81,8 @@ describe("gameStore", () => {
     const updated = useGameStore.getState().life;
     expect(updated?.pendingEventId).toBeUndefined();
     expect(updated?.log.at(-1)?.messageKey).toBe("log.choice_resolved");
+    expect(useGameStore.getState().lastFeedback?.source).toBe("choice");
+    expect(useGameStore.getState().lastFeedback?.entries.length).toBeGreaterThan(0);
     expect(useGameStore.getState().error).toBeUndefined();
     expect(storageMocks.saveActiveLife).toHaveBeenCalledWith(updated);
   });
@@ -94,6 +96,8 @@ describe("gameStore", () => {
     const updated = useGameStore.getState().life;
     expect(updated?.log.at(-1)?.messageKey).toBe("log.activity");
     expect(updated?.stats.happiness).toBeGreaterThanOrEqual(life.stats.happiness);
+    expect(useGameStore.getState().lastFeedback?.source).toBe("activity");
+    expect(useGameStore.getState().lastFeedback?.entries.length).toBeGreaterThan(0);
     expect(useGameStore.getState().error).toBeUndefined();
     expect(storageMocks.saveActiveLife).toHaveBeenCalledWith(updated);
   });
@@ -120,15 +124,16 @@ describe("gameStore", () => {
     expect(storageMocks.saveActiveLife).not.toHaveBeenCalled();
   });
 
-  it("sets an error instead of throwing when an activity is blocked by a pending event", () => {
+  it("performs activities even when an event is pending", () => {
     const life = lifeWith({ pendingEventId: "quiet_year" });
     useGameStore.setState({ life });
 
     expect(() => useGameStore.getState().doActivity("rest")).not.toThrow();
 
-    expect(useGameStore.getState().life).toBe(life);
-    expect(useGameStore.getState().error).toContain("Resolve pending event before activities");
-    expect(storageMocks.saveActiveLife).not.toHaveBeenCalled();
+    expect(useGameStore.getState().life?.pendingEventId).toBe("quiet_year");
+    expect(useGameStore.getState().life?.log.at(-1)?.messageKey).toBe("log.activity");
+    expect(useGameStore.getState().error).toBeUndefined();
+    expect(storageMocks.saveActiveLife).toHaveBeenCalled();
   });
 
   it("sets an error instead of throwing when an activity runs after death", () => {

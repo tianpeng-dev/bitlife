@@ -1,31 +1,32 @@
 import { catalog } from "../content/catalog";
-import type { LifeState } from "../domain/types";
+import type { LifeState, Locale } from "../domain/types";
+import { contentLabel, ui } from "../i18n";
 
-const groupLabels: Record<string, string> = {
-  mind_body: "身心",
-  relationships: "关系",
-  education_career: "学习与职业",
-  health: "健康",
-  leisure: "休闲",
-  risk: "风险"
+const groupLabelKeys: Record<string, Parameters<typeof ui>[1]> = {
+  mind_body: "groupMindBody",
+  relationships: "groupRelationships",
+  education_career: "groupEducationCareer",
+  health: "groupHealth",
+  leisure: "groupLeisure",
+  risk: "groupRisk"
 };
 
 export function ActivitiesView({
   life,
   error,
+  locale,
   onActivity
 }: {
   life?: LifeState;
   error?: string;
+  locale: Locale;
   onActivity(activityId: string): void;
 }) {
-  const zh = catalog.locales["zh-CN"];
-
   if (!life) {
     return (
       <section className="panel empty-state">
-        <h1>活动</h1>
-        <p>先开始一段人生，再安排学习、健康、社交和工作。</p>
+        <h1>{ui(locale, "activitiesTitle")}</h1>
+        <p>{ui(locale, "activitiesEmpty")}</p>
       </section>
     );
   }
@@ -33,16 +34,16 @@ export function ActivitiesView({
   return (
     <section className="stack">
       <div className="view-heading">
-        <h1>活动</h1>
-        <p>{life.pendingEventId ? "先处理当前事件，之后再安排活动。" : "每项活动会改变属性、金钱或关系。"}</p>
+        <h1>{ui(locale, "activitiesTitle")}</h1>
+        <p>{life.pendingEventId ? ui(locale, "activitiesPending") : ui(locale, "activitiesReady")}</p>
       </div>
       {error ? <p className="error-text">{error}</p> : null}
       <div className="activity-list">
         {catalog.activities.map((activity) => {
           const ageLocked =
             life.age < activity.minAge || (activity.maxAge !== undefined && life.age > activity.maxAge);
-          const disabled = !life.alive || Boolean(life.pendingEventId) || ageLocked;
-          const costLabel = activity.cost ? `花费 $${activity.cost}` : "免费";
+          const disabled = !life.alive || ageLocked;
+          const costLabel = activity.cost ? ui(locale, "cost", { amount: activity.cost }) : ui(locale, "free");
 
           return (
             <button
@@ -52,9 +53,9 @@ export function ActivitiesView({
               onClick={() => onActivity(activity.id)}
               disabled={disabled}
             >
-              <span>{groupLabels[activity.group]}</span>
-              <strong>{zh[activity.labelKey]}</strong>
-              <small>{ageLocked ? `${activity.minAge}岁后可用` : costLabel}</small>
+              <span>{ui(locale, groupLabelKeys[activity.group])}</span>
+              <strong>{contentLabel(locale, activity.labelKey)}</strong>
+              <small>{ageLocked ? ui(locale, "availableAt", { age: activity.minAge }) : costLabel}</small>
             </button>
           );
         })}

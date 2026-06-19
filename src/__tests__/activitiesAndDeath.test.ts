@@ -57,12 +57,13 @@ describe("activities and death", () => {
     );
   });
 
-  it("rejects activities while an event is pending", () => {
+  it("allows activities while an event is pending", () => {
     const life = { ...generateLife({ seed: "pending-activity", catalog }), age: 10, pendingEventId: "family_picnic" };
 
-    expect(() => performActivity({ life, catalog, activityId: "study" })).toThrow(
-      "Resolve pending event before activities"
-    );
+    const result = performActivity({ life, catalog, activityId: "study" });
+
+    expect(result.life.pendingEventId).toBe("family_picnic");
+    expect(result.life.stats.smarts).toBeGreaterThan(life.stats.smarts);
   });
 
   it("does not mutate original life when performing an activity", () => {
