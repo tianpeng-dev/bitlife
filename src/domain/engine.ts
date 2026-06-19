@@ -19,6 +19,10 @@ interface EngineResult {
   logs: LifeLogEntry[];
 }
 
+const LOTTERY_JACKPOT_ODDS = 10_000;
+const LOTTERY_JACKPOT_MIN = 250_000;
+const LOTTERY_JACKPOT_MAX = 5_000_000;
+
 function createLog(life: LifeState, messageKey: string, params?: Record<string, string | number>): LifeLogEntry {
   return {
     id: `${life.age}-${messageKey}-${life.log.length + 1}`,
@@ -109,6 +113,23 @@ function addDisease(life: LifeState, diseaseId: string, severity: number): LifeS
     ...life,
     diseases: [...life.diseases, { id: diseaseId, severity, diagnosed: false, yearsActive: 0 }]
   };
+}
+
+function applyLotteryJackpot(life: LifeState, eventId: string, choiceId: string): EngineResult {
+  if (eventId !== "lottery_ad" || choiceId !== "buy") return { life, logs: [] };
+
+  const rng = createRng(`${life.seed}:lottery:${life.age}:${eventId}:${choiceId}:${life.log.length}`);
+  if (rng.int(1, LOTTERY_JACKPOT_ODDS) !== 1) return { life, logs: [] };
+
+  const amount = rng.int(LOTTERY_JACKPOT_MIN, LOTTERY_JACKPOT_MAX);
+  const next = applyEffect(life, {
+    cash: amount,
+    stats: { happiness: 20 },
+    addFlag: "won_lottery_jackpot"
+  });
+  const log = createLog(next, "log.lottery_jackpot", { amount });
+
+  return { life: { ...next, log: [...next.log, log] }, logs: [log] };
 }
 
 function applyButterflyOutcome(
@@ -416,6 +437,8 @@ export function resolveEventChoice({
   next.pendingEventId = undefined;
   const log = createLog(next, "log.choice_resolved", { eventId: event.id, choiceId });
   next.log = [...next.log, log];
+  const jackpotResult = applyLotteryJackpot(next, event.id, choiceId);
+  next = jackpotResult.life;
   next = settleDeath(next, catalog, "low_health");
   next = scheduleButterflyConsequences({
     life: next,
@@ -424,5 +447,5 @@ export function resolveEventChoice({
     choiceId,
     risky: choiceLooksRisky(choice.id, choice.effects)
   });
-  return { life: next, logs: [log] };
+  return { life: next, logs: [log, ...jackpotResult.logs] };
 }

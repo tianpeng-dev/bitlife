@@ -27,6 +27,39 @@ describe("engine", () => {
     expect(result.logs.some((entry) => entry.messageKey === "log.choice_resolved")).toBe(true);
   });
 
+  it("usually only charges the lottery ticket cost", () => {
+    const life = {
+      ...generateLife({ seed: "ordinary-lottery", catalog }),
+      age: 18,
+      cash: 100,
+      pendingEventId: "lottery_ad"
+    };
+
+    const result = resolveEventChoice({ life, catalog, choiceId: "buy" });
+
+    expect(result.life.cash).toBe(80);
+    expect(result.life.flags).toContain("bought_lottery");
+    expect(result.life.flags).not.toContain("won_lottery_jackpot");
+    expect(result.logs.some((entry) => entry.messageKey === "log.lottery_jackpot")).toBe(false);
+  });
+
+  it("can win the lottery at extremely low deterministic odds", () => {
+    const life = {
+      ...generateLife({ seed: "lottery-winner-15743", catalog }),
+      age: 18,
+      cash: 100,
+      pendingEventId: "lottery_ad"
+    };
+
+    const result = resolveEventChoice({ life, catalog, choiceId: "buy" });
+
+    expect(result.life.cash).toBeGreaterThanOrEqual(250_080);
+    expect(result.life.flags).toContain("bought_lottery");
+    expect(result.life.flags).toContain("won_lottery_jackpot");
+    expect(result.logs.at(-1)?.messageKey).toBe("log.lottery_jackpot");
+    expect(result.life.log.at(-1)?.messageKey).toBe("log.lottery_jackpot");
+  });
+
   it("schedules hidden future consequences for risky choices", () => {
     const life = {
       ...generateLife({ seed: "risky-butterfly", catalog }),

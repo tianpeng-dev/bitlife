@@ -29,6 +29,9 @@ function formatLog(entry: LifeLogEntry, locale: Locale): string {
     const event = catalog.events.find((item) => item.id === entry.params?.eventId);
     return event ? `${base} ${contentLabel(locale, event.promptKey)}` : base;
   }
+  if (entry.messageKey === "log.lottery_jackpot" && typeof entry.params?.amount === "number") {
+    return `${base} $${formatNumber(locale, entry.params.amount)}`;
+  }
   return base;
 }
 

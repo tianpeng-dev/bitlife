@@ -11,6 +11,7 @@ export const locales = {
     "log.age_up": "你又长大了一岁。",
     "log.choice_resolved": "你做出了选择。",
     "log.activity": "你进行了一项活动。",
+    "log.lottery_jackpot": "你中了彩票大奖。",
     "log.butterfly.lucky_break": "早年的一个决定突然带来了好运。",
     "log.butterfly.injury": "之前埋下的小麻烦变成了一次受伤。",
     "log.butterfly.reputation": "过去的选择改变了别人看你的方式。",

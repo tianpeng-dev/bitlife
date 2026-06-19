@@ -89,6 +89,7 @@ describe("content catalog", () => {
       "log.age_up",
       "log.choice_resolved",
       "log.activity",
+      "log.lottery_jackpot",
       "death.summary"
     ]);
   });

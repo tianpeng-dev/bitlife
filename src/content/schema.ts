@@ -99,6 +99,7 @@ export const requiredGeneratedLocaleKeys = [
   "log.age_up",
   "log.choice_resolved",
   "log.activity",
+  "log.lottery_jackpot",
   "death.summary"
 ] as const;
 
