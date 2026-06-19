@@ -55,14 +55,12 @@ export function LifeView({
   error,
   locale,
   onStart,
-  onAgeUp,
   feedback
 }: {
   life?: LifeState;
   error?: string;
   locale: Locale;
   onStart(): void;
-  onAgeUp(): void;
   feedback?: ActionFeedback;
 }) {
   if (!life) {
@@ -137,16 +135,6 @@ export function LifeView({
           <p>{ui(locale, "noEvent")}</p>
         </section>
       ) : null}
-
-      <button
-        className="age-button"
-        type="button"
-        onClick={onAgeUp}
-        disabled={!life.alive || Boolean(life.pendingEventId)}
-        aria-label={ui(locale, "ageUp")}
-      >
-        {ui(locale, "ageUp")}
-      </button>
     </section>
   );
 }

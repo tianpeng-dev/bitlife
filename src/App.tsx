@@ -11,12 +11,11 @@ import { LifeView } from "./views/LifeView";
 import { RelationshipsView } from "./views/RelationshipsView";
 import { TombstoneView } from "./views/TombstoneView";
 
-const navItems: Array<{ view: SelectedView; labelKey: Parameters<typeof ui>[1] }> = [
-  { view: "life", labelKey: "navLife" },
-  { view: "activities", labelKey: "navActivities" },
-  { view: "relationships", labelKey: "navRelationships" },
-  { view: "career", labelKey: "navCareer" },
-  { view: "leaderboard", labelKey: "navLeaderboard" }
+const navItems: Array<{ icon: string; view: SelectedView; labelKey: Parameters<typeof ui>[1] }> = [
+  { icon: "◒", view: "career", labelKey: "navCareer" },
+  { icon: "⌂", view: "leaderboard", labelKey: "navLeaderboard" },
+  { icon: "♥", view: "relationships", labelKey: "navRelationships" },
+  { icon: "…", view: "activities", labelKey: "navActivities" }
 ];
 
 const statLabelKeys: Record<StatKey, Parameters<typeof ui>[1]> = {
@@ -78,8 +77,18 @@ export function App() {
     setIsMenuOpen(false);
   };
 
+  const handleAgeUp = () => {
+    setIsMenuOpen(false);
+    if (life?.death) {
+      setView("tombstone");
+      return;
+    }
+    advanceYear();
+  };
+
   const activeView: SelectedView =
     life?.death && (selectedView === "life" || selectedView === "tombstone") ? "tombstone" : selectedView;
+  const centerActionLabel = life?.death ? ui(locale, "navTombstone") : ui(locale, "ageUp");
 
   return (
     <main className="app-shell">
@@ -151,7 +160,6 @@ export function App() {
               error={error}
               locale={locale}
               onStart={handleStart}
-              onAgeUp={advanceYear}
               feedback={lastFeedback}
             />
           ) : null}
@@ -164,20 +172,48 @@ export function App() {
           {activeView === "leaderboard" ? <LeaderboardView locale={locale} /> : null}
         </div>
 
-        <nav className="bottom-nav" aria-label="主菜单">
-          {navItems.map((item) => {
+        <nav className="bottom-nav" aria-label="底部导航">
+          {navItems.slice(0, 2).map((item) => {
             const isCurrent = activeView === item.view || (activeView === "tombstone" && item.view === "life");
             const nextView = life?.death && item.view === "life" ? "tombstone" : item.view;
 
             return (
               <button
                 key={item.view}
-                className={isCurrent ? "active" : undefined}
+                className={`nav-item${isCurrent ? " active" : ""}`}
                 type="button"
                 onClick={() => setView(nextView)}
                 aria-current={isCurrent ? "page" : undefined}
               >
-                {life?.death && item.view === "life" ? ui(locale, "navTombstone") : ui(locale, item.labelKey)}
+                <span aria-hidden="true">{item.icon}</span>
+                <small>{life?.death && item.view === "life" ? ui(locale, "navTombstone") : ui(locale, item.labelKey)}</small>
+              </button>
+            );
+          })}
+          <button
+            className="age-nav-button"
+            type="button"
+            onClick={handleAgeUp}
+            disabled={!life || (life.alive && Boolean(life.pendingEventId))}
+            aria-label={centerActionLabel}
+          >
+            <span aria-hidden="true">+</span>
+            <strong>{life?.death ? ui(locale, "navTombstone") : ui(locale, "ageShort")}</strong>
+          </button>
+          {navItems.slice(2).map((item) => {
+            const isCurrent = activeView === item.view || (activeView === "tombstone" && item.view === "life");
+            const nextView = life?.death && item.view === "life" ? "tombstone" : item.view;
+
+            return (
+              <button
+                key={item.view}
+                className={`nav-item${isCurrent ? " active" : ""}`}
+                type="button"
+                onClick={() => setView(nextView)}
+                aria-current={isCurrent ? "page" : undefined}
+              >
+                <span aria-hidden="true">{item.icon}</span>
+                <small>{life?.death && item.view === "life" ? ui(locale, "navTombstone") : ui(locale, item.labelKey)}</small>
               </button>
             );
           })}

@@ -34,6 +34,7 @@ export type UiKey =
   | "noEvent"
   | "lifeLog"
   | "ageUp"
+  | "ageShort"
   | "eventQuestion"
   | "noVisibleChange"
   | "choiceFeedbackTitle"
@@ -149,6 +150,7 @@ const uiText: Record<Locale, Record<UiKey, string>> = {
     noEvent: "这一年没有未处理事件。准备好就长大一岁。",
     lifeLog: "人生记录",
     ageUp: "年龄+1",
+    ageShort: "Age",
     eventQuestion: "你会怎么做？",
     noVisibleChange: "没有明显变化。",
     choiceFeedbackTitle: "选择影响",
@@ -263,6 +265,7 @@ const uiText: Record<Locale, Record<UiKey, string>> = {
     noEvent: "No pending event this year. Age up when you are ready.",
     lifeLog: "Life log",
     ageUp: "Age +1",
+    ageShort: "Age",
     eventQuestion: "What will you do?",
     noVisibleChange: "No visible change.",
     choiceFeedbackTitle: "Choice effects",
