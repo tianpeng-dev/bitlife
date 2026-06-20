@@ -1,7 +1,14 @@
 import { catalog } from "../content/catalog";
 import { generateLife } from "../domain/lifeGenerator";
 import { ensureP1State } from "../domain/p1/defaultState";
-import { adoptChild, proposeMarriage, startDating, startPregnancy, tickRomanceFamily } from "../domain/p1/romanceFamily";
+import {
+  adoptChild,
+  divorcePartner,
+  proposeMarriage,
+  startDating,
+  startPregnancy,
+  tickRomanceFamily
+} from "../domain/p1/romanceFamily";
 
 describe("P1 romance and family", () => {
   it("creates a lover and can turn them into a spouse", () => {
@@ -18,6 +25,12 @@ describe("P1 romance and family", () => {
     const dating = startDating({ life, catalog }).life;
 
     expect(() => startDating({ life: dating, catalog })).toThrow("relationship.partner_exists");
+  });
+
+  it("startDating rejects when under age 16", () => {
+    const life = ensureP1State({ ...generateLife({ seed: "too-young-date", catalog }), age: 15, cash: 10000 });
+
+    expect(() => startDating({ life, catalog })).toThrow("activity.too_young");
   });
 
   it("keeps one spouse and clears other active lovers on marriage", () => {
@@ -58,6 +71,33 @@ describe("P1 romance and family", () => {
 
     expect(() => proposeMarriage({ life: importedState, catalog })).toThrow("romance.already_married");
     expect(importedState.relationships.filter((person) => person.alive && person.relationType === "spouse")).toHaveLength(1);
+  });
+
+  it("divorces an active spouse into a friend and charges cash", () => {
+    const life = ensureP1State({ ...generateLife({ seed: "divorce", catalog }), age: 30, cash: 10000 });
+    const married = proposeMarriage({ life: startDating({ life, catalog }).life, catalog }).life;
+    const spouse = married.relationships.find((person) => person.relationType === "spouse");
+    expect(spouse).toBeDefined();
+
+    const result = divorcePartner({ life: married, catalog });
+    const formerSpouse = result.life.relationships.find((person) => person.id === spouse!.id);
+
+    expect(formerSpouse).toMatchObject({
+      relationType: "friend",
+      relationship: spouse!.relationship - 25
+    });
+    expect(result.life.cash).toBe(married.cash - 2500);
+    expect(result.logs).toHaveLength(1);
+    expect(result.logs[0]).toMatchObject({
+      messageKey: "p1.log.romance.divorce",
+      params: { partnerName: spouse!.name, cost: 2500 }
+    });
+  });
+
+  it("divorcePartner rejects when no spouse exists", () => {
+    const life = ensureP1State({ ...generateLife({ seed: "divorce-no-spouse", catalog }), age: 30, cash: 10000 });
+
+    expect(() => divorcePartner({ life, catalog })).toThrow("romance.no_spouse");
   });
 
   it("can progress pregnancy into a child relationship", () => {

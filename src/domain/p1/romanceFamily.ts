@@ -36,6 +36,7 @@ function withoutPregnancyFlags(flags: string[]): string[] {
 
 export function startDating({ life }: { life: LifeState; catalog: GameCatalog }) {
   const ready = ensureP1State(life);
+  if (ready.age < 16) throw new Error("activity.too_young");
   if (ready.relationships.some((person) => person.alive && (person.relationType === "lover" || person.relationType === "spouse"))) {
     throw new Error("relationship.partner_exists");
   }
@@ -70,6 +71,26 @@ export function proposeMarriage({ life, catalog }: { life: LifeState; catalog: G
   });
   const next = { ...ready, cash: ready.cash - cost, relationships };
   const entry = log(next, "p1.log.romance.marriage", { personId: lover.id, cost });
+  return { life: { ...next, log: [...next.log, entry] }, logs: [entry] };
+}
+
+export function divorcePartner({ life }: { life: LifeState; catalog: GameCatalog }) {
+  const ready = ensureP1State(life);
+  const spouse = ready.relationships.find((person) => person.alive && person.relationType === "spouse");
+  if (!spouse) throw new Error("romance.no_spouse");
+
+  const cost = Math.min(Math.max(0, ready.cash), 2500);
+  const relationships = ready.relationships.map((person) =>
+    person.id === spouse.id
+      ? {
+          ...person,
+          relationType: "friend" as const,
+          relationship: clampRelationship(person.relationship - 25)
+        }
+      : person
+  );
+  const next = { ...ready, cash: ready.cash - cost, relationships };
+  const entry = log(next, "p1.log.romance.divorce", { partnerName: spouse.name, cost });
   return { life: { ...next, log: [...next.log, entry] }, logs: [entry] };
 }
 

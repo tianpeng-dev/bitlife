@@ -50,6 +50,23 @@ describe("P1 pets", () => {
     expect(ticked.pets[0].age).toBe(adopted.pets[0].age + 1);
   });
 
+  it("reduces living pet health each tick", () => {
+    const adopted = adoptPet({
+      life: ensureP1State({ ...generateLife({ seed: "pet-health-tick", catalog }), age: 18, cash: 5000 }),
+      catalog,
+      petId: "p1_pet_cat"
+    }).life;
+    const healthyPetLife = { ...adopted, pets: [{ ...adopted.pets[0], age: 1, health: 80, alive: true }] };
+    const ticked = tickPets({ life: healthyPetLife, catalog }).life;
+
+    expect(ticked.pets[0]).toMatchObject({
+      age: 2,
+      alive: true
+    });
+    expect(ticked.pets[0].health).toBeLessThan(80);
+    expect(ticked.pets[0].health).toBeGreaterThanOrEqual(0);
+  });
+
   it("marks a pet dead after its lifespan", () => {
     const adopted = adoptPet({
       life: ensureP1State({ ...generateLife({ seed: "pet-lifespan", catalog }), age: 18, cash: 5000 }),
@@ -57,10 +74,41 @@ describe("P1 pets", () => {
       petId: "p1_pet_cat"
     }).life;
     const lifespan = catalog.p1.pets.find((pet) => pet.id === "p1_pet_cat")!.lifespan;
-    const agingPetLife = { ...adopted, pets: [{ ...adopted.pets[0], age: lifespan }] };
+    const agingPetLife = { ...adopted, pets: [{ ...adopted.pets[0], age: lifespan - 1 }] };
     const ticked = tickPets({ life: agingPetLife, catalog }).life;
 
-    expect(ticked.pets[0].age).toBe(lifespan + 1);
+    expect(ticked.pets[0].age).toBe(lifespan);
     expect(ticked.pets[0].alive).toBe(false);
+    expect(ticked.pets[0].health).toBe(0);
+  });
+
+  it("marks a pet dead when health reaches zero", () => {
+    const adopted = adoptPet({
+      life: ensureP1State({ ...generateLife({ seed: "pet-health-zero", catalog }), age: 18, cash: 5000 }),
+      catalog,
+      petId: "p1_pet_cat"
+    }).life;
+    const fragilePetLife = { ...adopted, pets: [{ ...adopted.pets[0], age: 1, health: 3, alive: true }] };
+    const ticked = tickPets({ life: fragilePetLife, catalog }).life;
+
+    expect(ticked.pets[0]).toMatchObject({
+      alive: false,
+      health: 0
+    });
+  });
+
+  it("keeps dead pets dead with zero health on later ticks", () => {
+    const adopted = adoptPet({
+      life: ensureP1State({ ...generateLife({ seed: "pet-dead-stays-dead", catalog }), age: 18, cash: 5000 }),
+      catalog,
+      petId: "p1_pet_cat"
+    }).life;
+    const deadPetLife = { ...adopted, pets: [{ ...adopted.pets[0], alive: false, health: 40 }] };
+    const ticked = tickPets({ life: deadPetLife, catalog }).life;
+
+    expect(ticked.pets[0]).toMatchObject({
+      alive: false,
+      health: 0
+    });
   });
 });

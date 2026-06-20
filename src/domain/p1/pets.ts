@@ -54,11 +54,12 @@ export function careForPet({ life, petInstanceId }: { life: LifeState; petInstan
 export function tickPets({ life, catalog }: { life: LifeState; catalog: GameCatalog }) {
   const ready = ensureP1State(life);
   const pets = ready.pets.map((pet) => {
-    if (!pet.alive) return pet;
+    if (!pet.alive) return { ...pet, health: 0 };
     const config = catalog.p1.pets.find((candidate) => candidate.id === pet.catalogId);
     const age = pet.age + 1;
-    const alive = config ? age <= config.lifespan : pet.alive;
-    return { ...pet, age, alive };
+    const health = clampStat(pet.health - 5);
+    const alive = health > 0 && (config ? age < config.lifespan : pet.alive);
+    return { ...pet, age, health: alive ? health : 0, alive };
   });
   return { life: { ...ready, pets }, logs: [] as LifeLogEntry[] };
 }
