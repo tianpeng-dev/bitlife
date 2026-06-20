@@ -349,9 +349,11 @@ export function advanceYear({ life, catalog }: { life: LifeState; catalog: GameC
   next = consequenceResult.life;
   logs.push(...consequenceResult.logs);
 
-  const p1TickResult = tickP1Year({ life: next, catalog });
-  next = p1TickResult.life;
-  logs.push(...p1TickResult.logs);
+  if (next.alive) {
+    const p1TickResult = tickP1Year({ life: next, catalog });
+    next = p1TickResult.life;
+    logs.push(...p1TickResult.logs);
+  }
 
   if (next.alive && !next.pendingEventId && next.age >= 6) {
     const eligibleEvents = catalog.events.filter((event) => {

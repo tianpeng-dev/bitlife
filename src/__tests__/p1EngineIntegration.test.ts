@@ -52,4 +52,38 @@ describe("P1 engine integration", () => {
 
     expect(() => performActivity({ life, catalog, activityId: "exercise" })).toThrow(/prison.normal_activity_denied/);
   });
+
+  it("does not run P1 prison ticks after a fatal butterfly consequence", () => {
+    const life = ensureP1State({
+      ...generateLife({ seed: "p1-engine-fatal-prison-tick", catalog }),
+      alive: true,
+      age: 30,
+      pendingEventId: undefined,
+      prison: {
+        inPrison: true,
+        sentenceYears: 5,
+        remainingYears: 3,
+        securityLevel: "minimum",
+        behavior: 50,
+        respect: 20
+      },
+      pendingConsequences: [
+        {
+          id: "fatal-while-imprisoned",
+          source: "activity",
+          originId: "night_out",
+          choiceId: "reckless",
+          triggerAge: 31,
+          outcome: "fatal_accident",
+          intensity: 5
+        }
+      ]
+    });
+
+    const result = advanceYear({ life, catalog });
+
+    expect(result.life.alive).toBe(false);
+    expect(result.logs.map((entry) => entry.messageKey)).not.toContain("p1.log.prison.year");
+    expect(ensureP1State(result.life).prison.remainingYears).toBe(3);
+  });
 });
