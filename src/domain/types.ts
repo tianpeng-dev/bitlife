@@ -67,6 +67,74 @@ export interface CareerState {
   years: number;
 }
 
+export interface OwnedAsset {
+  id: string;
+  catalogId: string;
+  nameKey: string;
+  type: "home" | "vehicle" | "jewelry" | "instrument" | "boat" | "plane" | "valuable";
+  purchasePrice: number;
+  currentValue: number;
+  condition: number;
+  debt: number;
+  acquiredAtAge: number;
+  stolen: boolean;
+}
+
+export interface LegalRecordEntry {
+  id: string;
+  crimeId: string;
+  age: number;
+  convicted: boolean;
+  sentenceYears: number;
+}
+
+export interface LegalState {
+  wantedLevel: number;
+  criminalRecord: LegalRecordEntry[];
+}
+
+export interface PrisonState {
+  inPrison: boolean;
+  sentenceYears: number;
+  remainingYears: number;
+  securityLevel: "minimum" | "medium" | "maximum";
+  behavior: number;
+  respect: number;
+}
+
+export interface FameState {
+  source?: string;
+  score: number;
+  publicSentiment: number;
+}
+
+export interface SocialAccountState {
+  id: string;
+  platformId: string;
+  followers: number;
+  verified: boolean;
+  monetized: boolean;
+  banned: boolean;
+}
+
+export interface PetState {
+  id: string;
+  catalogId: string;
+  name: string;
+  age: number;
+  health: number;
+  relationship: number;
+  alive: boolean;
+}
+
+export interface MigrationRecord {
+  age: number;
+  fromCountryId: string;
+  toCountryId: string;
+  method: "travel" | "legal_emigration" | "illegal_emigration" | "deportation";
+  outcome: "approved" | "rejected" | "completed" | "deported";
+}
+
 export interface LifeState {
   id: string;
   seed: string;
@@ -86,6 +154,14 @@ export interface LifeState {
   flags: string[];
   freeActivitiesCompletedThisYear?: string[];
   pendingConsequences?: PendingConsequence[];
+  saveVersion?: number;
+  assets?: { items: OwnedAsset[] };
+  legal?: LegalState;
+  prison?: PrisonState;
+  fame?: FameState;
+  socialAccounts?: SocialAccountState[];
+  pets?: PetState[];
+  migrationHistory?: MigrationRecord[];
   log: LifeLogEntry[];
   pendingEventId?: string;
   death?: DeathSummary;
