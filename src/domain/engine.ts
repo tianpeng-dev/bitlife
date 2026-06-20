@@ -2,6 +2,9 @@ import type { GameCatalog } from "../content/schema";
 import { clampRelationship, clampStat } from "./clamp";
 import { applyEffect } from "./effects";
 import { stageForAge } from "./lifeGenerator";
+import { ensureP1State } from "./p1/defaultState";
+import { dispatchP1Activity, isP1Activity } from "./p1/dispatch";
+import { tickP1Year } from "./p1/tick";
 import { createRng, type Rng } from "./rng";
 import { buildDeathSummary } from "./scoring";
 import type {
@@ -313,9 +316,10 @@ function treatDiseases(life: LifeState, catalog: GameCatalog, activityId: string
 export function advanceYear({ life, catalog }: { life: LifeState; catalog: GameCatalog }): EngineResult {
   if (!life.alive) return { life, logs: [] };
 
+  const ready = ensureP1State(life);
   const rng = createRng(`${life.seed}:age:${life.age + 1}`);
   const logs: LifeLogEntry[] = [];
-  let next: LifeState = structuredClone(life);
+  let next: LifeState = structuredClone(ready);
   next.age += 1;
   next.stage = stageForAge(next.age);
   next.freeActivitiesCompletedThisYear = [];
@@ -344,6 +348,10 @@ export function advanceYear({ life, catalog }: { life: LifeState; catalog: GameC
   const consequenceResult = applyDueButterflyConsequences(next, catalog);
   next = consequenceResult.life;
   logs.push(...consequenceResult.logs);
+
+  const p1TickResult = tickP1Year({ life: next, catalog });
+  next = p1TickResult.life;
+  logs.push(...p1TickResult.logs);
 
   if (next.alive && !next.pendingEventId && next.age >= 6) {
     const eligibleEvents = catalog.events.filter((event) => {
@@ -382,6 +390,14 @@ export function performActivity({
   activityId: string;
 }): EngineResult {
   if (!life.alive) throw new Error("Cannot perform activities after death");
+
+  if (isP1Activity(activityId)) {
+    return dispatchP1Activity({ life, catalog, activityId });
+  }
+
+  if (life.prison?.inPrison) {
+    throw new Error("prison.normal_activity_denied");
+  }
 
   const activity = catalog.activities.find((item) => item.id === activityId);
   if (!activity) throw new Error(`Missing activity ${activityId}`);
