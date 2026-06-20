@@ -35,6 +35,7 @@ export function careForPet({ life, petInstanceId }: { life: LifeState; petInstan
   const ready = ensureP1State(life);
   const pet = ready.pets.find((candidate) => candidate.id === petInstanceId);
   if (!pet) throw new Error(`pet.instance_missing:${petInstanceId}`);
+  if (!pet.alive) throw new Error("pet.not_alive");
 
   const pets = ready.pets.map((candidate) =>
     candidate.id === petInstanceId

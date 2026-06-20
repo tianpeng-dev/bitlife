@@ -37,7 +37,7 @@ function withoutPregnancyFlags(flags: string[]): string[] {
 export function startDating({ life }: { life: LifeState; catalog: GameCatalog }) {
   const ready = ensureP1State(life);
   if (ready.relationships.some((person) => person.alive && (person.relationType === "lover" || person.relationType === "spouse"))) {
-    return { life: ready, logs: [] as LifeLogEntry[] };
+    throw new Error("relationship.partner_exists");
   }
 
   const partnerAge = Math.max(ready.age - 2, 13);
@@ -56,9 +56,15 @@ export function proposeMarriage({ life, catalog }: { life: LifeState; catalog: G
   if (!lover) throw new Error("relationship.lover_missing");
 
   const cost = Math.min(1000, Math.max(0, ready.cash));
-  const relationships = ready.relationships.map((person) =>
-    person.id === lover.id ? { ...person, relationType: "spouse" as const, relationship: clampRelationship(person.relationship + 10) } : person
-  );
+  const relationships = ready.relationships.map((person) => {
+    if (person.id === lover.id) {
+      return { ...person, relationType: "spouse" as const, relationship: clampRelationship(person.relationship + 10) };
+    }
+    if (person.alive && person.relationType === "lover") {
+      return { ...person, relationType: "friend" as const, relationship: clampRelationship(person.relationship - 10) };
+    }
+    return person;
+  });
   const next = { ...ready, cash: ready.cash - cost, relationships };
   const entry = log(next, "p1.log.romance.marriage", { personId: lover.id, cost });
   return { life: { ...next, log: [...next.log, entry] }, logs: [entry] };
@@ -69,7 +75,7 @@ export function startPregnancy({ life }: { life: LifeState; catalog: GameCatalog
   if (!ready.relationships.some((person) => person.alive && person.relationType === "spouse")) {
     throw new Error("relationship.spouse_missing");
   }
-  if (ready.flags.includes("p1_pregnant")) return { life: ready, logs: [] as LifeLogEntry[] };
+  if (ready.flags.includes("p1_pregnant")) throw new Error("family.already_pregnant");
 
   const flags = [...withoutPregnancyFlags(ready.flags), "p1_pregnant", `p1_pregnancy_started_age_${ready.age}`];
   const next = { ...ready, flags };
