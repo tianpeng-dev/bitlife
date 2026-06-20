@@ -1,5 +1,6 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import { pathToFileURL } from "node:url";
 import { extractReferenceOutline } from "./extract";
 import { p1ReferencePages } from "./referencePages";
 
@@ -23,7 +24,7 @@ export function buildCoverageManifest(root = process.cwd()): CoverageManifest {
   };
 }
 
-if (import.meta.url === `file://${process.argv[1]}`) {
+if (import.meta.url === pathToFileURL(process.argv[1]).href) {
   const manifest = buildCoverageManifest();
   writeFileSync("src/content/p1/generated/coverage.manifest.json", `${JSON.stringify(manifest, null, 2)}\n`);
 }

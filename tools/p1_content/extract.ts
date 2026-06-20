@@ -15,7 +15,7 @@ export function extractReferenceOutline(text: string): ReferenceOutline {
       continue;
     }
 
-    const listMatch = line.match(/^(?:\*|#|-)\s+(.+)$/);
+    const listMatch = line.match(/^[*#-]+\s*(.+)$/);
     if (listMatch) {
       items.push(listMatch[1].replace(/\[\[|\]\]/g, "").trim());
     }

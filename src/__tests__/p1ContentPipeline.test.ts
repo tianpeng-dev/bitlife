@@ -29,6 +29,14 @@ describe("P1 content generation pipeline", () => {
     expect(outline.items).toEqual(["Apartment", "House", "Car"]);
   });
 
+  it("extracts nested wiki list lines with optional marker spacing", () => {
+    const outline = extractReferenceOutline(
+      "*Thai Ridgeback\n** Divorce event\n##There is a hearing\n- Local travel\n",
+    );
+
+    expect(outline.items).toEqual(["Thai Ridgeback", "Divorce event", "There is a hearing", "Local travel"]);
+  });
+
   it("flags forbidden visible expressions before generated content ships", () => {
     expect(scanForbiddenSimilarity("A safe generated phrase")).toEqual([]);
     expect(scanForbiddenSimilarity("This mentions BitLife Marketplace")).toContain("BitLife");

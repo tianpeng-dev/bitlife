@@ -12,3 +12,4 @@ src/**/*.log
 tools/__pycache__/
 *.tsbuildinfo
 .worktrees/
+src/content/p1/generated/coverage.manifest.json
