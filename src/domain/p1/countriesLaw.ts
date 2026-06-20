@@ -9,7 +9,11 @@ export type LawDenialReason =
   | undefined;
 
 export function countryLawFor(life: LifeState, catalog: GameCatalog) {
-  return catalog.p1.countryLaw.find((law) => law.countryId === life.countryId) ?? catalog.p1.countryLaw[0];
+  const law = catalog.p1.countryLaw.find((candidate) => candidate.countryId === life.countryId);
+  if (!law) {
+    throw new Error(`Missing P1 country law for ${life.countryId}`);
+  }
+  return law;
 }
 
 export function activityDeniedByLaw(life: LifeState, catalog: GameCatalog, check: LawCheck): LawDenialReason {
