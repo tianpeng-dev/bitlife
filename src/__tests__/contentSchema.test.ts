@@ -134,4 +134,30 @@ describe("content catalog", () => {
 
     expect(() => validateCatalog(invalid)).toThrow(/Missing en-US country locale keys: country\.us/);
   });
+
+  it("rejects merged catalogs with a country missing P1 country law", () => {
+    const invalid = cloneCatalog();
+    invalid.countries.push({
+      id: "qa_missing_law",
+      nameKey: "country.qa_missing_law",
+      cities: ["Test City"],
+      schoolStartAge: 6,
+      adultAge: 18,
+      healthcareCostMultiplier: 1
+    });
+    invalid.locales["zh-CN"]["country.qa_missing_law"] = "测试国";
+    invalid.locales["en-US"]["country.qa_missing_law"] = "Test Country";
+
+    expect(() => validateCatalog(invalid)).toThrow(/Missing P1 country law for countries: qa_missing_law/);
+  });
+
+  it("rejects merged catalogs with P1 country law for a removed country", () => {
+    const invalid = cloneCatalog();
+    const removedCountryId = invalid.countries[0].id;
+    invalid.countries = invalid.countries.filter((country) => country.id !== removedCountryId);
+
+    expect(() => validateCatalog(invalid)).toThrow(
+      new RegExp(`P1 country law references missing countries: ${removedCountryId}`)
+    );
+  });
 });

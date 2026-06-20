@@ -57,4 +57,11 @@ describe("P1 catalog validation", () => {
 
     expect(() => validateP1Catalog(invalid)).toThrow(/Invalid generated P1 source/);
   });
+
+  it("rejects generated P1 sources from the wrong collection", () => {
+    const invalid = structuredClone(p1Catalog);
+    invalid.prisonActivities[0].source = "generated:p1:assets";
+
+    expect(() => validateP1Catalog(invalid)).toThrow(/Invalid generated P1 source for prison activity/);
+  });
 });

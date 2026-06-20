@@ -1,4 +1,3 @@
-import { countries } from "../countries";
 import { p1CatalogSchema, type P1ActionConfig, type P1Catalog } from "./schema";
 
 const forbiddenExpressions = ["BitLife", "God Mode", "Bitlife Marketplace"] as const;
@@ -23,10 +22,10 @@ function assertUniqueCountryLawCountryIds(countryLaw: P1Catalog["countryLaw"]): 
   }
 }
 
-function assertCountryLawCoverage(countryLaw: P1Catalog["countryLaw"]): void {
-  const countryIds = new Set(countries.map((country) => country.id));
+function assertCountryLawCoverage(countryLaw: P1Catalog["countryLaw"], allowedCountryIds: readonly string[]): void {
+  const countryIds = new Set(allowedCountryIds);
   const countryLawIds = new Set(countryLaw.map((law) => law.countryId));
-  const missingCountryLaw = countries.map((country) => country.id).filter((countryId) => !countryLawIds.has(countryId));
+  const missingCountryLaw = allowedCountryIds.filter((countryId) => !countryLawIds.has(countryId));
   const orphanCountryLaw = countryLaw.map((law) => law.countryId).filter((countryId) => !countryIds.has(countryId));
 
   if (missingCountryLaw.length > 0) {
@@ -38,24 +37,24 @@ function assertCountryLawCoverage(countryLaw: P1Catalog["countryLaw"]): void {
   }
 }
 
-function assertGeneratedSources(items: Array<{ source: string }>, label: string): void {
+function assertGeneratedSources(items: Array<{ source: string }>, label: string, expectedSource: string): void {
   for (const item of items) {
-    if (!item.source.startsWith("generated:p1:")) {
+    if (item.source !== expectedSource) {
       throw new Error(`Invalid generated P1 source for ${label}: ${item.source}`);
     }
   }
 }
 
 function assertGeneratedSourceMetadata(catalog: P1Catalog): void {
-  assertGeneratedSources(catalog.assets, "asset");
-  assertGeneratedSources(catalog.crimes, "crime");
-  assertGeneratedSources(catalog.prisonActivities, "prison activity");
-  assertGeneratedSources(catalog.countryLaw, "country law");
-  assertGeneratedSources(catalog.fameActivities, "fame activity");
-  assertGeneratedSources(catalog.socialPlatforms, "social platform");
-  assertGeneratedSources(catalog.pets, "pet");
-  assertGeneratedSources(catalog.travelActivities, "travel activity");
-  assertGeneratedSources(catalog.romanceActivities, "romance activity");
+  assertGeneratedSources(catalog.assets, "asset", "generated:p1:assets");
+  assertGeneratedSources(catalog.crimes, "crime", "generated:p1:crimes");
+  assertGeneratedSources(catalog.prisonActivities, "prison activity", "generated:p1:prison");
+  assertGeneratedSources(catalog.countryLaw, "country law", "generated:p1:country-law");
+  assertGeneratedSources(catalog.fameActivities, "fame activity", "generated:p1:fame-social");
+  assertGeneratedSources(catalog.socialPlatforms, "social platform", "generated:p1:fame-social");
+  assertGeneratedSources(catalog.pets, "pet", "generated:p1:pets");
+  assertGeneratedSources(catalog.travelActivities, "travel activity", "generated:p1:travel-migration");
+  assertGeneratedSources(catalog.romanceActivities, "romance activity", "generated:p1:romance-family");
 }
 
 function assertLocaleCoverage(locale: Record<string, string>, keys: string[], message: string): void {
@@ -93,7 +92,7 @@ function assertNoForbiddenExpressions(catalog: P1Catalog): void {
   }
 }
 
-export function validateP1Catalog(input: unknown): P1Catalog {
+export function validateP1Catalog(input: unknown, allowedCountryIds?: readonly string[]): P1Catalog {
   const parsed = p1CatalogSchema.parse(input);
 
   assertUniqueIds(parsed.assets, "P1 asset");
@@ -105,7 +104,9 @@ export function validateP1Catalog(input: unknown): P1Catalog {
   assertUniqueIds(parsed.travelActivities, "P1 travel activity");
   assertUniqueIds(parsed.romanceActivities, "P1 romance activity");
   assertUniqueCountryLawCountryIds(parsed.countryLaw);
-  assertCountryLawCoverage(parsed.countryLaw);
+  if (allowedCountryIds) {
+    assertCountryLawCoverage(parsed.countryLaw, allowedCountryIds);
+  }
   assertGeneratedSourceMetadata(parsed);
 
   const requiredKeys = visibleLocaleKeys(parsed);

@@ -136,7 +136,10 @@ function assertLocaleCoverage(locale: Record<string, string>, keys: string[], me
 export function validateCatalog(catalog: unknown): GameCatalog {
   const parsed = catalogSchema.parse(catalog);
 
-  validateP1Catalog(parsed.p1);
+  validateP1Catalog(
+    parsed.p1,
+    parsed.countries.map((country) => country.id)
+  );
 
   assertUniqueIds(parsed.countries, "country");
   assertUniqueIds(parsed.activities, "activity");
