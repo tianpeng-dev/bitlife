@@ -5,6 +5,7 @@ import { countries } from "./countries";
 import { diseases } from "./diseases";
 import { events } from "./events";
 import { locales } from "./locales";
+import { p1Catalog } from "./p1/catalog";
 import type { GameCatalog } from "./schema";
 
 export const catalog: GameCatalog = {
@@ -14,5 +15,6 @@ export const catalog: GameCatalog = {
   events,
   careers,
   diseases,
-  achievements
+  achievements,
+  p1: p1Catalog
 };

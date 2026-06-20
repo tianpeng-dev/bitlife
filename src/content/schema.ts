@@ -1,4 +1,6 @@
 import { z } from "zod";
+import { p1CatalogSchema } from "./p1/schema";
+import { validateP1Catalog } from "./p1/validation";
 
 export const localizedRecordSchema = z.record(z.string().min(1), z.string().min(1));
 
@@ -86,7 +88,8 @@ export const catalogSchema = z.object({
   events: z.array(eventSchema).min(1),
   careers: z.array(careerSchema).min(1),
   diseases: z.array(diseaseSchema).min(1),
-  achievements: z.array(achievementSchema).min(1)
+  achievements: z.array(achievementSchema).min(1),
+  p1: p1CatalogSchema
 });
 
 export type GameCatalog = z.infer<typeof catalogSchema>;
@@ -132,6 +135,8 @@ function assertLocaleCoverage(locale: Record<string, string>, keys: string[], me
 
 export function validateCatalog(catalog: unknown): GameCatalog {
   const parsed = catalogSchema.parse(catalog);
+
+  validateP1Catalog(parsed.p1);
 
   assertUniqueIds(parsed.countries, "country");
   assertUniqueIds(parsed.activities, "activity");
