@@ -2,7 +2,7 @@ import type { GameCatalog } from "../../content/schema";
 import { clampStat } from "../clamp";
 import { createRng } from "../rng";
 import type { LifeLogEntry, LifeState, MigrationRecord } from "../types";
-import { countryLawFor } from "./countriesLaw";
+import { activityDeniedByLaw, countryLawFor } from "./countriesLaw";
 import { ensureP1State } from "./defaultState";
 
 type IllegalEmigrationOutcome = "success" | "deported" | "injured";
@@ -15,6 +15,10 @@ function requireCountry(catalog: GameCatalog, countryId: string): void {
   countryLawFor({ countryId } as LifeState, catalog);
 }
 
+function requireNotImprisoned(life: ReturnType<typeof ensureP1State>): void {
+  if (life.prison.inPrison) throw new Error("prison.normal_activity_denied");
+}
+
 function appendMigration(life: ReturnType<typeof ensureP1State>, record: MigrationRecord, messageKey: string) {
   const next = { ...life, migrationHistory: [...life.migrationHistory, record] };
   const entry = log(next, messageKey, { fromCountryId: record.fromCountryId, toCountryId: record.toCountryId });
@@ -23,6 +27,7 @@ function appendMigration(life: ReturnType<typeof ensureP1State>, record: Migrati
 
 export function takeVacation({ life, catalog, toCountryId }: { life: LifeState; catalog: GameCatalog; toCountryId: string }) {
   const ready = ensureP1State(life);
+  requireNotImprisoned(ready);
   requireCountry(catalog, toCountryId);
   const cost = 1000;
   if (ready.cash < cost) throw new Error("activity.cash_too_low");
@@ -53,6 +58,9 @@ export function attemptEmigration({
   forceApproved?: boolean;
 }) {
   const ready = ensureP1State(life);
+  requireNotImprisoned(ready);
+  const emigrationDenial = activityDeniedByLaw(ready, catalog, { law: "emigration" });
+  if (emigrationDenial) throw new Error(emigrationDenial);
   const targetLaw = countryLawFor({ ...ready, countryId: toCountryId }, catalog);
   const cost = 5000;
   if (ready.cash < cost) throw new Error("activity.cash_too_low");
@@ -89,6 +97,7 @@ export function attemptIllegalEmigration({
   forceOutcome?: IllegalEmigrationOutcome;
 }) {
   const ready = ensureP1State(life);
+  requireNotImprisoned(ready);
   requireCountry(catalog, toCountryId);
   const cost = 1000;
   if (ready.cash < cost) throw new Error("activity.cash_too_low");
