@@ -1,8 +1,9 @@
 import { catalog } from "../content/catalog";
+import { availableP1Activities, type P1ActivityCard, type P1ActivityGroup } from "../domain/p1/activityCatalog";
 import type { LifeState, Locale } from "../domain/types";
-import { contentLabel, ui } from "../i18n";
+import { contentLabel, ui, type UiKey } from "../i18n";
 
-const groupLabelKeys: Record<string, Parameters<typeof ui>[1]> = {
+const groupLabelKeys: Record<string, UiKey> = {
   mind_body: "groupMindBody",
   relationships: "groupRelationships",
   education_career: "groupEducationCareer",
@@ -10,6 +11,25 @@ const groupLabelKeys: Record<string, Parameters<typeof ui>[1]> = {
   leisure: "groupLeisure",
   risk: "groupRisk"
 };
+
+const p1GroupLabelKeys: Record<P1ActivityGroup, UiKey> = {
+  assets: "groupAssets",
+  crime: "groupCrime",
+  law_prison: "groupLawPrison",
+  fame: "groupFame",
+  social: "groupSocial",
+  pets: "groupPets",
+  travel_migration: "groupTravelMigration",
+  romance_family: "groupRomanceFamily"
+};
+
+function p1StatusLabel(locale: Locale, card: P1ActivityCard): string {
+  if (card.reasonKey === "availableAt" && card.availableAtAge !== undefined) {
+    return ui(locale, "availableAt", { age: card.availableAtAge });
+  }
+
+  return card.cost !== undefined && card.cost > 0 ? ui(locale, "cost", { amount: card.cost }) : ui(locale, "free");
+}
 
 export function ActivitiesView({
   life,
@@ -65,6 +85,23 @@ export function ActivitiesView({
                     ? ui(locale, "activityDoneThisYear")
                     : costLabel}
               </small>
+            </button>
+          );
+        })}
+        {availableP1Activities(life, catalog).map((card) => {
+          const disabled = card.disabled || !life.alive;
+
+          return (
+            <button
+              className="panel activity-card"
+              key={card.id}
+              type="button"
+              onClick={() => onActivity(card.id)}
+              disabled={disabled}
+            >
+              <span>{ui(locale, p1GroupLabelKeys[card.group])}</span>
+              <strong>{contentLabel(locale, card.labelKey)}</strong>
+              <small>{p1StatusLabel(locale, card)}</small>
             </button>
           );
         })}

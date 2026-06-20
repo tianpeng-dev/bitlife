@@ -70,6 +70,14 @@ export type UiKey =
   | "groupHealth"
   | "groupLeisure"
   | "groupRisk"
+  | "groupAssets"
+  | "groupCrime"
+  | "groupLawPrison"
+  | "groupFame"
+  | "groupSocial"
+  | "groupPets"
+  | "groupTravelMigration"
+  | "groupRomanceFamily"
   | "relationshipsTitle"
   | "relationshipsEmpty"
   | "relationshipsHint"
@@ -190,6 +198,14 @@ const uiText: Record<Locale, Record<UiKey, string>> = {
     groupHealth: "健康",
     groupLeisure: "休闲",
     groupRisk: "风险",
+    groupAssets: "资产",
+    groupCrime: "犯罪",
+    groupLawPrison: "法律与监狱",
+    groupFame: "名声",
+    groupSocial: "社交媒体",
+    groupPets: "宠物",
+    groupTravelMigration: "移民旅行",
+    groupRomanceFamily: "爱情家庭",
     relationshipsTitle: "关系",
     relationshipsEmpty: "开始新人生后，你的家人和朋友会出现在这里。",
     relationshipsHint: "亲密度会随事件和活动上下波动。",
@@ -309,6 +325,14 @@ const uiText: Record<Locale, Record<UiKey, string>> = {
     groupHealth: "Health",
     groupLeisure: "Leisure",
     groupRisk: "Risk",
+    groupAssets: "Assets",
+    groupCrime: "Crime",
+    groupLawPrison: "Law & prison",
+    groupFame: "Fame",
+    groupSocial: "Social media",
+    groupPets: "Pets",
+    groupTravelMigration: "Travel & migration",
+    groupRomanceFamily: "Love & family",
     relationshipsTitle: "Relationships",
     relationshipsEmpty: "Your family and friends will appear here after you start a life.",
     relationshipsHint: "Closeness moves up and down through events and activities.",
@@ -369,7 +393,13 @@ export function ui(locale: Locale, key: UiKey, params: Record<string, string | n
 }
 
 export function contentLabel(locale: Locale, key: string): string {
-  return catalog.locales[locale][key] ?? catalog.locales["zh-CN"][key] ?? key;
+  return (
+    catalog.locales[locale][key] ??
+    catalog.p1.locales[locale][key] ??
+    catalog.locales["zh-CN"][key] ??
+    catalog.p1.locales["zh-CN"][key] ??
+    key
+  );
 }
 
 export function formatNumber(locale: Locale, value: number): string {
