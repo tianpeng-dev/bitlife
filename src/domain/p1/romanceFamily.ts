@@ -51,6 +51,9 @@ export function proposeMarriage({ life, catalog }: { life: LifeState; catalog: G
   const ready = ensureP1State(life);
   const denial = activityDeniedByLaw(ready, catalog, { law: "marriage" });
   if (denial) throw new Error(denial);
+  if (ready.relationships.some((person) => person.alive && person.relationType === "spouse")) {
+    throw new Error("romance.already_married");
+  }
 
   const lover = ready.relationships.find((person) => person.alive && person.relationType === "lover");
   if (!lover) throw new Error("relationship.lover_missing");

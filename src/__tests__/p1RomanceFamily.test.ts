@@ -42,6 +42,24 @@ describe("P1 romance and family", () => {
     expect(married.relationships.some((person) => person.alive && person.relationType === "lover")).toBe(false);
   });
 
+  it("rejects marriage when migrated state already has an active spouse and lover", () => {
+    const life = ensureP1State({ ...generateLife({ seed: "active-spouse-and-lover", catalog }), age: 30, cash: 10000 });
+    const dating = startDating({ life, catalog }).life;
+    const lover = dating.relationships.find((person) => person.relationType === "lover");
+    expect(lover).toBeDefined();
+    const spouse = {
+      ...lover!,
+      id: "imported-active-spouse",
+      name: "Imported Spouse",
+      relationType: "spouse" as const,
+      relationship: 80
+    };
+    const importedState = { ...dating, relationships: [spouse, ...dating.relationships] };
+
+    expect(() => proposeMarriage({ life: importedState, catalog })).toThrow("romance.already_married");
+    expect(importedState.relationships.filter((person) => person.alive && person.relationType === "spouse")).toHaveLength(1);
+  });
+
   it("can progress pregnancy into a child relationship", () => {
     const married = proposeMarriage({
       life: startDating({ life: ensureP1State({ ...generateLife({ seed: "baby", catalog }), age: 28, cash: 10000 }), catalog }).life,
