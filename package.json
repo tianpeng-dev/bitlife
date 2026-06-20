@@ -11,7 +11,8 @@
     "test:watch": "vitest",
     "test:e2e": "playwright test",
     "lint": "tsc --noEmit",
-    "netlify:dev": "netlify dev"
+    "netlify:dev": "netlify dev",
+    "p1:generate": "tsx tools/p1_content/generate.ts"
   },
   "dependencies": {
     "@netlify/blobs": "^8.2.0",
@@ -34,6 +35,7 @@
     "@types/react": "^18.3.18",
     "@types/react-dom": "^18.3.5",
     "jsdom": "^25.0.1",
+    "tsx": "^4.22.4",
     "typescript": "^5.7.2",
     "vite": "^6.0.3",
     "vitest": "^3.0.0"
