@@ -6,27 +6,31 @@ export const generatedPrisonActivities = [
     labelKey: "p1.prison.appeal.label",
     resultKey: "p1.prison.appeal.result",
     requirements: { minAge: 13, inPrison: true },
-    effects: { prisonTime: -1, happiness: 2 }
+    effects: { prisonTime: -1, happiness: 2 },
+    source: "generated:p1:prison"
   },
   {
     id: "p1_prison_parole",
     labelKey: "p1.prison.parole.label",
     resultKey: "p1.prison.parole.result",
     requirements: { minAge: 16, inPrison: true },
-    effects: { prisonTime: -2, happiness: 3 }
+    effects: { prisonTime: -2, happiness: 3 },
+    source: "generated:p1:prison"
   },
   {
     id: "p1_prison_work",
     labelKey: "p1.prison.work.label",
     resultKey: "p1.prison.work.result",
     requirements: { minAge: 13, inPrison: true },
-    effects: { cash: 15, health: -1, happiness: -1 }
+    effects: { cash: 15, health: -1, happiness: -1 },
+    source: "generated:p1:prison"
   },
   {
     id: "p1_prison_exercise",
     labelKey: "p1.prison.exercise.label",
     resultKey: "p1.prison.exercise.result",
     requirements: { minAge: 13, inPrison: true },
-    effects: { health: 4, happiness: 1 }
+    effects: { health: 4, happiness: 1 },
+    source: "generated:p1:prison"
   }
 ] satisfies P1Catalog["prisonActivities"];

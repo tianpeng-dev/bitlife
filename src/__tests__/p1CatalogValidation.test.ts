@@ -21,6 +21,22 @@ describe("P1 catalog validation", () => {
     expect(() => validateCatalog(catalog)).not.toThrow();
   });
 
+  it("has country law for every starter country", () => {
+    const countryLawIds = new Set(catalog.p1.countryLaw.map((law) => law.countryId));
+
+    for (const country of catalog.countries) {
+      expect(countryLawIds.has(country.id)).toBe(true);
+    }
+  });
+
+  it("does not define country law for missing starter countries", () => {
+    const countryIds = new Set(catalog.countries.map((country) => country.id));
+
+    for (const law of catalog.p1.countryLaw) {
+      expect(countryIds.has(law.countryId)).toBe(true);
+    }
+  });
+
   it("requires complete bilingual labels for visible P1 entries", () => {
     const invalid = structuredClone(p1Catalog);
     delete invalid.locales["en-US"]["p1.asset.compact_apartment.name"];
@@ -33,5 +49,12 @@ describe("P1 catalog validation", () => {
     invalid.locales["zh-CN"]["p1.asset.compact_apartment.name"] = "BitLife Marketplace";
 
     expect(() => validateP1Catalog(invalid)).toThrow(/Forbidden P1 expression/);
+  });
+
+  it("rejects generated P1 sources without the generated prefix", () => {
+    const invalid = structuredClone(p1Catalog);
+    invalid.assets[0].source = "manual:p1:assets";
+
+    expect(() => validateP1Catalog(invalid)).toThrow(/Invalid generated P1 source/);
   });
 });

@@ -39,7 +39,8 @@ export const p1ActionSchema = z.object({
   labelKey: z.string().min(1),
   resultKey: z.string().min(1),
   requirements: p1RequirementSchema.default({}),
-  effects: p1EffectSchema.default({})
+  effects: p1EffectSchema.default({}),
+  source: z.string().min(1)
 });
 
 export const p1AssetSchema = z.object({
@@ -94,7 +95,8 @@ export const p1CountryLawSchema = z.object({
   prisonSeverity: z.number().min(0.5).max(3),
   immigrationDifficulty: z.number().min(0).max(1),
   marriageAge: z.number().int().min(12).max(25),
-  assetCostMultiplier: z.number().min(0.3).max(5)
+  assetCostMultiplier: z.number().min(0.3).max(5),
+  source: z.string().min(1)
 });
 
 export const p1SocialPlatformSchema = z.object({

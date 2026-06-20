@@ -6,28 +6,32 @@ export const generatedFameActivities = [
     labelKey: "p1.fame.interview.label",
     resultKey: "p1.fame.interview.result",
     requirements: { minAge: 16, minFame: 10, notInPrison: true },
-    effects: { fame: 4, happiness: 1 }
+    effects: { fame: 4, happiness: 1 },
+    source: "generated:p1:fame-social"
   },
   {
     id: "p1_fame_ad",
     labelKey: "p1.fame.ad.label",
     resultKey: "p1.fame.ad.result",
     requirements: { minAge: 18, minFame: 20, notInPrison: true },
-    effects: { cash: 2000, fame: 2 }
+    effects: { cash: 2000, fame: 2 },
+    source: "generated:p1:fame-social"
   },
   {
     id: "p1_fame_charity",
     labelKey: "p1.fame.charity.label",
     resultKey: "p1.fame.charity.result",
     requirements: { minAge: 16, minFame: 15, minCash: 500, notInPrison: true },
-    effects: { cash: -500, fame: 5, happiness: 3 }
+    effects: { cash: -500, fame: 5, happiness: 3 },
+    source: "generated:p1:fame-social"
   },
   {
     id: "p1_fame_scandal_response",
     labelKey: "p1.fame.scandal_response.label",
     resultKey: "p1.fame.scandal_response.result",
     requirements: { minAge: 16, minFame: 10, notInPrison: true },
-    effects: { fame: 1, happiness: -1 }
+    effects: { fame: 1, happiness: -1 },
+    source: "generated:p1:fame-social"
   }
 ] satisfies P1Catalog["fameActivities"];
 
