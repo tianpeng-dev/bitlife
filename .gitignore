@@ -11,3 +11,4 @@ test-results/
 src/**/*.log
 tools/__pycache__/
 *.tsbuildinfo
+.worktrees/
