@@ -24,3 +24,9 @@ The app deploys with Netlify using `netlify.toml`. Local gameplay is offline-fir
 ## Anonymous Leaderboard
 
 The leaderboard is an anonymous, unverified public sharing surface for V1. Netlify Functions validate bounded payload fields and recompute scores from public outcome data, but they do not provide anti-cheat guarantees, accounts, or cloud save authority.
+
+## P1 Expansion
+
+The P1 expansion keeps the app local-first and adds modular systems for assets, romance/family, crime, justice/prison, country law, fame/social media, pets, and travel/migration.
+
+Generated P1 content is validated before runtime. The validation covers schema shape, bilingual locale coverage, id references, numeric bounds, state reachability, and forbidden reference expressions.
