@@ -23,6 +23,9 @@ export function CareerView({ life, locale }: { life?: LifeState; locale: Locale 
   const career = catalog.careers.find((item) => item.id === life.career.careerId);
   const careerTitle = life.career.title ?? (career ? contentLabel(locale, career.titleKey) : ui(locale, "noCareer"));
   const titleKey = life.career.careerId || life.career.salary || life.career.years ? "careerTitle" : "navSchool";
+  const fameScore = life.fame?.score ?? 0;
+  const publicSentiment = life.fame?.publicSentiment ?? 0;
+  const socialAccountCount = life.socialAccounts?.length ?? 0;
 
   return (
     <section className="stack">
@@ -47,6 +50,20 @@ export function CareerView({ life, locale }: { life?: LifeState; locale: Locale 
           <p>{ui(locale, "workYears", { years: life.career.years })}</p>
         </article>
       </section>
+      {fameScore > 0 || socialAccountCount > 0 ? (
+        <section className="panel career-grid">
+          <article>
+            <span>{ui(locale, "fameScoreLabel")}</span>
+            <h2>{fameScore}</h2>
+            <p>{ui(locale, "publicSentimentLabel")}: {publicSentiment}</p>
+          </article>
+          <article>
+            <span>{ui(locale, "socialAccountCountLabel")}</span>
+            <h2>{socialAccountCount}</h2>
+            <p>{ui(locale, "groupSocial")}</p>
+          </article>
+        </section>
+      ) : null}
     </section>
   );
 }

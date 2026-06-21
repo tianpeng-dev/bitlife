@@ -15,6 +15,10 @@ function formatTombstoneTag(tag: string, locale: Locale) {
   return achievement ? contentLabel(locale, achievement.labelKey) : tag;
 }
 
+function p1NetWorth(life: LifeState): number {
+  return (life.assets?.items ?? []).reduce((total, asset) => total + asset.currentValue - asset.debt, life.cash);
+}
+
 export function TombstoneView({ life, locale, onStart }: { life?: LifeState; locale: Locale; onStart(): void }) {
   const [shareId, setShareId] = useState<string>();
   const [error, setError] = useState<string>();
@@ -62,6 +66,8 @@ export function TombstoneView({ life, locale, onStart }: { life?: LifeState; loc
     }
   }
 
+  const prisonYears = life.legal?.criminalRecord.reduce((total, record) => total + record.sentenceYears, 0) ?? 0;
+
   return (
     <section className="panel tombstone">
       <span>R.I.P.</span>
@@ -83,6 +89,30 @@ export function TombstoneView({ life, locale, onStart }: { life?: LifeState; loc
         <div>
           <dt>{ui(locale, "score")}</dt>
           <dd>{life.death.score}</dd>
+        </div>
+        <div>
+          <dt>{ui(locale, "netWorthLabel")}</dt>
+          <dd>${formatNumber(locale, p1NetWorth(life))}</dd>
+        </div>
+        <div>
+          <dt>{ui(locale, "assetCountLabel")}</dt>
+          <dd>{life.assets?.items.length ?? 0}</dd>
+        </div>
+        <div>
+          <dt>{ui(locale, "childrenCountLabel")}</dt>
+          <dd>{life.relationships.filter((person) => person.relationType === "child").length}</dd>
+        </div>
+        <div>
+          <dt>{ui(locale, "petCountLabel")}</dt>
+          <dd>{life.pets?.filter((pet) => pet.alive).length ?? 0}</dd>
+        </div>
+        <div>
+          <dt>{ui(locale, "prisonYearsLabel")}</dt>
+          <dd>{prisonYears}</dd>
+        </div>
+        <div>
+          <dt>{ui(locale, "fameScoreLabel")}</dt>
+          <dd>{life.fame?.score ?? 0}</dd>
         </div>
       </dl>
       <div className="tag-row">

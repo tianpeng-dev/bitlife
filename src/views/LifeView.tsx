@@ -54,6 +54,21 @@ function feedbackText(locale: Locale, entry: FeedbackEntry): string {
   });
 }
 
+function assetNetWorth(life: LifeState): number {
+  return (life.assets?.items ?? []).reduce((total, asset) => total + asset.currentValue - asset.debt, life.cash);
+}
+
+function legalStatus(life: LifeState, locale: Locale): string {
+  const wantedLevel = life.legal?.wantedLevel ?? 0;
+  return wantedLevel > 0 ? ui(locale, "legalWanted", { level: wantedLevel }) : ui(locale, "legalClear");
+}
+
+function prisonStatus(life: LifeState, locale: Locale): string {
+  return life.prison?.inPrison
+    ? ui(locale, "inPrison", { years: life.prison.remainingYears })
+    : ui(locale, "notInPrison");
+}
+
 export function LifeView({
   life,
   error,
@@ -85,6 +100,9 @@ export function LifeView({
   const recentLogs = [...life.log].slice(-5).reverse();
   const country = catalog.countries.find((item) => item.id === life.countryId);
   const countryName = country ? contentLabel(locale, country.nameKey) : life.countryId;
+  const assetCount = life.assets?.items.length ?? 0;
+  const petCount = life.pets?.length ?? 0;
+  const fameScore = life.fame?.score ?? 0;
 
   return (
     <section className="life-view stack">
@@ -101,6 +119,41 @@ export function LifeView({
       </header>
 
       {error ? <p className="error-text">{error}</p> : null}
+
+      <section className="panel">
+        <div className="panel-heading">
+          <h2>{ui(locale, "statsTitle")}</h2>
+          <span>P1</span>
+        </div>
+        <dl>
+          <div>
+            <dt>{ui(locale, "netWorthLabel")}</dt>
+            <dd>${formatNumber(locale, assetNetWorth(life))}</dd>
+          </div>
+          <div>
+            <dt>{ui(locale, "assetCountLabel")}</dt>
+            <dd>{assetCount}</dd>
+          </div>
+          <div>
+            <dt>{ui(locale, "legalStatusLabel")}</dt>
+            <dd>{legalStatus(life, locale)}</dd>
+          </div>
+          <div>
+            <dt>{ui(locale, "prisonStatusLabel")}</dt>
+            <dd>{prisonStatus(life, locale)}</dd>
+          </div>
+          <div>
+            <dt>{ui(locale, "petCountLabel")}</dt>
+            <dd>{petCount}</dd>
+          </div>
+          {fameScore > 0 ? (
+            <div>
+              <dt>{ui(locale, "fameScoreLabel")}</dt>
+              <dd>{fameScore}</dd>
+            </div>
+          ) : null}
+        </dl>
+      </section>
 
       <section className="panel life-log-panel">
         <div className="panel-heading">

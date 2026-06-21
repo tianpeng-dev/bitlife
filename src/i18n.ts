@@ -31,6 +31,20 @@ export type UiKey =
   | "lifeEnded"
   | "ageLabel"
   | "cashLabel"
+  | "netWorthLabel"
+  | "assetCountLabel"
+  | "legalStatusLabel"
+  | "prisonStatusLabel"
+  | "petCountLabel"
+  | "fameScoreLabel"
+  | "publicSentimentLabel"
+  | "socialAccountCountLabel"
+  | "childrenCountLabel"
+  | "prisonYearsLabel"
+  | "legalClear"
+  | "legalWanted"
+  | "inPrison"
+  | "notInPrison"
   | "statsTitle"
   | "noEvent"
   | "lifeLog"
@@ -159,6 +173,20 @@ const uiText: Record<Locale, Record<UiKey, string>> = {
     lifeEnded: "人生已结束",
     ageLabel: "年龄",
     cashLabel: "现金",
+    netWorthLabel: "净资产",
+    assetCountLabel: "资产",
+    legalStatusLabel: "法律状态",
+    prisonStatusLabel: "监狱状态",
+    petCountLabel: "宠物",
+    fameScoreLabel: "名声",
+    publicSentimentLabel: "公众好感",
+    socialAccountCountLabel: "社交账号",
+    childrenCountLabel: "孩子",
+    prisonYearsLabel: "监狱年数",
+    legalClear: "清白",
+    legalWanted: "通缉等级 {level}",
+    inPrison: "服刑中，剩余 {years} 年",
+    notInPrison: "未入狱",
     statsTitle: "状态",
     noEvent: "这一年没有未处理事件。准备好就长大一岁。",
     lifeLog: "人生记录",
@@ -286,6 +314,20 @@ const uiText: Record<Locale, Record<UiKey, string>> = {
     lifeEnded: "Life ended",
     ageLabel: "Age",
     cashLabel: "Cash",
+    netWorthLabel: "Net worth",
+    assetCountLabel: "Assets",
+    legalStatusLabel: "Legal status",
+    prisonStatusLabel: "Prison status",
+    petCountLabel: "Pets",
+    fameScoreLabel: "Fame",
+    publicSentimentLabel: "Public sentiment",
+    socialAccountCountLabel: "Social accounts",
+    childrenCountLabel: "Children",
+    prisonYearsLabel: "Prison years",
+    legalClear: "Clear",
+    legalWanted: "Wanted level {level}",
+    inPrison: "In prison, {years} years left",
+    notInPrison: "Not in prison",
     statsTitle: "Stats",
     noEvent: "No pending event this year. Age up when you are ready.",
     lifeLog: "Life log",
