@@ -41,10 +41,11 @@ describe("computeTombstoneScore", () => {
       tags: ["long_life"],
       score: 1200,
       stats: { happiness: 80, health: 70, smarts: 60, looks: 50 },
-      netWorth: 250000,
+      netWorth: p1.netWorth,
       p1
     });
 
+    expect(parsed.netWorth).toBe(p1.netWorth);
     expect(parsed.p1).toEqual(p1);
   });
 

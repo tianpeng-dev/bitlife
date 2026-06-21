@@ -23,7 +23,7 @@ export const tombstoneInputSchema = z.object({
     smarts: z.number().min(0).max(100),
     looks: z.number().min(0).max(100)
   }),
-  netWorth: z.number().int().min(-1000000).max(100000000),
+  netWorth: z.number().int().min(-1000000000).max(10000000000),
   careerTitle: z.string().max(80).optional(),
   highestEducation: z.string().max(80).optional(),
   displayName: z.string().min(1).max(32).optional(),
