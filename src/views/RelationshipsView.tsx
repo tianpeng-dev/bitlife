@@ -1,3 +1,4 @@
+import { catalog } from "../content/catalog";
 import type { LifeState, Locale, PetState, RelationshipType } from "../domain/types";
 import { contentLabel, ui } from "../i18n";
 
@@ -11,8 +12,12 @@ const relationLabelKeys: Record<RelationshipType, Parameters<typeof ui>[1]> = {
 };
 
 function petDisplayName(pet: PetState, locale: Locale): string {
-  if (pet.name === "p1.pet.cat.name") return "Mimi";
   return pet.name.startsWith("p1.") ? contentLabel(locale, pet.name) : pet.name;
+}
+
+function petSpeciesLabel(pet: PetState, locale: Locale): string {
+  const config = catalog.p1.pets.find((candidate) => candidate.id === pet.catalogId);
+  return config ? contentLabel(locale, config.nameKey) : pet.catalogId;
 }
 
 export function RelationshipsView({ life, locale }: { life?: LifeState; locale: Locale }) {
@@ -63,7 +68,7 @@ export function RelationshipsView({ life, locale }: { life?: LifeState; locale: 
                 {(life.pets ?? []).map((pet) => (
                   <article className="panel relationship-card" key={pet.id}>
                     <div>
-                      <span>{contentLabel(locale, pet.name)}</span>
+                      <span>{petSpeciesLabel(pet, locale)}</span>
                       <h2>{petDisplayName(pet, locale)}</h2>
                       <p>
                         {ui(locale, "ageStatus", { age: pet.age })} · {pet.alive ? ui(locale, "alive") : ui(locale, "dead")}

@@ -8,6 +8,17 @@ function log(life: LifeState, messageKey: string, params?: Record<string, string
   return { id: `${life.age}-${messageKey}-${life.log.length + 1}`, age: life.age, messageKey, params };
 }
 
+function petNameForSpecies(species: string): string {
+  const names: Record<string, string> = {
+    cat: "Mimi",
+    small_dog: "Buddy",
+    large_dog: "Max",
+    parrot: "Kiwi",
+    rabbit: "Coco"
+  };
+  return names[species] ?? "Mimi";
+}
+
 export function adoptPet({ life, catalog, petId }: { life: LifeState; catalog: GameCatalog; petId: string }) {
   const ready = ensureP1State(life);
   const config = catalog.p1.pets.find((pet) => pet.id === petId);
@@ -20,7 +31,7 @@ export function adoptPet({ life, catalog, petId }: { life: LifeState; catalog: G
   const pet: PetState = {
     id: `pet-${ready.age}-${petId}-${rng.int(1000, 9999)}`,
     catalogId: config.id,
-    name: config.nameKey,
+    name: petNameForSpecies(config.species),
     age: rng.int(0, Math.min(2, config.lifespan - 1)),
     health: clampStat(rng.int(65, 100)),
     relationship: clampRelationship(rng.int(20, 55)),
