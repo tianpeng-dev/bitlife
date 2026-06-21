@@ -1,5 +1,15 @@
 import { z } from "zod";
 
+const p1PublicSummarySchema = z.object({
+  netWorth: z.number().int().min(-1000000000).max(10000000000),
+  assetCount: z.number().int().min(0).max(500),
+  childrenCount: z.number().int().min(0).max(200),
+  petCount: z.number().int().min(0).max(100),
+  prisonYears: z.number().int().min(0).max(500),
+  fameScore: z.number().int().min(0).max(100),
+  countriesLived: z.number().int().min(1).max(200)
+});
+
 export const tombstoneInputSchema = z.object({
   seed: z.string().min(1).max(128),
   ageAtDeath: z.number().int().min(0).max(130),
@@ -16,7 +26,8 @@ export const tombstoneInputSchema = z.object({
   netWorth: z.number().int().min(-1000000).max(100000000),
   careerTitle: z.string().max(80).optional(),
   highestEducation: z.string().max(80).optional(),
-  displayName: z.string().min(1).max(32).optional()
+  displayName: z.string().min(1).max(32).optional(),
+  p1: p1PublicSummarySchema.optional()
 });
 
 export type TombstoneInput = z.infer<typeof tombstoneInputSchema>;

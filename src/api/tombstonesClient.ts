@@ -1,5 +1,15 @@
 import type { Stats } from "../domain/types";
 
+export interface TombstoneP1PublicSummary {
+  netWorth: number;
+  assetCount: number;
+  childrenCount: number;
+  petCount: number;
+  prisonYears: number;
+  fameScore: number;
+  countriesLived: number;
+}
+
 export interface TombstoneSubmitPayload {
   seed: string;
   ageAtDeath: number;
@@ -12,6 +22,7 @@ export interface TombstoneSubmitPayload {
   careerTitle?: string;
   highestEducation?: string;
   displayName?: string;
+  p1?: TombstoneP1PublicSummary;
 }
 
 export async function submitTombstone(payload: TombstoneSubmitPayload): Promise<{ shareId: string }> {

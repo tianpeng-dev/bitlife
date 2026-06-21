@@ -1,0 +1,38 @@
+import { catalog } from "../content/catalog";
+import { generateLife } from "../domain/lifeGenerator";
+import { buyAsset } from "../domain/p1/assets";
+import { ensureP1State } from "../domain/p1/defaultState";
+import { buildP1PublicSummary } from "../domain/p1/summary";
+import { buildDeathSummary } from "../domain/scoring";
+
+describe("P1 tombstone summary", () => {
+  it("counts owned assets and includes asset value in net worth", () => {
+    const life = buyAsset({
+      life: ensureP1State({ ...generateLife({ seed: "p1-summary-asset", catalog }), age: 30, cash: 200_000 }),
+      catalog,
+      assetId: "compact_apartment"
+    }).life;
+
+    const summary = buildP1PublicSummary(life);
+
+    expect(summary.assetCount).toBe(1);
+    expect(summary.netWorth).toBeGreaterThan(life.cash);
+  });
+
+  it("uses P1 net worth in death summaries", () => {
+    const life = buyAsset({
+      life: ensureP1State({
+        ...generateLife({ seed: "p1-summary-death", catalog }),
+        age: 90,
+        cash: 200_000,
+        alive: false
+      }),
+      catalog,
+      assetId: "compact_apartment"
+    }).life;
+
+    const summary = buildDeathSummary({ life, catalog, causeOfDeath: "old_age" });
+
+    expect(summary.netWorth).toBeGreaterThanOrEqual(life.cash);
+  });
+});

@@ -28,6 +28,28 @@ describe("tombstonesClient", () => {
     });
   });
 
+  it("posts an optional P1 public summary unchanged", async () => {
+    const fetchMock = vi.fn(async () => new Response(JSON.stringify({ shareId: "abc123" }), { status: 200 }));
+    vi.stubGlobal("fetch", fetchMock);
+    const p1 = {
+      netWorth: 250_000,
+      assetCount: 1,
+      childrenCount: 2,
+      petCount: 1,
+      prisonYears: 0,
+      fameScore: 25,
+      countriesLived: 2
+    };
+
+    await submitTombstone({ ...payload, p1 });
+
+    expect(fetchMock).toHaveBeenCalledWith("/api/tombstones", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ ...payload, p1 })
+    });
+  });
+
   it("rejects non-OK responses", async () => {
     vi.stubGlobal("fetch", vi.fn(async () => new Response(JSON.stringify({ error: "Nope" }), { status: 500 })));
 

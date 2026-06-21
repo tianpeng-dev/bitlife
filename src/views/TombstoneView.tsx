@@ -2,6 +2,7 @@ import { useState } from "react";
 
 import { submitTombstone } from "../api/tombstonesClient";
 import { catalog } from "../content/catalog";
+import { buildP1PublicSummary } from "../domain/p1/summary";
 import type { LifeState, Locale } from "../domain/types";
 import { contentLabel, formatNumber, ui } from "../i18n";
 
@@ -13,10 +14,6 @@ const deathCauseKeys: Record<string, Parameters<typeof ui>[1]> = {
 function formatTombstoneTag(tag: string, locale: Locale) {
   const achievement = catalog.achievements.find((item) => item.id === tag);
   return achievement ? contentLabel(locale, achievement.labelKey) : tag;
-}
-
-function p1NetWorth(life: LifeState): number {
-  return (life.assets?.items ?? []).reduce((total, asset) => total + asset.currentValue - asset.debt, life.cash);
 }
 
 export function TombstoneView({ life, locale, onStart }: { life?: LifeState; locale: Locale; onStart(): void }) {
@@ -36,6 +33,8 @@ export function TombstoneView({ life, locale, onStart }: { life?: LifeState; loc
     );
   }
 
+  const p1Summary = buildP1PublicSummary(life);
+
   async function handleSubmit() {
     if (!life?.death) {
       return;
@@ -52,10 +51,11 @@ export function TombstoneView({ life, locale, onStart }: { life?: LifeState; loc
         tags: life.death.tags,
         score: life.death.score,
         stats: life.stats,
-        netWorth: life.death.netWorth,
+        netWorth: p1Summary.netWorth,
         careerTitle: life.career.title,
         highestEducation: life.education.stage,
-        displayName: life.name
+        displayName: life.name,
+        p1: p1Summary
       });
       setShareId(result.shareId);
     } catch {
@@ -65,8 +65,6 @@ export function TombstoneView({ life, locale, onStart }: { life?: LifeState; loc
       setIsSubmitting(false);
     }
   }
-
-  const prisonYears = life.legal?.criminalRecord.reduce((total, record) => total + record.sentenceYears, 0) ?? 0;
 
   return (
     <section className="panel tombstone">
@@ -83,36 +81,32 @@ export function TombstoneView({ life, locale, onStart }: { life?: LifeState; loc
           </dd>
         </div>
         <div>
-          <dt>{ui(locale, "netWorth")}</dt>
-          <dd>${formatNumber(locale, life.death.netWorth)}</dd>
-        </div>
-        <div>
           <dt>{ui(locale, "score")}</dt>
           <dd>{life.death.score}</dd>
         </div>
         <div>
           <dt>{ui(locale, "netWorthLabel")}</dt>
-          <dd>${formatNumber(locale, p1NetWorth(life))}</dd>
+          <dd>${formatNumber(locale, p1Summary.netWorth)}</dd>
         </div>
         <div>
           <dt>{ui(locale, "assetCountLabel")}</dt>
-          <dd>{life.assets?.items.length ?? 0}</dd>
+          <dd>{p1Summary.assetCount}</dd>
         </div>
         <div>
           <dt>{ui(locale, "childrenCountLabel")}</dt>
-          <dd>{life.relationships.filter((person) => person.relationType === "child").length}</dd>
+          <dd>{p1Summary.childrenCount}</dd>
         </div>
         <div>
           <dt>{ui(locale, "petCountLabel")}</dt>
-          <dd>{life.pets?.length ?? 0}</dd>
+          <dd>{p1Summary.petCount}</dd>
         </div>
         <div>
           <dt>{ui(locale, "prisonYearsLabel")}</dt>
-          <dd>{prisonYears}</dd>
+          <dd>{p1Summary.prisonYears}</dd>
         </div>
         <div>
           <dt>{ui(locale, "fameScoreLabel")}</dt>
-          <dd>{life.fame?.score ?? 0}</dd>
+          <dd>{p1Summary.fameScore}</dd>
         </div>
       </dl>
       <div className="tag-row">
