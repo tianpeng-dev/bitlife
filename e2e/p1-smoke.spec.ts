@@ -1,6 +1,6 @@
 import { expect, test } from "@playwright/test";
 
-test("P1 mobile flow reaches asset and tombstone surfaces", async ({ page }) => {
+test("P1 mobile flow reaches and uses activity surfaces", async ({ page }) => {
   await page.goto("/");
   await page.getByRole("button", { name: "开始新人生" }).click();
 
@@ -19,4 +19,7 @@ test("P1 mobile flow reaches asset and tombstone surfaces", async ({ page }) => 
   await expect(page.getByText("资产").first()).toBeVisible();
   await expect(page.getByText("犯罪").first()).toBeVisible();
   await expect(page.getByText("宠物").first()).toBeVisible();
+
+  await page.getByRole("button", { name: /金戒指/ }).click();
+  await expect(page.locator(".error-text")).not.toBeVisible();
 });
