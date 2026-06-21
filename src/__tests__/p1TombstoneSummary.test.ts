@@ -35,4 +35,32 @@ describe("P1 tombstone summary", () => {
 
     expect(summary.netWorth).toBeGreaterThanOrEqual(life.cash);
   });
+
+  it("counts only living pets in public summaries", () => {
+    const life = ensureP1State({
+      ...generateLife({ seed: "p1-summary-pets", catalog }),
+      pets: [
+        {
+          id: "pet-living",
+          catalogId: "p1_pet_cat",
+          name: "Mimi",
+          age: 3,
+          health: 80,
+          relationship: 70,
+          alive: true
+        },
+        {
+          id: "pet-dead",
+          catalogId: "p1_pet_cat",
+          name: "Mimi",
+          age: 18,
+          health: 0,
+          relationship: 80,
+          alive: false
+        }
+      ]
+    });
+
+    expect(buildP1PublicSummary(life).petCount).toBe(1);
+  });
 });

@@ -20,7 +20,7 @@ export function buildP1PublicSummary(life: LifeState): P1PublicSummary {
     netWorth: ready.cash + assetNetWorth,
     assetCount: ready.assets.items.length,
     childrenCount: ready.relationships.filter((person) => person.relationType === "child").length,
-    petCount: ready.pets.length,
+    petCount: ready.pets.filter((pet) => pet.alive).length,
     prisonYears: ready.legal.criminalRecord.reduce((total, record) => total + record.sentenceYears, 0),
     fameScore: ready.fame.score,
     countriesLived: countries.size

@@ -56,10 +56,19 @@ describe("P1 status views", () => {
     expect(screen.getByText("社交账号")).toBeInTheDocument();
   });
 
-  it("counts all pets in TombstoneView", () => {
+  it("counts living pets in TombstoneView public summary", () => {
     const life = ensureP1State({
       ...lifeWith({ alive: false }),
       pets: [
+        {
+          id: "pet-living",
+          catalogId: "p1_pet_cat",
+          name: "Mimi",
+          age: 3,
+          health: 80,
+          relationship: 70,
+          alive: true
+        },
         {
           id: "pet-dead",
           catalogId: "p1_pet_cat",
