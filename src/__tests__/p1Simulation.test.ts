@@ -37,6 +37,13 @@ describe("P1 heavy catalog validation", () => {
     expect(() => validateP1Catalog(invalid)).toThrow(/Unfinished P1 locale marker/);
   });
 
+  it("rejects whitespace-only visible locale text", () => {
+    const invalid = structuredClone(p1Catalog);
+    invalid.locales["en-US"]["p1.asset.compact_apartment.name"] = "   ";
+
+    expect(() => validateP1Catalog(invalid)).toThrow(/Missing en-US P1 locale keys/);
+  });
+
   it("rejects suspicious repeated visible locale strings", () => {
     const invalid = structuredClone(p1Catalog);
     invalid.locales["en-US"]["p1.asset.compact_apartment.name"] = "Duplicated Visible Name";

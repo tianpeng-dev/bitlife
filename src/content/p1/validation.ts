@@ -131,7 +131,7 @@ function assertGeneratedSourceMetadata(catalog: P1Catalog): void {
 }
 
 function assertLocaleCoverage(locale: Record<string, string>, keys: string[], message: string): void {
-  const missing = keys.filter((key) => !locale[key]);
+  const missing = keys.filter((key) => !locale[key]?.trim());
   if (missing.length > 0) {
     throw new Error(`${message}: ${missing.join(", ")}`);
   }
