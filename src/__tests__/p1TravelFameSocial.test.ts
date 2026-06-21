@@ -23,6 +23,17 @@ describe("P1 travel, migration, fame, and social", () => {
     expect(result.life.migrationHistory.at(-1)?.method).toBe("legal_emigration");
   });
 
+  it("uses the catalog cost for legal emigration", () => {
+    const legalMigration = catalog.p1.travelActivities.find((activity) => activity.id === "p1_migration_legal");
+    const cost = Math.abs(legalMigration?.effects.cash ?? 0);
+    const life = ensureP1State({ ...generateLife({ seed: "emigrate-catalog-cost", catalog }), age: 30, cash: cost, countryId: "us" });
+    const result = attemptEmigration({ life, catalog, toCountryId: "jp", forceApproved: true });
+
+    expect(cost).toBeGreaterThan(0);
+    expect(result.life.cash).toBe(0);
+    expect(result.life.countryId).toBe("jp");
+  });
+
   it("blocks legal emigration when the current country law denies emigration even when approval is forced", () => {
     const emigrationCatalog = {
       ...catalog,

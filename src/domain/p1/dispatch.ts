@@ -133,7 +133,7 @@ export function dispatchP1Activity({
     const toCountryId = alternateCountryId(ready, catalog);
     if (activityId === "p1_migration_legal") return attemptEmigration({ life: ready, catalog, toCountryId });
     if (activityId === "p1_migration_illegal") return attemptIllegalEmigration({ life: ready, catalog, toCountryId });
-    return takeVacation({ life: ready, catalog, toCountryId });
+    return takeVacation({ life: ready, catalog, toCountryId, activityId });
   }
 
   const romanceAction = catalog.p1.romanceActivities.find((action) => action.id === activityId);

@@ -118,6 +118,24 @@ describe("P1 engine integration", () => {
     expect(() => performActivity({ life: prisoner, catalog, activityId: "p1_prison_parole" })).not.toThrow(/p1\.activity_missing/);
   });
 
+  it("dispatches enabled travel and migration cards at their advertised cost", () => {
+    const base = ensureP1State({
+      ...generateLife({ seed: "p1-engine-dispatch-travel-costs", catalog }),
+      age: 30,
+      cash: 50_000,
+      countryId: "us"
+    });
+    const travelCards = availableP1Activities(base, catalog).filter((activity) => activity.group === "travel_migration");
+
+    expect(travelCards.length).toBeGreaterThan(0);
+    for (const card of travelCards) {
+      const life = { ...base, cash: card.cost ?? 0 };
+
+      expect(card.disabled).toBe(false);
+      expect(() => performActivity({ life, catalog, activityId: card.id })).not.toThrow(/activity\.cash_too_low/);
+    }
+  });
+
   it("localizes reachable P1 log keys", () => {
     expect(contentLabel("zh-CN", "p1.log.asset.buy")).not.toBe("p1.log.asset.buy");
     expect(contentLabel("zh-CN", "p1.log.crime.success")).not.toBe("p1.log.crime.success");
