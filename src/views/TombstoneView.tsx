@@ -104,7 +104,7 @@ export function TombstoneView({ life, locale, onStart }: { life?: LifeState; loc
         </div>
         <div>
           <dt>{ui(locale, "petCountLabel")}</dt>
-          <dd>{life.pets?.filter((pet) => pet.alive).length ?? 0}</dd>
+          <dd>{life.pets?.length ?? 0}</dd>
         </div>
         <div>
           <dt>{ui(locale, "prisonYearsLabel")}</dt>

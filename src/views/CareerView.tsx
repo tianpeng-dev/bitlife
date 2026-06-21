@@ -50,7 +50,7 @@ export function CareerView({ life, locale }: { life?: LifeState; locale: Locale 
           <p>{ui(locale, "workYears", { years: life.career.years })}</p>
         </article>
       </section>
-      {fameScore > 0 || socialAccountCount > 0 ? (
+      {life.fame !== undefined || life.socialAccounts !== undefined ? (
         <section className="panel career-grid">
           <article>
             <span>{ui(locale, "fameScoreLabel")}</span>
