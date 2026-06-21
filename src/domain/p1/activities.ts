@@ -4,5 +4,6 @@ export type P1ActivityId = (typeof p1ActivityIds)[number];
 
 export const p1ActivityPrefixes = {
   assetBuy: "p1_asset_buy_",
-  petAdopt: "p1_pet_adopt_"
+  petAdopt: "p1_pet_adopt_",
+  socialCreate: "p1_social_create_"
 } as const;

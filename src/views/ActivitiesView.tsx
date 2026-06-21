@@ -63,7 +63,7 @@ export function ActivitiesView({
           const tooOld = activity.maxAge !== undefined && life.age > activity.maxAge;
           const isFreeActivity = activity.cost === undefined || activity.cost <= 0;
           const doneThisYear = isFreeActivity && (life.freeActivitiesCompletedThisYear ?? []).includes(activity.id);
-          const disabled = !life.alive || tooYoung || tooOld || doneThisYear;
+          const disabled = !life.alive || Boolean(life.prison?.inPrison) || tooYoung || tooOld || doneThisYear;
           const costLabel = activity.cost ? ui(locale, "cost", { amount: activity.cost }) : ui(locale, "free");
 
           return (

@@ -4,6 +4,7 @@ import { generateLife } from "../domain/lifeGenerator";
 import { availableP1Activities } from "../domain/p1/activityCatalog";
 import { buyAsset } from "../domain/p1/assets";
 import { ensureP1State } from "../domain/p1/defaultState";
+import { contentLabel } from "../i18n";
 
 describe("P1 engine integration", () => {
   it("runs P1 yearly ticks during age-up", () => {
@@ -86,6 +87,41 @@ describe("P1 engine integration", () => {
     const result = performActivity({ life, catalog, activityId: card!.id });
 
     expect(result.logs[0].messageKey).toMatch(/^p1\.log\.crime\./);
+  });
+
+  it("dispatches every P1 public activity system without missing-activity errors", () => {
+    const base = ensureP1State({
+      ...generateLife({ seed: "p1-engine-dispatch-all-systems", catalog }),
+      age: 30,
+      cash: 50_000,
+      countryId: "us",
+      fame: { source: "test", score: 50, publicSentiment: 50 }
+    });
+
+    expect(() => performActivity({ life: base, catalog, activityId: "p1_travel_vacation" })).not.toThrow(/p1\.activity_missing/);
+    expect(() => performActivity({ life: base, catalog, activityId: "p1_fame_interview" })).not.toThrow(/p1\.activity_missing/);
+    expect(() => performActivity({ life: base, catalog, activityId: "p1_social_create_p1_social_short_video" })).not.toThrow(/p1\.activity_missing/);
+    expect(() => performActivity({ life: base, catalog, activityId: "p1_romance_date" })).not.toThrow(/p1\.activity_missing/);
+    expect(() => performActivity({ life: base, catalog, activityId: "p1_family_adopt" })).not.toThrow(/p1\.activity_missing/);
+
+    const prisoner = {
+      ...base,
+      prison: {
+        inPrison: true,
+        sentenceYears: 3,
+        remainingYears: 2,
+        securityLevel: "minimum" as const,
+        behavior: 90,
+        respect: 20
+      }
+    };
+    expect(() => performActivity({ life: prisoner, catalog, activityId: "p1_prison_parole" })).not.toThrow(/p1\.activity_missing/);
+  });
+
+  it("localizes reachable P1 log keys", () => {
+    expect(contentLabel("zh-CN", "p1.log.asset.buy")).not.toBe("p1.log.asset.buy");
+    expect(contentLabel("zh-CN", "p1.log.crime.success")).not.toBe("p1.log.crime.success");
+    expect(contentLabel("zh-CN", "p1.log.pet.adopt")).not.toBe("p1.log.pet.adopt");
   });
 
   it("denies ordinary P0 activities while in prison", () => {

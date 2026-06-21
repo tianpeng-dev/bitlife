@@ -3,6 +3,7 @@ import userEvent from "@testing-library/user-event";
 import { vi } from "vitest";
 import { catalog } from "../content/catalog";
 import { generateLife } from "../domain/lifeGenerator";
+import { ensureP1State } from "../domain/p1/defaultState";
 import type { LifeState } from "../domain/types";
 import { ActivitiesView } from "../views/ActivitiesView";
 
@@ -33,5 +34,25 @@ describe("P1 activity UI", () => {
     await userEvent.click(screen.getByRole("button", { name: /紧凑公寓/ }));
 
     expect(onActivity).toHaveBeenCalledWith("p1_asset_buy_compact_apartment");
+  });
+
+  it("switches to prison activities and disables ordinary activities while imprisoned", () => {
+    const life = ensureP1State({
+      ...lifeWith(),
+      prison: {
+        inPrison: true,
+        sentenceYears: 3,
+        remainingYears: 2,
+        securityLevel: "minimum",
+        behavior: 50,
+        respect: 20
+      }
+    });
+
+    render(<ActivitiesView life={life} locale="zh-CN" onActivity={vi.fn()} />);
+
+    expect(screen.getByRole("button", { name: /去锻炼/ })).toBeDisabled();
+    expect(screen.getByRole("button", { name: /提交上诉/ })).toBeInTheDocument();
+    expect(screen.queryByRole("button", { name: /紧凑公寓/ })).not.toBeInTheDocument();
   });
 });
