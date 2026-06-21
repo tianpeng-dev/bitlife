@@ -1,15 +1,13 @@
 import type { GameCatalog } from "../../content/schema";
 import type { LifeState } from "../types";
-import { p1ActivityIds, type P1ActivityId } from "./activities";
+import { p1ActivityPrefixes } from "./activities";
 import { buyAsset } from "./assets";
+import { attemptCrime } from "./crimeJustice";
 import { ensureP1State } from "./defaultState";
+import { adoptPet } from "./pets";
 
 export function isP1Activity(activityId: string): boolean {
   return activityId.startsWith("p1_");
-}
-
-function isKnownP1Activity(activityId: string): activityId is P1ActivityId {
-  return p1ActivityIds.includes(activityId as P1ActivityId);
 }
 
 export function dispatchP1Activity({
@@ -26,12 +24,23 @@ export function dispatchP1Activity({
     throw new Error("prison.normal_activity_denied");
   }
 
-  if (!isKnownP1Activity(activityId)) {
-    throw new Error("p1.activity_missing");
+  if (activityId.startsWith(p1ActivityPrefixes.assetBuy)) {
+    const assetId = activityId.slice(p1ActivityPrefixes.assetBuy.length);
+    if (catalog.p1.assets.some((asset) => asset.id === assetId)) {
+      return buyAsset({ life: ready, catalog, assetId });
+    }
   }
 
-  switch (activityId) {
-    case "p1_asset_buy_compact_apartment":
-      return buyAsset({ life: ready, catalog, assetId: "compact_apartment" });
+  if (catalog.p1.crimes.some((crime) => crime.id === activityId)) {
+    return attemptCrime({ life: ready, catalog, crimeId: activityId });
   }
+
+  if (activityId.startsWith(p1ActivityPrefixes.petAdopt)) {
+    const petId = activityId.slice(p1ActivityPrefixes.petAdopt.length);
+    if (catalog.p1.pets.some((pet) => pet.id === petId)) {
+      return adoptPet({ life: ready, catalog, petId });
+    }
+  }
+
+  throw new Error("p1.activity_missing");
 }

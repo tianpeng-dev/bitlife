@@ -1,6 +1,7 @@
 import { catalog } from "../content/catalog";
 import { advanceYear, performActivity } from "../domain/engine";
 import { generateLife } from "../domain/lifeGenerator";
+import { availableP1Activities } from "../domain/p1/activityCatalog";
 import { buyAsset } from "../domain/p1/assets";
 import { ensureP1State } from "../domain/p1/defaultState";
 
@@ -34,6 +35,57 @@ describe("P1 engine integration", () => {
     expect(dispatched.assets.items).toHaveLength(1);
     expect(dispatched.assets.items[0].catalogId).toBe("compact_apartment");
     expect(result.logs[0].messageKey).toBe("p1.log.asset.buy");
+  });
+
+  it("dispatches enabled generated asset cards through performActivity", () => {
+    const life = ensureP1State({
+      ...generateLife({ seed: "p1-engine-dispatch-generated-asset", catalog }),
+      age: 18,
+      cash: 200000
+    });
+    const card = availableP1Activities(life, catalog).find((activity) => activity.id === "p1_asset_buy_used_hatchback");
+
+    expect(card).toMatchObject({ disabled: false });
+
+    const result = performActivity({ life, catalog, activityId: card!.id });
+    const dispatched = ensureP1State(result.life);
+
+    expect(dispatched.assets.items).toHaveLength(1);
+    expect(dispatched.assets.items[0].catalogId).toBe("used_hatchback");
+    expect(result.logs[0].messageKey).toBe("p1.log.asset.buy");
+  });
+
+  it("dispatches enabled generated pet cards through performActivity", () => {
+    const life = ensureP1State({
+      ...generateLife({ seed: "p1-engine-dispatch-generated-pet", catalog }),
+      age: 18,
+      cash: 5000
+    });
+    const card = availableP1Activities(life, catalog).find((activity) => activity.id === "p1_pet_adopt_p1_pet_cat");
+
+    expect(card).toMatchObject({ disabled: false });
+
+    const result = performActivity({ life, catalog, activityId: card!.id });
+    const dispatched = ensureP1State(result.life);
+
+    expect(dispatched.pets).toHaveLength(1);
+    expect(dispatched.pets[0].catalogId).toBe("p1_pet_cat");
+    expect(result.logs[0].messageKey).toBe("p1.log.pet.adopt");
+  });
+
+  it("dispatches enabled generated crime cards through performActivity", () => {
+    const life = ensureP1State({
+      ...generateLife({ seed: "p1-engine-dispatch-generated-crime", catalog }),
+      age: 18,
+      cash: 5000
+    });
+    const card = availableP1Activities(life, catalog).find((activity) => activity.id === "p1_crime_shoplifting");
+
+    expect(card).toMatchObject({ disabled: false });
+
+    const result = performActivity({ life, catalog, activityId: card!.id });
+
+    expect(result.logs[0].messageKey).toMatch(/^p1\.log\.crime\./);
   });
 
   it("denies ordinary P0 activities while in prison", () => {
