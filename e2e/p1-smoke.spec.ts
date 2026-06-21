@@ -20,6 +20,6 @@ test("P1 mobile flow reaches and uses activity surfaces", async ({ page }) => {
   await expect(page.getByText("犯罪").first()).toBeVisible();
   await expect(page.getByText("宠物").first()).toBeVisible();
 
-  await page.getByRole("button", { name: /金戒指/ }).click();
+  await page.getByRole("button", { name: /顺手牵羊/ }).click();
   await expect(page.locator(".error-text")).not.toBeVisible();
 });
